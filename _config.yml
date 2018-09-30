@@ -277,6 +277,8 @@ compress_html:
     envs: development
 
 
+leaflet: leaflet@1.0.2
+
 # Defaults
 defaults:
   # _posts

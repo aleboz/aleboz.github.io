@@ -25,3 +25,22 @@ researchnav:
 
   - title: Projects
     url: /research/projects
+
+aboutnav:
+  - title: Employment
+    url: /about/#employment
+
+  - title: Publications
+    url: /about/#publications
+
+  - title: Funding
+    url: /about/#funding
+
+  - title: Research Community Service
+    url: /about/#research-community-service
+
+  - title: Education and Supervision
+    url: /about/#education-and-supervision
+
+  - title: Outreach
+    url: /about/#outreach
