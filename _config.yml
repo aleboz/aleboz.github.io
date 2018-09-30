@@ -12,19 +12,19 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "default", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "dark", "aqua", "contrast", "default", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Academic Website"
+title                    : "Alessandro Bozzon | Academic Website"
 title_separator          : "-"
 name                     : "Alessandro Bozzon"
 description              : "This is the personal academic Web site of Dr. Alessandro Bozzon."
-url                      : "https://mmistakes.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://aleboz.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
@@ -59,9 +59,9 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
-search_provider          : # lunr (default), algolia, google
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
+search_provider          : lunr # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
@@ -87,9 +87,11 @@ og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type                   : Person # Person or Organization (defaults to Person)
+  name                   : Alessandro Bozzon # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://twitter.com/aleboz"
+    - "https://www.linkedin.com/in/alessandrobozzon"    
 
 # Analytics
 analytics:
@@ -103,51 +105,53 @@ analytics:
 author:
   name             : "Alessandro Bozzon"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Associate Professor"
-  location         : "Delft University of Technology"
-  email            : "a.bozzob@tudelft.nl"
+  bio              : "Associate Professor <br/> Delft University of Technology"
+  #location         : "Delft, The Netherlands"
+  #email            : "a.bozzon@tudelft.nl"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:a.bozzon@tudelft.nl
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.alessandrobozzon.com"
+ #   - label: "Website"
+ #     icon: "fas fa-fw fa-link"
+ #     url: "https://www.alessandrobozzon.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "aleboz"
+      url: "https://www.twitter.com/aleboz"
     - #label: "Facebook"
       #icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - #label: "GitHub"
       #icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
-    - label: "Instagram"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://instagram.com/"
+      url: "https://www.linkedin.com/in/alessandrobozzon"
+    - label: "CV"
+      icon: "fas fa-file-download"
+      url: "https://www.linkedin.com/in/alessandrobozzon"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
-
+      url: "https://www.twitter.com/aleboz"
+    #- label: "Facebook"
+    #  icon: "fab fa-fw fa-facebook-square"
+    #  # url:
+    #- label: "GitHub"
+    #  icon: "fab fa-fw fa-github"
+    #  # url:
+    #- label: "GitLab"
+    #  icon: "fab fa-fw fa-gitlab"
+    # # url:
+    #- label: "Bitbucket"
+    #  icon: "fab fa-fw fa-bitbucket"
+    #  # url:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/alessandrobozzon"
 
 # Reading Files
 include:
@@ -215,8 +219,8 @@ sass:
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+paginate_path: /blog/page:num
+timezone: Europe/Amsterdam # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
@@ -283,6 +287,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: false # true
       share: true
       related: true

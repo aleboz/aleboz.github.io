@@ -1,0 +1,22 @@
+{
+	"journals":[
+      {
+         "id":"140",
+         "title":"Android"
+      },
+      {
+         "id":"142",
+         "title":"GDG[x]"
+      }
+   ],
+	"conferences":[
+      {
+         "id":"140",
+         "title":"Android"
+      },
+      {
+         "id":"142",
+         "title":"GDG[x]"
+      }
+   ]	
+}
