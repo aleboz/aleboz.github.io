@@ -1,48 +1,52 @@
 ---
 layout: single
-author_profile: true
+classes: wide
+author_profile: false
 permalink: /research/publications/
 title: "Publications"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
-toc: true
+excerpt: "List of Publications of Alessandro Bozzon"
+toc: false
+sidebar:
+  nav: "publinav"
 ---
 
-## Publications
+This page lists a selection of my most recent publication. The list is likely to be partial. 
 
-I published more than 100 publications in peer-reviewed international journals (TWEB, IEEE Internet Computing, Semantic Web Journal, VLDB Journal) and conferences (WWW, UMAP, CSCW, Hypertext, ICWE, ISWC, SIGIR). I am co-author of the book “Web Information Retrieval” (Springer, 2013). I am co-inventor of the [US patent]() “Method and system of management of queries for crowd searching” (US 8825701 B2, 2015).
+A complete list of my publications and more bibliometric informations are available in the [Publications](/research/publications) section of my website, in my [DBLP profile](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bozzon:Alessandro.html),  in my [Google Scholar profile](http://bit.ly/BozzonScholarProfile), or in my [Scopus](http://bit.ly/BozzonScopusProfile) profile.
 
-This page lists a selection of my most recent publication. The list is likely to be partial. For a complete list you can refer to my [DBLP]() profile, or to my [Google Scholar]() profile.
+## Journals
 
-### Journal
-<ul>
 {% for publication in site.data.papers.journals %}
-    <li>Title: {{ publication.title }}</li>   
+<div itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <span itemprop="author">Carlyle, Allyson.</span>
+  "<span itemprop="name">Understanding FRBR as a Conceptual Model: FRBR
+    and the Bibliographic Universe</span>"
+  <div itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical">
+    <em><span itemprop="name">Library Resources and Technical Services</span></em>
+  </div>
+  <span itemprop="isPartOf" itemscope itemtype="http://schema.org/PublicationVolume">
+    v. <span itemprop="volumeNumber">50</span>
+  </span>,
+  <span itemprop="isPartOf" itemscope itemtype="http://schema.org/PublicationIssue">
+    no. <span itemprop="issueNumber">4</span>
+    (<time datetime="2006-10" itemprop="datePublished">October 2006</time>):
+  </span>
+  <span itemprop="pageStart">264</span>-<span itemprop="pageEnd">273</span>
+Print.</div>
 {% endfor %}
-</ul>
 
-### Conference
+
+## Conferences
 <ul>
 {% for publication in site.data.papers.conferences %}
     <li>Title: {{ publication.title }}</li>   
 {% endfor %}
 </ul>
 
-### Editorial
+## Editorials
 
-### Workshop
+## Workshops
 
-### Book
+## Book
 
----
-
-## Team
-
-### Past Team Members
-
----
-
-## Projects
-
-### Trompa
-
-### Past Projects
+## Patent

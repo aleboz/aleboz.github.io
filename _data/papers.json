@@ -1,13 +1,22 @@
 {
 	"journals":[
       {
-         "id":"140",
-         "title":"Android"
+         authors: "Achilleas Psyllidis, Jie Yang, Alessandro Bozzon",
+         title: "Regionalization of Social Interactions and Points-of-Interest Location Prediction with Geosocial Data",
+         print: "IEEE Access (In Print)",
+         uri: "https://doi.org/10.1109/ACCESS.2018.2850062",
+         preprint: "file.pdf"
+
       },
       {
-         "id":"142",
-         "title":"GDG[x]"
+         authors: "Vincent Gong, Jie Yang, Winnie Daamen, Alessandro Bozzon, Serge Hoogendoorn, Geert-Jan Houben",
+         title: "Using Social Media for Attendees Density Estimation in City-Scale Events",
+         print: "IEEE Access (In Print)",
+         uri: "https://doi.org/10.1109/ACCESS.2018.2845339",
+         preprint: "filew.pdf"
+
       }
+
    ],
 	"conferences":[
       {
@@ -20,3 +29,4 @@
       }
    ]	
 }
+

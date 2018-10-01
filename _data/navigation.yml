@@ -20,6 +20,15 @@ main:
 
 
 researchnav:
+  - title: Research Challenge 
+    url: /research/#research-challenges
+
+  - title: Economical and Societal Relevance
+    url: /research/#economical-and-societal-relevance
+
+  - title: Short and Long Terms Goals
+    url: /research/#short-and-long-term-goals
+
   - title: Publications
     url: /research/publications
 
@@ -42,5 +51,24 @@ aboutnav:
   - title: Education and Supervision
     url: /about/#education-and-supervision
 
-  - title: Outreach
+  - title: Outreachs
     url: /about/#outreach
+
+publinav:
+  - title: Journals
+    url: /research/publications/#journals
+
+  - title: Conference
+    url: /research/publications/#conferences
+
+  - title: Editorials
+    url: /research/publications/#editorials
+
+  - title: Workshops
+    url: /research/publications/#workshops
+
+  - title: Book
+    url: /research/publications/#book
+
+  - title: Patent
+    url: /research/publications/#patent

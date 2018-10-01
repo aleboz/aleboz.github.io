@@ -5,7 +5,7 @@ author_profile: false
 permalink: /research/
 title: "Research"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
-last_modified_at: 2018-06-04T12:04:24-04:00
+last_modified_at: 2018-10-01T20:00:00-04:00
 sidebar:
   nav: "researchnav"
 
@@ -37,9 +37,8 @@ Involving humans in computation activities is a fundamental scientific challenge
 - _Efficiency and Effectiveness_: humans are naturally slower than machines in terms of information processing; also, while machines deterministically compute, humans behavior may be unpredictable, ambiguous, possibly malicious. The challenge is to develop models and methods able to optimally tap human processing in order to minimise computational latency and cost, while maximise the quality, generalisability, and explainability of human processing outcomes. 
 - _Sustainability_: human participation is a key constraint for the success and long-term sustainability of Crowd Computing. The challenge is to design and experimentally test different computer-mediated engagement and retainment strategies, based on incentive schemes developed in fields such as behavioral economics and behavioral psychology.
 
-To develop this foundational theory, both mathematical and experimental research is needed. Mathematical models and analysis enable reasoning on Crowd Computing systems’ properties and behavior, so as to enable rigorous design and testing. On the other hand, experimental work is essential to inform the development of such models and to test their validity. In Crowd Computing, requirements are often context and application dependent, and thus not easily amenable to generalization. For instance, my research has shown how people’ traits and behavior manifest differently according to the context (e.g. home, work) and platform (e.g. question answering systems, enterprise social media) of choice, thus often demanding for application-specific modeling methods. Likewise, the application domain of the targeted data calls for different routing and allocation algorithms: several experiments shown us how topic-driven task assignment strategies that are effective in public marketplaces might result less effective in an enterprise environment. This calls for research work in multiple application domains.
 
-### Scientific, Economical, and Societal Relevance
+### Economical and Societal Relevance
 
 Crowd Computing is a research field in Computer Science that is bound to become increasingly relevant in the
 near [future](https://euagenda.eu/publications/ crowd- work- in- europe), as testified by a number of compelling and converging trends.
@@ -48,13 +47,22 @@ The recently gained awareness of on line content quality issues combined with th
 
 Several reports project the size of the crowd work market to grow between between $16b and $47 billion by 2020. Gartner [predicts](https://www.gartner.com/events-na/data-analytics/wp-content/uploads/ sites/5/2017/10/Data- and- Analytics- Predictions.pdf) that by 2020, more than 40% of data science tasks will be automated, resulting in increased productivity and broader usage by citizen data scientists; 20% of companies will dedicate workers to monitor and guide neural networks. In recent events, researchers from leading Web companies estimated at around 1 _billion_ dollars the resources spent on an early bases by industries all around the world on human data collection. 
 
-## Team
+### Short and Long Term Goals
 
-### Past Team Members
+The long-term objective of my research is to contribute to a foundational theory for Crowd Computing. To this end, both mathematical and experimental research is needed. 
+
+Mathematical models and analysis enable reasoning on Crowd Computing systems’ properties and behavior, so as to enable rigorous design and testing. On the other hand, experimental work is essential to inform the development of such models and to test their validity. 
+
+In Crowd Computing, requirements are often context and application dependent, and thus not easily amenable to generalization. For instance, my research has shown how people’ traits and behavior manifest differently according to the context (e.g. home, work) and platform (e.g. question answering systems, enterprise social media) of choice, thus often demanding for application-specific modeling methods. Likewise, the application domain of the targeted data calls for different routing and allocation algorithms: several experiments shown us how topic-driven task assignment strategies that are effective in public marketplaces might result less effective in an enterprise environment. This calls for research work in multiple application domains.
+
+ I organized my research activities around 3 application domains, each addressing high-relevance and high-impact societal and industrial needs:
+
+ - Crowd Computing for Knowledge Generation, which focuses on the design and validation of Crowd Computing methods and tools for knowledge generation in the context of online communities (e.g. online crowd-work markets, Q&A systems) and content digitalisation and access (e.g. cultural heritage and digital libraries);
+ - Crowd Computing for Urban Data Science, which addresses Crowd Computing methods and tools in the context of urban data and intelligent cities applications; and
+- Enterprise Crowd Computing, which addresses Crowd Computing in the context of enterprise-class applications.
+
+My short term plan targets new classes of Crowd Computing problems characterised by higher levels of task complexity, physical work environment, structured work organisation, and financial/educational incentives. 
+
+This work addresses novel and relevant open research problems that, once tackled, will bring Crowd Computing into the level of maturity required by a discipline that holds such broad societal and economical impact. 
 
 
-## Projects
-
-### Trompa
-
-### Past Projects
