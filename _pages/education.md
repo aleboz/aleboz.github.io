@@ -18,9 +18,10 @@ last_modified_at: 2018-06-04T12:04:24-04:00
 toc: true
 ---
 
-
-
 ## Courses
+
+I teach [_Web and Database Technologies_](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=48438) (BSc, with [Claudia Hauff](https://chauff.github.io)) and [_Crowd Computing_](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=45597) (MSc,  with [Nava Tintarev](http://navatintarev.com)). I have lectured  [Information Retrieval](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=38328) (MSc) consecutively from 2013 until 2017. I am Course coordinator of the 1st year course Metropolitan Data 1 (MSc Metropolitan Analysis, Design and Engineering), AMS Institute.
+
 
 
 ## Available Master Projects

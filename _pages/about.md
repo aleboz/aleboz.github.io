@@ -26,11 +26,12 @@ I was awarded my PhD by Politecnico di Milano in April 2009, with a thesis focus
 
 I joined the Faculty of Electrical Engineering, Mathematics, and Computer Science of Delft University of Technology in 2013 as an Assistant Professor; I obtained my tenure in 2017, and I have been promoted Associate Professor in 2018. Since 2015, I serve in the EEMCS Computer Science and Embedded Systems Board of Examiners.
 
-Since 2014, I hold a Faculty Fellow position with the IBM Benelux Centre of Advanced Studies, where I am Principal Investigator of Enterprise Crowd Computing. 
+Since 2014, I hold a Faculty Fellow position with the IBM Benelux Centre of Advanced Studies, where I am Principal Investigator of Enterprise Crowd Computing.
 
-Since 2016 I hold a Research Fellow position at the AMS Amsterdam Institute for Advanced Metropolitan Solutions, where I lead the Urban Data Science Team. 
+Since 2016 I hold a Research Fellow position at the AMS Amsterdam Institute for Advanced Metropolitan Solutions, where I lead the Urban Data Science Team.
 
-Since August 2017 I am a member of the AMS management team. I have been appointed Principal Investigator of Urban Data and Intelligence in September 2018. 
+Since August 2017 I am a member of the AMS Amsterdam Institute for Advanced Metropolitan Solutions management team.
+<!-- I have been appointed Principal Investigator of Urban Data and Intelligence in September 2018.-->
 
 
 # Research Vision
@@ -40,9 +41,6 @@ My research lies at the intersection of human computation, user modeling, and we
 
 I study and build novel Crowd Computing  methods and tools that combine the cognitive and reasoning abilities of individuals and crowds, with the computational powers of machines, and the value of big amounts of heterogeneous data. My scientific work, which consistently resulted in high-quality publications, has always been supported by substantial implementation and demonstration efforts, with emphasis on impact and continuous interaction with stakeholders from both industry and the wider society.
 
-Read more about my research vision for Crowd Computing [here], and about my results so far in the following sections.
-
-
 # Publications
 
 I have published 15 peer-reviewed articles in peer-reviewed international journals (VLDBJ, ACM TWEB, IEEE IC, IEEE Access, Semantic Web Journal),  75 conference papers in international conferences (WWW/TheWebConference, HCOMP, ESWC, ISWC, AAAI, IJCAI, CSCW, RecSys, Hypertext, WebScience, UMPA, ICWE), and several editorial contributions. The majority of my publications have been produced over the past 9 years. I am co-author of the book [_Web Information Retrieval_](http://www.springer.com/gp/book/9783642393136) (Springer, 2013). I am co-inventor of the US patent [_Method and system of management of queries for crowd searching_](https://patents.google.com/patent/US8825701B2/en) (US 8825701 B2, 2015).
@@ -51,12 +49,12 @@ A complete list of my publications and more bibliometric informations are availa
 
 # Funding
 
-I have acquired more than 2.5M&euro; in research funding, specifically: 
+I have acquired more than 3.2M&euro; in research funding, specifically: 
 
 -  &asymp;1M&euro; from European programs (H2020, EIT Digital, JPI)
--  &asymp;450K&euro; from Dutch funding bodies (NWA, 3TU, AMS)
--  &asymp;750K&euro; from institutional funding (AMS, TU Delft, EWI)
--  &asymp;350K&euro; cash and in-kind contribution from industry (IBM, Telecom Italia, KPN)
+-  &asymp;1M&euro; cash and in-kind contribution from industry (IBM, Cognizant, KPN, Telecom Italia)
+-  &asymp;450K&euro; from Dutch funding bodies (NWA, 4TU)
+-  &asymp;750K&euro; from institutional funding (AMS, TU Delft, EEMCS)
 -  &asymp;15K&euro; for innovation in education activities. 
 
 I received the [2017 IBM Faculty Award]() for my work on Enterprise Crowd Computing. I coordinate the Urban Data Science program of AMS, and the activities of the EEMCS Social Data Lab. 
@@ -77,38 +75,36 @@ I served as track chair and senior PC member for several conferences (ICWE, UMAP
 
 I served as co-editor for a special issue of the Semantic Web Journal on Human Computation and Crowdsourcing. I provide review service for several top-tier international journals and transactions (e.g. TWEB, Internet Computing, VLDBJ, TOSEM, TIST, TiiS, SIGMOD Record, JWE).
 
-# Education And Supervision
+# Supervision
 
-I teach [_Web and Database Technologies_](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=48438) (BSc, with [Claudia Hauff](https://chauff.github.io)) and [_Crowd Computing_](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=45597) (MSc,  with [Nava Tintarev](http://navatintarev.com)). I have lectured  [Information Retrieval](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=38328) (MSc) consecutively from 2013 until 2017. I am Course coordinator of the 1st year course Metropolitan Data 1 (MSc Metropolitan Analysis, Design and Engineering), AMS Institute.
+These are the great colleagues that are currently (or have been) part of my research team. 
 
-I lead the &sigma; (Sigma) research team within the Web Information Systems group. I have been involved in the supervision of several PhD students, post-doc researchers, and research engineers 
+### PhD Students
+- Ioannis Petros Samiotis (daily supervisor, _ongoing_)
+- Sihang Qiu (daily supervisor, _ongoing_)
+- Shahin Sharifi (daily supervisor, _ongoing_)
+- Sepideh Mesbah (daily supervisor, _ongoing_)
+- Vincent Gong (joint supervision with Prof. Serge Hoogendoorn and Dr. Winnie Daamen, _ongoing_)
+- Jasper Oosterman (daily supervisor, _ongoing_)
+- Jie Yang (daily supervisor, *graduated* in 2017)
+- Achilleas Psyllydis (external advisor, *graduated* in 2016)
+- Bojana Bislimovska (part of the supervision team, *graduated* in 2014)
 
-- PhD Students
-	- Bojana Bislimovska (part of the supervision team, *graduated* in 2014)
-	- Jie Yang (daily supervisor, *graduated* in 2017)
-	- Achilleas Psyllydis (external advisor, *graduated* in 2016)
-	- Jasper Oosterman (daily supervisor, _ongoing_)
-	- Sepideh Mesbah (daily supervisor, _ongoing_)
-	- Vincent Gong (joint supervision with Prof. Serge Hoogendoorn and Dr. Winnie Daamen, _ongoing_)
-	- Sihang Qiu (daily supervisor, _ongoing_)
-	- Shahin Sharifi (daily supervisor, _ongoing_)
-	- Ioannis Petros Samiotis (daily supervisor, _ongoing_)
+### Post-doctoral Researchers
+- Dr. Andrea Mauri (_ongoing_)
+- Dr. Achilleas Psyllidis (_ongoing_)
+- Dr. Panagiotis Mavridis (_ongoing_)
+- Dr. Kishor Chandra Joshi (2018)
+- Dr. Pavel Kucherbaev (2017)
+- Dr. Stefano Bocconi (2014 -- 2015)
 
-- Post-doctoral Researchers
-	- Dr. Andrea Mauri (_ongoing_)
-	- Dr. Achilleas Psyllidis (_ongoing_)
-	- Dr. Panagiotis Mavridis (_ongoing_)
-	- Dr. Kishor Chandra Joshi (_ongoing_)
-	- Dr. Pavel Kucherbaev (2017)
-	- Dr. Stefano Bocconi (2014 -- 2015)
+### Research Engineers
+- Carlo Van Der Valk (_ongoing_)
+- Ioannis Protonotarios (_ongoing_)
+- Manuel Valle Torre (2018)
+- Christiaam Titos Bolivar (2014-2015)
 
-- Research Engineers
-	- Carlo Van Der Valk (_ongoing_)
-	- Ioannis Protonotarios (_ongoing_)
-	- Manuel Valle Torre (_ongoing_)
-	- Christiaam Titos Bolivar (2014-2015)
-
-I have supervised more than 60 BSc and MSc graduation projects, and 2 honours students. 
+I have supervised more than 60 [BSc](/education/#supervised-bachelor-students) and [MSc](/education/#supervised-master-students) graduation projects. 
 
 # Outreach
 
