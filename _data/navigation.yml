@@ -23,22 +23,22 @@ researchnav:
   - title: What is Crowd Computing?
     url: /research/#what-is-crowd-computing
 
-  - title: Economical and Societal Relevance
-    url: /research/#economical-and-societal-relevance
+  - title: Economic and Societal Relevance
+    url: /research/#economic-and-societal-relevance
 
   - title: Research Challenge 
     url: /research/#research-challenges
 
-  - title: Short and Long Terms Goals
-    url: /research/#short-and-long-term-goals
+  - title: My Research Goals
+    url: /research/#my-research-goals
 
-  - title: Team
+  - title: The Research Team
     url: /research/team
 
   - title: Publications
     url: /research/publications
 
-  - title: Projects
+  - title: Research Projects
     url: /research/projects
 
 aboutnav:
@@ -72,3 +72,16 @@ publinav:
 
   - title: Patent
     url: /research/publications/#patent
+
+teamnav:
+  - title: Ph.D. Students
+    url: /research/team/#phd-students
+
+  - title: Post-Doctoral Researchers
+    url: /research/team/#post-doctoral-researchers
+
+  - title: Research Engineers
+    url: /research/team/#research-engineers
+
+  - title: MSc and BSc Students
+    url: /research/team/#msc-and-bsc-students
