@@ -3,13 +3,14 @@ title: "Markup: HTML Tags and Formatting"
 header:
   teaser: "assets/images/markup-syntax-highlighting-teaser.jpg"
 categories:
-  - Markup
+  - news
 tags:
   - content
   - css
   - formatting
   - html
   - markup
+  - news
 toc: true
 ---
 

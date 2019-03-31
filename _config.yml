@@ -12,11 +12,11 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "dark", "aqua", "contrast", "default", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    :  "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alessandro Bozzon | Academic Website"
+title                    : "Alessandro Bozzon"
 title_separator          : "-"
 name                     : "Alessandro Bozzon"
 description              : "This is the personal academic Web site of Dr. Alessandro Bozzon."

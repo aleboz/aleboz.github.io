@@ -2,9 +2,10 @@
 title:  "Gemified Theme -- Beta Release"
 last_modified_at: 2018-03-20T16:01:04-04:00
 categories: 
-  - Jekyll
+  - highlight
 tags:
   - update
+  - news
 toc: true
 toc_label: "Getting Started"
 ---

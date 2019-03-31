@@ -3,9 +3,6 @@ main:
   - title: "About Me"
     url: /about/
     description: "My Research Interests, Scientific Publications, and Projects"
-  - title: "Blog"
-    url: /blog/
-    description: ""  
   - title: "Research"
     url: /research/
     description: "My Research Interests and Projects"  
@@ -15,6 +12,9 @@ main:
   - title: "Contacts"
     url: /contact/
     description: "Contact and Meet Me"
+  #- title: "Blog"
+  #  url: /blog/
+  #  description: ""      
   # - title: "Sitemap"
   #   url: /sitemap/
 
@@ -28,6 +28,9 @@ researchnav:
 
   - title: Short and Long Terms Goals
     url: /research/#short-and-long-term-goals
+
+  - title: Team
+    url: /research/team
 
   - title: Publications
     url: /research/publications
@@ -45,14 +48,8 @@ aboutnav:
   - title: Funding
     url: /about/#funding
 
-  - title: Research Community Service
+  - title: Community Service
     url: /about/#research-community-service
-
-  - title: Supervision
-    url: /about/#supervision
-
-  - title: Outreachs
-    url: /about/#outreach
 
 publinav:
   - title: Journals
