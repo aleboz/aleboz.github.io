@@ -20,11 +20,14 @@ main:
 
 
 researchnav:
-  - title: Research Challenge 
-    url: /research/#research-challenges
+  - title: What is Crowd Computing?
+    url: /research/#what-is-crowd-computing
 
   - title: Economical and Societal Relevance
     url: /research/#economical-and-societal-relevance
+
+  - title: Research Challenge 
+    url: /research/#research-challenges
 
   - title: Short and Long Terms Goals
     url: /research/#short-and-long-term-goals
