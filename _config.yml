@@ -20,7 +20,7 @@ title                    : "Alessandro Bozzon"
 title_separator          : "-"
 name                     : "Alessandro Bozzon"
 description              : "This is the personal academic Web site of Dr. Alessandro Bozzon."
-url                      : "https://aleboz.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://www.alessandrobozzon.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -72,7 +72,7 @@ google:
   instant_search         : # false (default), true
 # SEO Related
 google_site_verification :
-bing_site_verification   :
+bing_site_verification   : 42CC8AA590C39B80BE4C95BC52203DC2
 yandex_site_verification :
 naver_site_verification  :
 
@@ -95,9 +95,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : google # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : UA-1126143-2
     anonymize_ip         : # true, false (default)
 
 
