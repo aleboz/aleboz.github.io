@@ -41,6 +41,19 @@ researchnav:
   - title: Research Projects
     url: /research/projects
 
+edunav:
+  - title: Courses
+    url: /education/#courses
+
+  - title: Available Master Projects
+    url: /education//#available-master-projects
+
+  - title: Supervised Master Students
+    url: /education//#supervised-master-students
+
+  - title: Supervised Bachelor Students
+    url: /education//#supervised-bachelor-students
+
 aboutnav:
   - title: Employment
     url: /about/#employment
