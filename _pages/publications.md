@@ -12,6 +12,9 @@ sidebar:
 
 This page lists a selection of my most recent publication. The list is likely to be partial. 
 
+The page is currently under construction
+{: .notice--danger}
+
 A complete list of my publications and more bibliometric informations are available in the [Publications](/research/publications) section of my website, in my [DBLP profile](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bozzon:Alessandro.html),  in my [Google Scholar profile](http://bit.ly/BozzonScholarProfile), or in my [Scopus](http://bit.ly/BozzonScopusProfile) profile.
 
 ## Journals
