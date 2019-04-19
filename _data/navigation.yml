@@ -68,23 +68,47 @@ aboutnav:
     url: /about/#research-community-service
 
 publinav:
-  - title: Journals
-    url: /research/publications/#journals
+  - title: 2019
+    url: /research/publications/#2019
 
-  - title: Conference
-    url: /research/publications/#conferences
+  - title: 2018
+    url: /research/publications/#2018
 
-  - title: Editorials
-    url: /research/publications/#editorials
+  - title: 2017
+    url: /research/publications/#2017
 
-  - title: Workshops
-    url: /research/publications/#workshops
+  - title: 2016
+    url: /research/publications/#2016
 
-  - title: Book
-    url: /research/publications/#book
+  - title: 2015
+    url: /research/publications/#2015
 
-  - title: Patent
-    url: /research/publications/#patent
+  - title: 2014
+    url: /research/publications/#2014
+
+  - title: 2013
+    url: /research/publications/#2013
+
+  - title: 2012
+    url: /research/publications/#2012
+
+  - title: 2011
+    url: /research/publications/#2011
+
+  - title: 2010
+    url: /research/publications/#2010
+
+  - title: 2009
+    url: /research/publications/#2009
+
+  - title: 2008
+    url: /research/publications/#2008
+
+  - title: 2007
+    url: /research/publications/#2007
+
+  - title: 2006
+    url: /research/publications/#2006
 
 teamnav:
   - title: Ph.D. Students

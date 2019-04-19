@@ -1,32 +1,7341 @@
-{
-	"journals":[
-      {
-         authors: "Achilleas Psyllidis, Jie Yang, Alessandro Bozzon",
-         title: "Regionalization of Social Interactions and Points-of-Interest Location Prediction with Geosocial Data",
-         print: "IEEE Access (In Print)",
-         uri: "https://doi.org/10.1109/ACCESS.2018.2850062",
-         preprint: "file.pdf"
-
-      },
-      {
-         authors: "Vincent Gong, Jie Yang, Winnie Daamen, Alessandro Bozzon, Serge Hoogendoorn, Geert-Jan Houben",
-         title: "Using Social Media for Attendees Density Estimation in City-Scale Events",
-         print: "IEEE Access (In Print)",
-         uri: "https://doi.org/10.1109/ACCESS.2018.2845339",
-         preprint: "filew.pdf"
-
-      }
-
-   ],
-	"conferences":[
-      {
-         "id":"140",
-         "title":"Android"
-      },
-      {
-         "id":"142",
-         "title":"GDG[x]"
-      }
-   ]	
-}
-
+[
+   {
+     "DOI": "10.1109/ACCESS.2018.2850062",
+     "URL": "https://doi.org/10.1109/ACCESS.2018.2850062",
+     "preprint": "",
+     "author": [
+       {
+         "family": "Psyllidis",
+         "given": "Achilleas"
+       },
+       {
+         "family": "Yang",
+         "given": "Jie"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       }
+     ],
+     "container-title": "IEEE Access",
+     "id": "DBLP:journals/access/PsyllidisYB18",
+     "issued": {
+       "date-parts": [
+         [
+           2018
+         ]
+       ]
+     },
+     "page": "34334-34353",
+     "title": "Regionalization of social interactions and points-of-interest location prediction with geosocial data",
+     "type": "article-journal",
+     "volume": "6"
+   },
+   {
+     "DOI": "10.1109/ACCESS.2018.2845339",
+     "URL": "https://doi.org/10.1109/ACCESS.2018.2845339",
+     "author": [
+       {
+         "family": "Gong",
+         "given": "Vincent X."
+       },
+       {
+         "family": "Yang",
+         "given": "Jie"
+       },
+       {
+         "family": "Daamen",
+         "given": "Winnie"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Hoogendoorn",
+         "given": "Serge P."
+       },
+       {
+         "family": "Houben",
+         "given": "Geert-Jan"
+       }
+     ],
+     "container-title": "IEEE Access",
+     "id": "DBLP:journals/access/Gong0DBHH18",
+     "issued": {
+       "date-parts": [
+         [
+           2018
+         ]
+       ]
+     },
+     "page": "36325-36340",
+     "title": "Using social media for attendees density estimation in city-scale events",
+     "type": "article-journal",
+     "volume": "6"
+   },
+   {
+     "DOI": "10.1109/MIC.2018.252095348",
+     "URL": "https://doi.org/10.1109/MIC.2018.252095348",
+     "author": [
+       {
+         "family": "Kucherbaev",
+         "given": "Pavel"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Houben",
+         "given": "Geert-Jan"
+       }
+     ],
+     "container-title": "IEEE Internet Computing",
+     "id": "DBLP:journals/internet/KucherbaevBH18",
+     "issue": "6",
+     "issued": {
+       "date-parts": [
+         [
+           2018
+         ]
+       ]
+     },
+     "page": "36-43",
+     "title": "Human-aided bots",
+     "type": "article-journal",
+     "volume": "22"
+   },
+   {
+     "DOI": "10.3233/SW-180292",
+     "URL": "https://doi.org/10.3233/SW-180292",
+     "author": [
+       {
+         "family": "Sabou",
+         "given": "Marta"
+       },
+       {
+         "family": "Aroyo",
+         "given": "Lora"
+       },
+       {
+         "family": "Bontcheva",
+         "given": "Kalina"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Qarout",
+         "given": "Rehab K."
+       }
+     ],
+     "container-title": "Semantic Web",
+     "id": "DBLP:journals/semweb/SabouABBQ18",
+     "issue": "3",
+     "issued": {
+       "date-parts": [
+         [
+           2018
+         ]
+       ]
+     },
+     "page": "291-302",
+     "title": "Semantic web and human computation: The status of an emerging field",
+     "title-short": "Semantic web and human computation",
+     "type": "article-journal",
+     "volume": "9"
+   },
+   {
+     "DOI": "10.1007/978-3-319-98572-5\\_36",
+     "ISBN": "978-3-319-98571-8",
+     "URL": "https://doi.org/10.1007/978-3-319-98572-5\\_36",
+     "author": [
+       {
+         "family": "Mesbah",
+         "given": "Sepideh"
+       },
+       {
+         "family": "Chen",
+         "given": "Guanliang"
+       },
+       {
+         "family": "Torre",
+         "given": "Manuel Valle"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Lofi",
+         "given": "Christoph"
+       },
+       {
+         "family": "Houben",
+         "given": "Geert-Jan"
+       }
+     ],
+     "collection-title": "Lecture notes in computer science",
+     "container-title": "Proccedings of the 13th european conference on technology enhanced learning, EC-TEL 2018",
+     "editor": [
+       {
+         "family": "Pammer-Schindler",
+         "given": "Viktoria"
+       },
+       {
+         "family": "Pérez-Sanagustı́n",
+         "given": "Mar"
+       },
+       {
+         "family": "Drachsler",
+         "given": "Hendrik"
+       },
+       {
+         "family": "Elferink",
+         "given": "Raymond"
+       },
+       {
+         "family": "Scheffel",
+         "given": "Maren"
+       }
+     ],
+     "id": "DBLP:conf/ectel/MesbahCTBLH18",
+     "issued": {
+       "date-parts": [
+         [
+           2018
+         ]
+       ]
+     },
+     "page": "467-481",
+     "publisher": "Springer",
+     "title": "Concept focus: Semantic meta-data for describing MOOC content",
+     "title-short": "Concept focus",
+     "type": "paper-conference",
+     "volume": "11082"
+   },
+   {
+     "URL": "http://ceur-ws.org/Vol-2276/paper4.pdf",
+     "author": [
+       {
+         "dropping-particle": "de",
+         "family": "Jong",
+         "given": "Markus"
+       },
+       {
+         "family": "Mavridis",
+         "given": "Panagiotis"
+       },
+       {
+         "family": "Aroyo",
+         "given": "Lora"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "dropping-particle": "de",
+         "family": "Vos",
+         "given": "Jesse"
+       },
+       {
+         "family": "Oomen",
+         "given": "Johan"
+       },
+       {
+         "family": "Dimitrova",
+         "given": "Antoaneta"
+       },
+       {
+         "family": "Badenoch",
+         "given": "Alec"
+       }
+     ],
+     "collection-title": "CEUR workshop proceedings",
+     "container-title": "Proceedings of the 1st workshop on disentangling the relation between crowdsourcing and bias management (Crowdbias 2018), co-located the 6th AAAI conference on Human Computation and Crowdsourcing (HCOMP 2018)",
+     "editor": [
+       {
+         "family": "Aroyo",
+         "given": "Lora"
+       },
+       {
+         "family": "Dumitrache",
+         "given": "Anca"
+       },
+       {
+         "family": "Paritosh",
+         "given": "Praveen"
+       },
+       {
+         "family": "Quinn",
+         "given": "Alexander J."
+       },
+       {
+         "family": "Welty",
+         "given": "Chris"
+       },
+       {
+         "family": "Checco",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Demartini",
+         "given": "Gianluca"
+       },
+       {
+         "family": "Gadiraju",
+         "given": "Ujwal"
+       },
+       {
+         "family": "Sarasua",
+         "given": "Cristina"
+       }
+     ],
+     "id": "DBLP:conf/hcomp/JongMABVODB18",
+     "issued": {
+       "date-parts": [
+         [
+           2018
+         ]
+       ]
+     },
+     "page": "32-40",
+     "publisher": "CEUR-WS.org",
+     "title": "CaptureBias: Supporting media scholars with ambiguity-aware bias representation for news videos",
+     "title-short": "CaptureBias",
+     "type": "paper-workshop",
+     "volume": "2276"
+   },
+   {
+     "URL": "http://ceur-ws.org/Vol-2276/paper7.pdf",
+     "author": [
+       {
+         "family": "Balayn",
+         "given": "Agathe"
+       },
+       {
+         "family": "Mavridis",
+         "given": "Panagiotis"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Timmermans",
+         "given": "Benjamin"
+       },
+       {
+         "family": "Szlávik",
+         "given": "Zoltán"
+       }
+     ],
+     "collection-title": "CEUR workshop proceedings",
+     "container-title": "Proceedings of the 1st workshop on Subjectivity, Ambiguity and Disagreement in crowdsourcing (SAD 2018), co-located the 6th AAAI conference on Human Computation and Crowdsourcing (HCOMP 2018)",
+     "editor": [
+       {
+         "family": "Aroyo",
+         "given": "Lora"
+       },
+       {
+         "family": "Dumitrache",
+         "given": "Anca"
+       },
+       {
+         "family": "Paritosh",
+         "given": "Praveen"
+       },
+       {
+         "family": "Quinn",
+         "given": "Alexander J."
+       },
+       {
+         "family": "Welty",
+         "given": "Chris"
+       },
+       {
+         "family": "Checco",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Demartini",
+         "given": "Gianluca"
+       },
+       {
+         "family": "Gadiraju",
+         "given": "Ujwal"
+       },
+       {
+         "family": "Sarasua",
+         "given": "Cristina"
+       }
+     ],
+     "id": "DBLP:conf/hcomp/BalaynMBTS18",
+     "issued": {
+       "date-parts": [
+         [
+           2018
+         ]
+       ]
+     },
+     "page": "67-71",
+     "publisher": "CEUR-WS.org",
+     "title": "Expert disagreement in sequential labeling: A case study on adjudication in medical time series analysis",
+     "title-short": "Expert disagreement in sequential labeling",
+     "type": "paper-workshop",
+     "volume": "2276"
+   },
+   {
+     "URL": "http://ceur-ws.org/Vol-2276/paper11.pdf",
+     "author": [
+       {
+         "family": "Mavridis",
+         "given": "Panagiotis"
+       },
+       {
+         "dropping-particle": "de",
+         "family": "Jong",
+         "given": "Markus"
+       },
+       {
+         "family": "Aroyo",
+         "given": "Lora"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "dropping-particle": "de",
+         "family": "Vos",
+         "given": "Jesse"
+       },
+       {
+         "family": "Oomen",
+         "given": "Johan"
+       },
+       {
+         "family": "Dimitrova",
+         "given": "Antoaneta"
+       },
+       {
+         "family": "Badenoch",
+         "given": "Alec"
+       }
+     ],
+     "collection-title": "CEUR workshop proceedings",
+     "container-title": "Proceedings of the 1st workshop on Subjectivity, Ambiguity and Disagreement in crowdsourcing (SAD 2018), co-located the 6th AAAI conference on Human Computation and Crowdsourcing (HCOMP 2018)",
+     "editor": [
+       {
+         "family": "Aroyo",
+         "given": "Lora"
+       },
+       {
+         "family": "Dumitrache",
+         "given": "Anca"
+       },
+       {
+         "family": "Paritosh",
+         "given": "Praveen"
+       },
+       {
+         "family": "Quinn",
+         "given": "Alexander J."
+       },
+       {
+         "family": "Welty",
+         "given": "Chris"
+       },
+       {
+         "family": "Checco",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Demartini",
+         "given": "Gianluca"
+       },
+       {
+         "family": "Gadiraju",
+         "given": "Ujwal"
+       },
+       {
+         "family": "Sarasua",
+         "given": "Cristina"
+       }
+     ],
+     "id": "DBLP:conf/hcomp/MavridisJABVODB18",
+     "issued": {
+       "date-parts": [
+         [
+           2018
+         ]
+       ]
+     },
+     "page": "88-92",
+     "publisher": "CEUR-WS.org",
+     "title": "A human in the loop approach to capture bias and support media scientists in news video analysis",
+     "type": "paper-workshop",
+     "volume": "2276"
+   },
+   {
+     "ISBN": "978-1-57735-799-5",
+     "URL": "https://aaai.org/ocs/index.php/HCOMP/HCOMP18/paper/view/17928",
+     "author": [
+       {
+         "family": "Yang",
+         "given": "Jie"
+       },
+       {
+         "dropping-particle": "van der",
+         "family": "Valk",
+         "given": "Carlo"
+       },
+       {
+         "family": "Hoßfeld",
+         "given": "Tobias"
+       },
+       {
+         "family": "Redi",
+         "given": "Judith"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       }
+     ],
+     "container-title": "Proceedings of the sixth AAAI conference on Human Computation and Crowdsourcing (HCOMP 2018)",
+     "editor": [
+       {
+         "family": "Chen",
+         "given": "Yiling"
+       },
+       {
+         "family": "Kazai",
+         "given": "Gabriella"
+       }
+     ],
+     "id": "DBLP:conf/hcomp/0028VHRB18",
+     "issued": {
+       "date-parts": [
+         [
+           2018
+         ]
+       ]
+     },
+     "page": "193-202",
+     "publisher": "AAAI Press",
+     "title": "How do crowdworker communities and microtask markets influence each other? A data-driven study on amazon mechanical turk",
+     "type": "paper-conference"
+   },
+   {
+     "DOI": "10.1145/3195555.3195566",
+     "ISBN": "978-1-4503-5740-1",
+     "URL": "https://doi.org/10.1145/3195555.3195566",
+     "author": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       }
+     ],
+     "container-title": "Proceedings of the 1st international workshop on software engineering for cognitive service (se4cog@ICSE 2018)",
+     "editor": [
+       {
+         "family": "Nezhad",
+         "given": "Hamid R. Motahari"
+       },
+       {
+         "family": "Mikkilineni",
+         "given": "Rao"
+       },
+       {
+         "family": "Benatallah",
+         "given": "Boualem"
+       },
+       {
+         "family": "Casati",
+         "given": "Fabio"
+       },
+       {
+         "family": "Dustdar",
+         "given": "Schahram"
+       },
+       {
+         "family": "Dodig-Crnkovic",
+         "given": "Gordana"
+       },
+       {
+         "family": "Mos",
+         "given": "Adrian"
+       }
+     ],
+     "id": "DBLP:conf/icse/Bozzon18",
+     "issued": {
+       "date-parts": [
+         [
+           2018
+         ]
+       ]
+     },
+     "page": "29-30",
+     "publisher": "ACM",
+     "title": "Enterprise crowd computing for human aided chatbots",
+     "type": "paper-workshop"
+   },
+   {
+     "DOI": "10.1007/978-3-030-03056-8\\_9",
+     "ISBN": "978-3-030-03055-1",
+     "URL": "https://doi.org/10.1007/978-3-030-03056-8\\_9",
+     "author": [
+       {
+         "family": "Napoli",
+         "given": "Roberto"
+       },
+       {
+         "family": "Ertugrul",
+         "given": "Ali Mert"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       }
+     ],
+     "collection-title": "Lecture notes in computer science",
+     "container-title": "Current trends in web engineering - ICWE 2018 international workshops",
+     "editor": [
+       {
+         "family": "Pautasso",
+         "given": "Cesare"
+       },
+       {
+         "family": "Sánchez-Figueroa",
+         "given": "Fernando"
+       },
+       {
+         "family": "Systä",
+         "given": "Kari"
+       },
+       {
+         "family": "Rodriguez",
+         "given": "Juan Manuel Murillo"
+       }
+     ],
+     "id": "DBLP:conf/icwe/NapoliEB018",
+     "issued": {
+       "date-parts": [
+         [
+           2018
+         ]
+       ]
+     },
+     "page": "101-114",
+     "publisher": "Springer",
+     "title": "A user modeling pipeline for studying polarized political events in social media",
+     "type": "paper-workshop",
+     "volume": "11153"
+   },
+   {
+     "DOI": "10.1007/978-3-319-91662-0\\_8",
+     "ISBN": "978-3-319-91661-3",
+     "URL": "https://doi.org/10.1007/978-3-319-91662-0\\_8",
+     "author": [
+       {
+         "family": "Bapat",
+         "given": "Rucha"
+       },
+       {
+         "family": "Kucherbaev",
+         "given": "Pavel"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       }
+     ],
+     "collection-title": "Lecture notes in computer science",
+     "container-title": "Proceedings of the 18th international conference on Web engineering (ICWE 2018)",
+     "editor": [
+       {
+         "family": "Mikkonen",
+         "given": "Tommi"
+       },
+       {
+         "family": "Klamma",
+         "given": "Ralf"
+       },
+       {
+         "family": "Hernández",
+         "given": "Juan"
+       }
+     ],
+     "id": "DBLP:conf/icwe/BapatKB18",
+     "issued": {
+       "date-parts": [
+         [
+           2018
+         ]
+       ]
+     },
+     "page": "114-128",
+     "publisher": "Springer",
+     "title": "Effective crowdsourced generation of training data for chatbots natural language understanding",
+     "type": "paper-conference",
+     "volume": "10845"
+   },
+   {
+     "DOI": "10.1145/3240323.3240361",
+     "ISBN": "978-1-4503-5901-6",
+     "URL": "https://doi.org/10.1145/3240323.3240361",
+     "author": [
+       {
+         "family": "Sun",
+         "given": "Zhu"
+       },
+       {
+         "family": "Yang",
+         "given": "Jie"
+       },
+       {
+         "family": "Zhang",
+         "given": "Jie"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Huang",
+         "given": "Long-Kai"
+       },
+       {
+         "family": "Xu",
+         "given": "Chi"
+       }
+     ],
+     "container-title": "Proceedings of the 12th ACM conference on recommender systems (Recsys 2018)",
+     "editor": [
+       {
+         "family": "Pera",
+         "given": "Sole"
+       },
+       {
+         "family": "Ekstrand",
+         "given": "Michael D."
+       },
+       {
+         "family": "Amatriain",
+         "given": "Xavier"
+       },
+       {
+         "family": "O’Donovan",
+         "given": "John"
+       }
+     ],
+     "id": "DBLP:conf/recsys/Sun00BHX18",
+     "issued": {
+       "date-parts": [
+         [
+           2018
+         ]
+       ]
+     },
+     "page": "297-305",
+     "publisher": "ACM",
+     "title": "Recurrent knowledge graph embedding for effective recommendation",
+     "type": "paper-conference"
+   },
+   {
+     "DOI": "10.1007/978-3-030-00671-6\\_8",
+     "ISBN": "978-3-030-00670-9",
+     "URL": "https://doi.org/10.1007/978-3-030-00671-6\\_8",
+     "author": [
+       {
+         "family": "Mesbah",
+         "given": "Sepideh"
+       },
+       {
+         "family": "Lofi",
+         "given": "Christoph"
+       },
+       {
+         "family": "Torre",
+         "given": "Manuel Valle"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Houben",
+         "given": "Geert-Jan"
+       }
+     ],
+     "collection-title": "Lecture notes in computer science",
+     "container-title": "Proceedings of the 17th international Semantic Web conference (ISWC 2018)",
+     "editor": [
+       {
+         "family": "Vrandecic",
+         "given": "Denny"
+       },
+       {
+         "family": "Bontcheva",
+         "given": "Kalina"
+       },
+       {
+         "family": "Suárez-Figueroa",
+         "given": "Mari Carmen"
+       },
+       {
+         "family": "Presutti",
+         "given": "Valentina"
+       },
+       {
+         "family": "Celino",
+         "given": "Irene"
+       },
+       {
+         "family": "Sabou",
+         "given": "Marta"
+       },
+       {
+         "family": "Kaffee",
+         "given": "Lucie-Aimée"
+       },
+       {
+         "family": "Simperl",
+         "given": "Elena"
+       }
+     ],
+     "id": "DBLP:conf/semweb/MesbahLTBH18",
+     "issued": {
+       "date-parts": [
+         [
+           2018
+         ]
+       ]
+     },
+     "page": "127-143",
+     "publisher": "Springer",
+     "title": "TSE-NER: an iterative approach for long-tail entity extraction in scientific publications",
+     "type": "paper-conference",
+     "volume": "11136"
+   },
+   {
+     "DOI": "10.1145/3201064.3201094",
+     "URL": "https://doi.org/10.1145/3201064.3201094",
+     "author": [
+       {
+         "family": "Afentoulidis",
+         "given": "Gregory"
+       },
+       {
+         "family": "Szlávik",
+         "given": "Zoltán"
+       },
+       {
+         "family": "Yang",
+         "given": "Jie"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       }
+     ],
+     "container-title": "Proceedings of the 10th ACM conference on web science (WebSci 2018)",
+     "editor": [
+       {
+         "family": "Akkermans",
+         "given": "Hans"
+       },
+       {
+         "family": "Fontaine",
+         "given": "Kathy"
+       },
+       {
+         "family": "Vermeulen",
+         "given": "Ivar"
+       },
+       {
+         "family": "Houben",
+         "given": "Geert-Jan"
+       },
+       {
+         "family": "Weber",
+         "given": "Matthew S."
+       }
+     ],
+     "id": "DBLP:conf/websci/AfentoulidisS0B18",
+     "issued": {
+       "date-parts": [
+         [
+           2018
+         ]
+       ]
+     },
+     "page": "135-144",
+     "publisher": "ACM",
+     "title": "Social gamification in enterprise crowdsourcing",
+     "type": "paper-conference"
+   },
+   {
+     "DOI": "10.1145/3184558.3186976",
+     "URL": "https://doi.org/10.1145/3184558.3186976",
+     "author": [
+       {
+         "family": "Mesbah",
+         "given": "Sepideh"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Lofi",
+         "given": "Christoph"
+       },
+       {
+         "family": "Houben",
+         "given": "Geert-Jan"
+       }
+     ],
+     "container-title": "Companion Proceedings of The Web Conference 2018 (WWW 2018)",
+     "editor": [
+       {
+         "family": "Champin",
+         "given": "Pierre-Antoine"
+       },
+       {
+         "family": "Gandon",
+         "given": "Fabien L."
+       },
+       {
+         "family": "Lalmas",
+         "given": "Mounia"
+       },
+       {
+         "family": "Ipeirotis",
+         "given": "Panagiotis G."
+       }
+     ],
+     "id": "DBLP:conf/www/MesbahBLH18",
+     "issued": {
+       "date-parts": [
+         [
+           2018
+         ]
+       ]
+     },
+     "page": "191-194",
+     "publisher": "ACM",
+     "title": "SmartPub: A platform for long-tail entity extraction from scientific publications",
+     "title-short": "SmartPub",
+     "type": "paper-conference"
+   },
+   {
+     "DOI": "10.1145/3184558.3186977",
+     "URL": "https://doi.org/10.1145/3184558.3186977",
+     "author": [
+       {
+         "family": "Mauri",
+         "given": "Andrea"
+       },
+       {
+         "family": "Psyllidis",
+         "given": "Achilleas"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       }
+     ],
+     "container-title": "Companion Proceedings of The Web Conference 2018 (WWW 2018)",
+     "editor": [
+       {
+         "family": "Champin",
+         "given": "Pierre-Antoine"
+       },
+       {
+         "family": "Gandon",
+         "given": "Fabien L."
+       },
+       {
+         "family": "Lalmas",
+         "given": "Mounia"
+       },
+       {
+         "family": "Ipeirotis",
+         "given": "Panagiotis G."
+       }
+     ],
+     "id": "DBLP:conf/www/0001PB18",
+     "issued": {
+       "date-parts": [
+         [
+           2018
+         ]
+       ]
+     },
+     "page": "195-198",
+     "publisher": "ACM",
+     "title": "Social smart meter: Identifying energy consumption behavior in user-generated content",
+     "title-short": "Social smart meter",
+     "type": "paper-conference"
+   },
+   {
+     "URL": "http://ceur-ws.org/Vol-2173",
+     "collection-title": "CEUR workshop proceedings",
+     "author": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Venanzi",
+         "given": "Matteo"
+       }
+     ],
+     "id": "DBLP:conf/hcomp/2018wip",
+     "issued": {
+       "date-parts": [
+         [
+           2018
+         ]
+       ]
+     },
+     "publisher": "CEUR-WS.org",
+     "title": "Proceedings of the HCOMP 2018 works in progress and demonstration papers track of the sixth AAAI conference on human computation and crowdsourcing (HCOMP 2018), zurich, switzerland, july 5-8, 2018",
+     "type": "editorial",
+     "volume": "2173"
+   },
+   {
+     "URL": "http://arxiv.org/abs/1807.09459",
+     "author": [
+       {
+         "family": "Napoli",
+         "given": "Roberto"
+       },
+       {
+         "family": "Ertugrul",
+         "given": "Ali Mert"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       }
+     ],
+     "container-title": "CoRR",
+     "id": "DBLP:journals/corr/abs-1807-09459",
+     "issued": {
+       "date-parts": [
+         [
+           2018
+         ]
+       ]
+     },
+     "title": "A user modeling pipeline for studying polarized political events in social media",
+     "type": "archival",
+     "volume": "abs/1807.09459"
+   },
+   {
+     "URL": "http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14679",
+     "author": [
+       {
+         "family": "Sun",
+         "given": "Zhu"
+       },
+       {
+         "family": "Yang",
+         "given": "Jie"
+       },
+       {
+         "family": "Zhang",
+         "given": "Jie"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       }
+     ],
+     "container-title": "Proceedings of the thirty-first AAAI conference on Artificial Intelligence (AAAI 2017)",
+     "editor": [
+       {
+         "family": "Singh",
+         "given": "Satinder P."
+       },
+       {
+         "family": "Markovitch",
+         "given": "Shaul"
+       }
+     ],
+     "id": "DBLP:conf/aaai/SunYZB17",
+     "issued": {
+       "date-parts": [
+         [
+           2017
+         ]
+       ]
+     },
+     "page": "189-195",
+     "publisher": "AAAI Press",
+     "title": "Exploiting both vertical and horizontal dimensions of feature hierarchy for effective recommendation",
+     "type": "paper-conference"
+   },
+   {
+     "DOI": "10.1145/3132847.3133005",
+     "ISBN": "978-1-4503-4918-5",
+     "URL": "https://doi.org/10.1145/3132847.3133005",
+     "author": [
+       {
+         "family": "Pei",
+         "given": "Wenjie"
+       },
+       {
+         "family": "Yang",
+         "given": "Jie"
+       },
+       {
+         "family": "Sun",
+         "given": "Zhu"
+       },
+       {
+         "family": "Zhang",
+         "given": "Jie"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Tax",
+         "given": "David M. J."
+       }
+     ],
+     "container-title": "Proceedings of the 2017 ACM on Conference on Information and Knowledge Management (CIKM 2017)",
+     "editor": [
+       {
+         "family": "Lim",
+         "given": "Ee-Peng"
+       },
+       {
+         "family": "Winslett",
+         "given": "Marianne"
+       },
+       {
+         "family": "Sanderson",
+         "given": "Mark"
+       },
+       {
+         "family": "Fu",
+         "given": "Ada Wai-Chee"
+       },
+       {
+         "family": "Sun",
+         "given": "Jimeng"
+       },
+       {
+         "family": "Culpepper",
+         "given": "J. Shane"
+       },
+       {
+         "family": "Lo",
+         "given": "Eric"
+       },
+       {
+         "family": "Ho",
+         "given": "Joyce C."
+       },
+       {
+         "family": "Donato",
+         "given": "Debora"
+       },
+       {
+         "family": "Agrawal",
+         "given": "Rakesh"
+       },
+       {
+         "family": "Zheng",
+         "given": "Yu"
+       },
+       {
+         "family": "Castillo",
+         "given": "Carlos"
+       },
+       {
+         "family": "Sun",
+         "given": "Aixin"
+       },
+       {
+         "family": "Tseng",
+         "given": "Vincent S."
+       },
+       {
+         "family": "Li",
+         "given": "Chenliang"
+       }
+     ],
+     "id": "DBLP:conf/cikm/PeiYSZBT17",
+     "issued": {
+       "date-parts": [
+         [
+           2017
+         ]
+       ]
+     },
+     "page": "1459-1468",
+     "publisher": "ACM",
+     "title": "Interacting attention-gated recurrent networks for recommendation",
+     "type": "paper-conference"
+   },
+   {
+     "DOI": "10.1145/3132847.3133199",
+     "ISBN": "978-1-4503-4918-5",
+     "URL": "https://doi.org/10.1145/3132847.3133199",
+     "author": [
+       {
+         "family": "Sinha",
+         "given": "Manjira"
+       },
+       {
+         "family": "He",
+         "given": "Xiangnan"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Mannarswamy",
+         "given": "Sandya"
+       },
+       {
+         "family": "Murukannaiah",
+         "given": "Pradeep"
+       },
+       {
+         "family": "Mukherjee",
+         "given": "Tridib"
+       }
+     ],
+     "container-title": "Proceedings of the 2017 ACM on Conference on Information and Knowledge Management (CIKM 2017)",
+     "editor": [
+       {
+         "family": "Lim",
+         "given": "Ee-Peng"
+       },
+       {
+         "family": "Winslett",
+         "given": "Marianne"
+       },
+       {
+         "family": "Sanderson",
+         "given": "Mark"
+       },
+       {
+         "family": "Fu",
+         "given": "Ada Wai-Chee"
+       },
+       {
+         "family": "Sun",
+         "given": "Jimeng"
+       },
+       {
+         "family": "Culpepper",
+         "given": "J. Shane"
+       },
+       {
+         "family": "Lo",
+         "given": "Eric"
+       },
+       {
+         "family": "Ho",
+         "given": "Joyce C."
+       },
+       {
+         "family": "Donato",
+         "given": "Debora"
+       },
+       {
+         "family": "Agrawal",
+         "given": "Rakesh"
+       },
+       {
+         "family": "Zheng",
+         "given": "Yu"
+       },
+       {
+         "family": "Castillo",
+         "given": "Carlos"
+       },
+       {
+         "family": "Sun",
+         "given": "Aixin"
+       },
+       {
+         "family": "Tseng",
+         "given": "Vincent S."
+       },
+       {
+         "family": "Li",
+         "given": "Chenliang"
+       }
+     ],
+     "id": "DBLP:conf/cikm/SinhaHBMMM17",
+     "issued": {
+       "date-parts": [
+         [
+           2017
+         ]
+       ]
+     },
+     "page": "2567-2568",
+     "publisher": "ACM",
+     "title": "SMASC 2017: First international workshop on social media analytics for smart cities",
+     "title-short": "SMASC 2017",
+     "type": "editorial"
+   },
+   {
+     "DOI": "10.1007/978-3-319-67008-9\\_8",
+     "ISBN": "978-3-319-67007-2",
+     "URL": "https://doi.org/10.1007/978-3-319-67008-9\\_8",
+     "author": [
+       {
+         "family": "Mesbah",
+         "given": "Sepideh"
+       },
+       {
+         "family": "Fragkeskos",
+         "given": "Kyriakos"
+       },
+       {
+         "family": "Lofi",
+         "given": "Christoph"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Houben",
+         "given": "Geert-Jan"
+       }
+     ],
+     "collection-title": "Lecture notes in computer science",
+     "container-title": "Proceedings of the 21st international conference on theory and practice of digital libraries (TPDL 2017)",
+     "editor": [
+       {
+         "family": "Kamps",
+         "given": "Jaap"
+       },
+       {
+         "family": "Tsakonas",
+         "given": "Giannis"
+       },
+       {
+         "family": "Manolopoulos",
+         "given": "Yannis"
+       },
+       {
+         "family": "Iliadis",
+         "given": "Lazaros S."
+       },
+       {
+         "family": "Karydis",
+         "given": "Ioannis"
+       }
+     ],
+     "id": "DBLP:conf/ercimdl/MesbahFLBH17",
+     "issued": {
+       "date-parts": [
+         [
+           2017
+         ]
+       ]
+     },
+     "page": "86-99",
+     "publisher": "Springer",
+     "title": "Facet embeddings for explorative analytics in digital libraries",
+     "type": "paper-conference",
+     "volume": "10450"
+   },
+   {
+     "DOI": "10.1007/978-3-319-58068-5\\_20",
+     "ISBN": "978-3-319-58067-8",
+     "URL": "https://doi.org/10.1007/978-3-319-58068-5\\_20",
+     "author": [
+       {
+         "family": "Mesbah",
+         "given": "Sepideh"
+       },
+       {
+         "family": "Fragkeskos",
+         "given": "Kyriakos"
+       },
+       {
+         "family": "Lofi",
+         "given": "Christoph"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Houben",
+         "given": "Geert-Jan"
+       }
+     ],
+     "collection-title": "Lecture notes in computer science",
+     "container-title": "Proceedings of the 14th International Extended Semantic Web conference (ESWC 2017)",
+     "editor": [
+       {
+         "family": "Blomqvist",
+         "given": "Eva"
+       },
+       {
+         "family": "Maynard",
+         "given": "Diana"
+       },
+       {
+         "family": "Gangemi",
+         "given": "Aldo"
+       },
+       {
+         "family": "Hoekstra",
+         "given": "Rinke"
+       },
+       {
+         "family": "Hitzler",
+         "given": "Pascal"
+       },
+       {
+         "family": "Hartig",
+         "given": "Olaf"
+       }
+     ],
+     "id": "DBLP:conf/esws/MesbahFLBH17",
+     "issued": {
+       "date-parts": [
+         [
+           2017
+         ]
+       ]
+     },
+     "page": "321-336",
+     "title": "Semantic annotation of data processing pipelines in scientific publications",
+     "type": "paper-conference",
+     "volume": "10249"
+   },
+   {
+     "DOI": "10.1145/3078714.3078715",
+     "ISBN": "978-1-4503-4708-2",
+     "URL": "https://doi.org/10.1145/3078714.3078715",
+     "author": [
+       {
+         "family": "Gadiraju",
+         "given": "Ujwal"
+       },
+       {
+         "family": "Yang",
+         "given": "Jie"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       }
+     ],
+     "container-title": "Proceedings of the 28th ACM conference on hypertext and social media (HT 2017)",
+     "editor": [
+       {
+         "family": "Dolog",
+         "given": "Peter"
+       },
+       {
+         "family": "Vojtás",
+         "given": "Peter"
+       },
+       {
+         "family": "Bonchi",
+         "given": "Francesco"
+       },
+       {
+         "family": "Helic",
+         "given": "Denis"
+       }
+     ],
+     "id": "DBLP:conf/ht/GadirajuYB17",
+     "issued": {
+       "date-parts": [
+         [
+           2017
+         ]
+       ]
+     },
+     "page": "5-14",
+     "publisher": "ACM",
+     "title": "Clarity is a worthwhile quality: On the role of task clarity in microtask crowdsourcing",
+     "title-short": "Clarity is a worthwhile quality",
+     "type": "paper-conference"
+   },
+   {
+     "DOI": "10.24963/ijcai.2017/391",
+     "ISBN": "978-0-9992411-0-3",
+     "URL": "https://doi.org/10.24963/ijcai.2017/391",
+     "author": [
+       {
+         "family": "Sun",
+         "given": "Zhu"
+       },
+       {
+         "family": "Yang",
+         "given": "Jie"
+       },
+       {
+         "family": "Zhang",
+         "given": "Jie"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Chen",
+         "given": "Yu"
+       },
+       {
+         "family": "Xu",
+         "given": "Chi"
+       }
+     ],
+     "container-title": "Proceedings of the 26th international joint conference on artificial intelligence (IJCAI 2017)",
+     "editor": [
+       {
+         "family": "Sierra",
+         "given": "Carles"
+       }
+     ],
+     "id": "DBLP:conf/ijcai/SunYZBCX17",
+     "issued": {
+       "date-parts": [
+         [
+           2017
+         ]
+       ]
+     },
+     "page": "2807-2813",
+     "publisher": "ijcai.org",
+     "title": "MRLR: multi-level representation learning for personalized ranking in recommendation",
+     "type": "paper-conference"
+   },
+   {
+     "DOI": "10.1145/3127325.3177871",
+     "URL": "https://doi.org/10.1145/3127325.3177871",
+     "author": [
+       {
+         "family": "Yang",
+         "given": "Jie"
+       },
+       {
+         "family": "Cantador",
+         "given": "Iván"
+       },
+       {
+         "family": "Nurbakova",
+         "given": "Diana"
+       },
+       {
+         "family": "Cortés-Cediel",
+         "given": "Marı́a E."
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       }
+     ],
+     "container-title": "Proceedings of international workshop on citizens for recommender systems (citrec@RecSys 2017)",
+     "editor": [
+       {
+         "family": "Yang",
+         "given": "Jie"
+       },
+       {
+         "family": "Sun",
+         "given": "Zhu"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Zhang",
+         "given": "Jie"
+       },
+       {
+         "family": "Larson",
+         "given": "Martha"
+       }
+     ],
+     "id": "DBLP:conf/recsys/0028CNCB17",
+     "issued": {
+       "date-parts": [
+         [
+           2017
+         ]
+       ]
+     },
+     "page": "1:1-1:4",
+     "publisher": "ACM",
+     "title": "Recommender systems for citizens: The citrec’17 workshop manifesto",
+     "title-short": "Recommender systems for citizens",
+     "type": "paper-workshop"
+   },
+   {
+     "DOI": "10.1145/3127325.3127331",
+     "URL": "https://doi.org/10.1145/3127325.3127331",
+     "author": [
+       {
+         "family": "Kucherbaev",
+         "given": "Pavel"
+       },
+       {
+         "family": "Psyllidis",
+         "given": "Achilleas"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       }
+     ],
+     "container-title": "Proceedings of international workshop on citizens for recommender systems (citrec@RecSys 2017)",
+     "editor": [
+       {
+         "family": "Yang",
+         "given": "Jie"
+       },
+       {
+         "family": "Sun",
+         "given": "Zhu"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Zhang",
+         "given": "Jie"
+       },
+       {
+         "family": "Larson",
+         "given": "Martha"
+       }
+     ],
+     "id": "DBLP:conf/recsys/KucherbaevPB17",
+     "issued": {
+       "date-parts": [
+         [
+           2017
+         ]
+       ]
+     },
+     "page": "6:1-6:2",
+     "publisher": "ACM",
+     "title": "Chatbots as conversational recommender systems in urban contexts",
+     "type": "paper-workshop"
+   },
+   {
+     "DOI": "10.1145/3109859.3109969",
+     "ISBN": "978-1-4503-4652-8",
+     "URL": "https://doi.org/10.1145/3109859.3109969",
+     "author": [
+       {
+         "family": "Yang",
+         "given": "Jie"
+       },
+       {
+         "family": "Sun",
+         "given": "Zhu"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Zhang",
+         "given": "Jie"
+       },
+       {
+         "family": "Larson",
+         "given": "Martha"
+       }
+     ],
+     "container-title": "Proceedings of the eleventh ACM conference on recommender systems (recsys 2017)",
+     "editor": [
+       {
+         "family": "Cremonesi",
+         "given": "Paolo"
+       },
+       {
+         "family": "Ricci",
+         "given": "Francesco"
+       },
+       {
+         "family": "Berkovsky",
+         "given": "Shlomo"
+       },
+       {
+         "family": "Tuzhilin",
+         "given": "Alexander"
+       }
+     ],
+     "id": "DBLP:conf/recsys/YangSBZL17",
+     "issued": {
+       "date-parts": [
+         [
+           2017
+         ]
+       ]
+     },
+     "page": "388-389",
+     "publisher": "ACM",
+     "title": "CitRec 2017: International workshop on recommender systems for citizens",
+     "title-short": "CitRec 2017",
+     "type": "paper-conference"
+   },
+   {
+     "DOI": "10.1145/3079628.3079692",
+     "ISBN": "978-1-4503-4635-1",
+     "URL": "https://doi.org/10.1145/3079628.3079692",
+     "author": [
+       {
+         "family": "Bashirieh",
+         "given": "Sarah"
+       },
+       {
+         "family": "Mesbah",
+         "given": "Sepideh"
+       },
+       {
+         "family": "Redi",
+         "given": "Judith"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Szlávik",
+         "given": "Zoltán"
+       },
+       {
+         "family": "Sips",
+         "given": "Robert-Jan"
+       }
+     ],
+     "container-title": "Proceedings of the 25th conference on user modeling, adaptation and personalization (UMAP 2017)",
+     "editor": [
+       {
+         "family": "Bieliková",
+         "given": "Mária"
+       },
+       {
+         "family": "Herder",
+         "given": "Eelco"
+       },
+       {
+         "family": "Cena",
+         "given": "Federica"
+       },
+       {
+         "family": "Desmarais",
+         "given": "Michel C."
+       }
+     ],
+     "id": "DBLP:conf/um/BashiriehMRBSS17",
+     "issued": {
+       "date-parts": [
+         [
+           2017
+         ]
+       ]
+     },
+     "page": "4-12",
+     "publisher": "ACM",
+     "title": "Nudge your workforce: A study on the effectiveness of task notification strategies in enterprise mobile crowdsourcing",
+     "title-short": "Nudge your workforce",
+     "type": "paper-conference"
+   },
+   {
+     "DOI": "10.1145/3079628.3079671",
+     "ISBN": "978-1-4503-4635-1",
+     "URL": "https://doi.org/10.1145/3079628.3079671",
+     "author": [
+       {
+         "family": "Triglianos",
+         "given": "Vasileios"
+       },
+       {
+         "family": "Praharaj",
+         "given": "Sambit"
+       },
+       {
+         "family": "Pautasso",
+         "given": "Cesare"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Hauff",
+         "given": "Claudia"
+       }
+     ],
+     "container-title": "Proceedings of the 25th conference on user modeling, adaptation and personalization (UMAP 2017)",
+     "editor": [
+       {
+         "family": "Bieliková",
+         "given": "Mária"
+       },
+       {
+         "family": "Herder",
+         "given": "Eelco"
+       },
+       {
+         "family": "Cena",
+         "given": "Federica"
+       },
+       {
+         "family": "Desmarais",
+         "given": "Michel C."
+       }
+     ],
+     "id": "DBLP:conf/um/TriglianosPPBH17",
+     "issued": {
+       "date-parts": [
+         [
+           2017
+         ]
+       ]
+     },
+     "page": "212-220",
+     "publisher": "ACM",
+     "title": "Measuring student behaviour dynamics in a large interactive classroom setting",
+     "type": "paper-conference"
+   },
+   {
+     "URL": "http://ceur-ws.org/Vol-1959",
+     "collection-title": "CEUR workshop proceedings",
+     "editor": [
+       {
+         "family": "Armano",
+         "given": "Giuliano"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Cristani",
+         "given": "Matteo"
+       },
+       {
+         "family": "Giuliani",
+         "given": "Alessandro"
+       }
+     ],
+     "id": "DBLP:conf/kdweb/2017",
+     "issued": {
+       "date-parts": [
+         [
+           2017
+         ]
+       ]
+     },
+     "publisher": "CEUR-WS.org",
+     "title": "Proceedings of the 3rd international workshop on knowledge discovery on the web (KD-WEB 2017)",
+     "type": "editorial",
+     "volume": "1959"
+   },
+   {
+     "DOI": "10.1145/3127325",
+     "URL": "https://doi.org/10.1145/3127325",
+     "editor": [
+       {
+         "family": "Yang",
+         "given": "Jie"
+       },
+       {
+         "family": "Sun",
+         "given": "Zhu"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Zhang",
+         "given": "Jie"
+       },
+       {
+         "family": "Larson",
+         "given": "Martha"
+       }
+     ],
+     "id": "DBLP:conf/recsys/2017citrec",
+     "issued": {
+       "date-parts": [
+         [
+           2017
+         ]
+       ]
+     },
+     "publisher": "ACM",
+     "title": "Proceedings of 1st international workshop on citizens for recommender systems (citrec@RecSys 2017)",
+     "type": "editorial"
+   },
+   {
+     "URL": "http://arxiv.org/abs/1702.03385",
+     "author": [
+       {
+         "family": "Yang",
+         "given": "Jie"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       }
+     ],
+     "container-title": "CoRR",
+     "id": "DBLP:journals/corr/YangB17",
+     "issued": {
+       "date-parts": [
+         [
+           2017
+         ]
+       ]
+     },
+     "title": "On the improvement of quality and reliability of trust cues in micro-task crowdsourcing (position paper)",
+     "type": "archival",
+     "volume": "abs/1702.03385"
+   },
+   {
+     "URL": "http://arxiv.org/abs/1706.10076",
+     "author": [
+       {
+         "family": "Kucherbaev",
+         "given": "Pavel"
+       },
+       {
+         "family": "Psyllidis",
+         "given": "Achilleas"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       }
+     ],
+     "container-title": "CoRR",
+     "id": "DBLP:journals/corr/KucherbaevPB17",
+     "issued": {
+       "date-parts": [
+         [
+           2017
+         ]
+       ]
+     },
+     "title": "Chatbots as conversational recommender systems in urban contexts",
+     "type": "archival",
+     "volume": "abs/1706.10076"
+   },
+   {
+     "URL": "http://arxiv.org/abs/1709.01532",
+     "author": [
+       {
+         "family": "Pei",
+         "given": "Wenjie"
+       },
+       {
+         "family": "Yang",
+         "given": "Jie"
+       },
+       {
+         "family": "Sun",
+         "given": "Zhu"
+       },
+       {
+         "family": "Zhang",
+         "given": "Jie"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Tax",
+         "given": "David M. J."
+       }
+     ],
+     "container-title": "CoRR",
+     "id": "DBLP:journals/corr/abs-1709-01532",
+     "issued": {
+       "date-parts": [
+         [
+           2017
+         ]
+       ]
+     },
+     "title": "Interacting attention-gated recurrent networks for recommendation",
+     "type": "archival",
+     "volume": "abs/1709.01532"
+   },
+   {
+     "DOI": "10.1145/2818048.2820061",
+     "ISBN": "978-1-4503-3592-8",
+     "URL": "https://doi.org/10.1145/2818048.2820061",
+     "author": [
+       {
+         "family": "Stanculescu",
+         "given": "Laurentiu Catalin"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Sips",
+         "given": "Robert-Jan"
+       },
+       {
+         "family": "Houben",
+         "given": "Geert-Jan"
+       }
+     ],
+     "container-title": "Proceedings of the 19th ACM conference on computer-supported cooperative work & social computing (CSCW 2016)",
+     "editor": [
+       {
+         "family": "Gergle",
+         "given": "Darren"
+       },
+       {
+         "family": "Morris",
+         "given": "Meredith Ringel"
+       },
+       {
+         "family": "Bjørn",
+         "given": "Pernille"
+       },
+       {
+         "family": "Konstan",
+         "given": "Joseph A."
+       }
+     ],
+     "id": "DBLP:conf/cscw/StanculescuBSH16",
+     "issued": {
+       "date-parts": [
+         [
+           2016
+         ]
+       ]
+     },
+     "page": "345-357",
+     "publisher": "ACM",
+     "title": "Work and play: An experiment in enterprise gamification",
+     "title-short": "Work and play",
+     "type": "paper-conference"
+   },
+   {
+     "DOI": "10.1007/978-3-319-45153-4\\_23",
+     "ISBN": "978-3-319-45152-7",
+     "URL": "https://doi.org/10.1007/978-3-319-45153-4\\_23",
+     "author": [
+       {
+         "family": "Triglianos",
+         "given": "Vasileios"
+       },
+       {
+         "family": "Pautasso",
+         "given": "Cesare"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Hauff",
+         "given": "Claudia"
+       }
+     ],
+     "collection-title": "Lecture notes in computer science",
+     "container-title": "Proceedings of the 11th european conference on technology enhanced learning (EC-TEL 2016)",
+     "editor": [
+       {
+         "family": "Verbert",
+         "given": "Katrien"
+       },
+       {
+         "family": "Sharples",
+         "given": "Mike"
+       },
+       {
+         "family": "Klobucar",
+         "given": "Tomaz"
+       }
+     ],
+     "id": "DBLP:conf/ectel/TriglianosPBH16",
+     "issued": {
+       "date-parts": [
+         [
+           2016
+         ]
+       ]
+     },
+     "page": "306-320",
+     "publisher": "Springer",
+     "title": "Inferring student attention with ASQ",
+     "type": "paper-conference",
+     "volume": "9891"
+   },
+   {
+     "ISBN": "978-1-57735-774-2",
+     "URL": "http://aaai.org/ocs/index.php/HCOMP/HCOMP16/paper/view/14039",
+     "author": [
+       {
+         "family": "Yang",
+         "given": "Jie"
+       },
+       {
+         "family": "Redi",
+         "given": "Judith"
+       },
+       {
+         "family": "Demartini",
+         "given": "Gianluca"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       }
+     ],
+     "container-title": "Proceedings of the fourth AAAI conference on Human Computation and Crowdsourcing (HCOMP 2016)",
+     "editor": [
+       {
+         "family": "Ghosh",
+         "given": "Arpita"
+       },
+       {
+         "family": "Lease",
+         "given": "Matthew"
+       }
+     ],
+     "id": "DBLP:conf/hcomp/0028RDB16",
+     "issued": {
+       "date-parts": [
+         [
+           2016
+         ]
+       ]
+     },
+     "page": "249-258",
+     "publisher": "AAAI Press",
+     "title": "Modeling task complexity in crowdsourcing",
+     "type": "paper-conference"
+   },
+   {
+     "DOI": "10.1007/978-3-319-38791-8\\_44",
+     "ISBN": "978-3-319-38790-1",
+     "URL": "https://doi.org/10.1007/978-3-319-38791-8\\_44",
+     "author": [
+       {
+         "family": "Oosterman",
+         "given": "Jasper"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Houben",
+         "given": "Geert-Jan"
+       }
+     ],
+     "collection-title": "Lecture notes in computer science",
+     "container-title": "Proceeedings of the 16th international conference on Web Engineering (ICWE 2016)",
+     "editor": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Cudré-Mauroux",
+         "given": "Philippe"
+       },
+       {
+         "family": "Pautasso",
+         "given": "Cesare"
+       }
+     ],
+     "id": "DBLP:conf/icwe/OostermanBH16",
+     "issued": {
+       "date-parts": [
+         [
+           2016
+         ]
+       ]
+     },
+     "page": "542-546",
+     "publisher": "Springer",
+     "title": "CroKnow: Structured crowd knowledge creation",
+     "title-short": "CroKnow",
+     "type": "paper-conference",
+     "volume": "9671"
+   },
+   {
+     "URL": "http://ceur-ws.org/Vol-1748/paper-12.pdf",
+     "author": [
+       {
+         "family": "Dhiratara",
+         "given": "Arkka"
+       },
+       {
+         "family": "Yang",
+         "given": "Jie"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Houben",
+         "given": "Geert-Jan"
+       }
+     ],
+     "collection-title": "CEUR workshop proceedings",
+     "container-title": "Proceedings of the 2nd international workshop on knowledge discovery on the web (kdweb 2016)",
+     "editor": [
+       {
+         "family": "Armano",
+         "given": "Giuliano"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Cristani",
+         "given": "Matteo"
+       },
+       {
+         "family": "Giuliani",
+         "given": "Alessandro"
+       }
+     ],
+     "id": "DBLP:conf/kdweb/DhirataraYBH16",
+     "issued": {
+       "date-parts": [
+         [
+           2016
+         ]
+       ]
+     },
+     "publisher": "CEUR-WS.org",
+     "title": "Social media data analytics for tourism - A preliminary study",
+     "type": "paper-conference",
+     "volume": "1748"
+   },
+   {
+     "DOI": "10.1145/2959100.2959159",
+     "ISBN": "978-1-4503-4035-9",
+     "URL": "https://doi.org/10.1145/2959100.2959159",
+     "author": [
+       {
+         "family": "Yang",
+         "given": "Jie"
+       },
+       {
+         "family": "Sun",
+         "given": "Zhu"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Zhang",
+         "given": "Jie"
+       }
+     ],
+     "container-title": "Proceedings of the 10th ACM conference on recommender systems (RecSys 2016)",
+     "editor": [
+       {
+         "family": "Sen",
+         "given": "Shilad"
+       },
+       {
+         "family": "Geyer",
+         "given": "Werner"
+       },
+       {
+         "family": "Freyne",
+         "given": "Jill"
+       },
+       {
+         "family": "Castells",
+         "given": "Pablo"
+       }
+     ],
+     "id": "DBLP:conf/recsys/YangSBZ16",
+     "issued": {
+       "date-parts": [
+         [
+           2016
+         ]
+       ]
+     },
+     "page": "51-58",
+     "publisher": "ACM",
+     "title": "Learning hierarchical feature influence for recommendation by recursive regularization",
+     "type": "paper-conference"
+   },
+   {
+     "DOI": "10.1145/2908131.2908178",
+     "ISBN": "978-1-4503-4208-7",
+     "URL": "https://doi.org/10.1145/2908131.2908178",
+     "author": [
+       {
+         "family": "Iren",
+         "given": "Deniz"
+       },
+       {
+         "family": "Liem",
+         "given": "Cynthia C. S."
+       },
+       {
+         "family": "Yang",
+         "given": "Jie"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       }
+     ],
+     "container-title": "Proceedings of the 8th ACM conference on web science (WebSci 2016)",
+     "editor": [
+       {
+         "family": "Nejdl",
+         "given": "Wolfgang"
+       },
+       {
+         "family": "Hall",
+         "given": "Wendy"
+       },
+       {
+         "family": "Parigi",
+         "given": "Paolo"
+       },
+       {
+         "family": "Staab",
+         "given": "Steffen"
+       }
+     ],
+     "id": "DBLP:conf/websci/IrenLYB16",
+     "issued": {
+       "date-parts": [
+         [
+           2016
+         ]
+       ]
+     },
+     "page": "296-300",
+     "publisher": "ACM",
+     "title": "Using social media to reveal social and collective perspectives on music",
+     "type": "paper-conference"
+   },
+   {
+     "DOI": "10.1007/978-3-319-38791-8",
+     "ISBN": "978-3-319-38790-1",
+     "URL": "https://doi.org/10.1007/978-3-319-38791-8",
+     "collection-title": "Lecture notes in computer science",
+     "editor": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Cudré-Mauroux",
+         "given": "Philippe"
+       },
+       {
+         "family": "Pautasso",
+         "given": "Cesare"
+       }
+     ],
+     "id": "DBLP:conf/icwe/2016",
+     "issued": {
+       "date-parts": [
+         [
+           2016
+         ]
+       ]
+     },
+     "publisher": "Springer",
+     "title": "Proceedings of the 16th international conference on Web Engineering (ICWE 2016)",
+     "type": "editorial",
+     "volume": "9671"
+   },
+   {
+     "URL": "http://ceur-ws.org/Vol-1748",
+     "collection-title": "CEUR workshop proceedings",
+     "editor": [
+       {
+         "family": "Armano",
+         "given": "Giuliano"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Cristani",
+         "given": "Matteo"
+       },
+       {
+         "family": "Giuliani",
+         "given": "Alessandro"
+       }
+     ],
+     "id": "DBLP:conf/kdweb/2016",
+     "issued": {
+       "date-parts": [
+         [
+           2016
+         ]
+       ]
+     },
+     "publisher": "CEUR-WS.org",
+     "title": "Proceedings of the 2nd international workshop on knowledge discovery on the web (kdweb 2016)",
+     "type": "editorial",
+     "volume": "1748"
+   },
+   {
+     "DOI": "10.1016/j.comnet.2015.07.008",
+     "URL": "https://doi.org/10.1016/j.comnet.2015.07.008",
+     "author": [
+       {
+         "family": "Oosterman",
+         "given": "Jasper"
+       },
+       {
+         "family": "Yang",
+         "given": "Jie"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Aroyo",
+         "given": "Lora"
+       },
+       {
+         "family": "Houben",
+         "given": "Geert-Jan"
+       }
+     ],
+     "container-title": "Computer Networks",
+     "id": "DBLP:journals/cn/OostermanYBAH15",
+     "issued": {
+       "date-parts": [
+         [
+           2015
+         ]
+       ]
+     },
+     "page": "133-149",
+     "title": "On the impact of knowledge extraction and aggregation on crowdsourced annotation of visual artworks",
+     "type": "article-journal",
+     "volume": "90"
+   },
+   {
+     "URL": "http://www.rintonpress.com/xjwe14/jwe-14-56/443-473.pdf",
+     "author": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       },
+       {
+         "family": "Ceri",
+         "given": "Stefano"
+       },
+       {
+         "family": "Mauri",
+         "given": "Andrea"
+       },
+       {
+         "family": "Volonterio",
+         "given": "Riccardo"
+       }
+     ],
+     "container-title": "Journal of Web Engineering",
+     "id": "DBLP:journals/jwe/BozzonBC0V15",
+     "issue": "5&6",
+     "issued": {
+       "date-parts": [
+         [
+           2015
+         ]
+       ]
+     },
+     "page": "443-473",
+     "title": "Designing complex crowdsourcing applications covering multiple platforms and tasks",
+     "type": "article-journal",
+     "volume": "14"
+   },
+   {
+     "DOI": "10.1007/978-3-319-19890-3\\_43",
+     "ISBN": "978-3-319-19889-7",
+     "URL": "https://doi.org/10.1007/978-3-319-19890-3\\_43",
+     "author": [
+       {
+         "family": "Sips",
+         "given": "Robert-Jan"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Smit",
+         "given": "Gerard"
+       },
+       {
+         "family": "Houben",
+         "given": "Geert-Jan"
+       }
+     ],
+     "collection-title": "Lecture notes in computer science",
+     "container-title": "Proceedings of the 15th international conference on Web Engineering (ICWE 2015)",
+     "editor": [
+       {
+         "family": "Cimiano",
+         "given": "Philipp"
+       },
+       {
+         "family": "Frasincar",
+         "given": "Flavius"
+       },
+       {
+         "family": "Houben",
+         "given": "Geert-Jan"
+       },
+       {
+         "family": "Schwabe",
+         "given": "Daniel"
+       }
+     ],
+     "id": "DBLP:conf/icwe/SipsBSH15",
+     "issued": {
+       "date-parts": [
+         [
+           2015
+         ]
+       ]
+     },
+     "page": "621-624",
+     "publisher": "Springer",
+     "title": "The inclusive enterprise: Vision and roadmap",
+     "title-short": "The inclusive enterprise",
+     "type": "paper-conference",
+     "volume": "9114"
+   },
+   {
+     "DOI": "10.1007/978-3-319-19890-3\\_47",
+     "ISBN": "978-3-319-19889-7",
+     "URL": "https://doi.org/10.1007/978-3-319-19890-3\\_47",
+     "author": [
+       {
+         "family": "Yang",
+         "given": "Jie"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Houben",
+         "given": "Geert-Jan"
+       }
+     ],
+     "collection-title": "Lecture notes in computer science",
+     "container-title": "Proceedings of the 15th international conference on Web Engineering (ICWE 2015)",
+     "editor": [
+       {
+         "family": "Cimiano",
+         "given": "Philipp"
+       },
+       {
+         "family": "Frasincar",
+         "given": "Flavius"
+       },
+       {
+         "family": "Houben",
+         "given": "Geert-Jan"
+       },
+       {
+         "family": "Schwabe",
+         "given": "Daniel"
+       }
+     ],
+     "id": "DBLP:conf/icwe/YangBH15",
+     "issued": {
+       "date-parts": [
+         [
+           2015
+         ]
+       ]
+     },
+     "page": "639-643",
+     "publisher": "Springer",
+     "title": "Knowledge crowdsourcing acceleration",
+     "type": "paper-conference",
+     "volume": "9114"
+   },
+   {
+     "DOI": "10.1007/978-3-319-19890-3\\_59",
+     "ISBN": "978-3-319-19889-7",
+     "URL": "https://doi.org/10.1007/978-3-319-19890-3\\_59",
+     "author": [
+       {
+         "family": "Yang",
+         "given": "Jie"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Houben",
+         "given": "Geert-Jan"
+       }
+     ],
+     "collection-title": "Lecture notes in computer science",
+     "container-title": "Proceedings of the 15th international conference on Web Engineering (ICWE 2015)",
+     "editor": [
+       {
+         "family": "Cimiano",
+         "given": "Philipp"
+       },
+       {
+         "family": "Frasincar",
+         "given": "Flavius"
+       },
+       {
+         "family": "Houben",
+         "given": "Geert-Jan"
+       },
+       {
+         "family": "Schwabe",
+         "given": "Daniel"
+       }
+     ],
+     "id": "DBLP:conf/icwe/YangBH15a",
+     "issued": {
+       "date-parts": [
+         [
+           2015
+         ]
+       ]
+     },
+     "page": "691-694",
+     "publisher": "Springer",
+     "title": "E-WISE: an expertise-driven recommendation platform for web question answering systems",
+     "type": "paper-conference",
+     "volume": "9114"
+   },
+   {
+     "URL": "http://ceur-ws.org/Vol-1489/paper-05.pdf",
+     "author": [
+       {
+         "family": "Silvestri",
+         "given": "Giuseppe"
+       },
+       {
+         "family": "Yang",
+         "given": "Jie"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Tagarelli",
+         "given": "Andrea"
+       }
+     ],
+     "collection-title": "CEUR workshop proceedings",
+     "container-title": "Proceedings of the 1st international workshop on knowledge discovery on the web (kdweb 2015)",
+     "editor": [
+       {
+         "family": "Armano",
+         "given": "Giuliano"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Giuliani",
+         "given": "Alessandro"
+       }
+     ],
+     "id": "DBLP:conf/kdweb/SilvestriYBT15",
+     "issued": {
+       "date-parts": [
+         [
+           2015
+         ]
+       ]
+     },
+     "page": "41-52",
+     "publisher": "CEUR-WS.org",
+     "title": "Linking accounts across social networks: The case of stackoverflow, github and twitter",
+     "title-short": "Linking accounts across social networks",
+     "type": "paper-workship",
+     "volume": "1489"
+   },
+   {
+     "DOI": "10.1145/2695664.2695777",
+     "ISBN": "978-1-4503-3196-8",
+     "URL": "https://doi.org/10.1145/2695664.2695777",
+     "author": [
+       {
+         "family": "Kassing",
+         "given": "Simon"
+       },
+       {
+         "family": "Oosterman",
+         "given": "Jasper"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Houben",
+         "given": "Geert-Jan"
+       }
+     ],
+     "container-title": "Proceedings of the 30th annual ACM symposium on applied computing (SAC 2015)",
+     "editor": [
+       {
+         "family": "Wainwright",
+         "given": "Roger L."
+       },
+       {
+         "family": "Corchado",
+         "given": "Juan Manuel"
+       },
+       {
+         "family": "Bechini",
+         "given": "Alessio"
+       },
+       {
+         "family": "Hong",
+         "given": "Jiman"
+       }
+     ],
+     "id": "DBLP:conf/sac/KassingOBH15",
+     "issued": {
+       "date-parts": [
+         [
+           2015
+         ]
+       ]
+     },
+     "page": "747-752",
+     "publisher": "ACM",
+     "title": "Locating domain-specific contents and experts on social bookmarking communities",
+     "type": "paper-conference"
+   },
+   {
+     "DOI": "10.1007/978-3-319-20267-9\\_26",
+     "ISBN": "978-3-319-20266-2",
+     "URL": "https://doi.org/10.1007/978-3-319-20267-9\\_26",
+     "author": [
+       {
+         "family": "Yang",
+         "given": "Jie"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Houben",
+         "given": "Geert-Jan"
+       }
+     ],
+     "collection-title": "Lecture notes in computer science",
+     "container-title": "Proceeedings of the 23rd international conference on User modeling, adaptation and personalization (UMAP 2015)",
+     "editor": [
+       {
+         "family": "Ricci",
+         "given": "Francesco"
+       },
+       {
+         "family": "Bontcheva",
+         "given": "Kalina"
+       },
+       {
+         "family": "Conlan",
+         "given": "Owen"
+       },
+       {
+         "family": "Lawless",
+         "given": "Séamus"
+       }
+     ],
+     "id": "DBLP:conf/um/YangBH15",
+     "issued": {
+       "date-parts": [
+         [
+           2015
+         ]
+       ]
+     },
+     "page": "315-327",
+     "publisher": "Springer",
+     "title": "Harnessing engagement for knowledge creation acceleration in collaborative q&A systems",
+     "type": "paper-conference",
+     "volume": "9146"
+   },
+   {
+     "DOI": "10.1145/2740908.2742826",
+     "ISBN": "978-1-4503-3473-0",
+     "URL": "https://doi.org/10.1145/2740908.2742826",
+     "author": [
+       {
+         "family": "Bocconi",
+         "given": "Stefano"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Psyllidis",
+         "given": "Achilleas"
+       },
+       {
+         "family": "Bolivar",
+         "given": "Christiaan Titos"
+       },
+       {
+         "family": "Houben",
+         "given": "Geert-Jan"
+       }
+     ],
+     "container-title": "Proceedings of the 24th international conference on World Wide Web (WWW 2015)",
+     "editor": [
+       {
+         "family": "Gangemi",
+         "given": "Aldo"
+       },
+       {
+         "family": "Leonardi",
+         "given": "Stefano"
+       },
+       {
+         "family": "Panconesi",
+         "given": "Alessandro"
+       }
+     ],
+     "id": "DBLP:conf/www/BocconiBPBH15",
+     "issued": {
+       "date-parts": [
+         [
+           2015
+         ]
+       ]
+     },
+     "page": "175-178",
+     "publisher": "ACM",
+     "title": "Social glass: A platform for urban analytics and decision-making through heterogeneous social data",
+     "title-short": "Social glass",
+     "type": "paper-conference"
+   },
+   {
+     "ISBN": "978-1-921770-48-7",
+     "URL": "http://crpit.com/Vol166.html",
+     "collection-title": "CRPIT",
+     "editor": [
+       {
+         "family": "Davis",
+         "given": "Joseph G."
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       }
+     ],
+     "id": "DBLP:conf/awc/2015",
+     "issued": {
+       "date-parts": [
+         [
+           2015
+         ]
+       ]
+     },
+     "publisher": "Australian Computer Society",
+     "title": "Proceedings of the 3rd australasian web conference (AWC 2015)",
+     "type": "editorial",
+     "volume": "166"
+   },
+   {
+     "URL": "http://ceur-ws.org/Vol-1489",
+     "collection-title": "CEUR workshop proceedings",
+     "editor": [
+       {
+         "family": "Armano",
+         "given": "Giuliano"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Giuliani",
+         "given": "Alessandro"
+       }
+     ],
+     "id": "DBLP:conf/kdweb/2015",
+     "issued": {
+       "date-parts": [
+         [
+           2015
+         ]
+       ]
+     },
+     "publisher": "CEUR-WS.org",
+     "title": "Proceedings of the 1st international workshop on knowledge discovery on the web (kdweb 2015)",
+     "type": "editorial",
+     "volume": "1489"
+   },
+   {
+     "DOI": "10.1109/MIC.2014.84",
+     "URL": "https://doi.org/10.1109/MIC.2014.84",
+     "author": [
+       {
+         "family": "Balduini",
+         "given": "Marco"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Valle",
+         "given": "Emanuele Della"
+       },
+       {
+         "family": "Huang",
+         "given": "Yi"
+       },
+       {
+         "family": "Houben",
+         "given": "Geert-Jan"
+       }
+     ],
+     "container-title": "IEEE Internet Computing",
+     "id": "DBLP:journals/internet/BalduiniBVHH14",
+     "issue": "5",
+     "issued": {
+       "date-parts": [
+         [
+           2014
+         ]
+       ]
+     },
+     "page": "28-35",
+     "title": "Recommending venues using continuous predictive social media analytics",
+     "type": "article-journal",
+     "volume": "18"
+   },
+   {
+     "DOI": "10.1007/s13740-013-0032-2",
+     "URL": "https://doi.org/10.1007/s13740-013-0032-2",
+     "author": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Fraternali",
+         "given": "Piero"
+       },
+       {
+         "family": "Galli",
+         "given": "Luca"
+       },
+       {
+         "family": "Karam",
+         "given": "Roula"
+       }
+     ],
+     "container-title": "Journal of Data Semantics",
+     "id": "DBLP:journals/jodsn/BozzonFGK14",
+     "issue": "3",
+     "issued": {
+       "date-parts": [
+         [
+           2014
+         ]
+       ]
+     },
+     "page": "169-188",
+     "title": "Modeling crowdsourcing scenarios in socially-enabled human computation applications",
+     "type": "article-journal",
+     "volume": "3"
+   },
+   {
+     "DOI": "10.1145/2579991",
+     "URL": "https://doi.org/10.1145/2579991",
+     "author": [
+       {
+         "family": "Bislimovska",
+         "given": "Bojana"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       },
+       {
+         "family": "Fraternali",
+         "given": "Piero"
+       }
+     ],
+     "container-title": "Transaction on the WEB",
+     "id": "DBLP:journals/tweb/BislimovskaBBF14",
+     "issue": "2",
+     "issued": {
+       "date-parts": [
+         [
+           2014
+         ]
+       ]
+     },
+     "page": "11:1-11:47",
+     "title": "Textual and content-based search in repositories of web application models",
+     "type": "article-journal",
+     "volume": "8"
+   },
+   {
+     "DOI": "10.1145/2598153.2602225",
+     "ISBN": "978-1-4503-2775-6",
+     "URL": "https://doi.org/10.1145/2598153.2602225",
+     "author": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Aroyo",
+         "given": "Lora"
+       },
+       {
+         "family": "Cremonesi",
+         "given": "Paolo"
+       }
+     ],
+     "container-title": "Proceedings of the International working conference on advanced visual interfaces (AVI 2014)",
+     "editor": [
+       {
+         "family": "Paolini",
+         "given": "Paolo"
+       },
+       {
+         "family": "Garzotto",
+         "given": "Franca"
+       }
+     ],
+     "id": "DBLP:conf/avi/BozzonAC14",
+     "issued": {
+       "date-parts": [
+         [
+           2014
+         ]
+       ]
+     },
+     "page": "398-400",
+     "publisher": "ACM",
+     "title": "First international workshop on user interfaces for crowdsourcing and human computation",
+     "type": "editorial"
+   },
+   {
+     "DOI": "10.1145/2594776.2594778",
+     "ISBN": "978-1-4503-2892-0",
+     "URL": "https://doi.org/10.1145/2594776.2594778",
+     "author": [
+       {
+         "family": "Galli",
+         "given": "Luca"
+       },
+       {
+         "family": "Fraternali",
+         "given": "Piero"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       }
+     ],
+     "container-title": "Proceedings of the first international workshop on gamification for information retrieval (gamifir@ECIR ’14)",
+     "editor": [
+       {
+         "family": "Hopfgartner",
+         "given": "Frank"
+       },
+       {
+         "family": "Kazai",
+         "given": "Gabriella"
+       },
+       {
+         "family": "Kruschwitz",
+         "given": "Udo"
+       },
+       {
+         "family": "Meder",
+         "given": "Michael"
+       }
+     ],
+     "id": "DBLP:conf/ecir/GalliFB14",
+     "issued": {
+       "date-parts": [
+         [
+           2014
+         ]
+       ]
+     },
+     "page": "7-11",
+     "publisher": "ACM",
+     "title": "On the application of game mechanics in information retrieval",
+     "type": "paper-workshop"
+   },
+   {
+     "DOI": "10.1145/2594776.2594790",
+     "ISBN": "978-1-4503-2892-0",
+     "URL": "https://doi.org/10.1145/2594776.2594790",
+     "author": [
+       {
+         "family": "Dumeljic",
+         "given": "Bojana"
+       },
+       {
+         "family": "Larson",
+         "given": "Martha"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       }
+     ],
+     "container-title": "Proceedings of the first international workshop on gamification for information retrieval (gamifir@ECIR ’14)",
+     "editor": [
+       {
+         "family": "Hopfgartner",
+         "given": "Frank"
+       },
+       {
+         "family": "Kazai",
+         "given": "Gabriella"
+       },
+       {
+         "family": "Kruschwitz",
+         "given": "Udo"
+       },
+       {
+         "family": "Meder",
+         "given": "Michael"
+       }
+     ],
+     "id": "DBLP:conf/ecir/DumeljicLB14",
+     "issued": {
+       "date-parts": [
+         [
+           2014
+         ]
+       ]
+     },
+     "page": "61-62",
+     "publisher": "ACM",
+     "title": "Moody closet: Exploring intriguing new views on wardrobe recommendation",
+     "title-short": "Moody closet",
+     "type": "paper-workshop"
+   },
+   {
+     "DOI": "10.1145/2631775.2631809",
+     "ISBN": "978-1-4503-2954-5",
+     "URL": "https://doi.org/10.1145/2631775.2631809",
+     "author": [
+       {
+         "family": "Yang",
+         "given": "Jie"
+       },
+       {
+         "family": "Hauff",
+         "given": "Claudia"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Houben",
+         "given": "Geert-Jan"
+       }
+     ],
+     "container-title": "25th ACM conference on hypertext and social media (HT 2014)",
+     "editor": [
+       {
+         "family": "Ferres",
+         "given": "Leo"
+       },
+       {
+         "family": "Rossi",
+         "given": "Gustavo"
+       },
+       {
+         "family": "Almeida",
+         "given": "Virgı́lio A. F."
+       },
+       {
+         "family": "Herder",
+         "given": "Eelco"
+       }
+     ],
+     "id": "DBLP:conf/ht/YangHBH14",
+     "issued": {
+       "date-parts": [
+         [
+           2014
+         ]
+       ]
+     },
+     "page": "179-189",
+     "publisher": "ACM",
+     "title": "Asking the right question in collaborative q&a systems",
+     "type": "paper-conference"
+   },
+   {
+     "DOI": "10.1007/978-3-319-08245-5\\_13",
+     "ISBN": "978-3-319-08244-8",
+     "URL": "https://doi.org/10.1007/978-3-319-08245-5\\_13",
+     "author": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       },
+       {
+         "family": "Ceri",
+         "given": "Stefano"
+       },
+       {
+         "family": "Mauri",
+         "given": "Andrea"
+       },
+       {
+         "family": "Volonterio",
+         "given": "Riccardo"
+       }
+     ],
+     "collection-title": "Lecture notes in computer science",
+     "container-title": "Proceedings of the 14th international conference on Web engineering (ICWE 2014)",
+     "editor": [
+       {
+         "family": "Casteleyn",
+         "given": "Sven"
+       },
+       {
+         "family": "Rossi",
+         "given": "Gustavo"
+       },
+       {
+         "family": "Winckler",
+         "given": "Marco"
+       }
+     ],
+     "id": "DBLP:conf/icwe/BozzonBCMV14",
+     "issued": {
+       "date-parts": [
+         [
+           2014
+         ]
+       ]
+     },
+     "page": "218-235",
+     "publisher": "Springer",
+     "title": "Pattern-based specification of crowdsourcing applications",
+     "type": "paper-conference",
+     "volume": "8541"
+   },
+   {
+     "DOI": "10.1145/2557642.2563675",
+     "ISBN": "978-1-4503-2705-3",
+     "URL": "https://doi.org/10.1145/2557642.2563675",
+     "author": [
+       {
+         "family": "Loni",
+         "given": "Babak"
+       },
+       {
+         "family": "Cheung",
+         "given": "Lei Yen"
+       },
+       {
+         "family": "Riegler",
+         "given": "Michael"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Gottlieb",
+         "given": "Luke"
+       },
+       {
+         "family": "Larson",
+         "given": "Martha"
+       }
+     ],
+     "container-title": "Multimedia systems conference 2014 (mmsys 2014)",
+     "editor": [
+       {
+         "family": "Zimmermann",
+         "given": "Roger"
+       }
+     ],
+     "id": "DBLP:conf/mmsys/LoniCRBGL14",
+     "issued": {
+       "date-parts": [
+         [
+           2014
+         ]
+       ]
+     },
+     "page": "41-46",
+     "publisher": "ACM",
+     "title": "Fashion 10000: An enriched social image dataset for fashion and clothing",
+     "title-short": "Fashion 10000",
+     "type": "paper-conference"
+   },
+   {
+     "URL": "http://ceur-ws.org/Vol-1280/paper3.pdf",
+     "author": [
+       {
+         "family": "Balduini",
+         "given": "Marco"
+       },
+       {
+         "family": "Bocconi",
+         "given": "Stefano"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Valle",
+         "given": "Emanuele Della"
+       },
+       {
+         "family": "Huang",
+         "given": "Yi"
+       },
+       {
+         "family": "Oosterman",
+         "given": "Jasper"
+       },
+       {
+         "family": "Palpanas",
+         "given": "Themis"
+       },
+       {
+         "family": "Tsytsarau",
+         "given": "Mikalai"
+       }
+     ],
+     "collection-title": "CEUR workshop proceedings",
+     "container-title": "Proceedings of the fifth workshop on semantics for smarter cities, a workshop at the 13th international semantic web conference (ISWC 2014)",
+     "editor": [
+       {
+         "family": "Omitola",
+         "given": "Tope"
+       },
+       {
+         "family": "Breslin",
+         "given": "John G."
+       },
+       {
+         "family": "Barnaghi",
+         "given": "Payam M."
+       }
+     ],
+     "id": "DBLP:conf/semweb/BalduiniBBVHOPT14",
+     "issued": {
+       "date-parts": [
+         [
+           2014
+         ]
+       ]
+     },
+     "page": "31-46",
+     "publisher": "CEUR-WS.org",
+     "title": "A case study of active, continuous and predictive social media analytics for smart city",
+     "type": "paper-workshop",
+     "volume": "1280"
+   },
+   {
+     "URL": "http://ceur-ws.org/Vol-1272/paper\\_91.pdf",
+     "author": [
+       {
+         "family": "Zahmatkesh",
+         "given": "Shima"
+       },
+       {
+         "family": "Valle",
+         "given": "Emanuele Della"
+       },
+       {
+         "family": "Dell’Aglio",
+         "given": "Daniele"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       }
+     ],
+     "collection-title": "CEUR workshop proceedings",
+     "container-title": "Proceedings of the ISWC 2014 posters & demonstrations track a track within the 13th international semantic web conference, ISWC 2014, riva del garda, italy, october 21, 2014.",
+     "editor": [
+       {
+         "family": "Horridge",
+         "given": "Matthew"
+       },
+       {
+         "family": "Rospocher",
+         "given": "Marco"
+       },
+       {
+         "dropping-particle": "van",
+         "family": "Ossenbruggen",
+         "given": "Jacco"
+       }
+     ],
+     "id": "DBLP:conf/semweb/ZahmatkeshVDB14",
+     "issued": {
+       "date-parts": [
+         [
+           2014
+         ]
+       ]
+     },
+     "page": "349-352",
+     "publisher": "CEUR-WS.org",
+     "title": "Towards a top-k SPARQL query benchmark",
+     "type": "paper-workshop",
+     "volume": "1272"
+   },
+   {
+     "DOI": "10.1007/978-3-319-15168-7\\_50",
+     "ISBN": "978-3-319-15167-0",
+     "URL": "https://doi.org/10.1007/978-3-319-15168-7\\_50",
+     "author": [
+       {
+         "family": "Novak",
+         "given": "Jasminko"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Fraternali",
+         "given": "Piero"
+       },
+       {
+         "family": "Daras",
+         "given": "Petros"
+       },
+       {
+         "family": "Chrons",
+         "given": "Otto"
+       },
+       {
+         "family": "Nardi",
+         "given": "Bonnie A."
+       },
+       {
+         "family": "Jaimes",
+         "given": "Alejandro"
+       }
+     ],
+     "collection-title": "Lecture notes in computer science",
+     "container-title": "Social informatics - socinfo 2014 international workshops, barcelona, spain, november 11, 2014, revised selected papers",
+     "editor": [
+       {
+         "family": "Aiello",
+         "given": "Luca Maria"
+       },
+       {
+         "family": "McFarland",
+         "given": "Daniel A."
+       }
+     ],
+     "id": "DBLP:conf/socinfo/NovakBFDCNJ14",
+     "issued": {
+       "date-parts": [
+         [
+           2014
+         ]
+       ]
+     },
+     "page": "417-420",
+     "publisher": "Springer",
+     "title": "SoHuman 2014 - 3rd international workshop on social media in crowdsourcing and human computation",
+     "title-short": "SoHuman 2014 - 3rd international workshop on social media in crowdsourcing and human computation",
+     "type": "eidtorial",
+     "volume": "8852"
+   },
+   {
+     "DOI": "10.1007/978-3-319-08786-3\\_23",
+     "ISBN": "978-3-319-08785-6",
+     "URL": "https://doi.org/10.1007/978-3-319-08786-3\\_23",
+     "author": [
+       {
+         "family": "Yang",
+         "given": "Jie"
+       },
+       {
+         "family": "Tao",
+         "given": "Ke"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Houben",
+         "given": "Geert-Jan"
+       }
+     ],
+     "collection-title": "Lecture notes in computer science",
+     "container-title": "Proceedings of the 22nd international conference on User modeling, adaptation, and personalization (UMAP 2014)",
+     "editor": [
+       {
+         "family": "Dimitrova",
+         "given": "Vania"
+       },
+       {
+         "family": "Kuflik",
+         "given": "Tsvi"
+       },
+       {
+         "family": "Chin",
+         "given": "David"
+       },
+       {
+         "family": "Ricci",
+         "given": "Francesco"
+       },
+       {
+         "family": "Dolog",
+         "given": "Peter"
+       },
+       {
+         "family": "Houben",
+         "given": "Geert-Jan"
+       }
+     ],
+     "id": "DBLP:conf/um/YangTBH14",
+     "issued": {
+       "date-parts": [
+         [
+           2014
+         ]
+       ]
+     },
+     "page": "266-277",
+     "publisher": "Springer",
+     "title": "Sparrows and owls: Characterisation of expert behaviour in stackoverflow",
+     "title-short": "Sparrows and owls",
+     "type": "paper-conference",
+     "volume": "8538"
+   },
+   {
+     "DOI": "10.1145/2615569.2615644",
+     "ISBN": "978-1-4503-2622-3",
+     "URL": "https://doi.org/10.1145/2615569.2615644",
+     "author": [
+       {
+         "family": "Oosterman",
+         "given": "Jasper"
+       },
+       {
+         "family": "Nottamkandath",
+         "given": "Archana"
+       },
+       {
+         "family": "Dijkshoorn",
+         "given": "Chris"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Houben",
+         "given": "Geert-Jan"
+       },
+       {
+         "family": "Aroyo",
+         "given": "Lora"
+       }
+     ],
+     "container-title": "ACM web science conference (WebSci 2014)",
+     "editor": [
+       {
+         "family": "Menczer",
+         "given": "Filippo"
+       },
+       {
+         "family": "Hendler",
+         "given": "Jim"
+       },
+       {
+         "family": "Dutton",
+         "given": "William H."
+       },
+       {
+         "family": "Strohmaier",
+         "given": "Markus"
+       },
+       {
+         "family": "Cattuto",
+         "given": "Ciro"
+       },
+       {
+         "family": "Meyer",
+         "given": "Eric T."
+       }
+     ],
+     "id": "DBLP:conf/websci/OostermanNDBHA14",
+     "issued": {
+       "date-parts": [
+         [
+           2014
+         ]
+       ]
+     },
+     "page": "267-268",
+     "publisher": "ACM",
+     "title": "Crowdsourcing knowledge-intensive tasks in cultural heritage",
+     "type": "paper-conference"
+   },
+   {
+     "DOI": "10.1145/2567948.2576938",
+     "ISBN": "978-1-4503-2745-9",
+     "URL": "https://doi.org/10.1145/2567948.2576938",
+     "author": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Efstathiades",
+         "given": "Hariton"
+       },
+       {
+         "family": "Houben",
+         "given": "Geert-Jan"
+       },
+       {
+         "family": "Sips",
+         "given": "Robert-Jan"
+       }
+     ],
+     "container-title": "23rd international world wide web conference (WWW 2014)",
+     "editor": [
+       {
+         "family": "Chung",
+         "given": "Chin-Wan"
+       },
+       {
+         "family": "Broder",
+         "given": "Andrei Z."
+       },
+       {
+         "family": "Shim",
+         "given": "Kyuseok"
+       },
+       {
+         "family": "Suel",
+         "given": "Torsten"
+       }
+     ],
+     "id": "DBLP:conf/www/BozzonEHS14",
+     "issued": {
+       "date-parts": [
+         [
+           2014
+         ]
+       ]
+     },
+     "page": "487-492",
+     "publisher": "ACM",
+     "title": "A study of the online profile of enterprise users in professional social networks",
+     "type": "paper-conference"
+   },
+   {
+     "DOI": "10.1145/2567948.2576960",
+     "ISBN": "978-1-4503-2745-9",
+     "URL": "https://doi.org/10.1145/2567948.2576960",
+     "author": [
+       {
+         "family": "Oosterman",
+         "given": "Jasper"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Houben",
+         "given": "Geert-Jan"
+       },
+       {
+         "family": "Nottamkandath",
+         "given": "Archana"
+       },
+       {
+         "family": "Dijkshoorn",
+         "given": "Chris"
+       },
+       {
+         "family": "Aroyo",
+         "given": "Lora"
+       },
+       {
+         "family": "Leyssen",
+         "given": "Mieke H. R."
+       },
+       {
+         "family": "Traub",
+         "given": "Myriam C."
+       }
+     ],
+     "container-title": "23rd international world wide web conference (WWW 2014)",
+     "editor": [
+       {
+         "family": "Chung",
+         "given": "Chin-Wan"
+       },
+       {
+         "family": "Broder",
+         "given": "Andrei Z."
+       },
+       {
+         "family": "Shim",
+         "given": "Kyuseok"
+       },
+       {
+         "family": "Suel",
+         "given": "Torsten"
+       }
+     ],
+     "id": "DBLP:conf/www/OostermanBHNDALT14",
+     "issued": {
+       "date-parts": [
+         [
+           2014
+         ]
+       ]
+     },
+     "page": "567-568",
+     "publisher": "ACM",
+     "title": "Crowd vs. Experts: Nichesourcing for knowledge intensive tasks in cultural heritage",
+     "title-short": "Crowd vs. Experts",
+     "type": "paper-conference"
+   },
+   {
+     "URL": "http://ercim-news.ercim.eu/en98/special/cityam-managing-big-urban-data-for-analyzing-and-modelling-cities",
+     "author": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Hauff",
+         "given": "Claudia"
+       },
+       {
+         "family": "Houben",
+         "given": "Geert-Jan"
+       }
+     ],
+     "container-title": "ERCIM News",
+     "id": "DBLP:journals/ercim/BozzonHH14",
+     "issue": "98",
+     "issued": {
+       "date-parts": [
+         [
+           2014
+         ]
+       ]
+     },
+     "title": "CItyAM: Managing big urban data for analyzing and modelling cities",
+     "title-short": "CItyAM",
+     "type": "article-journal",
+     "volume": "2014"
+   },
+   {
+     "DOI": "10.1007/978-3-642-39314-3",
+     "ISBN": "978-3-642-39313-6",
+     "URL": "https://doi.org/10.1007/978-3-642-39314-3",
+     "author": [
+       {
+         "family": "Ceri",
+         "given": "Stefano"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       },
+       {
+         "family": "Valle",
+         "given": "Emanuele Della"
+       },
+       {
+         "family": "Fraternali",
+         "given": "Piero"
+       }
+     ],
+     "collection-title": "Data-centric systems and applications",
+     "id": "DBLP:books/daglib/0032309",
+     "issued": {
+       "date-parts": [
+         [
+           2013
+         ]
+       ]
+     },
+     "publisher": "Springer",
+     "title": "Web information retrieval",
+     "type": "book"
+   },
+   {
+     "DOI": "10.3233/SW-2012-0085",
+     "URL": "https://doi.org/10.3233/SW-2012-0085",
+     "author": [
+       {
+         "family": "Valle",
+         "given": "Emanuele Della"
+       },
+       {
+         "family": "Schlobach",
+         "given": "Stefan"
+       },
+       {
+         "family": "Krötzsch",
+         "given": "Markus"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Ceri",
+         "given": "Stefano"
+       },
+       {
+         "family": "Horrocks",
+         "given": "Ian"
+       }
+     ],
+     "container-title": "Semantic Web",
+     "id": "DBLP:journals/semweb/ValleSKBCH13",
+     "issue": "2",
+     "issued": {
+       "date-parts": [
+         [
+           2013
+         ]
+       ]
+     },
+     "page": "219-231",
+     "title": "Order matters! Harnessing a world of orderings for reasoning over massive data",
+     "type": "article-journal",
+     "volume": "4"
+   },
+   {
+     "DOI": "10.1007/s00778-013-0326-x",
+     "URL": "https://doi.org/10.1007/s00778-013-0326-x",
+     "author": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       },
+       {
+         "family": "Ceri",
+         "given": "Stefano"
+       },
+       {
+         "family": "Mazza",
+         "given": "Davide"
+       }
+     ],
+     "container-title": "VLDB Journal",
+     "id": "DBLP:journals/vldb/BozzonBCM13",
+     "issue": "5",
+     "issued": {
+       "date-parts": [
+         [
+           2013
+         ]
+       ]
+     },
+     "page": "641-663",
+     "title": "Exploratory search framework for web data sources",
+     "type": "article-journal",
+     "volume": "22"
+   },
+   {
+     "DOI": "10.1145/2452376.2452451",
+     "ISBN": "978-1-4503-1597-5",
+     "URL": "https://doi.org/10.1145/2452376.2452451",
+     "author": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       },
+       {
+         "family": "Ceri",
+         "given": "Stefano"
+       },
+       {
+         "family": "Silvestri",
+         "given": "Matteo"
+       },
+       {
+         "family": "Vesci",
+         "given": "Giuliano"
+       }
+     ],
+     "container-title": "Proceedings of the Joint 2013 EDBT/ICDT conferences (EDBT 2013)",
+     "editor": [
+       {
+         "family": "Guerrini",
+         "given": "Giovanna"
+       },
+       {
+         "family": "Paton",
+         "given": "Norman W."
+       }
+     ],
+     "id": "DBLP:conf/edbt/BozzonBCSV13",
+     "issued": {
+       "date-parts": [
+         [
+           2013
+         ]
+       ]
+     },
+     "page": "637-648",
+     "publisher": "ACM",
+     "title": "Choosing the right crowd: Expert finding in social networks",
+     "title-short": "Choosing the right crowd",
+     "type": "paper-conference"
+   },
+   {
+     "DOI": "10.1007/978-3-642-39200-9\\_48",
+     "ISBN": "978-3-642-39199-6",
+     "URL": "https://doi.org/10.1007/978-3-642-39200-9\\_48",
+     "author": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Galli",
+         "given": "Luca"
+       }
+     ],
+     "collection-title": "Lecture notes in computer science",
+     "container-title": "Proceedings of the 13th international conference on Web engineering (ICWE 2013)",
+     "editor": [
+       {
+         "family": "Daniel",
+         "given": "Florian"
+       },
+       {
+         "family": "Dolog",
+         "given": "Peter"
+       },
+       {
+         "family": "Li",
+         "given": "Qing"
+       }
+     ],
+     "id": "DBLP:conf/icwe/BozzonG13",
+     "issued": {
+       "date-parts": [
+         [
+           2013
+         ]
+       ]
+     },
+     "page": "514-517",
+     "publisher": "Springer",
+     "title": "An introduction to human computation and games with a purpose",
+     "type": "paper-conference",
+     "volume": "7977"
+   },
+   {
+     "URL": "http://ceur-ws.org/Vol-1043/mediaeval2013\\_submission\\_91.pdf",
+     "author": [
+       {
+         "family": "Loni",
+         "given": "Babak"
+       },
+       {
+         "family": "Larson",
+         "given": "Martha"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Gottlieb",
+         "given": "Luke"
+       }
+     ],
+     "collection-title": "CEUR workshop proceedings",
+     "container-title": "Proceedings of the mediaeval 2013 multimedia benchmark workshop",
+     "editor": [
+       {
+         "family": "Larson",
+         "given": "Martha A."
+       },
+       {
+         "family": "Anguera",
+         "given": "Xavier"
+       },
+       {
+         "family": "Reuter",
+         "given": "Timo"
+       },
+       {
+         "family": "Jones",
+         "given": "Gareth J. F."
+       },
+       {
+         "family": "Ionescu",
+         "given": "Bogdan"
+       },
+       {
+         "family": "Schedl",
+         "given": "Markus"
+       },
+       {
+         "family": "Piatrik",
+         "given": "Tomas"
+       },
+       {
+         "family": "Hauff",
+         "given": "Claudia"
+       },
+       {
+         "family": "Soleymani",
+         "given": "Mohammad"
+       }
+     ],
+     "id": "DBLP:conf/mediaeval/LoniLBG13",
+     "issued": {
+       "date-parts": [
+         [
+           2013
+         ]
+       ]
+     },
+     "publisher": "CEUR-WS.org",
+     "title": "Crowdsourcing for social multimedia at mediaeval 2013: Challenges, data set, and evaluation",
+     "title-short": "Crowdsourcing for social multimedia at mediaeval 2013",
+     "type": "paper-workshop",
+     "volume": "1043"
+   },
+   {
+     "URL": "http://ceur-ws.org/Vol-997/patch2013\\_paper\\_13.pdf",
+     "author": [
+       {
+         "family": "Dijkshoorn",
+         "given": "Chris"
+       },
+       {
+         "family": "Leyssen",
+         "given": "Mieke H. R."
+       },
+       {
+         "family": "Nottamkandath",
+         "given": "Archana"
+       },
+       {
+         "family": "Oosterman",
+         "given": "Jasper"
+       },
+       {
+         "family": "Traub",
+         "given": "Myriam C."
+       },
+       {
+         "family": "Aroyo",
+         "given": "Lora"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Fokkink",
+         "given": "Wan"
+       },
+       {
+         "family": "Houben",
+         "given": "Geert-Jan"
+       },
+       {
+         "family": "Hovelmann",
+         "given": "Henrike"
+       },
+       {
+         "family": "Jongma",
+         "given": "Lizzy"
+       },
+       {
+         "dropping-particle": "van",
+         "family": "Ossenbruggen",
+         "given": "Jacco"
+       },
+       {
+         "family": "Schreiber",
+         "given": "Guus"
+       },
+       {
+         "family": "Wielemaker",
+         "given": "Jan"
+       }
+     ],
+     "collection-title": "CEUR workshop proceedings",
+     "container-title": "Late-breaking results, project papers and workshop proceedings of the 21st conference on user modeling, adaptation, and personalization (UMAP 2013)",
+     "editor": [
+       {
+         "family": "Berkovsky",
+         "given": "Shlomo"
+       },
+       {
+         "family": "Herder",
+         "given": "Eelco"
+       },
+       {
+         "family": "Lops",
+         "given": "Pasquale"
+       },
+       {
+         "family": "Santos",
+         "given": "Olga C."
+       }
+     ],
+     "id": "DBLP:conf/um/DijkshoornLNOTABFHHJOSW13",
+     "issued": {
+       "date-parts": [
+         [
+           2013
+         ]
+       ]
+     },
+     "publisher": "CEUR-WS.org",
+     "title": "Personalized nichesourcing: Acquisition of qualitative annotations from niche communities",
+     "title-short": "Personalized nichesourcing",
+     "type": "paper-conference",
+     "volume": "997"
+   },
+   {
+     "DOI": "10.1145/2488388.2488403",
+     "ISBN": "978-1-4503-2035-1",
+     "URL": "https://doi.org/10.1145/2488388.2488403",
+     "author": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       },
+       {
+         "family": "Ceri",
+         "given": "Stefano"
+       },
+       {
+         "family": "Mauri",
+         "given": "Andrea"
+       }
+     ],
+     "container-title": "Proceedings of the 22nd international world wide web conference (WWW 2013)",
+     "editor": [
+       {
+         "family": "Schwabe",
+         "given": "Daniel"
+       },
+       {
+         "family": "Almeida",
+         "given": "Virgı́lio A. F."
+       },
+       {
+         "family": "Glaser",
+         "given": "Hartmut"
+       },
+       {
+         "family": "Baeza-Yates",
+         "given": "Ricardo A."
+       },
+       {
+         "family": "Moon",
+         "given": "Sue B."
+       }
+     ],
+     "id": "DBLP:conf/www/BozzonBCM13",
+     "issued": {
+       "date-parts": [
+         [
+           2013
+         ]
+       ]
+     },
+     "page": "153-164",
+     "publisher": "International World Wide Web Conferences Steering Committee / ACM",
+     "title": "Reactive crowdsourcing",
+     "type": "paper-conference"
+   },
+   {
+     "DOI": "10.1109/ASONAM.2012.193",
+     "ISBN": "978-0-7695-4799-2",
+     "URL": "https://doi.org/10.1109/ASONAM.2012.193",
+     "author": [
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       }
+     ],
+     "container-title": "International conference on advances in social networks analysis and mining (ASONAM 2012)",
+     "id": "DBLP:conf/asunam/BrambillaB12",
+     "issued": {
+       "date-parts": [
+         [
+           2012
+         ]
+       ]
+     },
+     "page": "1123-1127",
+     "publisher": "IEEE Computer Society",
+     "title": "Web data management through crowdsourcing upon social networks",
+     "type": "paper-conference"
+   },
+   {
+     "DOI": "10.1007/978-3-642-31753-8\\_10",
+     "ISBN": "978-3-642-31752-1",
+     "URL": "https://doi.org/10.1007/978-3-642-31753-8\\_10",
+     "author": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       },
+       {
+         "family": "Fraternali",
+         "given": "Piero"
+       },
+       {
+         "family": "Tagliasacchi",
+         "given": "Marco"
+       }
+     ],
+     "collection-title": "Lecture notes in computer science",
+     "container-title": "Proceedings of the 12th international conference on Web engineering (ICWE 2012)",
+     "editor": [
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       },
+       {
+         "family": "Tokuda",
+         "given": "Takehiro"
+       },
+       {
+         "family": "Tolksdorf",
+         "given": "Robert"
+       }
+     ],
+     "id": "DBLP:conf/icwe/BozzonBFT12",
+     "issued": {
+       "date-parts": [
+         [
+           2012
+         ]
+       ]
+     },
+     "page": "137-152",
+     "publisher": "Springer",
+     "title": "Diversification for multi-domain result sets",
+     "type": "paper-conference",
+     "volume": "7387"
+   },
+   {
+     "DOI": "10.1007/978-3-642-33609-6\\_3",
+     "ISBN": "978-3-642-33608-9",
+     "URL": "https://doi.org/10.1007/978-3-642-33609-6\\_3",
+     "author": [
+       {
+         "family": "Karam",
+         "given": "Roula"
+       },
+       {
+         "family": "Fraternali",
+         "given": "Piero"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Galli",
+         "given": "Luca"
+       }
+     ],
+     "collection-title": "Lecture notes in computer science",
+     "container-title": "Preoceedings of the 2nd international conference on Model and data engineering (MEDI 2012)",
+     "editor": [
+       {
+         "family": "Abelló",
+         "given": "Alberto"
+       },
+       {
+         "family": "Bellatreche",
+         "given": "Ladjel"
+       },
+       {
+         "family": "Benatallah",
+         "given": "Boualem"
+       }
+     ],
+     "id": "DBLP:conf/medi/KaramFBG12",
+     "issued": {
+       "date-parts": [
+         [
+           2012
+         ]
+       ]
+     },
+     "page": "3-15",
+     "publisher": "Springer",
+     "title": "Modeling end-users as contributors in human computation applications",
+     "type": "paper-conference",
+     "volume": "7602"
+   },
+   {
+     "DOI": "10.1007/978-3-642-35176-1\\_22",
+     "ISBN": "978-3-642-35175-4",
+     "URL": "https://doi.org/10.1007/978-3-642-35176-1\\_22",
+     "author": [
+       {
+         "family": "Magliacane",
+         "given": "Sara"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Valle",
+         "given": "Emanuele Della"
+       }
+     ],
+     "collection-title": "Lecture notes in computer science",
+     "container-title": "Proceedings of the 11th international Semantic Web Conference (ISWC 2012)",
+     "editor": [
+       {
+         "family": "Cudré-Mauroux",
+         "given": "Philippe"
+       },
+       {
+         "family": "Heflin",
+         "given": "Jeff"
+       },
+       {
+         "family": "Sirin",
+         "given": "Evren"
+       },
+       {
+         "family": "Tudorache",
+         "given": "Tania"
+       },
+       {
+         "family": "Euzenat",
+         "given": "Jérôme"
+       },
+       {
+         "family": "Hauswirth",
+         "given": "Manfred"
+       },
+       {
+         "family": "Parreira",
+         "given": "Josiane Xavier"
+       },
+       {
+         "family": "Hendler",
+         "given": "Jim"
+       },
+       {
+         "family": "Schreiber",
+         "given": "Guus"
+       },
+       {
+         "family": "Bernstein",
+         "given": "Abraham"
+       },
+       {
+         "family": "Blomqvist",
+         "given": "Eva"
+       }
+     ],
+     "id": "DBLP:conf/semweb/MagliacaneBV12",
+     "issued": {
+       "date-parts": [
+         [
+           2012
+         ]
+       ]
+     },
+     "page": "344-360",
+     "publisher": "Springer",
+     "title": "Efficient execution of top-k SPARQL queries",
+     "type": "paper-conference",
+     "volume": "7649"
+   },
+   {
+     "URL": "http://ceur-ws.org/Vol-842/crowdsearch-brambilla.pdf",
+     "author": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       },
+       {
+         "family": "Mauri",
+         "given": "Andrea"
+       }
+     ],
+     "collection-title": "CEUR workshop proceedings",
+     "container-title": "Proceedings of the first international workshop on crowdsourcing web search (CrowdSearch 2012)",
+     "editor": [
+       {
+         "family": "Baeza-Yates",
+         "given": "Ricardo A."
+       },
+       {
+         "family": "Ceri",
+         "given": "Stefano"
+       },
+       {
+         "family": "Fraternali",
+         "given": "Piero"
+       },
+       {
+         "family": "Giunchiglia",
+         "given": "Fausto"
+       }
+     ],
+     "id": "DBLP:conf/www/BozzonBM12",
+     "issued": {
+       "date-parts": [
+         [
+           2012
+         ]
+       ]
+     },
+     "page": "31-35",
+     "publisher": "CEUR-WS.org",
+     "title": "A model-driven approach for crowdsourcing search",
+     "type": "paper-workshop",
+     "volume": "842"
+   },
+   {
+     "URL": "http://ceur-ws.org/Vol-842/crowdsearch-bozzon.pdf",
+     "author": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Catallo",
+         "given": "Ilio"
+       },
+       {
+         "family": "Ciceri",
+         "given": "Eleonora"
+       },
+       {
+         "family": "Fraternali",
+         "given": "Piero"
+       },
+       {
+         "family": "Martinenghi",
+         "given": "Davide"
+       },
+       {
+         "family": "Tagliasacchi",
+         "given": "Marco"
+       }
+     ],
+     "collection-title": "CEUR workshop proceedings",
+     "container-title": "Proceedings of the first international workshop on crowdsourcing web search (CrowdSearch 2012)",
+     "editor": [
+       {
+         "family": "Baeza-Yates",
+         "given": "Ricardo A."
+       },
+       {
+         "family": "Ceri",
+         "given": "Stefano"
+       },
+       {
+         "family": "Fraternali",
+         "given": "Piero"
+       },
+       {
+         "family": "Giunchiglia",
+         "given": "Fausto"
+       }
+     ],
+     "id": "DBLP:conf/www/BozzonCCFMT12",
+     "issued": {
+       "date-parts": [
+         [
+           2012
+         ]
+       ]
+     },
+     "page": "42-47",
+     "publisher": "CEUR-WS.org",
+     "title": "A framework for crowdsourced multimedia processing and querying",
+     "type": "paper-workshop",
+     "volume": "842"
+   },
+   {
+     "DOI": "10.1145/2187980.2188023",
+     "ISBN": "978-1-4503-1230-1",
+     "URL": "https://doi.org/10.1145/2187980.2188023",
+     "author": [
+       {
+         "family": "Fraternali",
+         "given": "Piero"
+       },
+       {
+         "family": "Tagliasacchi",
+         "given": "Marco"
+       },
+       {
+         "family": "Martinenghi",
+         "given": "Davide"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Catallo",
+         "given": "Ilio"
+       },
+       {
+         "family": "Ciceri",
+         "given": "Eleonora"
+       },
+       {
+         "family": "Nucci",
+         "given": "Francesco Saverio"
+       },
+       {
+         "family": "Croce",
+         "given": "Vincenzo"
+       },
+       {
+         "family": "Altingövde",
+         "given": "Ismail Sengör"
+       },
+       {
+         "family": "Siberski",
+         "given": "Wolf"
+       },
+       {
+         "family": "Giunchiglia",
+         "given": "Fausto"
+       },
+       {
+         "family": "Nejdl",
+         "given": "Wolfgang"
+       },
+       {
+         "family": "Larson",
+         "given": "Martha"
+       },
+       {
+         "family": "Izquierdo",
+         "given": "Ebroul"
+       },
+       {
+         "family": "Daras",
+         "given": "Petros"
+       },
+       {
+         "family": "Chrons",
+         "given": "Otto"
+       },
+       {
+         "family": "Traphöner",
+         "given": "Ralph"
+       },
+       {
+         "family": "Decker",
+         "given": "Björn"
+       },
+       {
+         "family": "Lomas",
+         "given": "John"
+       },
+       {
+         "family": "Aichroth",
+         "given": "Patrick"
+       },
+       {
+         "family": "Novak",
+         "given": "Jasminko"
+       },
+       {
+         "family": "Sillaume",
+         "given": "Ghislain"
+       },
+       {
+         "family": "Sánchez-Figueroa",
+         "given": "Fernando"
+       },
+       {
+         "family": "Salas-Parra",
+         "given": "Carolina"
+       }
+     ],
+     "container-title": "Proceedings of the 21st world wide web conference (WWW 2012)",
+     "editor": [
+       {
+         "family": "Mille",
+         "given": "Alain"
+       },
+       {
+         "family": "Gandon",
+         "given": "Fabien L."
+       },
+       {
+         "family": "Misselis",
+         "given": "Jacques"
+       },
+       {
+         "family": "Rabinovich",
+         "given": "Michael"
+       },
+       {
+         "family": "Staab",
+         "given": "Steffen"
+       }
+     ],
+     "id": "DBLP:conf/www/FraternaliTMBCCNCASGNLIDCTDLANSSS12",
+     "issued": {
+       "date-parts": [
+         [
+           2012
+         ]
+       ]
+     },
+     "page": "259-262",
+     "publisher": "ACM",
+     "title": "The CUBRIK project: Human-enhanced time-aware multimedia search",
+     "title-short": "The CUBRIK project",
+     "type": "paper-conference"
+   },
+   {
+     "DOI": "10.1145/2187836.2187971",
+     "ISBN": "978-1-4503-1229-5",
+     "URL": "https://doi.org/10.1145/2187836.2187971",
+     "author": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       },
+       {
+         "family": "Ceri",
+         "given": "Stefano"
+       }
+     ],
+     "container-title": "Proceedings of the 21st world wide web conference (WWW 2012)",
+     "editor": [
+       {
+         "family": "Mille",
+         "given": "Alain"
+       },
+       {
+         "family": "Gandon",
+         "given": "Fabien L."
+       },
+       {
+         "family": "Misselis",
+         "given": "Jacques"
+       },
+       {
+         "family": "Rabinovich",
+         "given": "Michael"
+       },
+       {
+         "family": "Staab",
+         "given": "Steffen"
+       }
+     ],
+     "id": "DBLP:conf/www/BozzonBC12",
+     "issued": {
+       "date-parts": [
+         [
+           2012
+         ]
+       ]
+     },
+     "page": "1009-1018",
+     "publisher": "ACM",
+     "title": "Answering search queries with crowdsearcher",
+     "type": "paper-conference"
+   },
+   {
+     "DOI": "10.1007/978-3-642-34213-4\\_5",
+     "ISBN": "978-3-642-34212-7",
+     "URL": "https://doi.org/10.1007/978-3-642-34213-4\\_5",
+     "author": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Ceri",
+         "given": "Stefano"
+       },
+       {
+         "family": "Zagorac",
+         "given": "Srdan"
+       }
+     ],
+     "collection-title": "Lecture notes in computer science",
+     "container-title": "Search computing - broadening web search",
+     "editor": [
+       {
+         "family": "Ceri",
+         "given": "Stefano"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       }
+     ],
+     "id": "DBLP:conf/seco/BozzonCZ12",
+     "issued": {
+       "date-parts": [
+         [
+           2012
+         ]
+       ]
+     },
+     "page": "68-81",
+     "publisher": "Springer",
+     "title": "Materialization of web data sources",
+     "type": "chapter",
+     "volume": "7538"
+   },
+   {
+     "DOI": "10.1007/978-3-642-34213-4\\_10",
+     "ISBN": "978-3-642-34212-7",
+     "URL": "https://doi.org/10.1007/978-3-642-34213-4\\_10",
+     "author": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Valle",
+         "given": "Emanuele Della"
+       },
+       {
+         "family": "Magliacane",
+         "given": "Sara"
+       }
+     ],
+     "collection-title": "Lecture notes in computer science",
+     "container-title": "Search computing - broadening web search",
+     "editor": [
+       {
+         "family": "Ceri",
+         "given": "Stefano"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       }
+     ],
+     "id": "DBLP:conf/seco/BozzonVM12",
+     "issued": {
+       "date-parts": [
+         [
+           2012
+         ]
+       ]
+     },
+     "page": "143-156",
+     "publisher": "Springer",
+     "title": "Extending SPARQL algebra to support efficient evaluation of top-k SPARQL queries",
+     "type": "chapter",
+     "volume": "7538"
+   },
+   {
+     "DOI": "10.1007/978-3-642-34213-4\\_14",
+     "ISBN": "978-3-642-34212-7",
+     "URL": "https://doi.org/10.1007/978-3-642-34213-4\\_14",
+     "author": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       },
+       {
+         "family": "Ceri",
+         "given": "Stefano"
+       },
+       {
+         "family": "Mauri",
+         "given": "Andrea"
+       }
+     ],
+     "collection-title": "Lecture notes in computer science",
+     "container-title": "Search computing - broadening web search",
+     "editor": [
+       {
+         "family": "Ceri",
+         "given": "Stefano"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       }
+     ],
+     "id": "DBLP:conf/seco/BozzonBCM12",
+     "issued": {
+       "date-parts": [
+         [
+           2012
+         ]
+       ]
+     },
+     "page": "207-222",
+     "publisher": "Springer",
+     "title": "Extending search to crowds: A model-driven approach",
+     "title-short": "Extending search to crowds",
+     "type": "chapter",
+     "volume": "7538"
+   },
+   {
+     "DOI": "10.1109/MIC.2011.136",
+     "URL": "https://doi.org/10.1109/MIC.2011.136",
+     "author": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       },
+       {
+         "family": "Ceri",
+         "given": "Stefano"
+       },
+       {
+         "family": "Quarteroni",
+         "given": "Silvia"
+       }
+     ],
+     "container-title": "IEEE Internet Computing",
+     "id": "DBLP:journals/internet/BozzonBCQ11",
+     "issue": "6",
+     "issued": {
+       "date-parts": [
+         [
+           2011
+         ]
+       ]
+     },
+     "page": "24-31",
+     "title": "A framework for integrating, exploring, and searching location-based web data",
+     "type": "article-journal",
+     "volume": "15"
+   },
+   {
+     "DOI": "10.1145/2063576.2063851",
+     "ISBN": "978-1-4503-0717-8",
+     "URL": "https://doi.org/10.1145/2063576.2063851",
+     "author": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       },
+       {
+         "family": "Fraternali",
+         "given": "Piero"
+       },
+       {
+         "family": "Tagliasacchi",
+         "given": "Marco"
+       }
+     ],
+     "container-title": "Proceedings of the 20th ACM conference on information and knowledge management, CIKM 2011, glasgow, united kingdom, october 24-28, 2011",
+     "editor": [
+       {
+         "family": "Macdonald",
+         "given": "Craig"
+       },
+       {
+         "family": "Ounis",
+         "given": "Iadh"
+       },
+       {
+         "family": "Ruthven",
+         "given": "Ian"
+       }
+     ],
+     "id": "DBLP:conf/cikm/BozzonBFT11",
+     "issued": {
+       "date-parts": [
+         [
+           2011
+         ]
+       ]
+     },
+     "page": "1905-1908",
+     "publisher": "ACM",
+     "title": "Diversification for multi-domain result sets",
+     "type": "paper-conference"
+   },
+   {
+     "DOI": "10.1007/978-3-642-22233-7\\_1",
+     "ISBN": "978-3-642-22232-0",
+     "URL": "https://doi.org/10.1007/978-3-642-22233-7\\_1",
+     "author": [
+       {
+         "family": "Ceri",
+         "given": "Stefano"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       }
+     ],
+     "collection-title": "Lecture notes in computer science",
+     "container-title": "Web engineering - 11th international conference, ICWE 2011, paphos, cyprus, june 20-24, 2011",
+     "editor": [
+       {
+         "family": "Auer",
+         "given": "Sören"
+       },
+       {
+         "family": "Dı́az",
+         "given": "Oscar"
+       },
+       {
+         "family": "Papadopoulos",
+         "given": "George A."
+       }
+     ],
+     "id": "DBLP:conf/icwe/CeriBB11",
+     "issued": {
+       "date-parts": [
+         [
+           2011
+         ]
+       ]
+     },
+     "page": "1-12",
+     "publisher": "Springer",
+     "title": "The anatomy of a multi-domain search infrastructure",
+     "type": "paper-conference",
+     "volume": "6757"
+   },
+   {
+     "DOI": "10.1007/978-3-642-22233-7\\_7",
+     "ISBN": "978-3-642-22232-0",
+     "URL": "https://doi.org/10.1007/978-3-642-22233-7\\_7",
+     "author": [
+       {
+         "family": "Bislimovska",
+         "given": "Bojana"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       },
+       {
+         "family": "Fraternali",
+         "given": "Piero"
+       }
+     ],
+     "collection-title": "Lecture notes in computer science",
+     "container-title": "Web engineering - 11th international conference, ICWE 2011, paphos, cyprus, june 20-24, 2011",
+     "editor": [
+       {
+         "family": "Auer",
+         "given": "Sören"
+       },
+       {
+         "family": "Dı́az",
+         "given": "Oscar"
+       },
+       {
+         "family": "Papadopoulos",
+         "given": "George A."
+       }
+     ],
+     "id": "DBLP:conf/icwe/BislimovskaBBF11",
+     "issued": {
+       "date-parts": [
+         [
+           2011
+         ]
+       ]
+     },
+     "page": "90-104",
+     "publisher": "Springer",
+     "title": "Graph-based search over web application model repositories",
+     "type": "paper-conference",
+     "volume": "6757"
+   },
+   {
+     "DOI": "10.1007/978-3-642-27997-3\\_10",
+     "ISBN": "978-3-642-27996-6",
+     "URL": "https://doi.org/10.1007/978-3-642-27997-3\\_10",
+     "author": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       },
+       {
+         "family": "Valle",
+         "given": "Emanuele Della"
+       },
+       {
+         "family": "Fraternali",
+         "given": "Piero"
+       },
+       {
+         "family": "Pasini",
+         "given": "Chiara"
+       }
+     ],
+     "collection-title": "Lecture notes in computer science",
+     "container-title": "Current trends in web engineering - workshops, doctoral symposium, and tutorials, held at ICWE 2011, paphos, cyprus, june 20-21, 2011. Revised selected papers",
+     "editor": [
+       {
+         "family": "Harth",
+         "given": "Andreas"
+       },
+       {
+         "family": "Koch",
+         "given": "Nora"
+       }
+     ],
+     "id": "DBLP:conf/icwe/BozzonBVFP11",
+     "issued": {
+       "date-parts": [
+         [
+           2011
+         ]
+       ]
+     },
+     "page": "109-118",
+     "publisher": "Springer",
+     "title": "A conceptual framework for linked data exploration",
+     "type": "paper-conference",
+     "volume": "7059"
+   },
+   {
+     "DOI": "10.1007/978-3-642-22233-7\\_26",
+     "ISBN": "978-3-642-22232-0",
+     "URL": "https://doi.org/10.1007/978-3-642-22233-7\\_26",
+     "author": [
+       {
+         "family": "Barbieri",
+         "given": "Davide Francesco"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       },
+       {
+         "family": "Ceri",
+         "given": "Stefano"
+       },
+       {
+         "family": "Pasini",
+         "given": "Chiara"
+       },
+       {
+         "family": "Tettamanti",
+         "given": "Luca"
+       },
+       {
+         "family": "Vadacca",
+         "given": "Salvatore"
+       },
+       {
+         "family": "Volonterio",
+         "given": "Riccardo"
+       },
+       {
+         "family": "Zagorac",
+         "given": "Srdan"
+       }
+     ],
+     "collection-title": "Lecture notes in computer science",
+     "container-title": "Web engineering - 11th international conference, ICWE 2011, paphos, cyprus, june 20-24, 2011",
+     "editor": [
+       {
+         "family": "Auer",
+         "given": "Sören"
+       },
+       {
+         "family": "Dı́az",
+         "given": "Oscar"
+       },
+       {
+         "family": "Papadopoulos",
+         "given": "George A."
+       }
+     ],
+     "id": "DBLP:conf/icwe/BarbieriBBCPTVVZ11",
+     "issued": {
+       "date-parts": [
+         [
+           2011
+         ]
+       ]
+     },
+     "page": "363-366",
+     "publisher": "Springer",
+     "title": "Exploratory multi-domain search on web data sources with liquid queries",
+     "type": "paper-conference",
+     "volume": "6757"
+   },
+   {
+     "DOI": "10.1007/978-3-642-22233-7\\_27",
+     "ISBN": "978-3-642-22232-0",
+     "URL": "https://doi.org/10.1007/978-3-642-22233-7\\_27",
+     "author": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       },
+       {
+         "family": "Cioria",
+         "given": "Luca"
+       },
+       {
+         "family": "Fraternali",
+         "given": "Piero"
+       },
+       {
+         "family": "Matera",
+         "given": "Maristella"
+       }
+     ],
+     "collection-title": "Lecture notes in computer science",
+     "container-title": "Web engineering - 11th international conference, ICWE 2011, paphos, cyprus, june 20-24, 2011",
+     "editor": [
+       {
+         "family": "Auer",
+         "given": "Sören"
+       },
+       {
+         "family": "Dı́az",
+         "given": "Oscar"
+       },
+       {
+         "family": "Papadopoulos",
+         "given": "George A."
+       }
+     ],
+     "id": "DBLP:conf/icwe/BozzonBCFM11",
+     "issued": {
+       "date-parts": [
+         [
+           2011
+         ]
+       ]
+     },
+     "page": "367-370",
+     "publisher": "Springer",
+     "title": "Model-based dynamic and adaptive visualization for multi-domain search results",
+     "type": "paper-conference",
+     "volume": "6757"
+   },
+   {
+     "DOI": "10.1007/978-3-642-22233-7\\_28",
+     "ISBN": "978-3-642-22232-0",
+     "URL": "https://doi.org/10.1007/978-3-642-22233-7\\_28",
+     "author": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       },
+       {
+         "family": "Cigardi",
+         "given": "Laura"
+       },
+       {
+         "family": "Comai",
+         "given": "Sara"
+       }
+     ],
+     "collection-title": "Lecture notes in computer science",
+     "container-title": "Web engineering - 11th international conference, ICWE 2011, paphos, cyprus, june 20-24, 2011",
+     "editor": [
+       {
+         "family": "Auer",
+         "given": "Sören"
+       },
+       {
+         "family": "Dı́az",
+         "given": "Oscar"
+       },
+       {
+         "family": "Papadopoulos",
+         "given": "George A."
+       }
+     ],
+     "id": "DBLP:conf/icwe/BozzonBCC11",
+     "issued": {
+       "date-parts": [
+         [
+           2011
+         ]
+       ]
+     },
+     "page": "371-374",
+     "publisher": "Springer",
+     "title": "A constraint programming approach to automatic layout definition for search results",
+     "type": "paper-conference",
+     "volume": "6757"
+   },
+   {
+     "URL": "http://dream.inf.ed.ac.uk/events/lhd-11/files/lhd11-proceedings.pdf",
+     "author": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       },
+       {
+         "family": "Ceri",
+         "given": "Stefano"
+       },
+       {
+         "family": "Valle",
+         "given": "Emanuele Della"
+       },
+       {
+         "family": "Quarteroni",
+         "given": "Silvia"
+       }
+     ],
+     "container-title": "Workshop on discovering meaning on the go in large heterogeneous data 2011 (lhd-11), barcelona, spain, july 16, 2011",
+     "id": "DBLP:conf/ijcai/BozzonBCVQ11",
+     "issued": {
+       "date-parts": [
+         [
+           2011
+         ]
+       ]
+     },
+     "page": "67-72",
+     "title": "Understanding web data sources for search and exploration",
+     "type": "paper-conference"
+   },
+   {
+     "DOI": "10.1145/1989323.1989472",
+     "ISBN": "978-1-4503-0661-4",
+     "URL": "https://doi.org/10.1145/1989323.1989472",
+     "author": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Braga",
+         "given": "Daniele"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       },
+       {
+         "family": "Ceri",
+         "given": "Stefano"
+       },
+       {
+         "family": "Corcoglioniti",
+         "given": "Francesco"
+       },
+       {
+         "family": "Fraternali",
+         "given": "Piero"
+       },
+       {
+         "family": "Vadacca",
+         "given": "Salvatore"
+       }
+     ],
+     "container-title": "Proceedings of the ACM SIGMOD international conference on management of data, SIGMOD 2011, athens, greece, june 12-16, 2011",
+     "editor": [
+       {
+         "family": "Sellis",
+         "given": "Timos K."
+       },
+       {
+         "family": "Miller",
+         "given": "Renée J."
+       },
+       {
+         "family": "Kementsietsidis",
+         "given": "Anastasios"
+       },
+       {
+         "family": "Velegrakis",
+         "given": "Yannis"
+       }
+     ],
+     "id": "DBLP:conf/sigmod/BozzonBBCCFV11",
+     "issued": {
+       "date-parts": [
+         [
+           2011
+         ]
+       ]
+     },
+     "page": "1267-1270",
+     "publisher": "ACM",
+     "title": "Search computing: Multi-domain search on ranked data",
+     "title-short": "Search computing",
+     "type": "paper-conference"
+   },
+   {
+     "URL": "http://ceur-ws.org/Vol-880/VLDS-p52-Bozzon.pdf",
+     "author": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Cioria",
+         "given": "Luca"
+       },
+       {
+         "family": "Fraternali",
+         "given": "Piero"
+       },
+       {
+         "family": "Matera",
+         "given": "Maristella"
+       }
+     ],
+     "collection-title": "CEUR workshop proceedings",
+     "container-title": "Proceedings of the first international workshop on searching and integrating new web data sources - very large data search, seattle, wa, usa, september 2, 2011",
+     "editor": [
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       },
+       {
+         "family": "Casati",
+         "given": "Fabio"
+       },
+       {
+         "family": "Ceri",
+         "given": "Stefano"
+       }
+     ],
+     "id": "DBLP:conf/vlds/BozzonCFM11",
+     "issued": {
+       "date-parts": [
+         [
+           2011
+         ]
+       ]
+     },
+     "page": "52-57",
+     "publisher": "CEUR-WS.org",
+     "title": "Dynamic visualizations for multi-domain search results",
+     "type": "paper-conference",
+     "volume": "880"
+   },
+   {
+     "URL": "http://ceur-ws.org/Vol-880/VLDS-p58-Furche.pdf",
+     "author": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Furche",
+         "given": "Tim"
+       },
+       {
+         "family": "Orsi",
+         "given": "Giorgio"
+       },
+       {
+         "family": "Pasini",
+         "given": "Chiara"
+       },
+       {
+         "family": "Tettamanti",
+         "given": "Luca"
+       },
+       {
+         "family": "Vadacca",
+         "given": "Salvatore"
+       }
+     ],
+     "collection-title": "CEUR workshop proceedings",
+     "container-title": "Proceedings of the first international workshop on searching and integrating new web data sources - very large data search, seattle, wa, usa, september 2, 2011",
+     "editor": [
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       },
+       {
+         "family": "Casati",
+         "given": "Fabio"
+       },
+       {
+         "family": "Ceri",
+         "given": "Stefano"
+       }
+     ],
+     "id": "DBLP:conf/vlds/BozzonFOPTV11",
+     "issued": {
+       "date-parts": [
+         [
+           2011
+         ]
+       ]
+     },
+     "page": "58-61",
+     "publisher": "CEUR-WS.org",
+     "title": "Search computing meets data extraction",
+     "type": "paper-conference",
+     "volume": "880"
+   },
+   {
+     "DOI": "10.1145/1963192.1963286",
+     "ISBN": "978-1-4503-0637-9",
+     "URL": "https://doi.org/10.1145/1963192.1963286",
+     "author": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       },
+       {
+         "family": "Ceri",
+         "given": "Stefano"
+       },
+       {
+         "family": "Fraternali",
+         "given": "Piero"
+       },
+       {
+         "family": "Vadacca",
+         "given": "Salvatore"
+       }
+     ],
+     "container-title": "Proceedings of the 20th international conference on world wide web, WWW 2011, hyderabad, india, march 28 - april 1, 2011 (companion volume)",
+     "editor": [
+       {
+         "family": "Srinivasan",
+         "given": "Sadagopan"
+       },
+       {
+         "family": "Ramamritham",
+         "given": "Krithi"
+       },
+       {
+         "family": "Kumar",
+         "given": "Arun"
+       },
+       {
+         "family": "Ravindra",
+         "given": "M. P."
+       },
+       {
+         "family": "Bertino",
+         "given": "Elisa"
+       },
+       {
+         "family": "Kumar",
+         "given": "Ravi"
+       }
+     ],
+     "id": "DBLP:conf/www/BozzonBCFV11",
+     "issued": {
+       "date-parts": [
+         [
+           2011
+         ]
+       ]
+     },
+     "page": "189-192",
+     "publisher": "ACM",
+     "title": "Exploratory search in multi-domain information spaces with liquid query",
+     "type": "paper-conference"
+   },
+   {
+     "DOI": "10.1109/MIC.2010.106",
+     "URL": "https://doi.org/10.1109/MIC.2010.106",
+     "author": [
+       {
+         "family": "Ceri",
+         "given": "Stefano"
+       },
+       {
+         "family": "Abid",
+         "given": "Adnan"
+       },
+       {
+         "family": "Helou",
+         "given": "Mamoun Abu"
+       },
+       {
+         "family": "Barbieri",
+         "given": "Davide Francesco"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Braga",
+         "given": "Daniele"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       },
+       {
+         "family": "Campi",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Corcoglioniti",
+         "given": "Francesco"
+       },
+       {
+         "family": "Valle",
+         "given": "Emanuele Della"
+       },
+       {
+         "family": "Eynard",
+         "given": "Davide"
+       },
+       {
+         "family": "Fraternali",
+         "given": "Piero"
+       },
+       {
+         "family": "Grossniklaus",
+         "given": "Michael"
+       },
+       {
+         "family": "Martinenghi",
+         "given": "Davide"
+       },
+       {
+         "family": "Ronchi",
+         "given": "Stefania"
+       },
+       {
+         "family": "Tagliasacchi",
+         "given": "Marco"
+       },
+       {
+         "family": "Vadacca",
+         "given": "Salvatore"
+       }
+     ],
+     "container-title": "IEEE Internet Computing",
+     "id": "DBLP:journals/internet/CeriAHBBBBCCVEFGMRTV10",
+     "issue": "6",
+     "issued": {
+       "date-parts": [
+         [
+           2010
+         ]
+       ]
+     },
+     "page": "14-22",
+     "title": "Search computing: Managing complex search queries",
+     "title-short": "Search computing",
+     "type": "article-journal",
+     "volume": "14"
+   },
+   {
+     "DOI": "10.1145/1734200.1734204",
+     "URL": "https://doi.org/10.1145/1734200.1734204",
+     "author": [
+       {
+         "family": "Fraternali",
+         "given": "Piero"
+       },
+       {
+         "family": "Comai",
+         "given": "Sara"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Carughi",
+         "given": "Giovanni Toffetti"
+       }
+     ],
+     "container-title": "TWEB",
+     "id": "DBLP:journals/tweb/FraternaliCBC10",
+     "issue": "2",
+     "issued": {
+       "date-parts": [
+         [
+           2010
+         ]
+       ]
+     },
+     "page": "7:1-7:47",
+     "title": "Engineering rich internet applications with a model-driven approach",
+     "type": "article-journal",
+     "volume": "4"
+   },
+   {
+     "DOI": "10.1007/978-3-642-17358-5\\_53",
+     "ISBN": "978-3-642-17357-8",
+     "URL": "https://doi.org/10.1007/978-3-642-17358-5\\_53",
+     "author": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       },
+       {
+         "family": "Corcoglioniti",
+         "given": "Francesco"
+       },
+       {
+         "family": "Vadacca",
+         "given": "Salvatore"
+       }
+     ],
+     "collection-title": "Lecture notes in computer science",
+     "container-title": "Service-oriented computing - 8th international conference, ICSOC 2010, san francisco, ca, usa, december 7-10, 2010. Proceedings",
+     "editor": [
+       {
+         "family": "Maglio",
+         "given": "Paul P."
+       },
+       {
+         "family": "Weske",
+         "given": "Mathias"
+       },
+       {
+         "family": "Yang",
+         "given": "Jian"
+       },
+       {
+         "family": "Fantinato",
+         "given": "Marcelo"
+       }
+     ],
+     "id": "DBLP:conf/icsoc/BozzonBCV10",
+     "issued": {
+       "date-parts": [
+         [
+           2010
+         ]
+       ]
+     },
+     "page": "663-669",
+     "title": "A service-based architecture for multi-domain search on the web",
+     "type": "paper-conference",
+     "volume": "6470"
+   },
+   {
+     "DOI": "10.1007/978-3-642-13911-6\\_1",
+     "ISBN": "978-3-642-13910-9",
+     "URL": "https://doi.org/10.1007/978-3-642-13911-6\\_1",
+     "author": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       },
+       {
+         "family": "Fraternali",
+         "given": "Piero"
+       }
+     ],
+     "collection-title": "Lecture notes in computer science",
+     "container-title": "Web engineering, 10th international conference, ICWE 2010, vienna, austria, july 5-9, 2010. Proceedings",
+     "editor": [
+       {
+         "family": "Benatallah",
+         "given": "Boualem"
+       },
+       {
+         "family": "Casati",
+         "given": "Fabio"
+       },
+       {
+         "family": "Kappel",
+         "given": "Gerti"
+       },
+       {
+         "family": "Rossi",
+         "given": "Gustavo"
+       }
+     ],
+     "id": "DBLP:conf/icwe/BozzonBF10",
+     "issued": {
+       "date-parts": [
+         [
+           2010
+         ]
+       ]
+     },
+     "page": "1-15",
+     "publisher": "Springer",
+     "title": "Searching repositories of web application models",
+     "type": "paper-conference",
+     "volume": "6189"
+   },
+   {
+     "DOI": "10.1007/978-3-642-16985-4\\_6",
+     "ISBN": "978-3-642-16984-7",
+     "URL": "https://doi.org/10.1007/978-3-642-16985-4\\_6",
+     "author": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       },
+       {
+         "family": "Campi",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Ceri",
+         "given": "Stefano"
+       },
+       {
+         "family": "Corcoglioniti",
+         "given": "Francesco"
+       },
+       {
+         "family": "Fraternali",
+         "given": "Piero"
+       },
+       {
+         "family": "Vadacca",
+         "given": "Salvatore"
+       }
+     ],
+     "collection-title": "Lecture notes in computer science",
+     "container-title": "Current trends in web engineering - 10th international conference on web engineering, ICWE 2010 workshops, vienna, austria, july 2010, revised selected papers",
+     "editor": [
+       {
+         "family": "Daniel",
+         "given": "Florian"
+       },
+       {
+         "family": "Facca",
+         "given": "Federico Michele"
+       }
+     ],
+     "id": "DBLP:conf/icwe/BozzonBCCCFV10",
+     "issued": {
+       "date-parts": [
+         [
+           2010
+         ]
+       ]
+     },
+     "page": "61-72",
+     "publisher": "Springer",
+     "title": "Modeling search computing applications",
+     "type": "paper-conference",
+     "volume": "6385"
+   },
+   {
+     "DOI": "10.1007/978-3-642-16961-8\\_30",
+     "ISBN": "978-3-642-16960-1",
+     "URL": "https://doi.org/10.1007/978-3-642-16961-8\\_30",
+     "author": [
+       {
+         "family": "Comai",
+         "given": "Sara"
+       },
+       {
+         "family": "Norrie",
+         "given": "Moira C."
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       }
+     ],
+     "collection-title": "Lecture notes in computer science",
+     "container-title": "On the move to meaningful internet systems: OTM 2010 workshops - confederated international workshops and posters: International workshops: AVYTAT, adi, dataview, ei2n, isde, monet, ontocontent, orm, p2p-cdve, sedes, SWWS and OTMA. hersonissos, crete, greece, october 25-29, 2010. Proceedings",
+     "editor": [
+       {
+         "family": "Meersman",
+         "given": "Robert"
+       },
+       {
+         "family": "Dillon",
+         "given": "Tharam S."
+       },
+       {
+         "family": "Herrero",
+         "given": "Pilar"
+       }
+     ],
+     "id": "DBLP:conf/otm/ComaiNB10",
+     "issued": {
+       "date-parts": [
+         [
+           2010
+         ]
+       ]
+     },
+     "page": "139",
+     "publisher": "Springer",
+     "title": "DATAVIEW’10 - PC co-chairs message",
+     "type": "paper-conference",
+     "volume": "6428"
+   },
+   {
+     "DOI": "10.1007/978-3-642-16961-8\\_32",
+     "ISBN": "978-3-642-16960-1",
+     "URL": "https://doi.org/10.1007/978-3-642-16961-8\\_32",
+     "author": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       },
+       {
+         "family": "Comai",
+         "given": "Sara"
+       }
+     ],
+     "collection-title": "Lecture notes in computer science",
+     "container-title": "On the move to meaningful internet systems: OTM 2010 workshops - confederated international workshops and posters: International workshops: AVYTAT, adi, dataview, ei2n, isde, monet, ontocontent, orm, p2p-cdve, sedes, SWWS and OTMA. hersonissos, crete, greece, october 25-29, 2010. Proceedings",
+     "editor": [
+       {
+         "family": "Meersman",
+         "given": "Robert"
+       },
+       {
+         "family": "Dillon",
+         "given": "Tharam S."
+       },
+       {
+         "family": "Herrero",
+         "given": "Pilar"
+       }
+     ],
+     "id": "DBLP:conf/otm/BozzonBC10",
+     "issued": {
+       "date-parts": [
+         [
+           2010
+         ]
+       ]
+     },
+     "page": "150-159",
+     "publisher": "Springer",
+     "title": "A characterization of the layout definition problem for web search results",
+     "type": "paper-conference",
+     "volume": "6428"
+   },
+   {
+     "DOI": "10.1145/1774088.1774261",
+     "ISBN": "978-1-60558-639-7",
+     "URL": "https://doi.org/10.1145/1774088.1774261",
+     "author": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       },
+       {
+         "family": "Fraternali",
+         "given": "Piero"
+       },
+       {
+         "family": "Pigazzini",
+         "given": "Pasquale"
+       }
+     ],
+     "container-title": "Proceedings of the 2010 ACM symposium on applied computing (sac), sierre, switzerland, march 22-26, 2010",
+     "editor": [
+       {
+         "family": "Shin",
+         "given": "Sung Y."
+       },
+       {
+         "family": "Ossowski",
+         "given": "Sascha"
+       },
+       {
+         "family": "Schumacher",
+         "given": "Michael"
+       },
+       {
+         "family": "Palakal",
+         "given": "Mathew J."
+       },
+       {
+         "family": "Hung",
+         "given": "Chih-Cheng"
+       }
+     ],
+     "id": "DBLP:conf/sac/BozzonBFP10",
+     "issued": {
+       "date-parts": [
+         [
+           2010
+         ]
+       ]
+     },
+     "page": "839-843",
+     "publisher": "ACM",
+     "title": "Integration of a human face annotation technology in an audio-visual search engine platform",
+     "type": "paper-conference"
+   },
+   {
+     "ISBN": "978-88-7488-369-1",
+     "author": [
+       {
+         "family": "Ceri",
+         "given": "Stefano"
+       },
+       {
+         "family": "Abid",
+         "given": "Adnan"
+       },
+       {
+         "family": "Helou",
+         "given": "Mamoun Abu"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Braga",
+         "given": "Daniele"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       },
+       {
+         "family": "Campi",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Corcoglioniti",
+         "given": "Francesco"
+       },
+       {
+         "family": "Valle",
+         "given": "Emanuele Della"
+       },
+       {
+         "family": "Eynard",
+         "given": "Davide"
+       },
+       {
+         "family": "Fraternali",
+         "given": "Piero"
+       },
+       {
+         "family": "Grossniklaus",
+         "given": "Michael"
+       },
+       {
+         "family": "Martinenghi",
+         "given": "Davide"
+       },
+       {
+         "family": "Ronchi",
+         "given": "Stefania"
+       },
+       {
+         "family": "Tagliasacchi",
+         "given": "Marco"
+       },
+       {
+         "family": "Vadacca",
+         "given": "Salvatore"
+       }
+     ],
+     "container-title": "Proceedings of the eighteenth italian symposium on advanced database systems, SEBD 2010, rimini, italy, june 20-23, 2010",
+     "editor": [
+       {
+         "family": "Bergamaschi",
+         "given": "Sonia"
+       },
+       {
+         "family": "Lodi",
+         "given": "Stefano"
+       },
+       {
+         "family": "Martoglia",
+         "given": "Riccardo"
+       },
+       {
+         "family": "Sartori",
+         "given": "Claudio"
+       }
+     ],
+     "id": "DBLP:conf/sebd/CeriAHBBBCCVEFGMRTV10",
+     "issued": {
+       "date-parts": [
+         [
+           2010
+         ]
+       ]
+     },
+     "page": "446-453",
+     "publisher": "Esculapio Editore",
+     "title": "Search computing systems (extended abstract)",
+     "type": "paper-conference"
+   },
+   {
+     "DOI": "10.1007/978-3-642-19668-3\\_2",
+     "ISBN": "978-3-642-19667-6",
+     "URL": "https://doi.org/10.1007/978-3-642-19668-3\\_2",
+     "author": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       },
+       {
+         "family": "Ceri",
+         "given": "Stefano"
+       },
+       {
+         "family": "Fraternali",
+         "given": "Piero"
+       }
+     ],
+     "collection-title": "Lecture notes in computer science",
+     "container-title": "Search computing - trends and developments \\[outcome of the second seco workshop on search computing, como/milan, italy, may 25-31, 2010\\]",
+     "editor": [
+       {
+         "family": "Ceri",
+         "given": "Stefano"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       }
+     ],
+     "id": "DBLP:conf/seco/BozzonBCF10",
+     "issued": {
+       "date-parts": [
+         [
+           2010
+         ]
+       ]
+     },
+     "page": "10-25",
+     "publisher": "Springer",
+     "title": "Information exploration in search computing",
+     "type": "paper-conference",
+     "volume": "6585"
+   },
+   {
+     "DOI": "10.1007/978-3-642-19668-3\\_3",
+     "ISBN": "978-3-642-19667-6",
+     "URL": "https://doi.org/10.1007/978-3-642-19668-3\\_3",
+     "author": [
+       {
+         "family": "Baeza-Yates",
+         "given": "Ricardo A."
+       },
+       {
+         "family": "Boldi",
+         "given": "Paolo"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       },
+       {
+         "family": "Ceri",
+         "given": "Stefano"
+       },
+       {
+         "family": "Pasi",
+         "given": "Gabriella"
+       }
+     ],
+     "collection-title": "Lecture notes in computer science",
+     "container-title": "Search computing - trends and developments \\[outcome of the second seco workshop on search computing, como/milan, italy, may 25-31, 2010\\]",
+     "editor": [
+       {
+         "family": "Ceri",
+         "given": "Stefano"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       }
+     ],
+     "id": "DBLP:conf/seco/Baeza-YatesBBBCP10",
+     "issued": {
+       "date-parts": [
+         [
+           2010
+         ]
+       ]
+     },
+     "page": "26-32",
+     "publisher": "Springer",
+     "title": "Trends in search interaction",
+     "type": "paper-conference",
+     "volume": "6585"
+   },
+   {
+     "DOI": "10.1007/978-3-642-19668-3\\_6",
+     "ISBN": "978-3-642-19667-6",
+     "URL": "https://doi.org/10.1007/978-3-642-19668-3\\_6",
+     "author": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       },
+       {
+         "family": "Catarci",
+         "given": "Tiziana"
+       },
+       {
+         "family": "Ceri",
+         "given": "Stefano"
+       },
+       {
+         "family": "Fraternali",
+         "given": "Piero"
+       },
+       {
+         "family": "Matera",
+         "given": "Maristella"
+       }
+     ],
+     "collection-title": "Lecture notes in computer science",
+     "container-title": "Search computing - trends and developments \\[outcome of the second seco workshop on search computing, como/milan, italy, may 25-31, 2010\\]",
+     "editor": [
+       {
+         "family": "Ceri",
+         "given": "Stefano"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       }
+     ],
+     "id": "DBLP:conf/seco/BozzonBCCFM10",
+     "issued": {
+       "date-parts": [
+         [
+           2010
+         ]
+       ]
+     },
+     "page": "53-69",
+     "publisher": "Springer",
+     "title": "Visualization of multi-domain ranked data",
+     "type": "paper-conference",
+     "volume": "6585"
+   },
+   {
+     "DOI": "10.1007/978-3-642-19668-3\\_9",
+     "ISBN": "978-3-642-19667-6",
+     "URL": "https://doi.org/10.1007/978-3-642-19668-3\\_9",
+     "author": [
+       {
+         "family": "Suchanek",
+         "given": "Fabian M."
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Valle",
+         "given": "Emanuele Della"
+       },
+       {
+         "family": "Campi",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Ronchi",
+         "given": "Stefania"
+       }
+     ],
+     "collection-title": "Lecture notes in computer science",
+     "container-title": "Search computing - trends and developments \\[outcome of the second seco workshop on search computing, como/milan, italy, may 25-31, 2010\\]",
+     "editor": [
+       {
+         "family": "Ceri",
+         "given": "Stefano"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       }
+     ],
+     "id": "DBLP:conf/seco/SuchanekBVCR10",
+     "issued": {
+       "date-parts": [
+         [
+           2010
+         ]
+       ]
+     },
+     "page": "101-112",
+     "publisher": "Springer",
+     "title": "Towards an ontological representation of services in search computing",
+     "type": "paper-conference",
+     "volume": "6585"
+   },
+   {
+     "DOI": "10.1007/978-3-642-19668-3\\_18",
+     "ISBN": "978-3-642-19667-6",
+     "URL": "https://doi.org/10.1007/978-3-642-19668-3\\_18",
+     "author": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       },
+       {
+         "family": "Imran",
+         "given": "Muhammad"
+       },
+       {
+         "family": "Daniel",
+         "given": "Florian"
+       },
+       {
+         "family": "Casati",
+         "given": "Fabio"
+       }
+     ],
+     "collection-title": "Lecture notes in computer science",
+     "container-title": "Search computing - trends and developments \\[outcome of the second seco workshop on search computing, como/milan, italy, may 25-31, 2010\\]",
+     "editor": [
+       {
+         "family": "Ceri",
+         "given": "Stefano"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       }
+     ],
+     "id": "DBLP:conf/seco/BozzonBIDC10",
+     "issued": {
+       "date-parts": [
+         [
+           2010
+         ]
+       ]
+     },
+     "page": "192-200",
+     "publisher": "Springer",
+     "title": "On development practices for end users",
+     "type": "paper-conference",
+     "volume": "6585"
+   },
+   {
+     "DOI": "10.1145/1772690.1772708",
+     "ISBN": "978-1-60558-799-8",
+     "URL": "https://doi.org/10.1145/1772690.1772708",
+     "author": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       },
+       {
+         "family": "Ceri",
+         "given": "Stefano"
+       },
+       {
+         "family": "Fraternali",
+         "given": "Piero"
+       }
+     ],
+     "container-title": "Proceedings of the 19th international conference on world wide web, WWW 2010, raleigh, north carolina, usa, april 26-30, 2010",
+     "editor": [
+       {
+         "family": "Rappa",
+         "given": "Michael"
+       },
+       {
+         "family": "Jones",
+         "given": "Paul"
+       },
+       {
+         "family": "Freire",
+         "given": "Juliana"
+       },
+       {
+         "family": "Chakrabarti",
+         "given": "Soumen"
+       }
+     ],
+     "id": "DBLP:conf/www/BozzonBCF10",
+     "issued": {
+       "date-parts": [
+         [
+           2010
+         ]
+       ]
+     },
+     "page": "161-170",
+     "publisher": "ACM",
+     "title": "Liquid query: Multi-domain exploratory search on the web",
+     "title-short": "Liquid query",
+     "type": "paper-conference"
+   },
+   {
+     "DOI": "10.1109/CBMI.2009.51",
+     "ISBN": "978-0-7695-3662-0",
+     "URL": "https://doi.org/10.1109/CBMI.2009.51",
+     "author": [
+       {
+         "family": "Fraternali",
+         "given": "Piero"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       }
+     ],
+     "container-title": "Seventh international workshop on content-based multimedia indexing, CBMI ’09, chania, crete, greece, june 3-5, 2009",
+     "editor": [
+       {
+         "family": "Kollias",
+         "given": "Stefanos D."
+       },
+       {
+         "family": "Avrithis",
+         "given": "Yannis"
+       }
+     ],
+     "id": "DBLP:conf/cbmi/FraternaliBB09",
+     "issued": {
+       "date-parts": [
+         [
+           2009
+         ]
+       ]
+     },
+     "page": "120-125",
+     "publisher": "IEEE Computer Society",
+     "title": "Model-driven design of audiovisual indexing processes for search-based applications",
+     "type": "paper-conference"
+   },
+   {
+     "DOI": "10.1007/978-3-642-02818-2\\_26",
+     "ISBN": "978-3-642-02817-5",
+     "URL": "https://doi.org/10.1007/978-3-642-02818-2\\_26",
+     "author": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       },
+       {
+         "family": "Fraternali",
+         "given": "Piero"
+       }
+     ],
+     "collection-title": "Lecture notes in computer science",
+     "container-title": "Web engineering, 9th international conference, ICWE 2009, san sebastián, spain, june 24-26, 2009, proceedings",
+     "editor": [
+       {
+         "family": "Gaedke",
+         "given": "Martin"
+       },
+       {
+         "family": "Grossniklaus",
+         "given": "Michael"
+       },
+       {
+         "family": "Dı́az",
+         "given": "Oscar"
+       }
+     ],
+     "id": "DBLP:conf/icwe/BozzonBF09",
+     "issued": {
+       "date-parts": [
+         [
+           2009
+         ]
+       ]
+     },
+     "page": "315-329",
+     "publisher": "Springer",
+     "title": "Conceptual modeling of multimedia search applications using rich process models",
+     "type": "paper-conference",
+     "volume": "5648"
+   },
+   {
+     "DOI": "10.1007/978-3-642-02818-2\\_51",
+     "ISBN": "978-3-642-02817-5",
+     "URL": "https://doi.org/10.1007/978-3-642-02818-2\\_51",
+     "author": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       },
+       {
+         "family": "Fraternali",
+         "given": "Piero"
+       }
+     ],
+     "collection-title": "Lecture notes in computer science",
+     "container-title": "Web engineering, 9th international conference, ICWE 2009, san sebastián, spain, june 24-26, 2009, proceedings",
+     "editor": [
+       {
+         "family": "Gaedke",
+         "given": "Martin"
+       },
+       {
+         "family": "Grossniklaus",
+         "given": "Michael"
+       },
+       {
+         "family": "Dı́az",
+         "given": "Oscar"
+       }
+     ],
+     "id": "DBLP:conf/icwe/BozzonBF09a",
+     "issued": {
+       "date-parts": [
+         [
+           2009
+         ]
+       ]
+     },
+     "page": "513-517",
+     "publisher": "Springer",
+     "title": "Model-driven development of audio-visual web search applications: The PHAROS demonstration",
+     "title-short": "Model-driven development of audio-visual web search applications",
+     "type": "paper-conference",
+     "volume": "5648"
+   },
+   {
+     "DOI": "10.1109/ICWS.2009.24",
+     "ISBN": "978-0-7695-3709-2",
+     "URL": "https://doi.org/10.1109/ICWS.2009.24",
+     "author": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       },
+       {
+         "family": "Facca",
+         "given": "Federico Michele"
+       },
+       {
+         "family": "Carughi",
+         "given": "Giovanni Toffetti"
+       }
+     ],
+     "container-title": "IEEE international conference on web services, ICWS 2009, los angeles, ca, usa, 6-10 july 2009",
+     "id": "DBLP:conf/icws/BozzonBFC09",
+     "issued": {
+       "date-parts": [
+         [
+           2009
+         ]
+       ]
+     },
+     "page": "751-758",
+     "publisher": "IEEE Computer Society",
+     "title": "A conceptual modeling approach to business service mashup development",
+     "type": "paper-conference"
+   },
+   {
+     "DOI": "10.1007/978-3-642-12310-8\\_8",
+     "ISBN": "978-3-642-12309-2",
+     "URL": "https://doi.org/10.1007/978-3-642-12310-8\\_8",
+     "author": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Fraternali",
+         "given": "Piero"
+       }
+     ],
+     "collection-title": "Lecture notes in computer science",
+     "container-title": "Search computing: Challenges and directions \\[outcome of the first seco workshop on search computing challenges and directions, como, italy, june 17-19, 2009\\]",
+     "editor": [
+       {
+         "family": "Ceri",
+         "given": "Stefano"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       }
+     ],
+     "id": "DBLP:conf/seco/BozzonF09",
+     "issued": {
+       "date-parts": [
+         [
+           2009
+         ]
+       ]
+     },
+     "page": "135-155",
+     "publisher": "Springer",
+     "title": "Multimedia and multimodal information retrieval",
+     "type": "paper-conference",
+     "volume": "5950"
+   },
+   {
+     "DOI": "10.1007/978-3-642-12310-8\\_13",
+     "ISBN": "978-3-642-12309-2",
+     "URL": "https://doi.org/10.1007/978-3-642-12310-8\\_13",
+     "author": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       },
+       {
+         "family": "Ceri",
+         "given": "Stefano"
+       },
+       {
+         "family": "Fraternali",
+         "given": "Piero"
+       },
+       {
+         "family": "Manolescu",
+         "given": "Ioana"
+       }
+     ],
+     "collection-title": "Lecture notes in computer science",
+     "container-title": "Search computing: Challenges and directions \\[outcome of the first seco workshop on search computing challenges and directions, como, italy, june 17-19, 2009\\]",
+     "editor": [
+       {
+         "family": "Ceri",
+         "given": "Stefano"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       }
+     ],
+     "id": "DBLP:conf/seco/BozzonBCFM09",
+     "issued": {
+       "date-parts": [
+         [
+           2009
+         ]
+       ]
+     },
+     "page": "244-267",
+     "publisher": "Springer",
+     "title": "Liquid queries and liquid results in search computing",
+     "type": "paper-conference",
+     "volume": "5950"
+   },
+   {
+     "DOI": "10.1007/978-3-642-12310-8\\_14",
+     "ISBN": "978-3-642-12309-2",
+     "URL": "https://doi.org/10.1007/978-3-642-12310-8\\_14",
+     "author": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       },
+       {
+         "family": "Ceri",
+         "given": "Stefano"
+       },
+       {
+         "family": "Corcoglioniti",
+         "given": "Francesco"
+       },
+       {
+         "family": "Gatti",
+         "given": "Nicola"
+       }
+     ],
+     "collection-title": "Lecture notes in computer science",
+     "container-title": "Search computing: Challenges and directions \\[outcome of the first seco workshop on search computing challenges and directions, como, italy, june 17-19, 2009\\]",
+     "editor": [
+       {
+         "family": "Ceri",
+         "given": "Stefano"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       }
+     ],
+     "id": "DBLP:conf/seco/BozzonBCCG09",
+     "issued": {
+       "date-parts": [
+         [
+           2009
+         ]
+       ]
+     },
+     "page": "268-290",
+     "publisher": "Springer",
+     "title": "Building search computing applications",
+     "type": "paper-conference",
+     "volume": "5950"
+   },
+   {
+     "DOI": "10.1145/1571941.1572161",
+     "ISBN": "978-1-60558-483-6",
+     "URL": "https://doi.org/10.1145/1571941.1572161",
+     "author": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       },
+       {
+         "family": "Fraternali",
+         "given": "Piero"
+       },
+       {
+         "family": "Nucci",
+         "given": "Francesco Saverio"
+       },
+       {
+         "family": "Debald",
+         "given": "Stefan"
+       },
+       {
+         "family": "Moore",
+         "given": "Eric"
+       },
+       {
+         "family": "Nejdl",
+         "given": "Wolfgang"
+       },
+       {
+         "family": "Plu",
+         "given": "Michel"
+       },
+       {
+         "family": "Aichroth",
+         "given": "Patrick"
+       },
+       {
+         "family": "Pihlajamaa",
+         "given": "Olli"
+       },
+       {
+         "family": "Laurier",
+         "given": "Cyril"
+       },
+       {
+         "family": "Zagorac",
+         "given": "Serge"
+       },
+       {
+         "family": "Backfried",
+         "given": "Gerhard"
+       },
+       {
+         "family": "Weinland",
+         "given": "Daniel"
+       },
+       {
+         "family": "Croce",
+         "given": "Vincenzo"
+       }
+     ],
+     "container-title": "Proceedings of the 32nd annual international ACM SIGIR conference on research and development in information retrieval, SIGIR 2009, boston, ma, usa, july 19-23, 2009",
+     "editor": [
+       {
+         "family": "Allan",
+         "given": "James"
+       },
+       {
+         "family": "Aslam",
+         "given": "Javed A."
+       },
+       {
+         "family": "Sanderson",
+         "given": "Mark"
+       },
+       {
+         "family": "Zhai",
+         "given": "ChengXiang"
+       },
+       {
+         "family": "Zobel",
+         "given": "Justin"
+       }
+     ],
+     "id": "DBLP:conf/sigir/BozzonBFNDMNPAPLZBWC09",
+     "issued": {
+       "date-parts": [
+         [
+           2009
+         ]
+       ]
+     },
+     "page": "841",
+     "publisher": "ACM",
+     "title": "Pharos: An audiovisual search platform",
+     "title-short": "Pharos",
+     "type": "paper-conference"
+   },
+   {
+     "URL": "http://ceur-ws.org/Vol-445/02icwe2008ws-iwwost04-bozzon.pdf",
+     "author": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Comai",
+         "given": "Sara"
+       },
+       {
+         "family": "Fraternali",
+         "given": "Piero"
+       },
+       {
+         "family": "Tisi",
+         "given": "Massimo"
+       }
+     ],
+     "collection-title": "CEUR workshop proceedings",
+     "container-title": "Proceedings of the 7th international workshop on web-oriented software technologies ( iwwost’2008 ) in conjunction with the 8th international conference on web engineering ( icwe’2008 ) yorktown heights, new york, usa, july 14, 2008.",
+     "editor": [
+       {
+         "family": "Olsina",
+         "given": "Luis"
+       },
+       {
+         "family": "Pastor",
+         "given": "Oscar"
+       },
+       {
+         "family": "Schwabe",
+         "given": "Daniel"
+       },
+       {
+         "family": "Rossi",
+         "given": "Gustavo"
+       },
+       {
+         "family": "Winckler",
+         "given": "Marco"
+       }
+     ],
+     "id": "DBLP:conf/icwe/BozzonCFT08",
+     "issued": {
+       "date-parts": [
+         [
+           2008
+         ]
+       ]
+     },
+     "publisher": "CEUR-WS.org",
+     "title": "Current research on the design of web 2.0 applications based on model-driven approaches",
+     "type": "paper-conference",
+     "volume": "445"
+   },
+   {
+     "DOI": "10.1109/AINA.2007.39",
+     "URL": "https://doi.org/10.1109/AINA.2007.39",
+     "author": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Brambilla",
+         "given": "Marco"
+       },
+       {
+         "family": "Fraternali",
+         "given": "Piero"
+       },
+       {
+         "family": "Speroni",
+         "given": "Paolo"
+       },
+       {
+         "family": "Toffetti",
+         "given": "Giovanni"
+       }
+     ],
+     "container-title": "21st international conference on advanced information networking and applications (AINA 2007), may 21-23, 2007, niagara falls, canada",
+     "id": "DBLP:conf/aina/BozzonBFST07",
+     "issued": {
+       "date-parts": [
+         [
+           2007
+         ]
+       ]
+     },
+     "page": "940-947",
+     "publisher": "IEEE Computer Society",
+     "title": "Applying web-based networking protocols and software architectures for providing adaptivity, personalization, and remotization features to industrial human machine interface applications",
+     "type": "paper-conference"
+   },
+   {
+     "URL": "http://ceur-ws.org/Vol-309/paper03.pdf",
+     "author": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Iofciu",
+         "given": "Tereza"
+       },
+       {
+         "family": "Nejdl",
+         "given": "Wolfgang"
+       },
+       {
+         "family": "Taddeo",
+         "given": "Antonio Vincenzo"
+       },
+       {
+         "family": "Tönnies",
+         "given": "Sascha"
+       }
+     ],
+     "collection-title": "CEUR workshop proceedings",
+     "container-title": "Proceedings of the 1st international workshop on collaborative open environments for project-centered learning, cooper-2007, sissi, lassithi - crete greece, 17 september, 2007",
+     "editor": [
+       {
+         "family": "Ceri",
+         "given": "Stefano"
+       },
+       {
+         "family": "Nejdl",
+         "given": "Wolfgang"
+       },
+       {
+         "dropping-particle": "van",
+         "family": "Bruggen",
+         "given": "Jan"
+       },
+       {
+         "family": "Assche",
+         "given": "Frans Van"
+       }
+     ],
+     "id": "DBLP:conf/ectel/BozzonINTT07",
+     "issued": {
+       "date-parts": [
+         [
+           2007
+         ]
+       ]
+     },
+     "publisher": "CEUR-WS.org",
+     "title": "Role based access control for the interaction with search engines",
+     "type": "paper-conference",
+     "volume": "309"
+   },
+   {
+     "DOI": "10.1007/978-3-540-73597-7\\_17",
+     "ISBN": "978-3-540-73596-0",
+     "URL": "https://doi.org/10.1007/978-3-540-73597-7\\_17",
+     "author": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Iofciu",
+         "given": "Tereza"
+       },
+       {
+         "family": "Nejdl",
+         "given": "Wolfgang"
+       },
+       {
+         "family": "Tönnies",
+         "given": "Sascha"
+       }
+     ],
+     "collection-title": "Lecture notes in computer science",
+     "container-title": "Web engineering, 7th international conference, ICWE 2007, como, italy, july 16-20, 2007, proceedings",
+     "editor": [
+       {
+         "family": "Baresi",
+         "given": "Luciano"
+       },
+       {
+         "family": "Fraternali",
+         "given": "Piero"
+       },
+       {
+         "family": "Houben",
+         "given": "Geert-Jan"
+       }
+     ],
+     "id": "DBLP:conf/icwe/BozzonINT07",
+     "issued": {
+       "date-parts": [
+         [
+           2007
+         ]
+       ]
+     },
+     "page": "210-225",
+     "publisher": "Springer",
+     "title": "Integrating databases, search engines and web applications: A model-driven approach",
+     "title-short": "Integrating databases, search engines and web applications",
+     "type": "paper-conference",
+     "volume": "4607"
+   },
+   {
+     "DOI": "10.1145/1277741.1277885",
+     "ISBN": "978-1-59593-597-7",
+     "URL": "https://doi.org/10.1145/1277741.1277885",
+     "author": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Chirita",
+         "given": "Paul-Alexandru"
+       },
+       {
+         "family": "Firan",
+         "given": "Claudiu S."
+       },
+       {
+         "family": "Nejdl",
+         "given": "Wolfgang"
+       }
+     ],
+     "container-title": "SIGIR 2007: Proceedings of the 30th annual international ACM SIGIR conference on research and development in information retrieval, amsterdam, the netherlands, july 23-27, 2007",
+     "editor": [
+       {
+         "family": "Kraaij",
+         "given": "Wessel"
+       },
+       {
+         "dropping-particle": "de",
+         "family": "Vries",
+         "given": "Arjen P."
+       },
+       {
+         "family": "Clarke",
+         "given": "Charles L. A."
+       },
+       {
+         "family": "Fuhr",
+         "given": "Norbert"
+       },
+       {
+         "family": "Kando",
+         "given": "Noriko"
+       }
+     ],
+     "id": "DBLP:conf/sigir/BozzonCFN07",
+     "issued": {
+       "date-parts": [
+         [
+           2007
+         ]
+       ]
+     },
+     "page": "739-740",
+     "publisher": "ACM",
+     "title": "Lexical analysis for modeling web query reformulation",
+     "type": "paper-conference"
+   },
+   {
+     "DOI": "10.1007/978-3-540-76993-4\\_51",
+     "ISBN": "978-3-540-76992-7",
+     "URL": "https://doi.org/10.1007/978-3-540-76993-4\\_51",
+     "author": [
+       {
+         "family": "Carughi",
+         "given": "Giovanni Toffetti"
+       },
+       {
+         "family": "Comai",
+         "given": "Sara"
+       },
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Fraternali",
+         "given": "Piero"
+       }
+     ],
+     "collection-title": "Lecture notes in computer science",
+     "container-title": "Web information systems engineering - WISE 2007, 8th international conference on web information systems engineering, nancy, france, december 3-7, 2007, proceedings",
+     "editor": [
+       {
+         "family": "Benatallah",
+         "given": "Boualem"
+       },
+       {
+         "family": "Casati",
+         "given": "Fabio"
+       },
+       {
+         "family": "Georgakopoulos",
+         "given": "Dimitrios"
+       },
+       {
+         "family": "Bartolini",
+         "given": "Claudio"
+       },
+       {
+         "family": "Sadiq",
+         "given": "Wasim"
+       },
+       {
+         "family": "Godart",
+         "given": "Claude"
+       }
+     ],
+     "id": "DBLP:conf/wise/CarughiCBF07",
+     "issued": {
+       "date-parts": [
+         [
+           2007
+         ]
+       ]
+     },
+     "page": "593-602",
+     "publisher": "Springer",
+     "title": "Modeling distributed events in data-intensive rich internet applications",
+     "type": "paper-conference",
+     "volume": "4831"
+   },
+   {
+     "DOI": "10.1145/1145581.1145649",
+     "ISBN": "1-59593-352-2",
+     "URL": "https://doi.org/10.1145/1145581.1145649",
+     "author": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Comai",
+         "given": "Sara"
+       },
+       {
+         "family": "Fraternali",
+         "given": "Piero"
+       },
+       {
+         "family": "Carughi",
+         "given": "Giovanni Toffetti"
+       }
+     ],
+     "container-title": "Proceedings of the 6th international conference on web engineering, ICWE 2006, palo alto, california, usa, july 11-14, 2006",
+     "editor": [
+       {
+         "family": "Wolber",
+         "given": "David"
+       },
+       {
+         "family": "Calder",
+         "given": "Neil"
+       },
+       {
+         "family": "Brooks",
+         "given": "Christopher H."
+       },
+       {
+         "family": "Ginige",
+         "given": "Athula"
+       }
+     ],
+     "id": "DBLP:conf/icwe/BozzonCFC06",
+     "issued": {
+       "date-parts": [
+         [
+           2006
+         ]
+       ]
+     },
+     "page": "353-360",
+     "publisher": "ACM",
+     "title": "Conceptual modeling and code generation for rich internet applications",
+     "type": "paper-conference"
+   },
+   {
+     "DOI": "10.1145/1135777.1135938",
+     "ISBN": "1-59593-323-9",
+     "URL": "https://doi.org/10.1145/1135777.1135938",
+     "author": [
+       {
+         "family": "Bozzon",
+         "given": "Alessandro"
+       },
+       {
+         "family": "Comai",
+         "given": "Sara"
+       },
+       {
+         "family": "Fraternali",
+         "given": "Piero"
+       },
+       {
+         "family": "Carughi",
+         "given": "Giovanni Toffetti"
+       }
+     ],
+     "container-title": "Proceedings of the 15th international conference on world wide web, WWW 2006, edinburgh, scotland, uk, may 23-26, 2006",
+     "editor": [
+       {
+         "family": "Carr",
+         "given": "Les"
+       },
+       {
+         "family": "Roure",
+         "given": "David De"
+       },
+       {
+         "family": "Iyengar",
+         "given": "Arun"
+       },
+       {
+         "family": "Goble",
+         "given": "Carole A."
+       },
+       {
+         "family": "Dahlin",
+         "given": "Michael"
+       }
+     ],
+     "id": "DBLP:conf/www/BozzonCFC06",
+     "issued": {
+       "date-parts": [
+         [
+           2006
+         ]
+       ]
+     },
+     "page": "907-908",
+     "publisher": "ACM",
+     "title": "Capturing RIA concepts in a web modeling language",
+     "type": "paper-conference"
+   }
+ ]
+ 
