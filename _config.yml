@@ -16,10 +16,10 @@ minimal_mistakes_skin    :  "default" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alessandro Bozzon"
+title                    : "Prof.dr.ir. Alessandro Bozzon"
 title_separator          : "-"
-name                     : "Alessandro Bozzon"
-description              : "This is the personal academic Web site of Dr. Alessandro Bozzon."
+name                     : "Prof.dr.ir. Alessandro Bozzon"
+description              : "This is the personal academic Web site of Prof.dr.ir. Alessandro Bozzon."
 url                      : "https://www.alessandrobozzon.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
