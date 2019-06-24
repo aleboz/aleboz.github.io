@@ -3,25 +3,29 @@ layout: single
 classes: wide
 permalink: /research/
 title: "Research"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
-last_modified_at: 2019-03-31T20:00:00-04:00
+excerpt: ""
+last_modified_at: 2019-06-24T20:00:00-04:00
 sidebar:
   nav: "researchnav"
 
 feature_row:
   - image_path: assets/images/researchgraph.png
     alt: "My Research Vision"
-    excerpt: "**Crowd Computing** is a computational paradigm that advocates for the adoption of human intelligence _at scale_, to improve the performance of computational systems. 
-    <br/><br/>My research effort is devoted to the creation of _mathematical models_ and _computational methods_ for **Crowd Computing**, to address both problems of _analysis_ and _design_ of this class of computational systems.  
-    <br/><br/>My team and I study and build novel **Crowd Computing** methods and tools that combine the cognitive and reasoning abilities of individuals and crowds, with the computational powers of machines, and the value of big amounts of heterogeneous data.
+    excerpt: "My work on Human-Centered Artificial Intelligence focuses on **Crowd Computing**. Crowd Computing is a computational paradigm for **Human-Centred AI** systems that advocates for the adoption of human intelligence at scale, to improve the performance of artificial intelligence systems in terms of: accuracy; adherence to people’s values, goals and needs; seamless interaction within complex social settings; and robustness and adaptability to changing, open-world environments.
+    <br/><br/>My research effort is devoted to the creation of _mathematical models_ and _computational methods_ for **Crowd Computing**, to address both problems of _analysis_ and _design_ of this class of computational systems.
 "
 ---
 
 {% include feature_row type="left" %}
 
+ <!--<br/><br/>My team and I study and build novel methods and tools that combine the cognitive and reasoning abilities of individuals and crowds, with the computational powers of machines, and the value of big amounts of heterogeneous data.-->
+
 ### What is Crowd Computing?
 
 > Crowd Computing advocates for human-in-the-loop systems, where computational tasks are outsourced to a crowd of individuals, or to communities.  Examples of relevant computational tasks include data creation, analysis, or interpretation.
+
+Crowd Computing systems are designed to leverage both the scalability of computational machines as well as the power of human intelligence, to solve complex tasks that are currently beyond the capabilities of artificial intelligence algorithms, and that cannot be solved by a single person alone. For instance: image understanding, sarcasm detection, audio transcription, fake news identification, bias detection.
+CrowdComputingisArtificialIntelligenceofthepeople,bythepeople,andforthepeople. Research in Crowd Computing acknowledges the relevance of human, organisational, and societal factors in the development of AI solutions by considering people as a critical elements in the **design** and **use** of systems, products and services with and for Artificial Intelligence.
 
 In recent years, several successful examples have shown the potential and effectiveness of Crowd Computing: Wikipedia, the ESP game, Galaxy Zoo, online labor markets such as Amazon’s Mechanical Turk, the DARPA Balloon Challenge, FoldIt (a protein folding game), Google Maps, Duolingo, Waze, and others.
 

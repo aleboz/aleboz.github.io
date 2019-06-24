@@ -105,9 +105,9 @@ analytics:
 author:
   name             : "Alessandro Bozzon"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Associate Professor <br/> Delft University of Technology"
+  bio              : "Full Professor <br/> Delft University of Technology"
   location         : "Delft, The Netherlands"
-  email            : "ale@alessandrobozzon.com"
+  email            : "a.bozzon@tudelft.nl"
   links:
   #  - label: "Email"
   #    icon: "fas fa-fw fa-envelope-square"

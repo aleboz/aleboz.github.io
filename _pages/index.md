@@ -3,15 +3,16 @@ layout: splash
 #author_profile: true
 permalink: /
 title: "Alessandro Bozzon Website Home"
-last_modified_at: 2019-03-30T12:04:24-04:00
+last_modified_at: 2019-06-24T12:04:24-04:00
 #toc: true
 feature_row:
   - image_path: assets/images/researchgraph.png
     alt: "Research Map"
     #title: "Alessandro Bozzon"
-    excerpt: "<br/>I am Associate Professor in **Crowd Computing** with the [Department of Software Technology](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/) of the [Faculty of Electrical Engineering, Mathematics, and Computer Science](https://www.tudelft.nl/en/eemcs/) (EEMCS) of [Delft University of Technology](https://www.tudelft.nl). I am member of the [Web Information Systems group](http://wis.ewi.tudelft.nl) chaired by [Prof. Geert-Jan Houben](http://www.wis.ewi.tudelft.nl/houben/). 
+    excerpt: "<br/>I am Professor and Chair of **Human-Centered Artificial Intelligence** with the [Department of Design Engineering](https://www.tudelft.nl/en/ide/about-ide/departments/design-engineering/) of the [Faculty of Industrial Design Engineering](https://www.tudelft.nl/en/ide/) (EEMCS); and part-time professor with the [Department of Software Technology](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/) of the [Faculty of Electrical Engineering, Mathematics, and Computer Science](https://www.tudelft.nl/en/eemcs/) (EEMCS)  of [Delft University of Technology](https://www.tudelft.nl). 
+
     <br/><br/> I lead the [Urban Data Science](https://www.ams-institute.org/urban-data/) team at the [Amsterdam Institute for Advanced Metropolitan Solutions](https://www.ams-institute.org). I am an active member of the [Delft Data Science](https://www.tudelft.nl/ewi/samenwerken/delft-data-science/) and the Leiden-Delft-Erasmus [BOLD (Big, Open and Linked Data) Cities](http://www.centre-for-bold-cities.nl/home) initiatives.
-    <br/><br/> My [research](/research/) lies at the intersection of human computation, user modeling, and web information retrieval. My [team](/research/team) and I study and build novel **Crowd Computing**  methods and tools that combine the cognitive and reasoning abilities of individuals and crowds, with the computational powers of machines, and the value of big amounts of heterogeneous data.
+    <br/><br/> My [research](/research/) lies at the intersection of machine learning, human computation, andh user modeling. My [team](/research/team) and I study and build novel **Human-Centred Artificial Intelligence**  methods and tools that combine the cognitive and reasoning abilities of individuals and crowds, with the computational powers of machines, and the value of big amounts of heterogeneous data.
     
     <br/><br/>My work has been supported through funding from TU Delft, AMS, 4TU, NWO, NWA, SurfSara, H2020, EIT Digital, IBM, KPN, Cognizant, and Telecom Italia.
     "

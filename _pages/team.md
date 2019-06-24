@@ -10,7 +10,7 @@ sidebar:
   nav: "teamnav"
 ---
 
-These are the great colleagues that are currently (or have been) part of my research team. Together, we strive to create the next generation of crowd-powered Web-based system, and, through them, create societal and economic impact.
+These are the great colleagues that are currently (or have been) part of my research team. Together, we strive to create the next generation of Human-Centered Artificial Intelligence system, and, through them, create societal and economic impact.
 
 <figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/team/team2018.jpg" alt="The research team, July 2018.">

@@ -3,17 +3,15 @@ layout: single
 author_profile: false
 classes: wide
 permalink: /about/
-last_modified_at: 2019-03-31T11:00:00-04:00
+last_modified_at: 2019-06-24T11:00:00-04:00
 title: "About Me"
 sidebar:
   nav: "aboutnav"
 feature_row:
   - image_path: assets/images/bio-photo.jpg
     alt: "Me"
-    excerpt: "I am Associate Professor in **Crowd Computing** with the [Department of Software Technology](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/) of the [Faculty of Electrical Engineering, Mathematics, and Computer Science](https://www.tudelft.nl/en/eemcs/) (EEMCS) of [Delft University of Technology](https://www.tudelft.nl). 
-    <br/><br/> I lead the [Urban Data Science](https://www.ams-institute.org/urban-data/) team at the [Amsterdam Institute for Advanced Metropolitan Solutions](https://www.ams-institute.org), where I am also Principal Investigator in Urban Data and Intelligence.  
-    <br/><br/> I am an active member of the [Delft Data Science](https://www.tudelft.nl/ewi/samenwerken/delft-data-science/) initiative, where I am actively involved in activities pertaining to the _Social Data Science_ work line. 
-    <br/>I am an active member of the Leiden-Delft-Erasmus [BOLD (Big, Open and Linked Data) Cities initiative](http://www.centre-for-bold-cities.nl/home).
+    excerpt: "I am Professor and Chair of **Human-Centered Artificial Intelligence** with the [Department of Design Engineering](https://www.tudelft.nl/en/ide/about-ide/departments/design-engineering/) of the [Faculty of Industrial Design Engineering](https://www.tudelft.nl/en/ide/) (EEMCS); and part-time professor with the [Department of Software Technology](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/) of the [Faculty of Electrical Engineering, Mathematics, and Computer Science](https://www.tudelft.nl/en/eemcs/) (EEMCS) of [Delft University of Technology](https://www.tudelft.nl).
+    <br/><br/> I lead the [Urban Data Science](https://www.ams-institute.org/urban-data/) team at the [Amsterdam Institute for Advanced Metropolitan Solutions](https://www.ams-institute.org), where I am also Principal Investigator in Urban Data and Intelligence. I am an active member of the [Delft Data Science](https://www.tudelft.nl/ewi/samenwerken/delft-data-science/) initiative, where I am actively involved in activities pertaining to the _Social Data Science_ work line; and of the Leiden-Delft-Erasmus [BOLD (Big, Open and Linked Data) Cities initiative](http://www.centre-for-bold-cities.nl/home).
     "
 ---
 
@@ -21,11 +19,11 @@ feature_row:
 
 # Employment
 
+I joined the Faculty of Industrial Design and Engineering as Professor and Chair of Human-Centered Artificial Intelligence in _July 2019_. I joined Delft University of Technology in _February 2013_ as Assistant Professor in the Faculty of Electrical Engineering, Mathematics, and Computer Science, where I obtained my tenure in _2017_, and where I have been promoted Associate Professor in _2018_. 
+
 I was awarded my PhD by [Politecnico di Milano](http://www.polimi.it) in _April 2009_, with a thesis focused on model driven approaches for the design, development and automatic code generation of Search Based Applications. During my doctoral studies, I have been a visiting researcher at the [L3S Research Centre](http://www.l3s.de) (Hannover, Germany, 2007), and at FAST Search & Transfer – now Microsoft Development Centre Norway (Oslo, Norway, 2008).
 
-I joined the Faculty of Electrical Engineering, Mathematics, and Computer Science of Delft University of Technology in _February 2013_ as an Assistant Professor. I obtained my tenure in _2017_, and I have been promoted Associate Professor in _2018_. 
-
-Since _2015_, I serve in the EEMCS Computer Science and Embedded Systems Board of Examiners.
+Between _2015_ and _2019_, I served in the EEMCS Computer Science and Embedded Systems Board of Examiners.
 
 Since _2014_, I hold a Faculty Fellow position with the [IBM Benelux CAS](http://www.research.ibm.com/university/cas/benelux/index.html), where I am [Principal Investigator of Enterprise Crowd Computing](http://www.research.ibm.com/university/cas/benelux/team.html).
 
