@@ -30,6 +30,8 @@ The page is currently under construction
 
 ## Supervised Master Students
 
+- [2019] _Sharad Shriram_. [A Human-Machine Approach to Preserve Privacy in Image Analysis Crowdsourcing Tasks](http://resolver.tudelft.nl/uuid:30846529-9080-4945-8502-dc962ec00bf3).
+- [2019] _Enreina Annisa Rizkiasri_. [Crowdsourced Knowledge Base Construction using Text-Based Conversational Agents]()
 - [2018] _Owen Huang_. [Enabling Human Computation through Text-Based Conversational Agents](http://resolver.tudelft.nl/uuid:6d8fe884-740a-4947-8974-12d6f0237394). The thesis work has been [published](https://doi.org/10.1007/978-3-319-20267-9\\_26).  
 - [2018] _Vasileios Milias_. [Extracting the Cognitive Sense of Place from Place-Based Web Data](http://resolver.tudelft.nl/uuid:4ec2dbf2-7096-4fbf-89d0-e800d3b80862).
 - [2018] _Roos de Kok_. [Analysing Individual Energy Consumption Behaviour using Social Media Data](http://resolver.tudelft.nl/uuid:54acc2c2-5622-48e1-81cb-b2f701864c81). The thesis work has been [published](https://doi.org/10.3390/en12010015). 
