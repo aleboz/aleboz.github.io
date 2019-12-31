@@ -38,8 +38,8 @@ researchnav:
   - title: Publications
     url: /research/publications
 
-  - title: Research Projects
-    url: /research/projects
+#  - title: Research Projects
+#    url: /research/projects
 
 edunav:
   - title: Courses
