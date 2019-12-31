@@ -52,7 +52,7 @@ I am involved in research activities sponsored by local, national, and European 
 
 I received the [2017 IBM Faculty Award]() for my work on Enterprise Crowd Computing. I coordinate the Urban Data Science program of AMS, and the activities of the EEMCS Social Data Lab. 
 
-My projects portfolio includes projects with a total budget of more than 8M&euro;.
+My projects portfolio includes projects with a total budget of more than 20M&euro;.
 The funding has been mainly used to build and maintain my research [team](/research/team).
 
 
