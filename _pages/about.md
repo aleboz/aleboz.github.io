@@ -3,14 +3,14 @@ layout: single
 author_profile: false
 classes: wide
 permalink: /about/
-last_modified_at: 2019-06-24T11:00:00-04:00
+last_modified_at: 2019-12-31T11:00:00-04:00
 title: "About Me"
 sidebar:
   nav: "aboutnav"
 feature_row:
   - image_path: assets/images/bio-photo.jpg
     alt: "Me"
-    excerpt: "I am Professor and Chair of **Human-Centered Artificial Intelligence** with the [Department of Design Engineering](https://www.tudelft.nl/en/ide/about-ide/departments/design-engineering/) of the [Faculty of Industrial Design Engineering](https://www.tudelft.nl/en/ide/) (IDE); and part-time professor with the [Department of Software Technology](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/) of the [Faculty of Electrical Engineering, Mathematics, and Computer Science](https://www.tudelft.nl/en/eemcs/) (EEMCS) of [Delft University of Technology](https://www.tudelft.nl).
+    excerpt: "I am Professor and Chair of **Human-Centered Artificial Intelligence** with the [Department of Sustainable Design Engineering](https://www.tudelft.nl/en/ide/about-ide/departments/design-engineering/) of the [Faculty of Industrial Design Engineering](https://www.tudelft.nl/en/ide/) (IDE); and part-time professor with the [Department of Software Technology](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/) of the [Faculty of Electrical Engineering, Mathematics, and Computer Science](https://www.tudelft.nl/en/eemcs/) (EEMCS) of [Delft University of Technology](https://www.tudelft.nl).
     <br/><br/> I lead the [Urban Data Science](https://www.ams-institute.org/urban-data/) team at the [Amsterdam Institute for Advanced Metropolitan Solutions](https://www.ams-institute.org), where I am also Principal Investigator in Urban Data and Intelligence. I am an active member of the [Delft Data Science](https://www.tudelft.nl/ewi/samenwerken/delft-data-science/) initiative, where I am actively involved in activities pertaining to the _Social Data Science_ work line; and of the Leiden-Delft-Erasmus [BOLD (Big, Open and Linked Data) Cities initiative](http://www.centre-for-bold-cities.nl/home).
     "
 ---
@@ -23,9 +23,7 @@ I joined the Faculty of Industrial Design and Engineering as Professor and Chair
 
 I was awarded my PhD by [Politecnico di Milano](http://www.polimi.it) in _April 2009_, with a thesis focused on model driven approaches for the design, development and automatic code generation of Search Based Applications. During my doctoral studies, I have been a visiting researcher at the [L3S Research Centre](http://www.l3s.de) (Hannover, Germany, 2007), and at FAST Search & Transfer – now Microsoft Development Centre Norway (Oslo, Norway, 2008).
 
-Between _2015_ and _2019_, I served in the EEMCS Computer Science and Embedded Systems Board of Examiners.
-
-Since _2014_, I hold a Faculty Fellow position with the [IBM Benelux CAS](http://www.research.ibm.com/university/cas/benelux/index.html), where I am [Principal Investigator of Enterprise Crowd Computing](http://www.research.ibm.com/university/cas/benelux/team.html).
+Since _2015_ I serve in the EEMCS Computer Science and Embedded Systems Board of Examiners, and in the EEMCS Faculty Board of Examiners. 
 
 Between _2016_ and _2017_ I held a Research Fellow position at the [Amsterdam Institute for Advanced Metropolitan Solutions](https://www.ams-institute.org) (AMS). 
 
@@ -33,19 +31,21 @@ Since _2017_ I lead the [Urban Data Science](https://www.ams-institute.org/urban
 
 In _2018_ I have been appointed [Principal Investigator](https://www.ams-institute.org/about-ams/team/principal-investigators/) of Urban Data and Intelligence.
 
+Between _2014_ and _2018_ I held a Faculty Fellow position with the [IBM Benelux CAS](http://www.research.ibm.com/university/cas/benelux/index.html), where I was [Principal Investigator of Enterprise Crowd Computing](http://www.research.ibm.com/university/cas/benelux/team.html).
+
 # Publications
 
-I have published 15 peer-reviewed articles in peer-reviewed international journals (VLDBJ, ACM TWEB, IEEE IC, IEEE Access, Semantic Web Journal),  more than 100 conference papers in international conferences (WWW/TheWebConference, HCOMP, ESWC, ISWC, AAAI, IJCAI, CSCW, RecSys, Hypertext, WebScience, UMPA, ICWE), and several editorial contributions. I am co-author of the book [_Web Information Retrieval_](http://www.springer.com/gp/book/9783642393136) (Springer, 2013). I am co-inventor of the US patent [_Method and system of management of queries for crowd searching_](https://patents.google.com/patent/US8825701B2/en) (US 8825701 B2, 2015).
+I have published 15 peer-reviewed articles in peer-reviewed international journals (VLDBJ, ACM TWEB, IEEE IC, IEEE Access, Semantic Web Journal),  more than 100 conference papers in international conferences (WWW/TheWebConference, HCOMP, CHI, CSCW, AAAI, IJCAI, RecSys, ESWC, ISWC, Hypertext, WebScience, UMPA, ICWE), and several editorial contributions. I am co-author of the book [_Web Information Retrieval_](http://www.springer.com/gp/book/9783642393136) (Springer, 2013). I am co-inventor of the US patent [_Method and system of management of queries for crowd searching_](https://patents.google.com/patent/US8825701B2/en) (US 8825701 B2, 2015).
 
 A complete list of my publications and more bibliometric informations are available in the [Publications](/research/publications) section of my website, in my [DBLP profile](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bozzon:Alessandro.html),  in my [Google Scholar profile](http://bit.ly/BozzonScholarProfile), or in my [Scopus](http://bit.ly/BozzonScopusProfile) profile.
 
 # Funding
 
-I am involved in research activities sponsored by local, national, and European funding bodies. I have acquired more than 3.2M&euro; in research funding, specifically: 
+I am involved in research activities sponsored by local, national, and European funding bodies. I have acquired &asymp;4M&euro; in research funding, specifically: 
 
--  &asymp;1M&euro; from European programs (H2020, EIT Digital, JPI)
+-  &asymp;1,6M&euro; from European programs (H2020, EIT Digital, JPI)
 -  &asymp;1M&euro; cash and in-kind contribution from industry (IBM, Cognizant, KPN, Telecom Italia)
--  &asymp;450K&euro; from Dutch funding bodies (NWA, NWO, 4TU, SurfSara)
+-  &asymp;1M&euro; from Dutch funding bodies (NWA, NWO, 4TU, SurfSara)
 -  &asymp;750K&euro; from institutional funding (AMS, TU Delft, EEMCS)
 -  &asymp;15K&euro; for innovation in education activities. 
 
@@ -62,7 +62,7 @@ I am member of the Steering Committee of the International Conference of Web Eng
 
 I have been **Program Chair** for the [15th International Conference on Web Information Systems and Technologies](http://www.webist.org/ProgramCommittee.aspx) (WEBIST 2019), the [16th International Conference of Web Engineering](https://icwe2016.webengineering.org/organization.html) (ICWE 2016), and the [2015 Australasian Web Conference](https://dblp1.uni-trier.de/db/conf/awc/awc2015.html) (AWC 2015) in Sydney. I have been program chair of 10 workshops ([CitRec2017](https://yangjiera.github.io/citrec2017/), [KDWeb 2017/2016/2015](http://www.iascgroup.it/it/kdweb2018.html), [CrowdUI2014](https://sites.google.com/site/crowdui2014/), [SoHuman2014](https://link.springer.com/chapter/10.1007/978-3-319-15168-7_50), [OrdRing 2011](http://iswc2011.semanticweb.org/workshops/ordering-and-reasoning/index.html), [DataView2011](https://dl.acm.org/citation.cfm?doid=2076006.2076017) and [2010](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=9632&copyownerid=2)).
 
-I served as area/track chair and senior PC member for several conferences ([WWW/TheWebConference 2018](https://www2018.thewebconf.org/committees/tracks-chairs/), [HCOMP 2018](https://www.humancomputation.com/2018/organizers.html), [UMAP 2016](https://www.um.org/umap2016/organisation/organising-committee.html), [ICWE 2017](https://icwe2017.webengineering.org)). I regourarly serve as PC member of several top-tier conferences, such as WWW/TheWebConference, HCOMP, WSDM, WebSci, SIGKDD, AAAI, IJCAI, ACM MM, ICWE, ESWC, ISWC, CSCW, CHI. 
+I served as area/track chair and senior PC member for several conferences ([AAAI 2020](https://aaai.org/Conferences/AAAI-20/), [HCOMP 2019](https://www.humancomputation.com/2019/organizers.html), [WWW/TheWebConference 2018](https://www2018.thewebconf.org/committees/tracks-chairs/), [HCOMP 2018](https://www.humancomputation.com/2018/organizers.html), [UMAP 2016](https://www.um.org/umap2016/organisation/organising-committee.html), [ICWE 2017](https://icwe2017.webengineering.org)). I regourarly serve as PC member of several top-tier conferences, such as WWW/TheWebConference, HCOMP, CSCW, CHI, WSDM, WebSci, SIGKDD, AAAI, IJCAI, ACM MM, ICWE, ESWC, ISWC. 
 
 I served as co-editor for a [special issue of the Semantic Web Journal on Human Computation and Crowdsourcing](https://content.iospress.com/articles/semantic-web/sw292). I provide review service for several top-tier international journals and transactions (e.g. TWEB, Internet Computing, VLDBJ, TOSEM, TIST, TiiS, SIGMOD Record, JWE).
 
