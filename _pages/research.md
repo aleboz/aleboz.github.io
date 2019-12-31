@@ -4,7 +4,7 @@ classes: wide
 permalink: /research/
 title: "Research"
 excerpt: ""
-last_modified_at: 2019-06-24T20:00:00-04:00
+last_modified_at: 2019-12-31T20:00:00-04:00
 sidebar:
   nav: "researchnav"
 
@@ -25,7 +25,7 @@ feature_row:
 > Crowd Computing advocates for human-in-the-loop systems, where computational tasks are outsourced to a crowd of individuals, or to communities.  Examples of relevant computational tasks include data creation, analysis, or interpretation.
 
 Crowd Computing systems are designed to leverage both the scalability of computational machines as well as the power of human intelligence, to solve complex tasks that are currently beyond the capabilities of artificial intelligence algorithms, and that cannot be solved by a single person alone. For instance: image understanding, sarcasm detection, audio transcription, fake news identification, bias detection.
-CrowdComputingisArtificialIntelligenceofthepeople,bythepeople,andforthepeople. Research in Crowd Computing acknowledges the relevance of human, organisational, and societal factors in the development of AI solutions by considering people as a critical elements in the **design** and **use** of systems, products and services with and for Artificial Intelligence.
+CrowdComputing is Artificial Intelligence of the people, by the people, and for the people. Research in Crowd Computing acknowledges the relevance of human, organisational, and societal factors in the development of AI solutions by considering people as a critical elements in the **design** and **use** of systems, products and services with and for Artificial Intelligence.
 
 In recent years, several successful examples have shown the potential and effectiveness of Crowd Computing: Wikipedia, the ESP game, Galaxy Zoo, online labor markets such as Amazon’s Mechanical Turk, the DARPA Balloon Challenge, FoldIt (a protein folding game), Google Maps, Duolingo, Waze, and others.
 
