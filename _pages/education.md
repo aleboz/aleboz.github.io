@@ -15,7 +15,7 @@ layouts_gallery:
   - url: /assets/images/mm-layout-archive.png
     image_path: /assets/images/mm-layout-archive.png
     alt: "archive layout example"
-last_modified_at: 2019-04-06T12:04:24-04:00
+last_modified_at: 2020-11-14T12:00:00-04:00
 sidebar:
   nav: "edunav"
 
@@ -23,12 +23,18 @@ sidebar:
 
 ## Courses
 
-I teach [_Web and Database Technologies_](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=48438) (BSc, with [Claudia Hauff](https://chauff.github.io)) and [_Crowd Computing_](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=45597) (MSc,  with [Nava Tintarev](http://navatintarev.com)). I have lectured  [Information Retrieval](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=38328) (MSc) consecutively from 2013 until 2017. I am Course coordinator of the 1st year course Metropolitan Data 1 (MSc Metropolitan Analysis, Design and Engineering), AMS Institute.
+I teach [_Crowd Computing_](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=55281) (MSc,  with [Ujwal Gadiraju](http://ujwalgadiraju.com)). I am Course Coordinator of the _Machine Learning for Design_ 2sd year course (BSc).
+
+I have lectured  [Information Retrieval](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=38328) (MSc) consecutively from 2013 until 2017; and [_Web and Database Technologies_](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=48438) (BSc, with [Claudia Hauff](https://chauff.github.io)) consecutively from 2013 until 2020. I have been Course Coordinator of the 1st year course Metropolitan Data 1 (MSc Metropolitan Analysis, Design and Engineering), AMS Institute.
 
 The page is currently under construction
 {: .notice--danger}
 
 ## Supervised Master Students
+
+- [2020] _Yu Liu_. [Improve the Mobility Situation around the ArenAPoort during Event](http://resolver.tudelft.nl/uuid:6ea658cd-1e8f-4419-b450-53f633ab4b76). In collaboration with the **Municipality of Amsterdam**.
+- [2020] _Elyn Caili Wu_. [Design knowledge sharing platform for designers](http://resolver.tudelft.nl/uuid:8b6344a2-5781-49a9-a6fb-a413bd38e92c). In collaboration with **Accenture Interactive**. 
+- [2020] _Panagiotis Solis_. [Global Interpretation of Image Classification Models via SEmantic Feature Analysis (SEFA)](http://resolver.tudelft.nl/uuid:6925ccc5-55b6-4f0f-b1c8-57a227b3e25f).
 
 - [2019] _Sharad Shriram_. [A Human-Machine Approach to Preserve Privacy in Image Analysis Crowdsourcing Tasks](http://resolver.tudelft.nl/uuid:30846529-9080-4945-8502-dc962ec00bf3).
 - [2019] _Enreina Annisa Rizkiasri_. [Crowdsourced Knowledge Base Construction using Text-Based Conversational Agents]()
