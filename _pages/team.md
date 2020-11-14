@@ -25,7 +25,11 @@ Below, the list of Ph.D. students, post-doctoral researchers, and research engin
 {::options parse_block_html="true" /}
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/agathe.jpg){: .align-left} [**Agathe Balayn**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/agathe-balayn/){:target="_blank"} joined the team in April 2019, working with [Christoph Lofi](http://www.wis.ewi.tudelft.nl/lofi/) and I on the Cognizant HyperEdgeSensing project. Her work will focus on Crowd Computing systems for automated data labeling in distributed machine learning infrastructures.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/nopic.png){: .align-left} [**Ziyu Li**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/ziyu-li/){:target="_blank"} joined the team in September 2019, working with [Asterios Katsifodimos](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/asterios-katsifodimos/) and I on the Cognizant HyperEdgeSensing project. Her work focuses on Distributed Video Analytics Systems.
+</div>
+
+<div style="display: block; min-height:105px">
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/agathe.jpg){: .align-left} [**Agathe Balayn**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/agathe-balayn/){:target="_blank"} joined the team in April 2019, working with [Christoph Lofi](http://www.wis.ewi.tudelft.nl/lofi/) and I on the Cognizant HyperEdgeSensing project. Her work focuses on Crowd Computing systems for automated data labeling in distributed machine learning infrastructures.
 </div>
 
 <div style="display: block; min-height:105px">
@@ -41,15 +45,15 @@ Below, the list of Ph.D. students, post-doctoral researchers, and research engin
 </div>
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/vincent.jpg){: .align-left} [**Vincent Gong**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/vincent-gong/){:target="_blank"} joined the team in April 2016, working with [Prof. Serge Hoogendoorn](https://www.tudelft.nl/en/ceg/about-faculty/departments/transport-planning/staff/personal-pages/hoogendoorn-sp/){:target="_blank"}, [Dr. Winnie Daamen](https://www.tudelft.nl/en/ceg/about-faculty/departments/transport-planning/staff/personal-pages/daamen-w/) and I on the [ERC Allegro](http://www.allegro-erc.nl){:target="_blank"} project. Vicent studies novel social media analysis techniques for (active mode) transportation modelling and study.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/vincent.jpg){: .align-left} [**Vincent Gong**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/vincent-gong/){:target="_blank"} joined the team in April 2016, working with [Prof. Serge Hoogendoorn](https://www.tudelft.nl/en/ceg/about-faculty/departments/transport-planning/staff/personal-pages/hoogendoorn-sp/){:target="_blank"}, [Dr. Winnie Daamen](https://www.tudelft.nl/en/ceg/about-faculty/departments/transport-planning/staff/personal-pages/daamen-w/) and I on the [ERC Allegro](http://www.allegro-erc.nl){:target="_blank"} project. Vincent _graduated_ in September 2020 with a [thesis](https://doi.org/10.4233/uuid:e13606bc-e466-44c6-8a98-dd89aac8fdc4){:target="_blank"} titled **Using Social Media to Characterise Crowds in City Events for Crowd Management**. Vincent is currently a Post-doctoral researcher.
 </div>
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/sepideh.jpg){: .align-left} [**Sepideh Mesbah**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/sepideh-mesbah/){:target="_blank"} joined the team in March 2016, working with [Christoph Lofi](http://www.wis.ewi.tudelft.nl/lofi/) and I on the [SmartPub](https://github.com/WISDelft/SmartPub){:target="_blank"} project. Sepideh studies novel techniques for long-tail named entity extraction from scientific documents.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/sepideh.jpg){: .align-left} [**Sepideh Mesbah**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/sepideh-mesbah/){:target="_blank"} joined the team in March 2016, working with [Christoph Lofi](http://www.wis.ewi.tudelft.nl/lofi/) and I on the [SmartPub](https://github.com/WISDelft/SmartPub){:target="_blank"} project. Sepideh _graduated_ in May 2020 with a [thesis](https://doi.org/10.4233/uuid:dbbfe1fc-bf63-45f0-8cf2-28ed7dab90eb){:target="_blank"} titled **Semantic-Enhanced Training Data Augmentation Methods for Long-Tail Entity Recognition Models**. Sepideh is currently a Post-doctoral researcher.
 </div>
  
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/jie.jpg){: .align-left} [**Jie Yang**](https://yangjiera.github.io) joined the team in September 2013, and _graduated_ in November 2017 with a [thesis](https://repository.tudelft.nl/islandora/object/uuid:ed22a51a-3469-4699-836d-19322b9537c9?collection=research){:target="_blank"} titled **Crowd Knowledge Acceleration**. Jie is currently working as Applied Scientist at [Amazon Research](https://www.aboutamazon.com/research){:target="_blank"}.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/jie.jpg){: .align-left} [**Jie Yang**](https://yangjiera.github.io) joined the team in September 2013, and _graduated_ in November 2017 with a [thesis](https://repository.tudelft.nl/islandora/object/uuid:ed22a51a-3469-4699-836d-19322b9537c9?collection=research){:target="_blank"} titled **Crowd Knowledge Acceleration**. Jie is currently working as Assistant Professor in the [Web Information Systems](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/){:target="_blank"} group at the Delft University of Technology.
 </div>
 
 <div style="display: block; min-height:105px">
@@ -57,8 +61,7 @@ Below, the list of Ph.D. students, post-doctoral researchers, and research engin
 </div>
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/achilleas.jpg){: .align-left} [**Achilleas Psyllidis**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/achilleas-psyllidis/){:target="_blank"} obtained in 2016 a Ph.D. in Urban Informatics from the Faculty of Architecture and Built Environment with a [thesis](https://repository.tudelft.nl/islandora/object/uuid%3A5f59d2b3-dc83-488b-9617-a44a40f24263){:target="_blank"} titled **Revisiting Urban Dynamics through Social Urban Data**. Achilleas joined the team in 2014, working on the [SocialGlass](http://social-glass.tudelft.nl){:target="_blank"} project. Achilleas is currently a Post-doctoral 
-researcher.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/achilleas.jpg){: .align-left} [**Achilleas Psyllidis**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/achilleas-psyllidis/){:target="_blank"} obtained in 2016 a Ph.D. in Urban Informatics from the Faculty of Architecture and Built Environment with a [thesis](https://repository.tudelft.nl/islandora/object/uuid%3A5f59d2b3-dc83-488b-9617-a44a40f24263){:target="_blank"} titled **Revisiting Urban Dynamics through Social Urban Data**. Achilleas joined the team in 2014, working on the [SocialGlass](http://social-glass.tudelft.nl){:target="_blank"} project. Achilleas is currently working as Assistant Professor in the [Knowledge and Intelligence Design](https://www.tudelft.nl/en/ide/about-ide/departments/sustainable-design-engineering/){:target="_blank"} group at the Delft University of Technology.
 </div>
 
 ## Post-doctoral Researchers
