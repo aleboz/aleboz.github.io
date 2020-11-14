@@ -24,7 +24,7 @@ Below, the list of Ph.D. students, post-doctoral researchers, and research engin
 
 {::options parse_block_html="true" /}
 
-<div style="display: block; height:105px">
+<div style="display: block; width:105px">
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/nopic.png){: .align-left} [**Ziyu Li**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/ziyu-li/){:target="_blank"} joined the team in September 2019, working with [Asterios Katsifodimos](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/asterios-katsifodimos/) and I on the Cognizant HyperEdgeSensing project. Her work focuses on Distributed Video Analytics Systems.
 </div>
 
