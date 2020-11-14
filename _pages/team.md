@@ -4,6 +4,7 @@ classes: wide
 author_profile: false
 permalink: /research/team/
 title: "Research Team"
+last_modified_at: 2020-11-14T12:00:00-04:00
 excerpt: "The Research Team"
 toc: false
 sidebar:
@@ -24,8 +25,14 @@ Below, the list of Ph.D. students, post-doctoral researchers, and research engin
 
 {::options parse_block_html="true" /}
 
-<div style="display: block; width:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/nopic.png){: .align-left} [**Ziyu Li**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/ziyu-li/){:target="_blank"} joined the team in September 2019, working with [Asterios Katsifodimos](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/asterios-katsifodimos/) and I on the Cognizant HyperEdgeSensing project. Her work focuses on Distributed Video Analytics Systems.
+<!-- Vasileos, Roos, Julia, others?, Evert -->
+
+<div style="display: block; min-height:105px">
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/nopic.png){: .align-left} [**Ziyu Li**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/ziyu-li/){:target="_blank"} joined the team in November 2019, working with [Asterios Katsifodimos](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/asterios-katsifodimos/) and I on the Cognizant HyperEdgeSensing project. Her work focuses on complex event processing in real-time video streams.
+</div>
+
+<div style="display: block; min-height:105px">
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/nopic.png){: .align-left} [**Tim Draws**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/tim-draws/){:target="_blank"} joined the team in August 2019, working with [Nava Tintarev](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/nava-tintarev/) and I on a project sponsored by IBM Netherlands. His work focuses on the representation of diverse viewpoints in search results.
 </div>
 
 <div style="display: block; min-height:105px">
