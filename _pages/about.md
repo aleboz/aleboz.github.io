@@ -8,10 +8,10 @@ title: "About Me"
 sidebar:
   nav: "aboutnav"
 feature_row:
-  - image_path: assets/images/bio-photo.jpg
-    alt: "Me"
-    excerpt: "I am Professor and Chair of **Human-Centered Artificial Intelligence** with the [Department of Sustainable Design Engineering](https://www.tudelft.nl/en/ide/about-ide/departments/design-engineering/) of the [Faculty of Industrial Design Engineering](https://www.tudelft.nl/en/ide/) (IDE); and part-time professor with the [Department of Software Technology](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/) of the [Faculty of Electrical Engineering, Mathematics, and Computer Science](https://www.tudelft.nl/en/eemcs/) (EEMCS) of [Delft University of Technology](https://www.tudelft.nl).
-    <br/><br/> I lead the [Urban Data Science](https://www.ams-institute.org/urban-data/) team at the [Amsterdam Institute for Advanced Metropolitan Solutions](https://www.ams-institute.org), where I am also Principal Investigator in Urban Data and Intelligence. I am an active member of the [Delft Data Science](https://www.tudelft.nl/ewi/samenwerken/delft-data-science/) initiative, where I am actively involved in activities pertaining to the _Social Data Science_ work line; and of the Leiden-Delft-Erasmus [BOLD (Big, Open and Linked Data) Cities initiative](http://www.centre-for-bold-cities.nl/home).
+  - image_path: assets/images/bio-photo-2020.jpeg
+    alt: "Portrait of Alessandro Bozzon, 2020"
+    excerpt: "I am Professor of **Human-Centered Artificial Intelligence** with the [Department of Sustainable Design Engineering](https://www.tudelft.nl/en/ide/about-ide/departments/design-engineering/) of the [Faculty of Industrial Design Engineering](https://www.tudelft.nl/en/ide/) (IDE); and part-time professor with the [Department of Software Technology](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/) of the [Faculty of Electrical Engineering, Mathematics, and Computer Science](https://www.tudelft.nl/en/eemcs/) (EEMCS) of [Delft University of Technology](https://www.tudelft.nl). As of November 2020, I serve as head of the [Department of Sustainable Design Engineering](https://www.tudelft.nl/en/ide/about-ide/departments/design-engineering/).
+    <br/><br/> I am Principal Investigator in Urban Data and Intelligence at the [Amsterdam Institute for Advanced Metropolitan Solutions](https://www.ams-institute.org). I am an active member of the [Delft Data Science](https://www.tudelft.nl/ewi/samenwerken/delft-data-science/) initiative, where I am actively involved in activities pertaining to the _Social Data Science_ work line; and of the Leiden-Delft-Erasmus [BOLD (Big, Open and Linked Data) Cities initiative](http://www.centre-for-bold-cities.nl/home).
     "
 ---
 
@@ -19,15 +19,17 @@ feature_row:
 
 # Employment
 
-I joined the Faculty of Industrial Design and Engineering as Professor and Chair of Human-Centered Artificial Intelligence in _July 2019_. I joined Delft University of Technology in _February 2013_ as Assistant Professor in the Faculty of Electrical Engineering, Mathematics, and Computer Science, where I obtained my tenure in _2017_, and where I have been promoted Associate Professor in _2018_. 
+I joined the Faculty of Industrial Design and Engineering as Professor of Human-Centered Artificial Intelligence in _July 2019_. I joined Delft University of Technology in _February 2013_ as Assistant Professor in the Faculty of Electrical Engineering, Mathematics, and Computer Science, where I obtained my tenure in _2017_, and where I have been promoted Associate Professor in _2018_. 
+
+Since _2020_ I serve as Head of the [Department of Sustainable Design Engineering](https://www.tudelft.nl/en/ide/about-ide/departments/design-engineering/), also serving as member of the Management Team of the faculty of Industrial Design Engineering.
 
 I was awarded my PhD by [Politecnico di Milano](http://www.polimi.it) in _April 2009_, with a thesis focused on model driven approaches for the design, development and automatic code generation of Search Based Applications. During my doctoral studies, I have been a visiting researcher at the [L3S Research Centre](http://www.l3s.de) (Hannover, Germany, 2007), and at FAST Search & Transfer – now Microsoft Development Centre Norway (Oslo, Norway, 2008).
 
-Since _2015_ I serve in the EEMCS Computer Science and Embedded Systems Board of Examiners, and in the EEMCS Faculty Board of Examiners. 
+Between _2015_ and _2020_ I served in the EEMCS Computer Science and Embedded Systems Board of Examiners, and in the EEMCS Faculty Board of Examiners. 
 
 Between _2016_ and _2017_ I held a Research Fellow position at the [Amsterdam Institute for Advanced Metropolitan Solutions](https://www.ams-institute.org) (AMS). 
 
-Since _2017_ I lead the [Urban Data Science](https://www.ams-institute.org/urban-data/) team, and I serve as member of the AMS Institute  management team. 
+Between _2017_ and _2019_ I led the [Urban Data Science](https://www.ams-institute.org/urban-data/) team, serving as member of the AMS Institute  management team. 
 
 In _2018_ I have been appointed [Principal Investigator](https://www.ams-institute.org/about-ams/team/principal-investigators/) of Urban Data and Intelligence.
 
@@ -41,18 +43,18 @@ A complete list of my publications and more bibliometric informations are availa
 
 # Funding
 
-I am involved in research activities sponsored by local, national, and European funding bodies. I have acquired &asymp;4M&euro; in research funding, specifically: 
+I am involved in research activities sponsored by local, national, and European funding bodies. I have acquired &asymp;5M&euro; in research funding, specifically: 
 
--  &asymp;1,6M&euro; from European programs (H2020, EIT Digital, JPI)
+-  &asymp;2,2M&euro; from European programs (H2020, EIT Digital, JPI)
 -  &asymp;1M&euro; cash and in-kind contribution from industry (IBM, Cognizant, KPN, Telecom Italia)
 -  &asymp;1M&euro; from Dutch funding bodies (NWA, NWO, 4TU, SurfSara)
--  &asymp;750K&euro; from institutional funding (AMS, TU Delft, EEMCS)
+-  &asymp;800K&euro; from institutional funding (AMS, TU Delft, EEMCS)
 -  &asymp;15K&euro; for innovation in education activities. 
 
 
 I received the [2017 IBM Faculty Award]() for my work on Enterprise Crowd Computing. I coordinate the Urban Data Science program of AMS, and the activities of the EEMCS Social Data Lab. 
 
-My projects portfolio includes projects with a total budget of more than 20M&euro;.
+My projects portfolio includes projects with a total budget of more than 30M&euro;.
 The funding has been mainly used to build and maintain my research [team](/research/team).
 
 
