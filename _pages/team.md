@@ -24,7 +24,7 @@ Below, the list of Ph.D. students, post-doctoral researchers, and research engin
 
 {::options parse_block_html="true" /}
 
-<div style="display: block; min-height:105px">
+<div style="display: block; height:105px">
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/nopic.png){: .align-left} [**Ziyu Li**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/ziyu-li/){:target="_blank"} joined the team in September 2019, working with [Asterios Katsifodimos](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/asterios-katsifodimos/) and I on the Cognizant HyperEdgeSensing project. Her work focuses on Distributed Video Analytics Systems.
 </div>
 
@@ -57,7 +57,7 @@ Below, the list of Ph.D. students, post-doctoral researchers, and research engin
 </div>
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/jasper.jpg){: .align-left} [**Jasper Oosterman**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/jasper-oosterman/){:target="_blank"} joined the team in 2012. The topic of Jasper's dissertation is **Crowd Knowledge Generation** for artwork annotations, which is planned for completion in 2019. Jasper is currently working as Data Scientist at [Blendle](https://blendle.com){:target="_blank"}.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/jasper.jpg){: .align-left} [**Jasper Oosterman**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/jasper-oosterman/){:target="_blank"} joined the team in 2012. The topic of Jasper's dissertation is **Crowd Knowledge Generation** for artwork annotations, which is planned for completion in 2021. Jasper is currently working as Data Scientist at [Blendle](https://blendle.com){:target="_blank"}.
 </div>
 
 <div style="display: block; min-height:105px">
@@ -71,15 +71,15 @@ Below, the list of Ph.D. students, post-doctoral researchers, and research engin
 </div>
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/panos.jpg){: .align-left} [**Panagiotis Mavridis**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/panagiotis-mavridis/){:target="_blank"} joined the team in March 2018, working in the context of the [NWA VWDATA](https://wetenschapsagenda.nl/start-vwdata-onderzoeksprogramma/){:target="_blank"} [Capture Bias](https://capturebias.wordpress.com){:target="_blank"} project, which aims at achieving reliable and explainable big data analysis of media related collections.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/panos.jpg){: .align-left} [**Panagiotis Mavridis**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/panagiotis-mavridis/){:target="_blank"} has been part of the team between 2018 and 2020, working in the context of the [NWA VWDATA](https://wetenschapsagenda.nl/start-vwdata-onderzoeksprogramma/){:target="_blank"} [Capture Bias](https://capturebias.wordpress.com){:target="_blank"} project.
 </div>
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/kishor.jpeg){: .align-left} [**Kishor Chandra Joshi**](https://www.linkedin.com/in/kishor-chandra-joshi-030a146/){:target="_blank"} joined the team in 2018. Kishor worked in the context of the [EIT Digital](https://www.eitdigital.eu){:target="_blank"} [Welcome](http://www.city-welcome.com){:target="_blank"} project. The project aimed at providing city-scale crowd monitoring solutions for public administrations and retailers. Kishor is currently a Marie Curie Postdoc Fellow (MSCA-IF) at CNRS, University of Paris-Saclay.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/kishor.jpeg){: .align-left} [**Kishor Chandra Joshi**](https://www.linkedin.com/in/kishor-chandra-joshi-030a146/){:target="_blank"} has been part of the team in 2018. Kishor worked in the context of the [EIT Digital](https://www.eitdigital.eu){:target="_blank"} [Welcome](http://www.city-welcome.com){:target="_blank"} project. The project aimed at providing city-scale crowd monitoring solutions for public administrations and retailers. Kishor is currently a Marie Curie Postdoc Fellow (MSCA-IF) at CNRS, University of Paris-Saclay.
 </div>
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/pavel.jpg){: .align-left} [**Pavel Kucherbaev**](http://kucherbaev.com){:target="_blank"} joined the team in 2017. Pavel worked in the context of the [EIT Digital](https://www.eitdigital.eu){:target="_blank"} [CrowdInsights](http://www.crowdinsights.eu){:target="_blank"} project.  Pavel investigated the use of human-aided conversational agents (chatbots with humans-in-the-loop) to facilitate the interaction between urban stakeholders. Pavel is currently a Data Scientist at Booking.com.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/pavel.jpg){: .align-left} [**Pavel Kucherbaev**](http://kucherbaev.com){:target="_blank"} has been part of the team in 2017. Pavel worked in the context of the [EIT Digital](https://www.eitdigital.eu){:target="_blank"} [CrowdInsights](http://www.crowdinsights.eu){:target="_blank"} project.  Pavel investigated the use of human-aided conversational agents (chatbots with humans-in-the-loop) to facilitate the interaction between urban stakeholders. Pavel is currently a Data Scientist at Booking.com.
 </div>
 
 <div style="display: block; min-height:105px">
@@ -111,4 +111,4 @@ Below, the list of Ph.D. students, post-doctoral researchers, and research engin
 
 ## MSc and BSc Students
 
-I have supervised more than 60 [BSc](/education/#supervised-bachelor-students) and [MSc](/education/#supervised-master-students) graduation projects. 
+I have supervised more than 70 [BSc](/education/#supervised-bachelor-students) and [MSc](/education/#supervised-master-students) graduation projects. 
