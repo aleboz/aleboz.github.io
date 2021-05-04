@@ -13,10 +13,10 @@ sidebar:
 
 These are the great colleagues that are currently (or have been) part of my research team. Together, we strive to create the next generation of Human-Centered Artificial Intelligence system, and, through them, create societal and economic impact.
 
-<figure class="align-center">
+<!-- <figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/team/team2018.jpg" alt="The research team, July 2018.">
   <figcaption>The research team, July 2018.</figcaption>
-</figure> 
+</figure> -->
 
 Below, the list of Ph.D. students, post-doctoral researchers, and research engineers that have been part of my research team over the years. 
 

@@ -11,6 +11,7 @@ feature_row:
   - image_path: assets/images/bio-photo-2020.jpeg
     alt: "Portrait of Alessandro Bozzon, 2020"
     excerpt: "I am Professor of **Human-Centered Artificial Intelligence** with the [Department of Sustainable Design Engineering](https://www.tudelft.nl/en/ide/about-ide/departments/design-engineering/) of the [Faculty of Industrial Design Engineering](https://www.tudelft.nl/en/ide/) (IDE); and part-time professor with the [Department of Software Technology](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/) of the [Faculty of Electrical Engineering, Mathematics, and Computer Science](https://www.tudelft.nl/en/eemcs/) (EEMCS) of [Delft University of Technology](https://www.tudelft.nl). As of November 2020, I serve as head of the [Department of Sustainable Design Engineering](https://www.tudelft.nl/en/ide/about-ide/departments/design-engineering/).
+    <br/><br/> I am director of the [Future Libraries Lab](https://delftdesignlabs.org/future-libraries-lab/), a collaboration with the [Royal Library of The Netherlands](https://www.kb.nl). 
     <br/><br/> I am Principal Investigator in Urban Data and Intelligence at the [Amsterdam Institute for Advanced Metropolitan Solutions](https://www.ams-institute.org). I am an active member of the [Delft Data Science](https://www.tudelft.nl/ewi/samenwerken/delft-data-science/) initiative, where I am actively involved in activities pertaining to the _Social Data Science_ work line; and of the Leiden-Delft-Erasmus [BOLD (Big, Open and Linked Data) Cities initiative](http://www.centre-for-bold-cities.nl/home).
     "
 ---
@@ -19,11 +20,11 @@ feature_row:
 
 # Employment
 
-I joined the Faculty of Industrial Design and Engineering as Professor of Human-Centered Artificial Intelligence in _July 2019_. I joined Delft University of Technology in _February 2013_ as Assistant Professor in the Faculty of Electrical Engineering, Mathematics, and Computer Science, where I obtained my tenure in _2017_, and where I have been promoted Associate Professor in _2018_. 
+I joined the Faculty of Industrial Design and Engineering as Professor of Human-Centered Artificial Intelligence in _2019_. I joined Delft University of Technology in _2013_ as Assistant Professor in the Faculty of Electrical Engineering, Mathematics, and Computer Science, where I obtained my tenure in _2017_, and where I have been promoted Associate Professor in _2018_. 
 
 Since _2020_ I serve as Head of the [Department of Sustainable Design Engineering](https://www.tudelft.nl/en/ide/about-ide/departments/design-engineering/), also serving as member of the Management Team of the faculty of Industrial Design Engineering.
 
-I was awarded my PhD by [Politecnico di Milano](http://www.polimi.it) in _April 2009_, with a thesis focused on model driven approaches for the design, development and automatic code generation of Search Based Applications. During my doctoral studies, I have been a visiting researcher at the [L3S Research Centre](http://www.l3s.de) (Hannover, Germany, 2007), and at FAST Search & Transfer – now Microsoft Development Centre Norway (Oslo, Norway, 2008).
+I was awarded my PhD by [Politecnico di Milano](http://www.polimi.it) in _2009_, with a thesis focused on model driven approaches for the design, development and automatic code generation of Search Based Applications. During my doctoral studies, I have been a visiting researcher at the [L3S Research Centre](http://www.l3s.de) (Hannover, Germany, 2007), and at FAST Search & Transfer – now Microsoft Development Centre Norway (Oslo, Norway, 2008).
 
 Between _2015_ and _2020_ I served in the EEMCS Computer Science and Embedded Systems Board of Examiners, and in the EEMCS Faculty Board of Examiners. 
 
@@ -37,7 +38,7 @@ Between _2014_ and _2018_ I held a Faculty Fellow position with the [IBM Benelux
 
 # Publications
 
-I have published 18 peer-reviewed articles in peer-reviewed international journals (VLDBJ, ACM TWEB, IEEE IC, IEEE Access, Semantic Web Journal),  more than 100 conference papers in international conferences (WWW/TheWebConference, HCOMP, CHI, CSCW, AAAI, IJCAI, RecSys, ESWC, ISWC, Hypertext, WebScience, UMPA, ICWE), and several editorial contributions. I am co-author of the book [_Web Information Retrieval_](http://www.springer.com/gp/book/9783642393136) (Springer, 2013). I am co-inventor of the US patent [_Method and system of management of queries for crowd searching_](https://patents.google.com/patent/US8825701B2/en) (US 8825701 B2, 2015).
+I have published more than 150 papers in peer-reviewed international journals (VLDBJ, ACM TWEB, IEEE IC, IEEE Access, Semantic Web Journal) and conferences (WWW/TheWebConference, CHI, CSCW, HCOMP, AAAI, IJCAI, RecSys, ESWC, ISWC, Hypertext, WebScience, UMAP, ICWE), and several editorial contributions. I am co-author of the book [_Web Information Retrieval_](http://www.springer.com/gp/book/9783642393136) (Springer, 2013). I am co-inventor of the US patent [_Method and system of management of queries for crowd searching_](https://patents.google.com/patent/US8825701B2/en) (US 8825701 B2, 2015).
 
 A complete list of my publications and more bibliometric informations are available in the [Publications](/research/publications) section of my website, in my [DBLP profile](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bozzon:Alessandro.html),  in my [Google Scholar profile](http://bit.ly/BozzonScholarProfile), or in my [Scopus](http://bit.ly/BozzonScopusProfile) profile.
 
@@ -70,7 +71,7 @@ I served as co-editor for a [special issue of the Semantic Web Journal on Human 
 
 # Outreach
 
-My work found several recognition in national and international media, including: the [Wall Street Journal](blogs.wsj.com/cio/2015/07/08/ibm-researchers-try-to-measure-employee-well-being-using-technology/), [Het Parool](https://www.parool.nl/amsterdam/met-mobiele-data-zien-of-de-stemming-omslaat~a4511904/), [De Ingenieur](https://www.deingenieur.nl/tijdschrift), [NRC](http://www.nrcq.nl/2015/09/25/social-glass-twitter-scannen-voor-een-betere-wereld), [AD](http://www.ad.nl/ad/nl/5595/Digitaal/article/detail/4144166/2015/09/17/Sociale-media-zijn-een-sensor-op-de-wereld.dhtml), [Telegraph](http://www.telegraaf.nl/sail/24400465/\_\_Managen\_van\_menigte\_bij\_Sail\_\_.html), [NOS](http://nos.nl/uitzending/9132-nos-journaal.html), [Trouw](https://twitter.com/LizzyJongma/status/650549148161298432). 
+My work found several recognition in national and international media, including: the [Wall Street Journal](blogs.wsj.com/cio/2015/07/08/ibm-researchers-try-to-measure-employee-well-being-using-technology/), [Het Parool](https://www.parool.nl/amsterdam/met-mobiele-data-zien-of-de-stemming-omslaat~a4511904/), [De Ingenieur](https://www.deingenieur.nl/tijdschrift), [NRC](http://www.nrcq.nl/2015/09/25/social-glass-twitter-scannen-voor-een-betere-wereld), [AD](http://www.ad.nl/ad/nl/5595/Digitaal/article/detail/4144166/2015/09/17/Sociale-media-zijn-een-sensor-op-de-wereld.dhtml), [Telegraph](http://www.telegraaf.nl/sail/24400465/\_\_Managen\_van\_menigte\_bij\_Sail\_\_.html), [NOS](http://nos.nl/uitzending/9132-nos-journaal.html), [Trouw](https://twitter.com/LizzyJongma/status/650549148161298432). This [page](https://www.tudelft.nl/en/2020/io/may/social-distancing-dashboard-on-the-media-map) lists more links to news items featuring work related to the [Social Distancing Dashboard](https://social-glass.tudelft.nl/social-distancing/). 
 
 My work on social data science has been recognised as a [2015 TU Delft highlight](http://j.mp/tudhi15). 
 
