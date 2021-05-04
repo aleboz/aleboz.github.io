@@ -28,23 +28,43 @@ Below, the list of Ph.D. students, post-doctoral researchers, and research engin
 <!-- Vasileos, Roos, Julia, others?, Evert -->
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/nopic.png){: .align-left} [**Ziyu Li**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/ziyu-li/){:target="_blank"} joined the team in November 2019, working with [Asterios Katsifodimos](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/asterios-katsifodimos/) and I on the Cognizant HyperEdgeSensing project. Her work focuses on complex event processing in real-time video streams.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/nirav.jpg){: .align-left} [**Nirav Malsattar**](https://www.linkedin.com/in/nirav-m-65750374){:target="_blank"} started his PhD in June 2021, working with [Himanshu Verma](https://www.tudelft.nl/en/ide/about-ide/people/verma-h){:target="_blank"} and I on the "Human-Centered Information Extraction from City Archival Data" project, a collaboration with the Amsterdam City Archive, and the CTO Office of Municipality of Amsterdam.
 </div>
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/nopic.png){: .align-left} [**Tim Draws**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/tim-draws/){:target="_blank"} joined the team in August 2019, working with [Nava Tintarev](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/nava-tintarev/) and I on a project sponsored by IBM Netherlands. His work focuses on the representation of diverse viewpoints in search results.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/evert.jpg){: .align-left} [**Evert van Beek**](https://www.tudelft.nl/en/ide/about-ide/people/beek-e-van){:target="_blank"} started his PhD in July 2020, working with [Achilleas Psyllidis](https://www.tudelft.nl/en/ide/about-ide/people/psyllidis-a){:target="_blank"} on the IEBB-project (Integrale Energietransitie Bestaande Bouw). His doctoral research focuses on service- and product innovation for heat pumps in residential buildings.
 </div>
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/agathe.jpg){: .align-left} [**Agathe Balayn**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/agathe-balayn/){:target="_blank"} joined the team in April 2019, working with [Christoph Lofi](http://www.wis.ewi.tudelft.nl/lofi/) and I on the Cognizant HyperEdgeSensing project. Her work focuses on Crowd Computing systems for automated data labeling in distributed machine learning infrastructures.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/julia.png){: .align-left} [**Julia Ubeda**](https://www.tudelft.nl/en/ide/about-ide/people/ubeda-j){:target="_blank"} started her PhD in April 2020, working with [Achilleas Psyllidis](https://www.tudelft.nl/en/ide/about-ide/people/psyllidis-a){:target="_blank"} and I on the "Designing Rhythms for Social Resilience" project.
 </div>
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/petros.jpg){: .align-left} [**Ioannis Petros Samiotis**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/ioannis-petros-samiotis/){:target="_blank"} (Petros) joined the team in June 2018, working with [Christoph Lofi](http://www.wis.ewi.tudelft.nl/lofi/) and I on the EU H2020 Trompa project. Petros is studying how Crowd Computing techniques can facilitate the opening of classical music archives.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/roos.jpg){: .align-left} [**Roos Teeuwen**](https://www.tudelft.nl/en/ide/about-ide/people/teeuwen-rfl){:target="_blank"} started her PhD in April 2020, working with [Achilleas Psyllidis](https://www.tudelft.nl/en/ide/about-ide/people/psyllidis-a){:target="_blank"} and I on the "Equal-Life" project. She studies urban greenspaces in a pedestrian-centered manner: how they relate to their physical surroundings and how people perceive such spaces.
 </div>
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/sihang.jpg){: .align-left} [**Sihang Qiu**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/sihang-qiu/){:target="_blank"} joined the team in October 2017, with a CSC (China Scholarship Council) scholarship. Sihang is studying novel crowdsensing techniques for subjective urban data creation and analysis.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/nopic.png){: .align-left} [**Vasileios Milias**](https://www.tudelft.nl/en/ide/about-ide/people/milias-v){:target="_blank"} started his PhD in March 2020, working with [Achilleas Psyllidis](https://www.tudelft.nl/en/ide/about-ide/people/psyllidis-a){:target="_blank"} and I on the "Equal-Life" project. His work focuses human-centred approaches for the analysis of activity patterns in the context of mental health.
+</div>
+
+<div style="display: block; min-height:105px">
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/nopic.png){: .align-left} [**Ziyu Li**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/ziyu-li/){:target="_blank"} started her PhD in November 2019, working with [Asterios Katsifodimos](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/asterios-katsifodimos/) and I on the Cognizant "HyperEdgeSensing" project. Her work focuses on complex event processing in real-time video streams.
+</div>
+
+<div style="display: block; min-height:105px">
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/nopic.png){: .align-left} [**Tim Draws**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/tim-draws/){:target="_blank"} started his PhD in August 2019, working with [Nava Tintarev](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/nava-tintarev/) and I on a project sponsored by IBM Netherlands. His work focuses on the representation of diverse viewpoints in search results.
+</div>
+
+<div style="display: block; min-height:105px">
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/agathe.jpg){: .align-left} [**Agathe Balayn**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/agathe-balayn/){:target="_blank"} started her PhD in April 2019, working with [Christoph Lofi](http://www.wis.ewi.tudelft.nl/lofi/) and I on the Cognizant HyperEdgeSensing project. Her work focuses on Crowd Computing systems for automated data labeling in distributed machine learning infrastructures.
+</div>
+
+<div style="display: block; min-height:105px">
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/petros.jpg){: .align-left} [**Ioannis Petros Samiotis**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/ioannis-petros-samiotis/){:target="_blank"} (Petros) started his PhD in June 2018, working with [Christoph Lofi](http://www.wis.ewi.tudelft.nl/lofi/) and I on the EU H2020 "Trompa" project. Petros is studying how Crowd Computing techniques can facilitate the opening of classical music archives.
+</div>
+
+<div style="display: block; min-height:105px">
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/sihang.jpg){: .align-left} [**Sihang Qiu**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/sihang-qiu/){:target="_blank"} joined the team in October 2017, with a CSC (China Scholarship Council) scholarship. Sihang's work focus on conversational microtask crowdsourcing techniques.
 </div>
 
 <div style="display: block; min-height:105px">
@@ -56,7 +76,7 @@ Below, the list of Ph.D. students, post-doctoral researchers, and research engin
 </div>
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/sepideh.jpg){: .align-left} [**Sepideh Mesbah**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/sepideh-mesbah/){:target="_blank"} joined the team in March 2016, working with [Christoph Lofi](http://www.wis.ewi.tudelft.nl/lofi/) and I on the [SmartPub](https://github.com/WISDelft/SmartPub){:target="_blank"} project. Sepideh _graduated_ in May 2020 with a [thesis](https://doi.org/10.4233/uuid:dbbfe1fc-bf63-45f0-8cf2-28ed7dab90eb){:target="_blank"} titled **Semantic-Enhanced Training Data Augmentation Methods for Long-Tail Entity Recognition Models**. Sepideh is currently a Post-doctoral researcher.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/sepideh.jpg){: .align-left} [**Sepideh Mesbah**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/sepideh-mesbah/){:target="_blank"} joined the team in March 2016, working with [Christoph Lofi](http://www.wis.ewi.tudelft.nl/lofi/) and I on the [SmartPub](https://github.com/WISDelft/SmartPub){:target="_blank"} project. Sepideh _graduated_ in May 2020 with a [thesis](https://doi.org/10.4233/uuid:dbbfe1fc-bf63-45f0-8cf2-28ed7dab90eb){:target="_blank"} titled **Semantic-Enhanced Training Data Augmentation Methods for Long-Tail Entity Recognition Models**. Sepideh is currently working as senior data scientist at [Randstad](https://www.randstad.com){:target="_blank"}.
 </div>
  
 <div style="display: block; min-height:105px">
