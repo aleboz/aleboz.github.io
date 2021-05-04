@@ -4,7 +4,7 @@ classes: wide
 author_profile: false
 permalink: /research/team/
 title: "Research Team"
-last_modified_at: 2020-11-14T12:00:00-04:00
+last_modified_at: 2021-05-04T12:00:00-04:00
 excerpt: "The Research Team"
 toc: false
 sidebar:
@@ -25,11 +25,11 @@ Below, the list of Assistant Professors, Ph.D. students, post-doctoral researche
 {::options parse_block_html="true" /}
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/achilleas.jpg){: .align-left} [**Achilleas Psyllidis**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/achilleas-psyllidis/){:target="_blank"} is Assistant Professor of Location Intelligence in the [Knowledge and Intelligence Design](https://www.tudelft.nl/en/ide/about-ide/departments/sustainable-design-engineering/section-intelligence){:target="_blank"} group at the Delft University of Technology. Achilleas obtained in 2016 a Ph.D. in Urban Informatics from the Faculty of Architecture and Built Environment with a [thesis](https://repository.tudelft.nl/islandora/object/uuid%3A5f59d2b3-dc83-488b-9617-a44a40f24263){:target="_blank"} titled **Revisiting Urban Dynamics through Social Urban Data**. Achilleas joined the team in 2014, working on the [SocialGlass](http://social-glass.tudelft.nl){:target="_blank"} project. 
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/achilleas.jpg){: .align-left} [**Achilleas Psyllidis**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/achilleas-psyllidis/){:target="_blank"} is Assistant Professor of Location Intelligence in the [KInD](https://www.tudelft.nl/en/ide/about-ide/departments/sustainable-design-engineering/section-intelligence){:target="_blank"} group at the Delft University of Technology. Achilleas obtained in 2016 a Ph.D. in Urban Informatics from the Faculty of Architecture and Built Environment with a [thesis](https://repository.tudelft.nl/islandora/object/uuid%3A5f59d2b3-dc83-488b-9617-a44a40f24263){:target="_blank"} titled **Revisiting Urban Dynamics through Social Urban Data**. Achilleas joined the team in 2014, working on the [SocialGlass](http://social-glass.tudelft.nl){:target="_blank"} project. 
 </div>
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/himanshu.jpg){: .align-left} [**Himanshu Verma**](https://www.tudelft.nl/en/ide/about-ide/people/verma-h){:target="_blank"} is Assistant Professor in the [Knowledge and Intelligence Design](https://www.tudelft.nl/en/ide/about-ide/departments/sustainable-design-engineering/){:target="_blank"} group at the Delft University of Technology. Himanshu holds a PhD in Computer Science from École Polytechnique Fédérale de Lausanne (EPFL). His research lies at the intersection of Human-Computer Interaction, Ubiquitous Computing, and Social Cognition. Himanshu joined the [Knowledge and Intelligence Design](https://www.tudelft.nl/en/ide/about-ide/departments/sustainable-design-engineering/){:target="_blank"} group in 2020. 
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/himanshu.jpg){: .align-left} [**Himanshu Verma**](https://www.tudelft.nl/en/ide/about-ide/people/verma-h){:target="_blank"} is Assistant Professor in the [Knowledge and Intelligence Design](https://www.tudelft.nl/en/ide/about-ide/departments/sustainable-design-engineering/){:target="_blank"} group at the Delft University of Technology. Himanshu holds a PhD in Computer Science from École Polytechnique Fédérale de Lausanne (EPFL). His research lies at the intersection of Human-Computer Interaction, Ubiquitous Computing, and Social Cognition. Himanshu joined the [KInD](https://www.tudelft.nl/en/ide/about-ide/departments/sustainable-design-engineering/){:target="_blank"} group in 2020. 
 </div>
 
 <div style="display: block; min-height:105px">
