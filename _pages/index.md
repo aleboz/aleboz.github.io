@@ -19,7 +19,7 @@ feature_row:
 
 <!-- 
     <br/><br/> I am Principal Investigator of **Urban Data and Intelligence** at the [Amsterdam Institute for Advanced Metropolitan Solutions](https://www.ams-institute.org). I am an active member of the [Delft Data Science](https://www.tudelft.nl/ewi/samenwerken/delft-data-science/) and the Leiden-Delft-Erasmus [BOLD (Big, Open and Linked Data) Cities](http://www.centre-for-bold-cities.nl/home) initiatives.
-    
+
 I am faculty fellow with the [IBM Benelux CAS](http://www.research.ibm.com/university/cas/benelux/index.html).
 [I have published](about/#publications) &asymp;90 paper in peer-reviewd international conferences (WWW, HCOMP, CSCW, AAAI, IJCAI, ISWC) and journals (ACM TWEB, VLDBJ, IEEE Access, IEEE Internet Computing, Semantic Web Journal). [I have acquired](about/#funding) more than 3.2M&euro; in research funding.
     <br/><br/> I teach [_Web and Database Technology_](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=48438) (BSc, with [Claudia Hauff](https://chauff.github.io)) and [_Crowd Computing_](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=45597) (MSc,  with [Nava Tintarev](http://navatintarev.com)). I regularly supervise students at PhD, MSc, and BSc levels.

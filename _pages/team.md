@@ -18,14 +18,26 @@ These are the great colleagues that are currently (or have been) part of my rese
   <figcaption>The research team, July 2018.</figcaption>
 </figure> -->
 
-Below, the list of Ph.D. students, post-doctoral researchers, and research engineers that have been part of my research team over the years. 
+Below, the list of Assistant Professors, Ph.D. students, post-doctoral researchers, and research engineers that have been part of my research team over the years. 
 
-## Ph.D. Students
-
+## Assistant Professors
 
 {::options parse_block_html="true" /}
 
-<!-- Vasileos, Roos, Julia, others?, Evert -->
+<div style="display: block; min-height:105px">
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/achilleas.jpg){: .align-left} [**Achilleas Psyllidis**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/achilleas-psyllidis/){:target="_blank"} is Assistant Professor of Location Intelligence in the [Knowledge and Intelligence Design](https://www.tudelft.nl/en/ide/about-ide/departments/sustainable-design-engineering/section-intelligence){:target="_blank"} group at the Delft University of Technology. Achilleas obtained in 2016 a Ph.D. in Urban Informatics from the Faculty of Architecture and Built Environment with a [thesis](https://repository.tudelft.nl/islandora/object/uuid%3A5f59d2b3-dc83-488b-9617-a44a40f24263){:target="_blank"} titled **Revisiting Urban Dynamics through Social Urban Data**. Achilleas joined the team in 2014, working on the [SocialGlass](http://social-glass.tudelft.nl){:target="_blank"} project. 
+</div>
+
+<div style="display: block; min-height:105px">
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/himanshu.jpg){: .align-left} [**Himanshu Verma**](https://www.tudelft.nl/en/ide/about-ide/people/verma-h){:target="_blank"} is Assistant Professor in the [Knowledge and Intelligence Design](https://www.tudelft.nl/en/ide/about-ide/departments/sustainable-design-engineering/){:target="_blank"} group at the Delft University of Technology. Himanshu holds a PhD in Computer Science from École Polytechnique Fédérale de Lausanne (EPFL). His research lies at the intersection of Human-Computer Interaction, Ubiquitous Computing, and Social Cognition. Himanshu joined the [Knowledge and Intelligence Design](https://www.tudelft.nl/en/ide/about-ide/departments/sustainable-design-engineering/){:target="_blank"} group in 2020. 
+</div>
+
+<div style="display: block; min-height:105px">
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/evangelos.png){: .align-left} [**Evangelos Niforatos**](https://www.tudelft.nl/en/ide/about-ide/people/niforatos-e){:target="_blank"} is Assistant Professor of Human-AI Interaction in the [Knowledge and Intelligence Design](https://www.tudelft.nl/en/ide/about-ide/departments/sustainable-design-engineering/){:target="_blank"} group at the Delft University of Technology. Evangelos holds a PhD in Computer Science from Universitá della Svizzera italiana (USI), Lugano, Switzerland. Evangelos joined the [Knowledge and Intelligence Design](https://www.tudelft.nl/en/ide/about-ide/departments/sustainable-design-engineering/){:target="_blank"} group in 2021. 
+</div>
+
+
+## Ph.D. Students
 
 <div style="display: block; min-height:105px">
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/nirav.jpg){: .align-left} [**Nirav Malsattar**](https://www.linkedin.com/in/nirav-m-65750374){:target="_blank"} started his PhD in June 2021, working with [Himanshu Verma](https://www.tudelft.nl/en/ide/about-ide/people/verma-h){:target="_blank"} and I on the "Human-Centered Information Extraction from City Archival Data" project, a collaboration with the Amsterdam City Archive, and the CTO Office of Municipality of Amsterdam.
@@ -44,15 +56,15 @@ Below, the list of Ph.D. students, post-doctoral researchers, and research engin
 </div>
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/nopic.png){: .align-left} [**Vasileios Milias**](https://www.tudelft.nl/en/ide/about-ide/people/milias-v){:target="_blank"} started his PhD in March 2020, working with [Achilleas Psyllidis](https://www.tudelft.nl/en/ide/about-ide/people/psyllidis-a){:target="_blank"} and I on the "Equal-Life" project. His work focuses human-centred approaches for the analysis of activity patterns in the context of mental health.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/vasileios.jpg){: .align-left} [**Vasileios Milias**](https://www.tudelft.nl/en/ide/about-ide/people/milias-v){:target="_blank"} started his PhD in March 2020, working with [Achilleas Psyllidis](https://www.tudelft.nl/en/ide/about-ide/people/psyllidis-a){:target="_blank"} and I on the "Equal-Life" project. His work focuses human-centred approaches for the analysis of activity patterns in the context of mental health.
 </div>
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/nopic.png){: .align-left} [**Ziyu Li**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/ziyu-li/){:target="_blank"} started her PhD in November 2019, working with [Asterios Katsifodimos](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/asterios-katsifodimos/) and I on the Cognizant "HyperEdgeSensing" project. Her work focuses on complex event processing in real-time video streams.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/ziyu.jpg){: .align-left} [**Ziyu Li**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/ziyu-li/){:target="_blank"} started her PhD in November 2019, working with [Asterios Katsifodimos](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/asterios-katsifodimos/) and I on the Cognizant "HyperEdgeSensing" project. Her work focuses on complex event processing in real-time video streams.
 </div>
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/nopic.png){: .align-left} [**Tim Draws**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/tim-draws/){:target="_blank"} started his PhD in August 2019, working with [Nava Tintarev](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/nava-tintarev/) and I on a project sponsored by IBM Netherlands. His work focuses on the representation of diverse viewpoints in search results.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/tim.jpg){: .align-left} [**Tim Draws**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/tim-draws/){:target="_blank"} started his PhD in August 2019, working with [Nava Tintarev](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/nava-tintarev/) and I on a project sponsored by IBM Netherlands. His work focuses on the representation of diverse viewpoints in search results.
 </div>
 
 <div style="display: block; min-height:105px">
@@ -85,10 +97,6 @@ Below, the list of Ph.D. students, post-doctoral researchers, and research engin
 
 <div style="display: block; min-height:105px">
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/jasper.jpg){: .align-left} [**Jasper Oosterman**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/jasper-oosterman/){:target="_blank"} joined the team in 2012. The topic of Jasper's dissertation is **Crowd Knowledge Generation** for artwork annotations, which is planned for completion in 2021. Jasper is currently working as Data Scientist at [Blendle](https://blendle.com){:target="_blank"}.
-</div>
-
-<div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/achilleas.jpg){: .align-left} [**Achilleas Psyllidis**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/achilleas-psyllidis/){:target="_blank"} obtained in 2016 a Ph.D. in Urban Informatics from the Faculty of Architecture and Built Environment with a [thesis](https://repository.tudelft.nl/islandora/object/uuid%3A5f59d2b3-dc83-488b-9617-a44a40f24263){:target="_blank"} titled **Revisiting Urban Dynamics through Social Urban Data**. Achilleas joined the team in 2014, working on the [SocialGlass](http://social-glass.tudelft.nl){:target="_blank"} project. Achilleas is currently working as Assistant Professor in the [Knowledge and Intelligence Design](https://www.tudelft.nl/en/ide/about-ide/departments/sustainable-design-engineering/){:target="_blank"} group at the Delft University of Technology.
 </div>
 
 ## Post-doctoral Researchers
