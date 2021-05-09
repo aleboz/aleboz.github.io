@@ -44,6 +44,10 @@ Below, the list of Assistant Professors, Ph.D. students, post-doctoral researche
 </div>
 
 <div style="display: block; min-height:105px">
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/samuel.png){: .align-left} [**Samuel Kernan Freire**](https://www.tudelft.nl/en/ide/about-ide/people/kernan-freire-s){:target="_blank"} started his PhD in November 2020, working with [Zoltan Rusák](https://www.tudelft.nl/en/ide/about-ide/people/rusak-z){:target="_blank"} and I on the COALA H2020 project. Samuel's research focuses on how manufacturing workers can be cognitively supported using AI-based tools.
+</div>
+
+<div style="display: block; min-height:105px">
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/evert.jpg){: .align-left} [**Evert van Beek**](https://www.tudelft.nl/en/ide/about-ide/people/beek-e-van){:target="_blank"} started his PhD in July 2020, working with [Achilleas Psyllidis](https://www.tudelft.nl/en/ide/about-ide/people/psyllidis-a){:target="_blank"} on the IEBB-project (Integrale Energietransitie Bestaande Bouw). His doctoral research focuses on service- and product innovation for heat pumps in residential buildings.
 </div>
 
