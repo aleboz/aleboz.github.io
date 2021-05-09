@@ -48,7 +48,7 @@ Below, the list of Assistant Professors, Ph.D. students, post-doctoral researche
 </div>
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/evert.jpg){: .align-left} [**Evert van Beek**](https://www.tudelft.nl/en/ide/about-ide/people/beek-e-van){:target="_blank"} started his PhD in July 2020, working with [Achilleas Psyllidis](https://www.tudelft.nl/en/ide/about-ide/people/psyllidis-a){:target="_blank"} on the IEBB-project (Integrale Energietransitie Bestaande Bouw). His doctoral research focuses on service- and product innovation for heat pumps in residential buildings.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/evert.jpg){: .align-left} [**Evert van Beek**](https://www.tudelft.nl/en/ide/about-ide/people/beek-e-van){:target="_blank"} started his PhD in July 2020, working with [Stella Boess](https://www.tudelft.nl/en/ide/about-ide/people/boess-su){:target="_blank"} on the IEBB-project (Integrale Energietransitie Bestaande Bouw). His doctoral research focuses on service- and product innovation for heat pumps in residential buildings.
 </div>
 
 <div style="display: block; min-height:105px">
