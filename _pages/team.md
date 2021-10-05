@@ -80,7 +80,7 @@ Below, the list of Assistant Professors, Ph.D. students, post-doctoral researche
 </div>
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/sihang.jpg){: .align-left} [**Sihang Qiu**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/sihang-qiu/){:target="_blank"} joined the team in October 2017, with a CSC (China Scholarship Council) scholarship. Sihang's work focus on conversational microtask crowdsourcing techniques.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/sihang.jpg){: .align-left} [**Sihang Qiu**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/sihang-qiu/){:target="_blank"} joined the team in October 2017, with a CSC (China Scholarship Council) scholarship. Sihang _graduated_ in October 2021 with a [thesis]{https://doi.org/10.4233/uuid:d37db2c0-cf16-4edf-97ba-aebff35011b5}{:target="_blank"} titled **Conversational Crowdsourcing**. 
 </div>
 
 <div style="display: block; min-height:105px">
