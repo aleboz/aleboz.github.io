@@ -40,6 +40,10 @@ Below, the list of Assistant Professors, Ph.D. students, post-doctoral researche
 ## Ph.D. Students
 
 <div style="display: block; min-height:105px">
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/mireia.jpg){: .align-left} [**Mireia Yurrita Semperena**](https://dcode-network.eu/cohort/mireia-yurrita-semperena/){:target="_blank"} started her PhD in July 2021, working with [Dave Murray-Rust](http://dave.murray-rust.org/){:target="_blank"} and I on the [DCODE](https://dcode-network.eu/program/inclusive-digital-futures/#phd-design-and-engineering-methods-for-principled-development-of-data-models-and-behaviours-2){:target="_blank"} project, Horizon 2020 Marie Sklodowska-Curie Innovative Training Network (ITN).
+</div>
+
+<div style="display: block; min-height:105px">
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/nirav.jpg){: .align-left} [**Nirav Malsattar**](https://www.linkedin.com/in/nirav-m-65750374){:target="_blank"} started his PhD in June 2021, working with [Himanshu Verma](https://www.tudelft.nl/en/ide/about-ide/people/verma-h){:target="_blank"} and I on the "Human-Centered Information Extraction from City Archival Data" project, a collaboration with the Amsterdam City Archive, and the CTO Office of Municipality of Amsterdam.
 </div>
 
@@ -80,11 +84,11 @@ Below, the list of Assistant Professors, Ph.D. students, post-doctoral researche
 </div>
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/sihang.jpg){: .align-left} [**Sihang Qiu**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/sihang-qiu/){:target="_blank"} joined the team in October 2017, with a CSC (China Scholarship Council) scholarship. Sihang _graduated_ in October 2021 with a [thesis]{https://doi.org/10.4233/uuid:d37db2c0-cf16-4edf-97ba-aebff35011b5}{:target="_blank"} titled **Conversational Crowdsourcing**. 
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/shahin.jpg){: .align-left} [**Shahin Sharifi Noorian**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/shahin-sharifi/){:target="_blank"} joined the team in August 2017. Shahin is studying novel inference methods for time-varying and subjective properties of real-world locations from social data.
 </div>
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/shahin.jpg){: .align-left} [**Shahin Sharifi Noorian**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/shahin-sharifi/){:target="_blank"} joined the team in August 2017. Shahin is studying novel inference methods for time-varying and subjective properties of real-world locations from social data.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/sihang.jpg){: .align-left} [**Sihang Qiu**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/sihang-qiu/){:target="_blank"} joined the team in October 2017, with a CSC (China Scholarship Council) scholarship. Sihang _graduated_ in October 2021 with a [thesis](https://doi.org/10.4233/uuid:d37db2c0-cf16-4edf-97ba-aebff35011b5){:target="_blank"} titled **Conversational Crowdsourcing**. 
 </div>
 
 <div style="display: block; min-height:105px">
