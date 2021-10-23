@@ -15,7 +15,7 @@ layouts_gallery:
   - url: /assets/images/mm-layout-archive.png
     image_path: /assets/images/mm-layout-archive.png
     alt: "archive layout example"
-last_modified_at: 2021-05-04T12:00:00-04:00
+last_modified_at: 2021-10-23T12:00:00-04:00
 sidebar:
   nav: "edunav"
 
@@ -30,6 +30,12 @@ I have lectured  [Information Retrieval](https://studiegids.tudelft.nl/a101_disp
 A complete list of master and bachelor theses that I supervised in TU Delft is available on the [TU Delft Education Repository](https://repository.tudelft.nl/islandora/search/bozzon?collection=education){:target="_blank"}.
 
 ## Supervised Master Students
+
+- [2021] _Tomas Heinsohn Huala_. [- [2021] _Junyao Li_. [Explore a new book discovery experience in the public library](http://resolver.tudelft.nl/uuid:ae5c363d-cf55-41b8-bddb-620ea743e0b2){:target="_blank"}. In collaboration with the **Royal Library of the Netherlands**.](http://resolver.tudelft.nl/uuid:a3342c9f-90cc-4bf0-8bdc-1ea002a7fd22){:target="_blank"}.
+
+- [2021] _Junyao Li_. [Explore a new book discovery experience in the public library](http://resolver.tudelft.nl/uuid:ae5c363d-cf55-41b8-bddb-620ea743e0b2){:target="_blank"}. In collaboration with the **Royal Library of the Netherlands**.
+
+- [2021] _Yuxin Chu_. [Describing Images to Visually Impaired Users: a Requirement Elicitation Approach](http://resolver.tudelft.nl/uuid:990d2cd5-f3b6-4f08-8926-86faa65abb38){:target="_blank"}. In collaboration with the **Royal Library of the Netherlands**.
 
 - [2021] _Frederik Ueberschär_. [AI for Experience: Designing with Generative Adversarial Networks to evoke climate fascination](http://resolver.tudelft.nl/uuid:731b92cc-ec9e-4543-a608-c0edbdb14aaf){:target="_blank"}. In collaboration with the **Google AI** team.
 - [2020] _Niels Bakker_. [Estimating crowd density and their emotions for city events using social media images](http://resolver.tudelft.nl/uuid:7f49777f-a380-4afa-addb-20a74280e5e3){:target="_blank"}.
