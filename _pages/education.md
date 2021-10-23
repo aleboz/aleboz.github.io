@@ -31,12 +31,9 @@ A complete list of master and bachelor theses that I supervised in TU Delft is a
 
 ## Supervised Master Students
 
-- [2021] _Tomas Heinsohn Huala_. [- [2021] _Junyao Li_. [Explore a new book discovery experience in the public library](http://resolver.tudelft.nl/uuid:ae5c363d-cf55-41b8-bddb-620ea743e0b2){:target="_blank"}. In collaboration with the **Royal Library of the Netherlands**.](http://resolver.tudelft.nl/uuid:a3342c9f-90cc-4bf0-8bdc-1ea002a7fd22){:target="_blank"}.
-
+- [2021] _Tomas Heinsohn Huala_. [FairData: A system to explore datasets as a tool to let data-centric researchers become aware of bias](http://resolver.tudelft.nl/uuid:a3342c9f-90cc-4bf0-8bdc-1ea002a7fd22).
 - [2021] _Junyao Li_. [Explore a new book discovery experience in the public library](http://resolver.tudelft.nl/uuid:ae5c363d-cf55-41b8-bddb-620ea743e0b2){:target="_blank"}. In collaboration with the **Royal Library of the Netherlands**.
-
 - [2021] _Yuxin Chu_. [Describing Images to Visually Impaired Users: a Requirement Elicitation Approach](http://resolver.tudelft.nl/uuid:990d2cd5-f3b6-4f08-8926-86faa65abb38){:target="_blank"}. In collaboration with the **Royal Library of the Netherlands**.
-
 - [2021] _Frederik Ueberschär_. [AI for Experience: Designing with Generative Adversarial Networks to evoke climate fascination](http://resolver.tudelft.nl/uuid:731b92cc-ec9e-4543-a608-c0edbdb14aaf){:target="_blank"}. In collaboration with the **Google AI** team.
 - [2020] _Niels Bakker_. [Estimating crowd density and their emotions for city events using social media images](http://resolver.tudelft.nl/uuid:7f49777f-a380-4afa-addb-20a74280e5e3){:target="_blank"}.
 - [2020] _Mark van der Smagt_. [Noticing Grippy: Exploring vibration noticeability in the context of a wearable coping aid](http://resolver.tudelft.nl/uuid:9c86f006-90e9-429d-9b6b-d43e3e8d2655){:target="_blank"}.
