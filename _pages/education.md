@@ -23,7 +23,7 @@ sidebar:
 
 ## Courses
 
-I teach [_Crowd Computing_](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=55281) (MSc, EEMCS,  with [Ujwal Gadiraju](http://ujwalgadiraju.com)). I am Course Coordinator of the _Machine Learning for Design_ 2sd year course (BSc, IDE).
+I teach [_Crowd Computing_](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=55281) (MSc, EEMCS)  with [Ujwal Gadiraju](http://ujwalgadiraju.com). I am Course Coordinator of the [_Machine Learning for Design_](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=59952) 2nd year course (BSc, IDE). I am contributing to the [_Urban Data Science_](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=58292) course (BSc, IDE) coordinated by [Achilleas Psyllidis](https://www.tudelft.nl/en/ide/about-ide/people/psyllidis-a).
 
 I have lectured  [Information Retrieval](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=38328) (MSc, EEMCS) consecutively from 2013 until 2017; and [_Web and Database Technologies_](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=48438) (BSc, EEMCS, with [Claudia Hauff](https://chauff.github.io)) consecutively from 2013 until 2020. I have been Course Coordinator of the 1st year course Metropolitan Data 1 (MSc Metropolitan Analysis, Design and Engineering), AMS Institute.
 
