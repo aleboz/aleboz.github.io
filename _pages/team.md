@@ -40,23 +40,19 @@ Below, the list of Assistant Professors, Ph.D. students, post-doctoral researche
 ## Ph.D. Students
 
 <div style="display: block; min-height:105px">
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/garoa.jpg){: .align-left} [**Garoa Gomez Beldarrain**](https://www.linkedin.com/in/garoagb){:target="_blank"} started her PhD in September 2022, working with [Himanshu Verma](https://www.tudelft.nl/en/ide/about-ide/people/verma-h){:target="_blank"}, [Euiyoung Kim](https://www.tudelft.nl/en/ide/about-ide/people/kim-ey) and I on the topic "Investigating the adoption of AI-enhanced processes", a collaboration with the Schiphol group.
+</div>
+
+<div style="display: block; min-height:105px">
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/mireia.jpg){: .align-left} [**Mireia Yurrita Semperena**](https://dcode-network.eu/cohort/mireia-yurrita-semperena/){:target="_blank"} started her PhD in July 2021, working with [Dave Murray-Rust](http://dave.murray-rust.org/){:target="_blank"} and I on the [DCODE](https://dcode-network.eu/program/inclusive-digital-futures/#phd-design-and-engineering-methods-for-principled-development-of-data-models-and-behaviours-2){:target="_blank"} project, Horizon 2020 Marie Sklodowska-Curie Innovative Training Network (ITN).
 </div>
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/nirav.jpg){: .align-left} [**Nirav Malsattar**](https://www.linkedin.com/in/nirav-m-65750374){:target="_blank"} started his PhD in June 2021, working with [Himanshu Verma](https://www.tudelft.nl/en/ide/about-ide/people/verma-h){:target="_blank"} and I on the "Human-Centered Information Extraction from City Archival Data" project, a collaboration with the Amsterdam City Archive, and the CTO Office of Municipality of Amsterdam.
-</div>
-
-<div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/samuel.png){: .align-left} [**Samuel Kernan Freire**](https://www.tudelft.nl/en/ide/about-ide/people/kernan-freire-s){:target="_blank"} started his PhD in November 2020, working with [Zoltan Rusák](https://www.tudelft.nl/en/ide/about-ide/people/rusak-z){:target="_blank"} and I on the COALA H2020 project. Samuel's research focuses on how manufacturing workers can be cognitively supported using AI-based tools.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/samuel.png){: .align-left} [**Samuel Kernan Freire**](https://www.tudelft.nl/en/ide/about-ide/people/kernan-freire-s){:target="_blank"} started his PhD in November 2020, working with [Evangelos Niforatos](https://www.tudelft.nl/en/ide/about-ide/people/niforatos-e){:target="_blank"} and I on the COALA H2020 project. Samuel's research focuses on how manufacturing workers can be cognitively supported using AI-based tools.
 </div>
 
 <div style="display: block; min-height:105px">
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/evert.jpg){: .align-left} [**Evert van Beek**](https://www.tudelft.nl/en/ide/about-ide/people/beek-e-van){:target="_blank"} started his PhD in July 2020, working with [Stella Boess](https://www.tudelft.nl/en/ide/about-ide/people/boess-su){:target="_blank"} on the IEBB-project (Integrale Energietransitie Bestaande Bouw). His doctoral research focuses on service- and product innovation for heat pumps in residential buildings.
-</div>
-
-<div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/julia.png){: .align-left} [**Julia Ubeda**](https://www.tudelft.nl/en/ide/about-ide/people/ubeda-j){:target="_blank"} started her PhD in April 2020, working with [Achilleas Psyllidis](https://www.tudelft.nl/en/ide/about-ide/people/psyllidis-a){:target="_blank"} and I on the "Designing Rhythms for Social Resilience" project.
 </div>
 
 <div style="display: block; min-height:105px">
@@ -110,7 +106,15 @@ Below, the list of Assistant Professors, Ph.D. students, post-doctoral researche
 ## Post-doctoral Researchers
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/andrea.jpg){: .align-left} [**Andrea Mauri**](http://www.andreamauri.com){:target="_blank"} joined the team in April 2018, working in the context of the [NWA JOIN](https://www.startimpuls-join.nl/){:target="_blank"} [“Big Data for Evidence-based Youth Policy”](https://www.startimpuls-join.nl/werkpakketten/inclusiviteit-en-cultuur){:target="_blank"} project, where he investigates to what extent social (big) data can be used to help to identify NEEts and inform policies for improving their integration with the society.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/julia.png){: .align-left} [**Sergei Zhilin**](https://www.linkedin.com/in/sergei-zhilin-263273113){:target="_blank"} joined the team in May 2022, working with [Achilleas Psyllidis](https://www.tudelft.nl/en/ide/about-ide/people/psyllidis-a){:target="_blank"} and I on the "Designing Rhythms for Social Resilience" project.
+</div>
+
+<div style="display: block; min-height:105px">
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/andrea.jpg){: .align-left} [**Yen-Chia Hsu**](https://yenchiah.me){:target="_blank"} joined the team in 2021, working in the context of the [PERISCOPE](https://www.startimpuls-join.nl/){:target="_blank"} [“Big Data for Evidence-based Youth Policy”](https://www.startimpuls-join.nl/werkpakketten/inclusiviteit-en-cultuur){:target="_blank"} project. Yen-Chia is currently working as Assistant Professor at the [Informatics Institute](https://ivi.uva.nl){:target="_blank"}, University of Amsterdam. 
+</div>
+
+<div style="display: block; min-height:105px">
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/andrea.jpg){: .align-left} [**Andrea Mauri**](http://www.andreamauri.com){:target="_blank"} joined the team in April 2018, working in the context of the [NWA JOIN](https://www.startimpuls-join.nl/){:target="_blank"} [“Big Data for Evidence-based Youth Policy”](https://www.startimpuls-join.nl/werkpakketten/inclusiviteit-en-cultuur){:target="_blank"} project. He later worked as Research Fellow with the AMS Institute. Andrea is currently working as a Junior Professor (Chaire de Professor Junior) at Université Claude Bernard Lyon 1, affiliated with the [Liris Research Lab](https://liris.cnrs.fr/){:target="_blank"}. 
 </div>
 
 <div style="display: block; min-height:105px">
