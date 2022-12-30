@@ -40,7 +40,7 @@ Below, the list of Assistant Professors, Ph.D. students, post-doctoral researche
 ## Ph.D. Students
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/garoa.jpg){: .align-left} [**Garoa Gomez Beldarrain**](https://www.linkedin.com/in/garoagb){:target="_blank"} started her PhD in September 2022, working with [Himanshu Verma](https://www.tudelft.nl/en/ide/about-ide/people/verma-h){:target="_blank"}, [Euiyoung Kim](https://www.tudelft.nl/en/ide/about-ide/people/kim-ey) and I on the topic "Investigating the adoption of AI-enhanced processes", a collaboration with the Schiphol group.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/D872A889-1A7C-402E-94B2-71EAF0D5313F.jpeg){: .align-left} [**Garoa Gomez Beldarrain**](https://www.linkedin.com/in/garoagb){:target="_blank"} started her PhD in September 2022, working with [Himanshu Verma](https://www.tudelft.nl/en/ide/about-ide/people/verma-h){:target="_blank"}, [Euiyoung Kim](https://www.tudelft.nl/en/ide/about-ide/people/kim-ey) and I on the topic "Investigating the adoption of AI-enhanced processes", a collaboration with the Schiphol group.
 </div>
 
 <div style="display: block; min-height:105px">
@@ -106,7 +106,7 @@ Below, the list of Assistant Professors, Ph.D. students, post-doctoral researche
 ## Post-doctoral Researchers
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/sergei.jpeg){: .align-left} [**Sergei Zhilin**](https://www.linkedin.com/in/sergei-zhilin-263273113){:target="_blank"} joined the team in May 2022, working with [Achilleas Psyllidis](https://www.tudelft.nl/en/ide/about-ide/people/psyllidis-a){:target="_blank"} and I on the "Designing Rhythms for Social Resilience" project.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/3D380C3D-16D8-4DBA-A394-8EE937F876F7.jpeg){: .align-left} [**Sergei Zhilin**](https://www.linkedin.com/in/sergei-zhilin-263273113){:target="_blank"} joined the team in May 2022, working with [Achilleas Psyllidis](https://www.tudelft.nl/en/ide/about-ide/people/psyllidis-a){:target="_blank"} and I on the "Designing Rhythms for Social Resilience" project.
 </div>
 
 <div style="display: block; min-height:105px">
@@ -155,6 +155,9 @@ Below, the list of Assistant Professors, Ph.D. students, post-doctoral researche
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/christiaan.jpg){: .align-left} [**Christiaan Titos Bolivar**](https://www.linkedin.com/in/christiaan-titos-bolivar-b17550ba){:target="_blank"} has been part of the team between 2014 and 2015. Christiaan contributed to the development of the [SocialGlass](http://social-glass.tudelft.nl){:target="_blank"} project. Christiaan is currently a Software Developer at Chainels.
 </div>
 
+## Alumni
+
+Through the years, the team's activities have also been supported by great colleagues like [**Nirav Malsattar**](https://www.linkedin.com/in/nirav-m-65750374){:target="_blank"}(2021-2022) and [**Julia Ubeda Briones**](https://www.linkedin.com/in/julia-%C3%BAbeda-briones-28693858){:target="_blank"} (2020-2021).
 
 ## MSc and BSc Students
 
