@@ -106,11 +106,11 @@ Below, the list of Assistant Professors, Ph.D. students, post-doctoral researche
 ## Post-doctoral Researchers
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/julia.png){: .align-left} [**Sergei Zhilin**](https://www.linkedin.com/in/sergei-zhilin-263273113){:target="_blank"} joined the team in May 2022, working with [Achilleas Psyllidis](https://www.tudelft.nl/en/ide/about-ide/people/psyllidis-a){:target="_blank"} and I on the "Designing Rhythms for Social Resilience" project.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/sergei.jpeg){: .align-left} [**Sergei Zhilin**](https://www.linkedin.com/in/sergei-zhilin-263273113){:target="_blank"} joined the team in May 2022, working with [Achilleas Psyllidis](https://www.tudelft.nl/en/ide/about-ide/people/psyllidis-a){:target="_blank"} and I on the "Designing Rhythms for Social Resilience" project.
 </div>
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/81E6CEFB-29DC-47D0-8C8E-A7487892588E.jpeg){: .align-left} [**Yen-Chia Hsu**](https://yenchiah.me){:target="_blank"} joined the team in 2021, working in the context of the [PERISCOPE](https://www.startimpuls-join.nl/){:target="_blank"} [“Big Data for Evidence-based Youth Policy”](https://www.startimpuls-join.nl/werkpakketten/inclusiviteit-en-cultuur){:target="_blank"} project. Yen-Chia is currently working as Assistant Professor at the [Informatics Institute](https://ivi.uva.nl){:target="_blank"}, University of Amsterdam. 
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/81E6CEFB-29DC-47D0-8C8E-A7487892588E.jpeg){: .align-left} [**Yen-Chia Hsu**](https://yenchiah.me){:target="_blank"} joined the team in 2021, working in the context of the [PERISCOPE](https://periscopeproject.eu){:target="_blank"} (Pan-European Response to the Impacts of COVID-19 and future Pandemics and Epidemics) project. Yen-Chia is currently working as Assistant Professor at the [Informatics Institute](https://ivi.uva.nl){:target="_blank"}, University of Amsterdam. 
 </div>
 
 <div style="display: block; min-height:105px">
