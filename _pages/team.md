@@ -133,7 +133,11 @@ Below, the list of Assistant Professors, Ph.D. students, post-doctoral researche
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/stefano.jpg){: .align-left} [**Stefano Bocconi**](https://waag.org/en/stefano-bocconi){:target="_blank"} has been part of the team between 2014 and 2015. Stefano was a driving force in the design and creation of the [SocialGlass](http://social-glass.tudelft.nl){:target="_blank"} project. Stefano is currently a Software Developer at Waag Society.
 </div>
 
-## Research Engineers
+## Research Engineers and Junior Researchers
+
+<div style="display: block; min-height:105px">
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/8D57D133-4756-4DAA-BD14-C9CFC61FA854.jpeg){: .align-left} [**Ji-Youn Jung **](https://www.jiyounjung.com){:target="_blank"} joined the team in 2022, after successfully graduatiing wiht our research group. Ji-Youn is spending this bridging period between her graduation and a PhD designing and conducting research on interaction with conversational agents. 
+</div>
 
 <div style="display: block; min-height:105px">
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/carlo.jpg){: .align-left} [**Carlo Van Der Valk**](https://www.ams-institute.org/about-ams/team/ams-staff/carlo-van-der-valk-msc/){:target="_blank"} joined the team in 2017. Carlo is a research engineer at the AMS Institute and has worked on the development of [SocialGlass](http://social-glass.tudelft.nl){:target="_blank"} within the Urban Data Science team. Carlo is responsible for the design and implementation of new services and features for [SocialGlass](http://social-glass.tudelft.nl){:target="_blank"} and the deployment of [SocialGlass](http://social-glass.tudelft.nl){:target="_blank"} as a service.
