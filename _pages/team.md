@@ -68,7 +68,7 @@ Below, the list of Assistant Professors, Ph.D. students, post-doctoral researche
 </div>
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/tim.jpg){: .align-left} [**Tim Draws**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/tim-draws/){:target="_blank"} started his PhD in August 2019, working with [Nava Tintarev](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/nava-tintarev/) and I on a project sponsored by IBM Netherlands. His work focuses on the representation of diverse viewpoints in search results.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/tim.jpg){: .align-left} [**Tim Draws**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/tim-draws/){:target="_blank"} started his PhD in August 2019, working with [Nava Tintarev](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/nava-tintarev/) on a project sponsored by IBM Netherlands. His work focuses on the representation of diverse viewpoints in search results. I had the opportunity to work with Tim during the first months of his PhD, and to collaborate on some publications. 
 </div>
 
 <div style="display: block; min-height:105px">
