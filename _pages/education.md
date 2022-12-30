@@ -25,11 +25,13 @@ sidebar:
 
 I teach the [_Machine Learning for Design_](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=59952) 2nd year course (BSc, IDE), and the [_Crowd Computing for Design_](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=63010) course (MSc, IDE). I am also teaching [_Crowd Computing_](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=55281) (MSc, EEMCS)  with [Ujwal Gadiraju](http://ujwalgadiraju.com). I am contributing to the [_Advanced Machine Learning for Design_](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=63011) course (MSc, IDE) coordinated by [Evangelos Niforatos](), and the [_Urban Data Science_](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=58292) course (BSc, IDE) coordinated by [Achilleas Psyllidis](https://www.tudelft.nl/en/ide/about-ide/people/psyllidis-a).
 
-The students of the IDE faculty honoured me with their nomination as [TU Delft Lecturer of the Year](https://www.youtube.com/watch?v=sBbLO35xxf0) for the Academic Year 2021-2022. 
+The students of the IDE faculty honoured me with their nomination as [**TU Delft Lecturer of the Year**](https://www.youtube.com/watch?v=sBbLO35xxf0) for the Academic Year 2021-2022. 
 
 I have lectured  [Information Retrieval](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=38328) (MSc, EEMCS) consecutively from 2013 until 2017; and [_Web and Database Technologies_](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=48438) (BSc, EEMCS, with [Claudia Hauff](https://chauff.github.io)) consecutively from 2013 until 2020. I have been Course Coordinator of the 1st year course Metropolitan Data 1 (MSc Metropolitan Analysis, Design and Engineering), AMS Institute.
 
 A complete list of master and bachelor theses that I supervised in TU Delft is available on the [TU Delft Education Repository](https://repository.tudelft.nl/islandora/search/bozzon?collection=education){:target="_blank"}.
+
+I believe that providing students with concrete research problems can arouse students' curiosity in scientific careers, motivating them to pursue a thesis within the research group and, sometimes, to join a PhD program. In several occasions I worked one-on-one with students on individual research projects that later contributed to published articles; in other cases the involvement of students included the co-authorship of papers. Several of my master students decided to pursue a PhD trajectory. Some of them currently hold academic positions in prestigious European universities. 
 
 ## Supervised Master Students
 
