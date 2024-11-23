@@ -15,7 +15,7 @@ layouts_gallery:
   - url: /assets/images/mm-layout-archive.png
     image_path: /assets/images/mm-layout-archive.png
     alt: "archive layout example"
-last_modified_at: 2021-05-04T12:00:00-04:00
+last_modified_at: 2022-12-30T12:00:00-04:00
 sidebar:
   nav: "edunav"
 
@@ -23,14 +23,26 @@ sidebar:
 
 ## Courses
 
-I teach [_Crowd Computing_](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=55281) (MSc, EEMCS,  with [Ujwal Gadiraju](http://ujwalgadiraju.com)). I am Course Coordinator of the _Machine Learning for Design_ 2sd year course (BSc, IDE).
+I teach the [_Machine Learning for Design_](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=59952) 2nd year course (BSc, IDE), and the [_Crowd Computing for Design_](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=63010) course (MSc, IDE). I am also teaching [_Crowd Computing_](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=55281) (MSc, EEMCS)  with [Ujwal Gadiraju](http://ujwalgadiraju.com). I am contributing to the [_Advanced Machine Learning for Design_](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=63011) course (MSc, IDE) coordinated by [Evangelos Niforatos](), and the [_Urban Data Science_](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=58292) course (BSc, IDE) coordinated by [Achilleas Psyllidis](https://www.tudelft.nl/en/ide/about-ide/people/psyllidis-a).
+
+The students of the IDE faculty honoured me with their nomination as [**TU Delft Lecturer of the Year**](https://www.youtube.com/watch?v=sBbLO35xxf0) for the Academic Year 2021-2022. 
 
 I have lectured  [Information Retrieval](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=38328) (MSc, EEMCS) consecutively from 2013 until 2017; and [_Web and Database Technologies_](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=48438) (BSc, EEMCS, with [Claudia Hauff](https://chauff.github.io)) consecutively from 2013 until 2020. I have been Course Coordinator of the 1st year course Metropolitan Data 1 (MSc Metropolitan Analysis, Design and Engineering), AMS Institute.
 
 A complete list of master and bachelor theses that I supervised in TU Delft is available on the [TU Delft Education Repository](https://repository.tudelft.nl/islandora/search/bozzon?collection=education){:target="_blank"}.
 
+I believe that providing students with concrete research problems can arouse students' curiosity in scientific careers, motivating them to pursue a thesis within the research group and, sometimes, to join a PhD program. In several occasions I worked one-on-one with students on individual research projects that later contributed to published articles; in other cases the involvement of students included the co-authorship of papers. Several of my master students decided to pursue a PhD trajectory. Some of them currently hold academic positions in prestigious European universities. 
+
 ## Supervised Master Students
 
+- [2022] _Ruben Dekker_. [Designing AI projects using a reactive digital canvas](http://resolver.tudelft.nl/uuid:105abeee-6430-4eb7-b3fd-eda35add900d){:target="_blank"}.
+- [2022] _Ji Youn Jung_. [Ethics, Gender, and Agents: The Role of Designers in Conversational Agent Design](http://resolver.tudelft.nl/uuid:bd8d749e-022f-4b88-8715-b709862ffa7c){:target="_blank"}. The thesis work has been **published** in the proceedings of [CHI 2022](https://research.tudelft.nl/en/publications/gender-choices-of-conversational-agent-how-todays-practice-can-sh){:target="_blank"}.
+- [2022] _Kilian Callebaut_. [CombinaTorch - Creating a Multi-Task, Multi-Dataset Framework for Deep Learning](http://resolver.tudelft.nl/uuid:1ebfd66c-79e6-467b-a13a-0173d1c60a3c).
+- [2022] _Timo van Asten_. [Measuring Natural Surveillance at Scale: An Automated Method for Investigating the Relation Between the 'Eyes on the Street' and Urban Safety](http://resolver.tudelft.nl/uuid:7741ffe9-84f1-4652-8a7b-a26451ddb8db){:target="_blank"}. The thesis work will  **published** in the proceedings of [CUPUM 2023](https://www.cupum2023.org){:target="_blank"}.
+- [2022] _Wei Zeng_. [Enabling Human-In-The-Loop Interpretability Methods of Machine Learning Models: The Case of Bird Species Identification](http://resolver.tudelft.nl/uuid:dabbfb49-4fbf-4ead-ab3d-e535572de4e7){:target="_blank"}. 
+- [2021] _Tomas Heinsohn Huala_. [FairData: A system to explore datasets as a tool to let data-centric researchers become aware of bias](http://resolver.tudelft.nl/uuid:a3342c9f-90cc-4bf0-8bdc-1ea002a7fd22){:target="_blank"}.
+- [2021] _Junyao Li_. [Explore a new book discovery experience in the public library](http://resolver.tudelft.nl/uuid:ae5c363d-cf55-41b8-bddb-620ea743e0b2){:target="_blank"}. In collaboration with the **Royal Library of the Netherlands**.
+- [2021] _Yuxin Chu_. [Describing Images to Visually Impaired Users: a Requirement Elicitation Approach](http://resolver.tudelft.nl/uuid:990d2cd5-f3b6-4f08-8926-86faa65abb38){:target="_blank"}. In collaboration with the **Royal Library of the Netherlands**.
 - [2021] _Frederik Ueberschär_. [AI for Experience: Designing with Generative Adversarial Networks to evoke climate fascination](http://resolver.tudelft.nl/uuid:731b92cc-ec9e-4543-a608-c0edbdb14aaf){:target="_blank"}. In collaboration with the **Google AI** team.
 - [2020] _Niels Bakker_. [Estimating crowd density and their emotions for city events using social media images](http://resolver.tudelft.nl/uuid:7f49777f-a380-4afa-addb-20a74280e5e3){:target="_blank"}.
 - [2020] _Mark van der Smagt_. [Noticing Grippy: Exploring vibration noticeability in the context of a wearable coping aid](http://resolver.tudelft.nl/uuid:9c86f006-90e9-429d-9b6b-d43e3e8d2655){:target="_blank"}.

@@ -4,7 +4,7 @@ classes: wide
 author_profile: false
 permalink: /research/team/
 title: "Research Team"
-last_modified_at: 2021-05-04T12:00:00-04:00
+last_modified_at: 2022-12-30T12:00:00-04:00
 excerpt: "The Research Team"
 toc: false
 sidebar:
@@ -25,7 +25,7 @@ Below, the list of Assistant Professors, Ph.D. students, post-doctoral researche
 {::options parse_block_html="true" /}
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/achilleas.jpg){: .align-left} [**Achilleas Psyllidis**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/achilleas-psyllidis/){:target="_blank"} is Assistant Professor of Location Intelligence in the [KInD](https://www.tudelft.nl/en/ide/about-ide/departments/sustainable-design-engineering/section-intelligence){:target="_blank"} group at the Delft University of Technology. Achilleas obtained in 2016 a Ph.D. in Urban Informatics from the Faculty of Architecture and Built Environment with a [thesis](https://repository.tudelft.nl/islandora/object/uuid%3A5f59d2b3-dc83-488b-9617-a44a40f24263){:target="_blank"} titled **Revisiting Urban Dynamics through Social Urban Data**. Achilleas joined the team in 2014, working on the [SocialGlass](http://social-glass.tudelft.nl){:target="_blank"} project. 
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/achilleas.jpg){: .align-left} [**Achilleas Psyllidis**](https://www.tudelft.nl/en/ide/about-ide/people/psyllidis-a){:target="_blank"} is Assistant Professor of Location Intelligence in the [KInD](https://www.tudelft.nl/en/ide/about-ide/departments/sustainable-design-engineering/section-intelligence){:target="_blank"} group at the Delft University of Technology. Achilleas obtained in 2016 a Ph.D. in Urban Informatics from the Faculty of Architecture and Built Environment with a [thesis](https://repository.tudelft.nl/islandora/object/uuid%3A5f59d2b3-dc83-488b-9617-a44a40f24263){:target="_blank"} titled **Revisiting Urban Dynamics through Social Urban Data**. Achilleas joined the team in 2014, working on the [SocialGlass](http://social-glass.tudelft.nl){:target="_blank"} project. 
 </div>
 
 <div style="display: block; min-height:105px">
@@ -40,19 +40,19 @@ Below, the list of Assistant Professors, Ph.D. students, post-doctoral researche
 ## Ph.D. Students
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/nirav.jpg){: .align-left} [**Nirav Malsattar**](https://www.linkedin.com/in/nirav-m-65750374){:target="_blank"} started his PhD in June 2021, working with [Himanshu Verma](https://www.tudelft.nl/en/ide/about-ide/people/verma-h){:target="_blank"} and I on the "Human-Centered Information Extraction from City Archival Data" project, a collaboration with the Amsterdam City Archive, and the CTO Office of Municipality of Amsterdam.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/D872A889-1A7C-402E-94B2-71EAF0D5313F.jpeg){: .align-left} [**Garoa Gomez Beldarrain**](https://www.linkedin.com/in/garoagb){:target="_blank"} started her PhD in September 2022, working with [Himanshu Verma](https://www.tudelft.nl/en/ide/about-ide/people/verma-h){:target="_blank"}, [Euiyoung Kim](https://www.tudelft.nl/en/ide/about-ide/people/kim-ey) and I on the topic "Investigating the adoption of AI-enhanced processes", a collaboration with the Schiphol group.
 </div>
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/samuel.png){: .align-left} [**Samuel Kernan Freire**](https://www.tudelft.nl/en/ide/about-ide/people/kernan-freire-s){:target="_blank"} started his PhD in November 2020, working with [Zoltan Rusák](https://www.tudelft.nl/en/ide/about-ide/people/rusak-z){:target="_blank"} and I on the COALA H2020 project. Samuel's research focuses on how manufacturing workers can be cognitively supported using AI-based tools.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/mireia.jpg){: .align-left} [**Mireia Yurrita Semperena**](https://dcode-network.eu/cohort/mireia-yurrita-semperena/){:target="_blank"} started her PhD in July 2021, working with [Dave Murray-Rust](http://dave.murray-rust.org/){:target="_blank"} and I on the [DCODE](https://dcode-network.eu/program/inclusive-digital-futures/#phd-design-and-engineering-methods-for-principled-development-of-data-models-and-behaviours-2){:target="_blank"} project, Horizon 2020 Marie Sklodowska-Curie Innovative Training Network (ITN).
+</div>
+
+<div style="display: block; min-height:105px">
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/samuel.png){: .align-left} [**Samuel Kernan Freire**](https://www.tudelft.nl/en/ide/about-ide/people/kernan-freire-s){:target="_blank"} started his PhD in November 2020, working with [Evangelos Niforatos](https://www.tudelft.nl/en/ide/about-ide/people/niforatos-e){:target="_blank"} and I on the COALA H2020 project. Samuel's research focuses on how manufacturing workers can be cognitively supported using AI-based tools.
 </div>
 
 <div style="display: block; min-height:105px">
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/evert.jpg){: .align-left} [**Evert van Beek**](https://www.tudelft.nl/en/ide/about-ide/people/beek-e-van){:target="_blank"} started his PhD in July 2020, working with [Stella Boess](https://www.tudelft.nl/en/ide/about-ide/people/boess-su){:target="_blank"} on the IEBB-project (Integrale Energietransitie Bestaande Bouw). His doctoral research focuses on service- and product innovation for heat pumps in residential buildings.
-</div>
-
-<div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/julia.png){: .align-left} [**Julia Ubeda**](https://www.tudelft.nl/en/ide/about-ide/people/ubeda-j){:target="_blank"} started her PhD in April 2020, working with [Achilleas Psyllidis](https://www.tudelft.nl/en/ide/about-ide/people/psyllidis-a){:target="_blank"} and I on the "Designing Rhythms for Social Resilience" project.
 </div>
 
 <div style="display: block; min-height:105px">
@@ -68,7 +68,7 @@ Below, the list of Assistant Professors, Ph.D. students, post-doctoral researche
 </div>
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/tim.jpg){: .align-left} [**Tim Draws**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/tim-draws/){:target="_blank"} started his PhD in August 2019, working with [Nava Tintarev](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/nava-tintarev/) and I on a project sponsored by IBM Netherlands. His work focuses on the representation of diverse viewpoints in search results.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/tim.jpg){: .align-left} [**Tim Draws**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/tim-draws/){:target="_blank"} started his PhD in August 2019, working with [Nava Tintarev](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/nava-tintarev/) on a project sponsored by IBM Netherlands. His work focuses on the representation of diverse viewpoints in search results. I had the opportunity to work with Tim during the first months of his PhD, and to collaborate on some publications. 
 </div>
 
 <div style="display: block; min-height:105px">
@@ -80,11 +80,11 @@ Below, the list of Assistant Professors, Ph.D. students, post-doctoral researche
 </div>
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/sihang.jpg){: .align-left} [**Sihang Qiu**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/sihang-qiu/){:target="_blank"} joined the team in October 2017, with a CSC (China Scholarship Council) scholarship. Sihang's work focus on conversational microtask crowdsourcing techniques.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/shahin.jpg){: .align-left} [**Shahin Sharifi Noorian**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/shahin-sharifi/){:target="_blank"} joined the team in August 2017. Shahin is studying novel inference methods for time-varying and subjective properties of real-world locations from social data.
 </div>
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/shahin.jpg){: .align-left} [**Shahin Sharifi Noorian**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/shahin-sharifi/){:target="_blank"} joined the team in August 2017. Shahin is studying novel inference methods for time-varying and subjective properties of real-world locations from social data.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/sihang.jpg){: .align-left} [**Sihang Qiu**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/sihang-qiu/){:target="_blank"} joined the team in October 2017, with a CSC (China Scholarship Council) scholarship. Sihang _graduated_ in October 2021 with a [thesis](https://doi.org/10.4233/uuid:d37db2c0-cf16-4edf-97ba-aebff35011b5){:target="_blank"} titled **Conversational Crowdsourcing**. 
 </div>
 
 <div style="display: block; min-height:105px">
@@ -106,7 +106,15 @@ Below, the list of Assistant Professors, Ph.D. students, post-doctoral researche
 ## Post-doctoral Researchers
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/andrea.jpg){: .align-left} [**Andrea Mauri**](http://www.andreamauri.com){:target="_blank"} joined the team in April 2018, working in the context of the [NWA JOIN](https://www.startimpuls-join.nl/){:target="_blank"} [“Big Data for Evidence-based Youth Policy”](https://www.startimpuls-join.nl/werkpakketten/inclusiviteit-en-cultuur){:target="_blank"} project, where he investigates to what extent social (big) data can be used to help to identify NEEts and inform policies for improving their integration with the society.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/3D380C3D-16D8-4DBA-A394-8EE937F876F7.jpeg){: .align-left} [**Sergei Zhilin**](https://www.linkedin.com/in/sergei-zhilin-263273113){:target="_blank"} joined the team in May 2022, working with [Achilleas Psyllidis](https://www.tudelft.nl/en/ide/about-ide/people/psyllidis-a){:target="_blank"} and I on the "Designing Rhythms for Social Resilience" project.
+</div>
+
+<div style="display: block; min-height:105px">
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/81E6CEFB-29DC-47D0-8C8E-A7487892588E.jpeg){: .align-left} [**Yen-Chia Hsu**](https://yenchiah.me){:target="_blank"} joined the team in 2021, working in the context of the [PERISCOPE](https://periscopeproject.eu){:target="_blank"} (Pan-European Response to the Impacts of COVID-19 and future Pandemics and Epidemics) project. Yen-Chia is currently working as Assistant Professor at the [Informatics Institute](https://ivi.uva.nl){:target="_blank"}, University of Amsterdam. 
+</div>
+
+<div style="display: block; min-height:105px">
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/andrea.jpg){: .align-left} [**Andrea Mauri**](http://www.andreamauri.com){:target="_blank"} joined the team in April 2018, working in the context of the [NWA JOIN](https://www.startimpuls-join.nl/){:target="_blank"} [“Big Data for Evidence-based Youth Policy”](https://www.startimpuls-join.nl/werkpakketten/inclusiviteit-en-cultuur){:target="_blank"} project. He later worked as Research Fellow with the AMS Institute. Andrea is currently working as a Junior Professor (Chaire de Professor Junior) at Université Claude Bernard Lyon 1, affiliated with the [Liris Research Lab](https://liris.cnrs.fr/){:target="_blank"}. 
 </div>
 
 <div style="display: block; min-height:105px">
@@ -125,7 +133,11 @@ Below, the list of Assistant Professors, Ph.D. students, post-doctoral researche
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/stefano.jpg){: .align-left} [**Stefano Bocconi**](https://waag.org/en/stefano-bocconi){:target="_blank"} has been part of the team between 2014 and 2015. Stefano was a driving force in the design and creation of the [SocialGlass](http://social-glass.tudelft.nl){:target="_blank"} project. Stefano is currently a Software Developer at Waag Society.
 </div>
 
-## Research Engineers
+## Research Engineers and Junior Researchers
+
+<div style="display: block; min-height:105px">
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/8D57D133-4756-4DAA-BD14-C9CFC61FA854.jpeg){: .align-left} [**Ji-Youn Jung **](https://www.jiyounjung.com){:target="_blank"} joined the team in 2022, after successfully graduatiing wiht our research group. Ji-Youn is spending this bridging period between her graduation and a PhD designing and conducting research on interaction with conversational agents. 
+</div>
 
 <div style="display: block; min-height:105px">
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/carlo.jpg){: .align-left} [**Carlo Van Der Valk**](https://www.ams-institute.org/about-ams/team/ams-staff/carlo-van-der-valk-msc/){:target="_blank"} joined the team in 2017. Carlo is a research engineer at the AMS Institute and has worked on the development of [SocialGlass](http://social-glass.tudelft.nl){:target="_blank"} within the Urban Data Science team. Carlo is responsible for the design and implementation of new services and features for [SocialGlass](http://social-glass.tudelft.nl){:target="_blank"} and the deployment of [SocialGlass](http://social-glass.tudelft.nl){:target="_blank"} as a service.
@@ -147,6 +159,9 @@ Below, the list of Assistant Professors, Ph.D. students, post-doctoral researche
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/christiaan.jpg){: .align-left} [**Christiaan Titos Bolivar**](https://www.linkedin.com/in/christiaan-titos-bolivar-b17550ba){:target="_blank"} has been part of the team between 2014 and 2015. Christiaan contributed to the development of the [SocialGlass](http://social-glass.tudelft.nl){:target="_blank"} project. Christiaan is currently a Software Developer at Chainels.
 </div>
 
+## Alumni
+
+Through the years, the team's activities have also been supported by great colleagues like [**Nirav Malsattar**](https://www.linkedin.com/in/nirav-m-65750374){:target="_blank"}(2021-2022) and [**Julia Ubeda Briones**](https://www.linkedin.com/in/julia-%C3%BAbeda-briones-28693858){:target="_blank"} (2020-2021).
 
 ## MSc and BSc Students
 
