@@ -13,14 +13,14 @@ sidebar:
 
 These are the great colleagues that are currently (or have been) part of my research team. Together, we strive to create the next generation of Human-Centered Artificial Intelligence system, and, through them, create societal and economic impact.
 
-<!-- <figure class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/team/team2018.jpg" alt="The research team, July 2018.">
-  <figcaption>The research team, July 2018.</figcaption>
-</figure> -->
+<figure class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/team/team2023.jpeg" alt="The KInD research group, December 2023.">
+  <figcaption>The KInD research grouo, December 2023.</figcaption>
+</figure>
 
-Below, the list of Assistant Professors, Ph.D. students, post-doctoral researchers, and research engineers that have been part of my research team over the years. 
+Below, the list of Associate and Assistant Professors, Ph.D. students, post-doctoral researchers, and research engineers that have been part of my research team over the years. 
 
-## Assistant and Associate Professors
+## Associate and Assistant Professors
 
 {::options parse_block_html="true" /}
 
@@ -52,11 +52,32 @@ Below, the list of Assistant Professors, Ph.D. students, post-doctoral researche
 ## Ph.D. Students
 
 <div style="display: block; min-height:105px">
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/catalina.jpg){: .align-left} [**Catalina Lagos Rojas**](https://www.linkedin.com/in/ccatalina/?originalSubdomain=pt){:target="_blank"} started her PhD in October 2024, working with [Sara Colombo](https://saracolombo.work){:target="_blank"} and I in the [Feminist Generative AI Lab](https://www.feministailab.org).
+</div>
+
+<div style="display: block; min-height:105px">
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/ariane.jpg){: .align-left} [**Ariane Lucchini**](https://www.linkedin.com/in/ariane-lucchini/?originalSubdomain=uk){:target="_blank"} started her PhD in October 2024, working with [Sara Colombo](https://saracolombo.work){:target="_blank"} and I in the [Feminist Generative AI Lab](https://www.feministailab.org).
+</div>
+
+<div style="display: block; min-height:105px">
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/celine.png){: .align-left} [**Celine Offerman**](https://www.tudelft.nl/io/over-io/personen/ir-offerman-ce){:target="_blank"} started her PhD in April 2024, working with [Jacky Bourgeois](https://jackybourgeois.com){:target="_blank"} and I on the topic "Embedding caring into remote patient management systems".
+</div>
+
+<div style="display: block; min-height:105px">
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/francesca.jpg){: .align-left} [**Francesca Mauri**](https://www.tudelft.nl/io/over-io/personen/msc-mauri-fm){:target="_blank"} started her PhD in January 2024, working with [Sara Colombo](https://saracolombo.work){:target="_blank"} and I on the topic "Participatory futures-oriented Design practices for AI Ethical Assessment".
+</div>
+
+<div style="display: block; min-height:105px">
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/karin.jpg){: .align-left} [**Karin Bogdanova**](https://www.tudelft.nl/io/over-io/personen/bogdanova-eo){:target="_blank"} started her PhD in September 2022, working with [Nazli Cila](https://www.nazlicila.com){:target="_blank"} and I on the topic "Aesthetics and ecologies of algorithmic care: Designing alternative human-AI collaboration practices for digital phenotyping".
+</div>
+
+
+<div style="display: block; min-height:105px">
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/D872A889-1A7C-402E-94B2-71EAF0D5313F.jpeg){: .align-left} [**Garoa Gomez Beldarrain**](https://www.linkedin.com/in/garoagb){:target="_blank"} started her PhD in September 2022, working with [Himanshu Verma](https://www.tudelft.nl/en/ide/about-ide/people/verma-h){:target="_blank"}, [Euiyoung Kim](https://www.tudelft.nl/en/ide/about-ide/people/kim-ey) and I on the topic "Investigating the adoption of AI-enhanced processes", a collaboration with the Schiphol group.
 </div>
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/mireia.jpg){: .align-left} [**Mireia Yurrita Semperena**](https://dcode-network.eu/cohort/mireia-yurrita-semperena/){:target="_blank"} started her PhD in July 2021, working with [Dave Murray-Rust](http://dave.murray-rust.org/){:target="_blank"} and I on the [DCODE](https://dcode-network.eu/program/inclusive-digital-futures/#phd-design-and-engineering-methods-for-principled-development-of-data-models-and-behaviours-2){:target="_blank"} project, Horizon 2020 Marie Sklodowska-Curie Innovative Training Network (ITN).
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/mireia.jpg){: .align-left} [**Mireia Yurrita Semperena**](https://dcode-network.eu/cohort/mireia-yurrita-semperena/){:target="_blank"} started her PhD in July 2021, working on the [DCODE](https://dcode-network.eu/program/inclusive-digital-futures/#phd-design-and-engineering-methods-for-principled-development-of-data-models-and-behaviours-2){:target="_blank"} project, Horizon 2020 Marie Sklodowska-Curie Innovative Training Network (ITN).
 </div>
 
 <div style="display: block; min-height:105px">
@@ -68,23 +89,23 @@ Below, the list of Assistant Professors, Ph.D. students, post-doctoral researche
 </div>
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/roos.jpg){: .align-left} [**Roos Teeuwen**](https://www.tudelft.nl/en/ide/about-ide/people/teeuwen-rfl){:target="_blank"} started her PhD in April 2020, working with [Achilleas Psyllidis](https://www.tudelft.nl/en/ide/about-ide/people/psyllidis-a){:target="_blank"} and I on the "Equal-Life" project. She studies urban greenspaces in a pedestrian-centered manner: how they relate to their physical surroundings and how people perceive such spaces.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/roos.jpg){: .align-left} [**Roos Teeuwen**](https://roosteeuwen.com){:target="_blank"} started her PhD in April 2020, working with [Achilleas Psyllidis](https://www.tudelft.nl/en/ide/about-ide/people/psyllidis-a){:target="_blank"} and I on the "Equal-Life" project. Roos _graduated_ in Octobr 2024 with a [thesis]https://resolver.tudelft.nl/uuid:b63f6779-cc98-40d0-9775-2af0054233e9){:target="_blank"} titled **Urban Co-accessibility**.
 </div>
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/vasileios.jpg){: .align-left} [**Vasileios Milias**](https://www.tudelft.nl/en/ide/about-ide/people/milias-v){:target="_blank"} started his PhD in March 2020, working with [Achilleas Psyllidis](https://www.tudelft.nl/en/ide/about-ide/people/psyllidis-a){:target="_blank"} and I on the "Equal-Life" project. His work focuses human-centred approaches for the analysis of activity patterns in the context of mental health.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/vasileios.jpg){: .align-left} [**Vasileios Milias**](https://miliasv.github.io/bio_VM/){:target="_blank"} started his PhD in March 2020, working with [Achilleas Psyllidis](https://www.tudelft.nl/en/ide/about-ide/people/psyllidis-a){:target="_blank"} and I on the "Equal-Life" project. Vasileios _graduated_ in October 2024 with a [thesis](https://resolver.tudelft.nl/uuid:0d2c77bc-5c20-4d1e-a02b-0c1de67ec728){:target="_blank"} titled **Measuring children's access to urban greenspace**.
 </div>
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/ziyu.jpg){: .align-left} [**Ziyu Li**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/ziyu-li/){:target="_blank"} started her PhD in November 2019, working with [Asterios Katsifodimos](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/asterios-katsifodimos/) and I on the Cognizant "HyperEdgeSensing" project. Her work focuses on complex event processing in real-time video streams.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/ziyu.jpg){: .align-left} [**Ziyu Li**]https://ziyuli.me){:target="_blank"} started her PhD in November 2019, working with [Asterios Katsifodimos](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/asterios-katsifodimos/) and I on the Cognizant "HyperEdgeSensing" project. ZiYu _graduated_ in September 2024 with a [thesis](https://resolver.tudelft.nl/uuid:0037aafa-5960-435b-9aea-52e266c9857c){:target="_blank"} titled **On the utility of metadata to optimize machine learning workflows**.
 </div>
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/tim.jpg){: .align-left} [**Tim Draws**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/tim-draws/){:target="_blank"} started his PhD in August 2019, working with [Nava Tintarev](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/nava-tintarev/) on a project sponsored by IBM Netherlands. His work focuses on the representation of diverse viewpoints in search results. I had the opportunity to work with Tim during the first months of his PhD, and to collaborate on some publications. 
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/tim.jpg){: .align-left} [**Tim Draws**](https://timdraws.net){:target="_blank"} started his PhD in August 2019, working with [Nava Tintarev](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/nava-tintarev/) on a project sponsored by IBM Netherlands. His work focuses on the representation of diverse viewpoints in search results. I had the opportunity to work with Tim during the first months of his PhD, and to collaborate on some publications. Tim _graduated cum laude_ in July 2023 with a [thesis](https://doi.org/10.4233/uuid:1b177026-6af7-48f3-ba04-ab7109db3c36){:target="_blank"} titled **Understanding Viewpoint Biases in Web Search Results**.
 </div>
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/agathe.jpg){: .align-left} [**Agathe Balayn**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/agathe-balayn/){:target="_blank"} started her PhD in April 2019, working with [Christoph Lofi](http://www.wis.ewi.tudelft.nl/lofi/) and I on the Cognizant HyperEdgeSensing project. Her work focuses on Crowd Computing systems for automated data labeling in distributed machine learning infrastructures.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/agathe.jpg){: .align-left} [**Agathe Balayn**](https://agathe-balayn.github.io){:target="_blank"} started her PhD in April 2019, working with [Christoph Lofi](http://www.wis.ewi.tudelft.nl/lofi/) and I on the Cognizant HyperEdgeSensing project. Her work focuses on Crowd Computing systems for automated data labeling in distributed machine learning infrastructures. Agathe _graduated cum laude_ in October 2023 with a [thesis](https://doi.org/10.4233/uuid:ea94239f-5e95-4705-9deb-32196d74daaa){:target="_blank"} titled **On developers’ practices for hazard diagnosis in machine learning systems**.
 </div>
 
 <div style="display: block; min-height:105px">
@@ -96,15 +117,15 @@ Below, the list of Assistant Professors, Ph.D. students, post-doctoral researche
 </div>
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/sihang.jpg){: .align-left} [**Sihang Qiu**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/sihang-qiu/){:target="_blank"} joined the team in October 2017, with a CSC (China Scholarship Council) scholarship. Sihang _graduated_ in October 2021 with a [thesis](https://doi.org/10.4233/uuid:d37db2c0-cf16-4edf-97ba-aebff35011b5){:target="_blank"} titled **Conversational Crowdsourcing**. 
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/sihang.jpg){: .align-left} [**Sihang Qiu**](https://sihangqiu.com){:target="_blank"} joined the team in October 2017, with a CSC (China Scholarship Council) scholarship. Sihang _graduated_ in October 2021 with a [thesis](https://doi.org/10.4233/uuid:d37db2c0-cf16-4edf-97ba-aebff35011b5){:target="_blank"} titled **Conversational Crowdsourcing**. Sihang is currently an associate professor at College of Systems Engineering of NUDT and Hunan Institute of Advanced Technology (HIAT).
 </div>
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/vincent.jpg){: .align-left} [**Vincent Gong**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/vincent-gong/){:target="_blank"} joined the team in April 2016, working with [Prof. Serge Hoogendoorn](https://www.tudelft.nl/en/ceg/about-faculty/departments/transport-planning/staff/personal-pages/hoogendoorn-sp/){:target="_blank"}, [Dr. Winnie Daamen](https://www.tudelft.nl/en/ceg/about-faculty/departments/transport-planning/staff/personal-pages/daamen-w/) and I on the [ERC Allegro](http://www.allegro-erc.nl){:target="_blank"} project. Vincent _graduated_ in September 2020 with a [thesis](https://doi.org/10.4233/uuid:e13606bc-e466-44c6-8a98-dd89aac8fdc4){:target="_blank"} titled **Using Social Media to Characterise Crowds in City Events for Crowd Management**. Vincent is currently a Post-doctoral researcher.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/vincent.jpg){: .align-left} [**Vincent Gong**](https://academic.gong.im){:target="_blank"} joined the team in April 2016, working with [Prof. Serge Hoogendoorn](https://www.tudelft.nl/en/ceg/about-faculty/departments/transport-planning/staff/personal-pages/hoogendoorn-sp/){:target="_blank"}, [Dr. Winnie Daamen](https://www.tudelft.nl/en/ceg/about-faculty/departments/transport-planning/staff/personal-pages/daamen-w/) and I on the [ERC Allegro](http://www.allegro-erc.nl){:target="_blank"} project. Vincent _graduated_ in September 2020 with a [thesis](https://doi.org/10.4233/uuid:e13606bc-e466-44c6-8a98-dd89aac8fdc4){:target="_blank"} titled **Using Social Media to Characterise Crowds in City Events for Crowd Management**. Vincent is currently a Post-doctoral researcher.
 </div>
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/sepideh.jpg){: .align-left} [**Sepideh Mesbah**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/sepideh-mesbah/){:target="_blank"} joined the team in March 2016, working with [Christoph Lofi](http://www.wis.ewi.tudelft.nl/lofi/) and I on the [SmartPub](https://github.com/WISDelft/SmartPub){:target="_blank"} project. Sepideh _graduated_ in May 2020 with a [thesis](https://doi.org/10.4233/uuid:dbbfe1fc-bf63-45f0-8cf2-28ed7dab90eb){:target="_blank"} titled **Semantic-Enhanced Training Data Augmentation Methods for Long-Tail Entity Recognition Models**. Sepideh is currently working as senior data scientist at [Randstad](https://www.randstad.com){:target="_blank"}.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/sepideh.jpg){: .align-left} [**Sepideh Mesbah**](https://www.linkedin.com/in/sepideh-mesbah-108b4121){:target="_blank"} joined the team in March 2016, working with [Christoph Lofi](http://www.wis.ewi.tudelft.nl/lofi/) and I on the [SmartPub](https://github.com/WISDelft/SmartPub){:target="_blank"} project. Sepideh _graduated_ in May 2020 with a [thesis](https://doi.org/10.4233/uuid:dbbfe1fc-bf63-45f0-8cf2-28ed7dab90eb){:target="_blank"} titled **Semantic-Enhanced Training Data Augmentation Methods for Long-Tail Entity Recognition Models**. Sepideh is currently working as data science manager at [Booking.com](https://www.booking.com){:target="_blank"}.
 </div>
  
 <div style="display: block; min-height:105px">
@@ -112,7 +133,7 @@ Below, the list of Assistant Professors, Ph.D. students, post-doctoral researche
 </div>
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/jasper.jpg){: .align-left} [**Jasper Oosterman**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/jasper-oosterman/){:target="_blank"} joined the team in 2012. The topic of Jasper's dissertation is **Crowd Knowledge Generation** for artwork annotations, which is planned for completion in 2021. Jasper is currently working as Data Scientist at [Blendle](https://blendle.com){:target="_blank"}.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/jasper.jpg){: .align-left} [**Jasper Oosterman**](https://www.linkedin.com/in/jasperoosterman/){:target="_blank"} joined the team in 2012. The topic of Jasper's dissertation was **Crowd Knowledge Generation** for artwork annotations. Jasper is currently Lead Data Scientist at [Blendle](https://blendle.com){:target="_blank"}.
 </div>
 
 ## Post-doctoral Researchers
