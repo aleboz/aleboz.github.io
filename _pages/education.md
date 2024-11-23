@@ -15,7 +15,7 @@ layouts_gallery:
   - url: /assets/images/mm-layout-archive.png
     image_path: /assets/images/mm-layout-archive.png
     alt: "archive layout example"
-last_modified_at: 2022-12-30T12:00:00-04:00
+last_modified_at: 2024-11-23T12:00:00-04:00
 sidebar:
   nav: "edunav"
 

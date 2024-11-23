@@ -83,14 +83,14 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : https://www.alessandrobozzon.com/assets/images/bio-photo-2020.jpeg # Open Graph/Twitter default site image
+og_image                 : https://www.alessandrobozzon.com/assets/images/bio-photo-2024.jpeg # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : Person # Person or Organization (defaults to Person)
   name                   : Alessandro Bozzon # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/aleboz"
+    - "https://bsky.app/profile/aleboz.bsky.social"
     - "https://www.linkedin.com/in/alessandrobozzon"    
 
 # Analytics
@@ -104,7 +104,7 @@ analytics:
 # Site Author
 author:
   name             : "Alessandro Bozzon"
-  avatar           : "/assets/images/bio-photo-2020.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo-2024.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Full Professor <br/> Delft University of Technology"
   location         : "Delft, The Netherlands"
   email            : "a.bozzon@tudelft.nl"
@@ -115,9 +115,9 @@ author:
  #   - label: "Website"
  #     icon: "fas fa-fw fa-link"
  #     url: "https://www.alessandrobozzon.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://www.twitter.com/aleboz"
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-envelope-square"
+      url: "https://bsky.app/profile/aleboz.bsky.social"
     - #label: "Facebook"
       #icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -127,16 +127,16 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/alessandrobozzon"
-    - label: "CV"
-      icon: "fas fa-file-download"
-      url: "https://www.linkedin.com/in/alessandrobozzon"
+    #- label: "CV"
+    #  icon: "fas fa-file-download"
+    #  url: "https://www.linkedin.com/in/alessandrobozzon"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://www.twitter.com/aleboz"
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-envelope-square"
+      url: "https://bsky.app/profile/aleboz.bsky.social"
     #- label: "Facebook"
     #  icon: "fab fa-fw fa-facebook-square"
     #  # url:
@@ -146,9 +146,9 @@ footer:
     #- label: "GitLab"
     #  icon: "fab fa-fw fa-gitlab"
     # # url:
-    #- label: "Bitbucket"
-    #  icon: "fab fa-fw fa-bitbucket"
-    #  # url:
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-envelope-square"
+      url: "https://bsky.app/profile/aleboz.bsky.social"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/alessandrobozzon"

@@ -5,7 +5,7 @@ author_profile: true
 permalink: /contact/
 title: "Contact and Meet Me"
 excerpt: "List of contact information."
-last_modified_at: 2020-11-14T12:00:00-04:00
+last_modified_at: 2024-11-23T12:00:00-04:00
 toc: false
 
 ---
@@ -16,7 +16,7 @@ toc: false
 [View Larger Map](https://umap.openstreetmap.fr/en/map/untitled-map_340391){:target="_blank"} - [View on Google Map](https://goo.gl/maps/PKecQXoTZktZimWj8){:target="_blank"}
 
 
-My office is located in [Building 32](https://iamap.tudelft.nl/en/poi/industrial-design-engineering/){:target="_blank"}, 3rd floor, wing B.
+My office is located in [Building 32](https://map.tudelftcampus.nl/poi/industrial-design-engineering-io/){:target="_blank"}, 3rd floor, wing B.
 
 **Full Address** :  Room: 32-B-3-370. Landbergstraat 15. 2628 CE Delft, The Netherlands. 
 

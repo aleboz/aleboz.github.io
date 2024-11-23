@@ -3,13 +3,13 @@ layout: splash
 #author_profile: true
 permalink: /
 title: "Alessandro Bozzon Website Home"
-last_modified_at: 2021-05-04T12:00:00-04:00
+last_modified_at: 2024-11-23T12:00:00-04:00
 #toc: true
 feature_row:
   - image_path: assets/images/bio-photo-2024.jpeg
     alt: "Research Map"
     #title: "Alessandro Bozzon"
-    excerpt: "<br/>I am Professor of **Human-Centered Artificial Intelligence** with the [Department of Sustainable Design Engineering](https://www.tudelft.nl/en/ide/about-ide/departments/design-engineering/) of the [Faculty of Industrial Design Engineering](https://www.tudelft.nl/en/ide/) (IDE); and part-time professor with the [Department of Software Technology](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/) of the [Faculty of Electrical Engineering, Mathematics, and Computer Science](https://www.tudelft.nl/en/eemcs/) (EEMCS)of [Delft University of Technology](https://www.tudelft.nl). As of November 2020, I serve as Head of the [Department of Sustainable Design Engineering](https://www.tudelft.nl/en/ide/about-ide/departments/design-engineering/).
+    excerpt: "<br/>I am Professor of **Human-Centered Artificial Intelligence** with the [Department of Sustainable Design Engineering](https://www.tudelft.nl/en/ide/about-ide/departments/design-engineering/) of the [Faculty of Industrial Design Engineering](https://www.tudelft.nl/en/ide/) (IDE); and part-time professor with the [Department of Software Technology](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/) of the [Faculty of Electrical Engineering, Mathematics, and Computer Science](https://www.tudelft.nl/en/eemcs/) (EEMCS)of [Delft University of Technology](https://www.tudelft.nl). As of November 2020, I serve as Head of the [Department of Sustainable Design Engineering](https://www.tudelft.nl/en/ide/about-ide/departments/design-engineering/). I am a Fellow of the [Netherlands Academy of Engineering](https://nae.nl). I chair the [Delft AI Labs and Talents initiative](https://www.tudelft.nl/en/ai/tu-delft-ai-labs) and I am co-director of the [Future Libraries Lab](https://delftdesignlabs.org/future-libraries-lab/), a collaboration with the Royal Library of The Netherlands.
 
     <br/><br/> My [research](/research/) lies at the intersection of human-computer interaction, human computation, user modelling, and machine learning. I am interested in developing methods and tools that support the design, development, control, and operation of AI-enabled systems that are well-situated around actual human characteristics, values, intentions, and behaviours. By investigating the relationship between the science and practice of design, and the digital technology that fuels intelligent products, services, and systems, my [team](/research/team) and I study and build novel **Human-Centred Artificial Intelligence**  methods and tools that combine the cognitive and reasoning abilities of (groups of) individuals, with the computational powers of machines, and insights from large amount of heterogeneous data.
      

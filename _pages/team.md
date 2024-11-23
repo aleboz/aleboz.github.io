@@ -4,7 +4,7 @@ classes: wide
 author_profile: false
 permalink: /research/team/
 title: "Research Team"
-last_modified_at: 2022-12-30T12:00:00-04:00
+last_modified_at: 2024-11-23T12:00:00-04:00
 excerpt: "The Research Team"
 toc: false
 sidebar:
