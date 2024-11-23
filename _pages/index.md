@@ -6,7 +6,7 @@ title: "Alessandro Bozzon Website Home"
 last_modified_at: 2021-05-04T12:00:00-04:00
 #toc: true
 feature_row:
-  - image_path: assets/images/researchgraph.png
+  - image_path: assets/images/bio-photo-2024.jpeg
     alt: "Research Map"
     #title: "Alessandro Bozzon"
     excerpt: "<br/>I am Professor of **Human-Centered Artificial Intelligence** with the [Department of Sustainable Design Engineering](https://www.tudelft.nl/en/ide/about-ide/departments/design-engineering/) of the [Faculty of Industrial Design Engineering](https://www.tudelft.nl/en/ide/) (IDE); and part-time professor with the [Department of Software Technology](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/) of the [Faculty of Electrical Engineering, Mathematics, and Computer Science](https://www.tudelft.nl/en/eemcs/) (EEMCS)of [Delft University of Technology](https://www.tudelft.nl). As of November 2020, I serve as Head of the [Department of Sustainable Design Engineering](https://www.tudelft.nl/en/ide/about-ide/departments/design-engineering/).
