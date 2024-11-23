@@ -116,7 +116,7 @@ author:
  #     icon: "fas fa-fw fa-link"
  #     url: "https://www.alessandrobozzon.com"
     - label: "Bluesky"
-      icon: "fab fa-fw fa-envelope-square"
+      icon: "fab fa-fw fa-file-download"
       url: "https://bsky.app/profile/aleboz.bsky.social"
     - #label: "Facebook"
       #icon: "fab fa-fw fa-facebook-square"
@@ -134,9 +134,6 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Bluesky"
-      icon: "fab fa-fw fa-envelope-square"
-      url: "https://bsky.app/profile/aleboz.bsky.social"
     #- label: "Facebook"
     #  icon: "fab fa-fw fa-facebook-square"
     #  # url:
@@ -147,7 +144,7 @@ footer:
     #  icon: "fab fa-fw fa-gitlab"
     # # url:
     - label: "Bluesky"
-      icon: "fab fa-fw fa-envelope-square"
+      icon: "fab fa-fw fa-file-download"
       url: "https://bsky.app/profile/aleboz.bsky.social"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
