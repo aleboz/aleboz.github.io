@@ -20,9 +20,21 @@ These are the great colleagues that are currently (or have been) part of my rese
 
 Below, the list of Assistant Professors, Ph.D. students, post-doctoral researchers, and research engineers that have been part of my research team over the years. 
 
-## Assistant Professors
+## Assistant and Associate Professors
 
 {::options parse_block_html="true" /}
+
+<div style="display: block; min-height:105px">
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/katherine.jpg){: .align-left} [**Katherine Song**](https://kwsong.github.io){:target="_blank"} is Assistant Professor in the [KInD](https://www.tudelft.nl/en/ide/about-ide/departments/sustainable-design-engineering/section-intelligence){:target="_blank"} group at the Delft University of Technology. Katherine obtained in 2024 a Ph.D. in Urban Informatics from the University of California, Berkeley - Computer Science.
+</div>
+
+<div style="display: block; min-height:105px">
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/sarac.jpg){: .align-left} [**Sara Colombo**](https://saracolombo.work){:target="_blank"} is Assistant Professor of Designing Responsible AI in the [KInD](https://www.tudelft.nl/en/ide/about-ide/departments/sustainable-design-engineering/section-intelligence){:target="_blank"} group at the Delft University of Technology. She is director of the Feminist Generative AI Lab at TU Delft. Sara holds a PhD cum laude in Design from Politecnico di Milano. Before joining TU Delft, Sara was an assistant professor at TU Eindhoven (Netherlands), a Research Scientist at the Center for Design, Northeastern University (Boston, USA), and previously a Senior Research Associate, Project Lead, and Lecturer at the Massachusetts Institute of Technology (MIT) Design Lab. 
+</div>
+
+<div style="display: block; min-height:105px">
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/tilman.jpg){: .align-left} [**Tilman Dingler**](http://tilmanification.com){:target="_blank"} is Associate Professor in the [KInD](https://www.tudelft.nl/en/ide/about-ide/departments/sustainable-design-engineering/section-intelligence){:target="_blank"} group at the Delft University of Technology. He is also an Honorary Senior Research Fellow in the School of Computing and Information Systems at the University of Melbourne.  Tilman holds a PhD in Computer Science from the University of Stuttgart.
+</div>
 
 <div style="display: block; min-height:105px">
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/achilleas.jpg){: .align-left} [**Achilleas Psyllidis**](https://www.tudelft.nl/en/ide/about-ide/people/psyllidis-a){:target="_blank"} is Assistant Professor of Location Intelligence in the [KInD](https://www.tudelft.nl/en/ide/about-ide/departments/sustainable-design-engineering/section-intelligence){:target="_blank"} group at the Delft University of Technology. Achilleas obtained in 2016 a Ph.D. in Urban Informatics from the Faculty of Architecture and Built Environment with a [thesis](https://repository.tudelft.nl/islandora/object/uuid%3A5f59d2b3-dc83-488b-9617-a44a40f24263){:target="_blank"} titled **Revisiting Urban Dynamics through Social Urban Data**. Achilleas joined the team in 2014, working on the [SocialGlass](http://social-glass.tudelft.nl){:target="_blank"} project. 
