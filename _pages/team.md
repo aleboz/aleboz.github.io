@@ -15,7 +15,7 @@ These are the great colleagues that are currently (or have been) part of my rese
 
 <figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/team/team2023.jpeg" alt="The KInD research group, December 2023.">
-  <figcaption>The KInD research grouo, December 2023.</figcaption>
+  <figcaption>The KInD research group, December 2023.</figcaption>
 </figure>
 
 Below, the list of Associate and Assistant Professors, Ph.D. students, post-doctoral researchers, and research engineers that have been part of my research team over the years. 
@@ -29,7 +29,7 @@ Below, the list of Associate and Assistant Professors, Ph.D. students, post-doct
 </div>
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/sarac.jpg){: .align-left} [**Sara Colombo**](https://saracolombo.work){:target="_blank"} is Assistant Professor of Designing Responsible AI in the [KInD](https://www.tudelft.nl/en/ide/about-ide/departments/sustainable-design-engineering/section-intelligence){:target="_blank"} group at the Delft University of Technology. She is director of the Feminist Generative AI Lab at TU Delft. Sara holds a PhD cum laude in Design from Politecnico di Milano. Before joining TU Delft, Sara was an assistant professor at TU Eindhoven (Netherlands), a Research Scientist at the Center for Design, Northeastern University (Boston, USA), and previously a Senior Research Associate, Project Lead, and Lecturer at the Massachusetts Institute of Technology (MIT) Design Lab. 
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/sarac.jpg){: .align-left} [**Sara Colombo**](https://saracolombo.work){:target="_blank"} is Assistant Professor of Designing Responsible AI in the [KInD](https://www.tudelft.nl/en/ide/about-ide/departments/sustainable-design-engineering/section-intelligence){:target="_blank"} group at the Delft University of Technology. She is director of the [Feminist Generative AI Lab](https://www.feministailab.org){:target="_blank"} at TU Delft. Sara holds a PhD cum laude in Design from Politecnico di Milano. Before joining TU Delft, Sara was an assistant professor at TU Eindhoven (Netherlands). 
 </div>
 
 <div style="display: block; min-height:105px">
@@ -41,22 +41,22 @@ Below, the list of Associate and Assistant Professors, Ph.D. students, post-doct
 </div>
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/himanshu.jpg){: .align-left} [**Himanshu Verma**](https://www.tudelft.nl/en/ide/about-ide/people/verma-h){:target="_blank"} is Assistant Professor in the [Knowledge and Intelligence Design](https://www.tudelft.nl/en/ide/about-ide/departments/sustainable-design-engineering/){:target="_blank"} group at the Delft University of Technology. Himanshu holds a PhD in Computer Science from École Polytechnique Fédérale de Lausanne (EPFL). His research lies at the intersection of Human-Computer Interaction, Ubiquitous Computing, and Social Cognition. Himanshu joined the [KInD](https://www.tudelft.nl/en/ide/about-ide/departments/sustainable-design-engineering/){:target="_blank"} group in 2020. 
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/himanshu.jpg){: .align-left} [**Himanshu Verma**](https://vermahimanshu.com){:target="_blank"} is Assistant Professor in the [Knowledge and Intelligence Design](https://www.tudelft.nl/en/ide/about-ide/departments/sustainable-design-engineering/){:target="_blank"} group at the Delft University of Technology. Himanshu holds a PhD in Computer Science from École Polytechnique Fédérale de Lausanne (EPFL). His research lies at the intersection of Human-Computer Interaction, Ubiquitous Computing, and Social Cognition. Himanshu joined the [KInD](https://www.tudelft.nl/en/ide/about-ide/departments/sustainable-design-engineering/){:target="_blank"} group in 2020. 
 </div>
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/evangelos.png){: .align-left} [**Evangelos Niforatos**](https://www.tudelft.nl/en/ide/about-ide/people/niforatos-e){:target="_blank"} is Assistant Professor of Human-AI Interaction in the [Knowledge and Intelligence Design](https://www.tudelft.nl/en/ide/about-ide/departments/sustainable-design-engineering/){:target="_blank"} group at the Delft University of Technology. Evangelos holds a PhD in Computer Science from Universitá della Svizzera italiana (USI), Lugano, Switzerland. Evangelos joined the [Knowledge and Intelligence Design](https://www.tudelft.nl/en/ide/about-ide/departments/sustainable-design-engineering/){:target="_blank"} group in 2021. 
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/evangelos.png){: .align-left} [**Evangelos Niforatos**](https://www.tudelft.nl/en/ide/about-ide/people/niforatos-e){:target="_blank"} is Assistant Professor of Human-AI Interaction in the [Knowledge and Intelligence Design](https://www.tudelft.nl/en/ide/about-ide/departments/sustainable-design-engineering/){:target="_blank"} group at the Delft University of Technology. Evangelos holds a PhD in Computer Science from Universitá della Svizzera italiana (USI), Lugano, Switzerland. Evangelos joined the [KInD](https://www.tudelft.nl/en/ide/about-ide/departments/sustainable-design-engineering/){:target="_blank"} group in 2021. 
 </div>
 
 
 ## Ph.D. Students
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/catalina.jpg){: .align-left} [**Catalina Lagos Rojas**](https://www.linkedin.com/in/ccatalina/?originalSubdomain=pt){:target="_blank"} started her PhD in October 2024, working with [Sara Colombo](https://saracolombo.work){:target="_blank"} and I in the [Feminist Generative AI Lab](https://www.feministailab.org).
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/catalina.jpg){: .align-left} [**Catalina Lagos Rojas**](https://www.linkedin.com/in/ccatalina/?originalSubdomain=pt){:target="_blank"} started her PhD in October 2024, working with [Sara Colombo](https://saracolombo.work){:target="_blank"} and I in the [Feminist Generative AI Lab](https://www.feministailab.org){:target="_blank"}.
 </div>
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/ariane.jpg){: .align-left} [**Ariane Lucchini**](https://www.linkedin.com/in/ariane-lucchini/?originalSubdomain=uk){:target="_blank"} started her PhD in October 2024, working with [Sara Colombo](https://saracolombo.work){:target="_blank"} and I in the [Feminist Generative AI Lab](https://www.feministailab.org).
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/ariane.jpg){: .align-left} [**Ariane Lucchini**](https://www.linkedin.com/in/ariane-lucchini/?originalSubdomain=uk){:target="_blank"} started her PhD in October 2024, working with [Sara Colombo](https://saracolombo.work){:target="_blank"} and I in the [Feminist Generative AI Lab](https://www.feministailab.org){:target="_blank"}.
 </div>
 
 <div style="display: block; min-height:105px">
@@ -73,7 +73,7 @@ Below, the list of Associate and Assistant Professors, Ph.D. students, post-doct
 
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/D872A889-1A7C-402E-94B2-71EAF0D5313F.jpeg){: .align-left} [**Garoa Gomez Beldarrain**](https://www.linkedin.com/in/garoagb){:target="_blank"} started her PhD in September 2022, working with [Himanshu Verma](https://www.tudelft.nl/en/ide/about-ide/people/verma-h){:target="_blank"}, [Euiyoung Kim](https://www.tudelft.nl/en/ide/about-ide/people/kim-ey) and I on the topic "Investigating the adoption of AI-enhanced processes", a collaboration with the Schiphol group.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/D872A889-1A7C-402E-94B2-71EAF0D5313F.jpeg){: .align-left} [**Garoa Gomez Beldarrain**](https://www.linkedin.com/in/garoagb){:target="_blank"} started her PhD in September 2022, working with [Himanshu Verma](https://vermahimanshu.com){:target="_blank"}, [Euiyoung Kim](https://www.tudelft.nl/en/ide/about-ide/people/kim-ey) and I on the topic "Investigating the adoption of AI-enhanced processes", a collaboration with the Schiphol group.
 </div>
 
 <div style="display: block; min-height:105px">
@@ -89,7 +89,7 @@ Below, the list of Associate and Assistant Professors, Ph.D. students, post-doct
 </div>
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/roos.jpg){: .align-left} [**Roos Teeuwen**](https://roosteeuwen.com){:target="_blank"} started her PhD in April 2020, working with [Achilleas Psyllidis](https://www.tudelft.nl/en/ide/about-ide/people/psyllidis-a){:target="_blank"} and I on the "Equal-Life" project. Roos _graduated_ in Octobr 2024 with a [thesis]https://resolver.tudelft.nl/uuid:b63f6779-cc98-40d0-9775-2af0054233e9){:target="_blank"} titled **Urban Co-accessibility**.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/roos.jpg){: .align-left} [**Roos Teeuwen**](https://roosteeuwen.com){:target="_blank"} started her PhD in April 2020, working with [Achilleas Psyllidis](https://www.tudelft.nl/en/ide/about-ide/people/psyllidis-a){:target="_blank"} and I on the "Equal-Life" project. Roos _graduated_ in Octobr 2024 with a [thesis](https://resolver.tudelft.nl/uuid:b63f6779-cc98-40d0-9775-2af0054233e9){:target="_blank"} titled **Urban Co-accessibility**.
 </div>
 
 <div style="display: block; min-height:105px">
@@ -97,7 +97,7 @@ Below, the list of Associate and Assistant Professors, Ph.D. students, post-doct
 </div>
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/ziyu.jpg){: .align-left} [**Ziyu Li**]https://ziyuli.me){:target="_blank"} started her PhD in November 2019, working with [Asterios Katsifodimos](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/asterios-katsifodimos/) and I on the Cognizant "HyperEdgeSensing" project. ZiYu _graduated_ in September 2024 with a [thesis](https://resolver.tudelft.nl/uuid:0037aafa-5960-435b-9aea-52e266c9857c){:target="_blank"} titled **On the utility of metadata to optimize machine learning workflows**.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/ziyu.jpg){: .align-left} [**Ziyu Li**](https://ziyuli.me){:target="_blank"} started her PhD in November 2019, working with [Asterios Katsifodimos](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/asterios-katsifodimos/) and I on the Cognizant "HyperEdgeSensing" project. ZiYu _graduated_ in September 2024 with a [thesis](https://resolver.tudelft.nl/uuid:0037aafa-5960-435b-9aea-52e266c9857c){:target="_blank"} titled **On the utility of metadata to optimize machine learning workflows**.
 </div>
 
 <div style="display: block; min-height:105px">
@@ -139,6 +139,14 @@ Below, the list of Associate and Assistant Professors, Ph.D. students, post-doct
 ## Post-doctoral Researchers
 
 <div style="display: block; min-height:105px">
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/ugur.jpg){: .align-left} [**Uğur Genç**](https://www.tudelft.nl/io/over-io/personen/genc-hu){:target="_blank"} joined the team in 2023, working with [Himanshu Verma](https://vermahimanshu.com){:target="_blank"}, [Ruud Balkenende](https://www.tudelft.nl/io/over-io/personen/balkenende-ar) and I on the [FAIR-PV](https://projecten.topsectorenergie.nl/projecten/fair-pv-38402) project.
+</div>
+
+<div style="display: block; min-height:105px">
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/anelia.jpg){: .align-left} [**Anelia Kurteva**](https://aneliakurteva.com){:target="_blank"} joined the team in 2023, working with [Ruud Balkenende](https://www.tudelft.nl/io/over-io/personen/balkenende-ar) and I on the [RePlanIt](https://www.ams-institute.org/urban-challenges/circularity-urban-regions/circular-resource-planning-for-it-replanit/). Anelia is currently a senior postdoc at Department of Informatics, King’s College London, The UK.
+</div>
+
+<div style="display: block; min-height:105px">
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/3D380C3D-16D8-4DBA-A394-8EE937F876F7.jpeg){: .align-left} [**Sergei Zhilin**](https://www.linkedin.com/in/sergei-zhilin-263273113){:target="_blank"} joined the team in May 2022, working with [Achilleas Psyllidis](https://www.tudelft.nl/en/ide/about-ide/people/psyllidis-a){:target="_blank"} and I on the "Designing Rhythms for Social Resilience" project.
 </div>
 
@@ -151,25 +159,25 @@ Below, the list of Associate and Assistant Professors, Ph.D. students, post-doct
 </div>
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/panos.jpg){: .align-left} [**Panagiotis Mavridis**](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/panagiotis-mavridis/){:target="_blank"} has been part of the team between 2018 and 2020, working in the context of the [NWA VWDATA](https://wetenschapsagenda.nl/start-vwdata-onderzoeksprogramma/){:target="_blank"} [Capture Bias](https://capturebias.wordpress.com){:target="_blank"} project.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/panos.jpg){: .align-left} [**Panagiotis Mavridis**](https://www.linkedin.com/in/panagiotismavridis/){:target="_blank"} has been part of the team between 2018 and 2020, working in the context of the [NWA VWDATA](https://wetenschapsagenda.nl/start-vwdata-onderzoeksprogramma/){:target="_blank"} [Capture Bias](https://capturebias.wordpress.com){:target="_blank"} project.
 </div>
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/kishor.jpeg){: .align-left} [**Kishor Chandra Joshi**](https://www.linkedin.com/in/kishor-chandra-joshi-030a146/){:target="_blank"} has been part of the team in 2018. Kishor worked in the context of the [EIT Digital](https://www.eitdigital.eu){:target="_blank"} [Welcome](http://www.city-welcome.com){:target="_blank"} project. The project aimed at providing city-scale crowd monitoring solutions for public administrations and retailers. Kishor is currently a Marie Curie Postdoc Fellow (MSCA-IF) at CNRS, University of Paris-Saclay.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/kishor.jpeg){: .align-left} [**Kishor Chandra Joshi**](https://www.linkedin.com/in/kishor-chandra-joshi-030a146/){:target="_blank"} has been part of the team in 2018. Kishor worked in the context of the [EIT Digital](https://www.eitdigital.eu){:target="_blank"} [Welcome](http://www.city-welcome.com){:target="_blank"} project. The project aimed at providing city-scale crowd monitoring solutions for public administrations and retailers. 
 </div>
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/pavel.jpg){: .align-left} [**Pavel Kucherbaev**](http://kucherbaev.com){:target="_blank"} has been part of the team in 2017. Pavel worked in the context of the [EIT Digital](https://www.eitdigital.eu){:target="_blank"} [CrowdInsights](http://www.crowdinsights.eu){:target="_blank"} project.  Pavel investigated the use of human-aided conversational agents (chatbots with humans-in-the-loop) to facilitate the interaction between urban stakeholders. Pavel is currently a Data Scientist at Booking.com.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/pavel.jpg){: .align-left} [**Pavel Kucherbaev**](http://kucherbaev.com){:target="_blank"} has been part of the team in 2017. Pavel worked in the context of the [EIT Digital](https://www.eitdigital.eu){:target="_blank"} [CrowdInsights](http://www.crowdinsights.eu){:target="_blank"} project.  Pavel investigated the use of human-aided conversational agents (chatbots with humans-in-the-loop) to facilitate the interaction between urban stakeholders. 
 </div>
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/stefano.jpg){: .align-left} [**Stefano Bocconi**](https://waag.org/en/stefano-bocconi){:target="_blank"} has been part of the team between 2014 and 2015. Stefano was a driving force in the design and creation of the [SocialGlass](http://social-glass.tudelft.nl){:target="_blank"} project. Stefano is currently a Software Developer at Waag Society.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/stefano.jpg){: .align-left} [**Stefano Bocconi**](https://waag.org/en/stefano-bocconi){:target="_blank"} has been part of the team between 2014 and 2015. Stefano was a driving force in the design and creation of the [SocialGlass](http://social-glass.tudelft.nl){:target="_blank"} project. 
 </div>
 
 ## Research Engineers and Junior Researchers
 
 <div style="display: block; min-height:105px">
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/8D57D133-4756-4DAA-BD14-C9CFC61FA854.jpeg){: .align-left} [**Ji-Youn Jung **](https://www.jiyounjung.com){:target="_blank"} joined the team in 2022, after successfully graduatiing wiht our research group. Ji-Youn is spending this bridging period between her graduation and a PhD designing and conducting research on interaction with conversational agents. 
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/team/8D57D133-4756-4DAA-BD14-C9CFC61FA854.jpeg){: .align-left} [**Ji-Youn Jung**](https://www.jiyounjung.com){:target="_blank"} joined the team in 2022, after successfully graduatiing wiht our research group. Ji-Youn is spending this bridging period between her graduation and a PhD designing and conducting research on interaction with conversational agents. 
 </div>
 
 <div style="display: block; min-height:105px">
