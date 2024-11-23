@@ -4,7 +4,7 @@ classes: wide
 #author_profile: true
 permalink: /education/
 title: "Education"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+excerpt: ""
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png
@@ -23,7 +23,7 @@ sidebar:
 
 ## Courses
 
-I teach the [_Machine Learning for Design_](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=59952) 2nd year course (BSc, IDE), and the [_Crowd Computing for Design_](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=63010) course (MSc, IDE). I am also teaching [_Crowd Computing_](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=55281) (MSc, EEMCS)  with [Ujwal Gadiraju](http://ujwalgadiraju.com). I am contributing to the [_Advanced Machine Learning for Design_](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=63011) course (MSc, IDE) coordinated by [Evangelos Niforatos](), and the [_Urban Data Science_](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=58292) course (BSc, IDE) coordinated by [Achilleas Psyllidis](https://www.tudelft.nl/en/ide/about-ide/people/psyllidis-a).
+I teach the [_Machine Learning for Design_](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=68007) 2nd year course (BSc, IDE), and the [_AI Products and Services_](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=70275) course (MSc, IDE). I am also teaching [_Crowd Computing_](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=70418) (MSc, EEMCS)  with [Ujwal Gadiraju](http://ujwalgadiraju.com).
 
 The students of the IDE faculty honoured me with their nomination as [**TU Delft Lecturer of the Year**](https://www.youtube.com/watch?v=sBbLO35xxf0) for the Academic Year 2021-2022. 
 
@@ -35,6 +35,14 @@ I believe that providing students with concrete research problems can arouse stu
 
 ## Supervised Master Students
 
+- [2024] _ZhuoTing Wang_. [Designing Engaging Personalities for Conversational AI Agents to Enhance Employee Interaction in an Enterprise Crowdsourcing Context](http://resolver.tudelft.nl/uuid:a5a3ceae-5ea7-4851-a52c-eb8a6e74e27e){:target="_blank"}.
+- [2024] _Femke van Dam_. [Designing the future role of human operators in an autonomous bus system](http://resolver.tudelft.nl/uuid:9762d22a-eea4-488f-b762-e12836cccc64){:target="_blank"}.
+- [2024] _Tom Kortenbach_. [Amplifying the propositional learning using LLMs](http://resolver.tudelft.nl/uuid:973881cf-87b6-4db9-b4d2-c1fed417e4a7){:target="_blank"}.
+- [2023] _Celine Offerman_. [Aesthetics in Visual Training Datasets](https://resolver.tudelft.nl/uuid:606505c2-dfac-4b30-aaf2-ce6e82884fc2){:target="_blank"}.
+- [2023] _Jinze Shang_. [Visualization as a Tool to Enhance the Transparency of ICT Data Sharing in the Circular Economy](https://resolver.tudelft.nl/uuid:948faebc-dd20-4bd5-8c6e-19f563ebfabd){:target="_blank"}.
+- [2023] _Mirko Dunnewind_. [Real Time Interactive Collaborative Exploration of Urban Data with Virtual Reality](https://resolver.tudelft.nl/uuid:570ff1b3-cb1b-4e1b-9cd0-39c6d5f1240b){:target="_blank"}.
+- [2023] _Abhiramini Rajiv_. [Elucidating a ‘black-box’ transcends explaining the algorithm](https://resolver.tudelft.nl/uuid:db538fa9-392d-40ec-b1b3-16ee0827d334){:target="_blank"}.
+- [2023] _Henk Kant_. [Enriching Machine Learning Model Metadata](https://resolver.tudelft.nl/uuid:315d5fcd-1255-4d84-bad5-4254ef31f8f0){:target="_blank"}.
 - [2022] _Ruben Dekker_. [Designing AI projects using a reactive digital canvas](http://resolver.tudelft.nl/uuid:105abeee-6430-4eb7-b3fd-eda35add900d){:target="_blank"}.
 - [2022] _Ji Youn Jung_. [Ethics, Gender, and Agents: The Role of Designers in Conversational Agent Design](http://resolver.tudelft.nl/uuid:bd8d749e-022f-4b88-8715-b709862ffa7c){:target="_blank"}. The thesis work has been **published** in the proceedings of [CHI 2022](https://research.tudelft.nl/en/publications/gender-choices-of-conversational-agent-how-todays-practice-can-sh){:target="_blank"}.
 - [2022] _Kilian Callebaut_. [CombinaTorch - Creating a Multi-Task, Multi-Dataset Framework for Deep Learning](http://resolver.tudelft.nl/uuid:1ebfd66c-79e6-467b-a13a-0173d1c60a3c).
