@@ -51,13 +51,14 @@
     {
       "icon": "globe",
       "title": "Paper Co-chair CHI 2026",
-      "description": "https://chi2026.acm.org/organizing-committee/#paper-chairs",
+      "description": "Contributing to the organization of the premier conference in HCI",
+      "link": "https://chi2026.acm.org/organizing-committee/#paper-chairs",
       "year": 2026
     },
     {
       "icon": "globe",
-      "title": "Co-lead Dutch Special Interest Group Human-Computer Interaction",
-      "description": "Represents Dutch academic institutions conducting research and education on Human-Computer Interaction",
+      "title": "Co-lead Dutch Special Interest Group HCI",
+      "description": "Representing Dutch academic institutions conducting research and education on HCI",
       "year": 2025
     }
   ]
