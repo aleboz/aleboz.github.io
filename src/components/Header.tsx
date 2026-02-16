@@ -25,7 +25,7 @@ export default function Header() {
     <header className="sticky top-0 z-50 border-b bg-background/80 backdrop-blur-md">
       <div className="container mx-auto flex h-16 items-center justify-between px-4">
         <Link to="/" className="font-display text-lg font-semibold text-primary tracking-tight">
-          A. Bozzon
+          Alessandro Bozzon
         </Link>
 
         {/* Desktop nav */}
