@@ -12,7 +12,8 @@ const stagger = { hidden: {}, show: { transition: { staggerChildren: 0.08 } } };
 
 export default function ProjectsPage() {
   useDocumentTitle('Projects');
-  const projects = projectsData as Project[];
+  const rawProjects = projectsData as Project[] | { default: Project[] };
+  const projects: Project[] = 'default' in rawProjects ? rawProjects.default : rawProjects;
   const [statusFilter, setStatusFilter] = useState<string>('all');
   const [themeFilter, setThemeFilter] = useState<string>('all');
 
