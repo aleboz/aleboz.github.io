@@ -1,5 +1,5 @@
 {
-  "organisationalContributions": [
+  "leadership": [
     {
       "role": "Co-chair of the SIGHCI group",
       "organization": "Dutch National Computer Science Association (IPN)",
@@ -91,7 +91,7 @@
       "years": "2013–2019"
     }
   ],
-  "conferenceOrganisation": [
+  "initiatives": [
     {
       "role": "Paper co-Chair",
       "venue": "CHI 2026",
