@@ -1,27 +1,254 @@
 {
-  "leadership": [
+  "organisationalContributions": [
     {
-      "role": "Head of Department",
-      "organization": "Department of Sustainable Design Engineering, TU Delft",
-      "years": "2020–present"
+      "role": "Co-chair of the SIGHCI group",
+      "organization": "Dutch National Computer Science Association (IPN)",
+      "years": "2024–present"
     },
     {
-      "role": "Chair",
-      "organization": "Delft AI Labs and Talents Initiative",
-      "years": "2021–present"
-    },
-    {
-      "role": "Co-director",
-      "organization": "Future Libraries Lab (TU Delft & Royal Library of The Netherlands)",
+      "role": "Co-responsible lobbying activities",
+      "organization": "CHI Nederland SIGCHI chapter",
       "years": "2022–present"
     },
     {
-      "role": "Fellow",
-      "organization": "Netherlands Academy of Engineering",
-      "years": "2023–present"
+      "role": "Organisation of the Design for AI symposium",
+      "organization": "TU Delft",
+      "years": "2022"
+    },
+    {
+      "role": "Program Manager of the Delft Labs and Talent program",
+      "organization": "TU Delft",
+      "years": "2021–present"
+    },
+    {
+      "role": "Member of the steering group Delft Data, AI and Digitisation program",
+      "organization": "TU Delft",
+      "years": "2021–present"
+    },
+    {
+      "role": "Member of the steering group Design and AI program",
+      "organization": "IDE Faculty, TU Delft",
+      "years": "2020–present"
+    },
+    {
+      "role": "Member of the IDE Faculty Management Team",
+      "organization": "IDE Faculty, TU Delft",
+      "years": "2020–present"
+    },
+    {
+      "role": "Head of the Sustainable Design Engineering Department and chair of the SDE Department Management Team",
+      "organization": "IDE Faculty, TU Delft",
+      "years": "2020–present"
+    },
+    {
+      "role": "Member of AMS Management Team",
+      "organization": "AMS Institute",
+      "years": "2017–2019"
+    },
+    {
+      "role": "Leading AMS Urban Data Science program",
+      "organization": "AMS Institute",
+      "years": "2016–2019"
+    },
+    {
+      "role": "Leading role in the design, set-up, and scientific activities of the new EEMCS Social Data Lab",
+      "organization": "EEMCS Faculty, TU Delft",
+      "years": "2016–2019"
+    },
+    {
+      "role": "Organisation of the Delft Data Science seminar on Smart Citizens in Smarter Cities",
+      "organization": "TU Delft",
+      "years": "2016"
+    },
+    {
+      "role": "Member of EEMCS Computer Science and Embedded Systems Board of Examiners",
+      "organization": "EEMCS Faculty, TU Delft",
+      "years": "2015–2019"
+    },
+    {
+      "role": "Organisation of the Delft Data Science seminar on Data Science for Workforce Management",
+      "organization": "TU Delft",
+      "years": "2015"
+    },
+    {
+      "role": "Leading role in the Delft Data Science initiative (Theme: Social Data Science)",
+      "organization": "TU Delft",
+      "years": "2015–2019"
+    },
+    {
+      "role": "First year B.Sc students' mentoring",
+      "organization": "TU Delft",
+      "years": "2015"
+    },
+    {
+      "role": "Participation in the Leerlijn Informatiesystemen CS B.Sc.",
+      "organization": "TU Delft",
+      "years": "2013–2019"
+    },
+    {
+      "role": "Contribution to EEMCS faculty communication and outreach activities (Quadraad, MaCHazine, Nodes)",
+      "organization": "EEMCS Faculty, TU Delft",
+      "years": "2013–2019"
+    }
+  ],
+  "conferenceOrganisation": [
+    {
+      "role": "Paper co-Chair",
+      "venue": "CHI 2026",
+      "year": 2026,
+      "links": { "website": "https://chi2026.acm.org" }
+    },
+    {
+      "role": "Program co-Chair",
+      "venue": "ICWE 2025",
+      "year": 2025,
+      "links": {}
+    },
+    {
+      "role": "co-Case Studies Chair",
+      "venue": "CHI 2025",
+      "year": 2025,
+      "links": {}
+    },
+    {
+      "role": "Program co-Chair",
+      "venue": "HCOMP 2023",
+      "year": 2023,
+      "links": {}
+    },
+    {
+      "role": "Program co-Chair",
+      "venue": "CI 2023",
+      "year": 2023,
+      "links": {}
+    },
+    {
+      "role": "COI Chair",
+      "venue": "TheWebConf 2023",
+      "year": 2023,
+      "links": {}
+    },
+    {
+      "role": "Track Chair Social Web",
+      "venue": "TheWebConf 2022",
+      "year": 2022,
+      "links": {}
+    },
+    {
+      "role": "Associate Chair",
+      "venue": "HCOMP 2022",
+      "year": 2022,
+      "links": {}
+    },
+    {
+      "role": "Senior PC Chair",
+      "venue": "AAAI 2020",
+      "year": 2019,
+      "links": {}
+    },
+    {
+      "role": "Associate Chair",
+      "venue": "HCOMP 2019",
+      "year": 2019,
+      "links": {}
+    },
+    {
+      "role": "Program co-Chair",
+      "venue": "WEBIST 2019",
+      "year": 2019,
+      "links": {}
+    },
+    {
+      "role": "Track Chair Crowdsourcing and Human Computation for the Web",
+      "venue": "TheWebConf 2018",
+      "year": 2018,
+      "links": {}
+    },
+    {
+      "role": "Demonstration and Work In Progress co-Chair",
+      "venue": "HCOMP 2018",
+      "year": 2018,
+      "links": {}
+    },
+    {
+      "role": "General co-Chair",
+      "venue": "Workshop on Social Media Analytics for Smart Cities",
+      "year": 2017,
+      "links": {}
+    },
+    {
+      "role": "General co-Chair",
+      "venue": "Workshop on Recommender Systems for Citizens",
+      "year": 2017,
+      "links": {}
+    },
+    {
+      "role": "Program co-Chair",
+      "venue": "Web Engineering 2016 (ICWE 2016)",
+      "year": 2016,
+      "links": {}
+    },
+    {
+      "role": "General co-Chair",
+      "venue": "KDWeb Workshop series",
+      "year": 2016,
+      "links": {}
+    },
+    {
+      "role": "Guest editor",
+      "venue": "Special Issue on HC&C in the Context of the Semantic Web",
+      "year": 2015,
+      "links": {}
+    },
+    {
+      "role": "Program Chair",
+      "venue": "AWC 2015",
+      "year": 2015,
+      "links": {}
+    },
+    {
+      "role": "General co-Chair",
+      "venue": "CrowdUI '14",
+      "year": 2014,
+      "links": {}
+    },
+    {
+      "role": "General co-Chair",
+      "venue": "SoHuman '14",
+      "year": 2014,
+      "links": {}
+    },
+    {
+      "role": "Demo and Poster co-Chair",
+      "venue": "ICWE 2013",
+      "year": 2013,
+      "links": {}
+    },
+    {
+      "role": "General co-Chair",
+      "venue": "ORDRING '11",
+      "year": 2011,
+      "links": {}
+    },
+    {
+      "role": "General co-Chair",
+      "venue": "DATAVIEW '11",
+      "year": 2011,
+      "links": {}
+    },
+    {
+      "role": "General co-Chair",
+      "venue": "DATAVIEW '10",
+      "year": 2010,
+      "links": {}
     }
   ],
   "editorial": [
+    {
+      "role": "Editorial Board member",
+      "venue": "Frontiers in Artificial Intelligence (Human-AI Interaction section)",
+      "years": "2024–present"
+    },
     {
       "role": "Associate Editor",
       "venue": "ACM Transactions on Interactive Intelligent Systems (TiiS)",
@@ -30,41 +257,47 @@
     {
       "role": "Editorial Board Member",
       "venue": "Human Computation Journal",
-      "years": "2018–present"
+      "years": "2019–present"
     }
   ],
   "programCommittees": [
     {
-      "role": "Program Co-Chair",
-      "venue": "AAAI HCOMP (Conference on Human Computation and Crowdsourcing)",
-      "year": 2023
-    },
-    {
-      "role": "Area Chair",
-      "venue": "ACM CHI Conference on Human Factors in Computing Systems",
-      "year": 2024
+      "role": "Area Chair / Senior PC Member",
+      "venue": "ACM CHI",
+      "years": "2024–present"
     },
     {
       "role": "Senior PC Member",
-      "venue": "The Web Conference (TheWebConf)",
-      "year": 2024
-    },
-    {
-      "role": "PC Member",
-      "venue": "ACM CSCW, SIGIR, AAAI, IJCAI",
-      "year": 2023
-    }
-  ],
-  "initiatives": [
-    {
-      "role": "Steering Committee",
-      "organization": "AAAI Conference on Human Computation and Crowdsourcing (HCOMP)",
+      "venue": "TheWebConf",
       "years": "2019–present"
     },
     {
-      "role": "Advisory Board",
-      "organization": "AMS Institute Amsterdam",
-      "years": "2021–present"
+      "role": "PC Member",
+      "venue": "AAAI Conference on Human Computation and Crowdsourcing (HCOMP)",
+      "years": "2013–present"
+    },
+    {
+      "role": "PC Member",
+      "venue": "ACM CSCW, SIGIR, AAAI, IJCAI, and others",
+      "years": "various"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Fellow of the Netherlands Academy of Engineering (AcTI)",
+      "year": 2023
+    },
+    {
+      "title": "IBM Faculty Award",
+      "year": 2017
+    },
+    {
+      "title": "TU Delft Best Computer Science Teacher",
+      "year": 2018
+    },
+    {
+      "title": "TU Delft Best Computer Science Teacher",
+      "year": 2016
     }
   ]
 }

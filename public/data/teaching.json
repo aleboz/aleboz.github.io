@@ -1,36 +1,80 @@
 [
   {
-    "id": "web-data-management",
-    "name": "Web & Data Management",
+    "id": "idem2211-ai-product-services",
+    "name": "IDEM2211 AI Product and Services",
     "level": "MSc",
-    "years": "2015–present",
-    "description": "Advanced course covering web information systems, data integration, and crowd-powered data management. Students work on real-world projects involving large-scale data processing.",
-    "links": {
-      "coursesite": ""
-    }
-  },
-  {
-    "id": "hcai-seminar",
-    "name": "Human-Centered AI Seminar",
-    "level": "MSc/PhD",
-    "years": "2020–present",
-    "description": "Research seminar exploring current topics in human-centered AI, including fairness, transparency, explainability, and human-AI collaboration.",
+    "program": "Industrial Design",
+    "years": "2024–present",
+    "role": "Course Coordinator",
+    "students": 100,
+    "description": "",
     "links": {}
   },
   {
-    "id": "crowd-computing",
-    "name": "Crowd Computing",
-    "level": "MSc",
-    "years": "2016–2023",
-    "description": "Course on the principles and practice of crowd computing, covering task design, quality control, and integration with machine learning.",
-    "links": {}
-  },
-  {
-    "id": "design-engineering-intro",
-    "name": "Introduction to Design Engineering",
+    "id": "iob4t3-ml-for-design",
+    "name": "IOB4-T3 Machine Learning for Design",
     "level": "BSc",
-    "years": "2021–present",
-    "description": "Introductory course for design engineering students covering design thinking, prototyping, and human-centered design methods.",
+    "program": "Industrial Design",
+    "years": "2022–present",
+    "role": "Course Coordinator",
+    "students": 90,
+    "description": "",
+    "links": {}
+  },
+  {
+    "id": "cs4145-crowd-computing",
+    "name": "CS4145 Crowd Computing",
+    "level": "MSc",
+    "program": "Computer Science",
+    "years": "2017–present",
+    "role": "Responsible Lecturer",
+    "students": 50,
+    "description": "",
+    "links": {}
+  },
+  {
+    "id": "ams-data1-metropolitan",
+    "name": "DATA I Metropolitan Data 1",
+    "level": "MSc",
+    "program": "Computer Science",
+    "years": "2017–2019",
+    "role": "Course Coordinator",
+    "students": 20,
+    "institution": "AMS Institute",
+    "description": "",
+    "links": {}
+  },
+  {
+    "id": "in4252-web-science",
+    "name": "IN4252 Web Science & Engineering",
+    "level": "MSc",
+    "program": "Computer Science",
+    "years": "2013–2019",
+    "role": "Guest Lecturer",
+    "students": 250,
+    "description": "",
+    "links": {}
+  },
+  {
+    "id": "ti1506-web-database",
+    "name": "TI1506 Web & Database Technology",
+    "level": "BSc",
+    "program": "Computer Science",
+    "years": "2013–2019",
+    "role": "Responsible Lecturer",
+    "students": 850,
+    "description": "",
+    "links": {}
+  },
+  {
+    "id": "in4325-information-retrieval",
+    "name": "IN4325 Information Retrieval",
+    "level": "MSc",
+    "program": "Computer Science",
+    "years": "2013–2017",
+    "role": "Responsible Lecturer",
+    "students": 120,
+    "description": "",
     "links": {}
   }
 ]
