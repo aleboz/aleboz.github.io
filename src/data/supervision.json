@@ -1,50 +1,344 @@
 [
   {
-    "name": "Dr. Jie Yang",
+    "name": "Netsanet Yigzaw Mengistie",
     "level": "PhD",
-    "years": "2016–2021",
-    "topic": "Human Computation for Knowledge Graph Construction",
-    "outcome": "Now Assistant Professor at TU Delft",
-    "coSupervisors": ["Geert-Jan Houben"]
+    "years": "2024–present",
+    "topic": "Human Centered Design of AI for Cervical Cancer in Sub-Saharan Africa",
+    "project": "GROW Project",
+    "outcome": "",
+    "coSupervisors": []
   },
   {
-    "name": "Dr. Ujwal Gadiraju",
+    "name": "Alice Vitali",
     "level": "PhD",
-    "years": "2015–2019",
-    "topic": "Understanding and Improving Crowd Work Quality",
-    "outcome": "Now Associate Professor at TU Delft",
+    "years": "2024–present",
+    "topic": "Embracing Emergent Technologies to Enhance Future Reading Experiences",
+    "project": "",
+    "outcome": "",
+    "coSupervisors": []
+  },
+  {
+    "name": "Catalina Pía Lagos Rojas",
+    "level": "PhD",
+    "years": "2024–present",
+    "topic": "Detecting and Addressing Implicit Bias in Workplace Interactions through Generative AI",
+    "project": "Feminist Generative AI Lab",
+    "outcome": "",
+    "coSupervisors": []
+  },
+  {
+    "name": "Ariane Lucchini",
+    "level": "PhD",
+    "years": "2024–present",
+    "topic": "Co-envisioning Healthcare Generative AI Futures Focusing on Women Suffering from Chronic Health Diseases",
+    "project": "Feminist Generative AI Lab",
+    "outcome": "",
+    "coSupervisors": []
+  },
+  {
+    "name": "Francesca Maria Mauri",
+    "level": "PhD",
+    "years": "2024–present",
+    "topic": "Adopting Design Fiction to Anticipate Social and Ethical Risks of Future Applications of AI Systems",
+    "project": "",
+    "outcome": "",
+    "coSupervisors": []
+  },
+  {
+    "name": "Anne Arzberger",
+    "level": "PhD",
+    "years": "2024–present",
+    "topic": "Increasing Context-Awareness of LLMs for Situated Value Alignment",
+    "project": "GENIUS ICAI Lab",
+    "outcome": "",
+    "coSupervisors": []
+  },
+  {
+    "name": "Céline Esmee Offerman",
+    "level": "PhD",
+    "years": "2023–present",
+    "topic": "Investigating the Adoption of AI-enhanced Processes",
+    "project": "",
+    "outcome": "",
+    "coSupervisors": ["Schiphol Group"]
+  },
+  {
+    "name": "Dantong Qin",
+    "level": "PhD",
+    "years": "2023–present",
+    "topic": "Human-AI Collaborative Painting Leveraging Large Models",
+    "project": "",
+    "outcome": "",
+    "coSupervisors": []
+  },
+  {
+    "name": "Ekaterina Bogdanova",
+    "level": "PhD",
+    "years": "2022–present",
+    "topic": "Representation and Inclusiveness in Democratic AI Systems",
+    "project": "",
+    "outcome": "",
+    "coSupervisors": []
+  },
+  {
+    "name": "Garoa Gomez Beldarrain",
+    "level": "PhD",
+    "years": "2022–present",
+    "topic": "Investigating the Adoption of AI-enhanced Processes",
+    "project": "",
+    "outcome": "",
+    "coSupervisors": ["Schiphol Group"]
+  },
+  {
+    "name": "Dr. Mireia Yurrita Semperena",
+    "level": "PhD",
+    "years": "2021–2025",
+    "topic": "Understanding Decision Subjects' Needs and Perceptions Towards Contestable AI Systems",
+    "project": "DCODE Project",
+    "outcome": "Defended",
+    "coSupervisors": []
+  },
+  {
+    "name": "Di Yan",
+    "level": "PhD",
+    "years": "2020–present",
+    "topic": "Collaborative Sensemaking of Personal Data",
+    "project": "",
+    "outcome": "",
+    "coSupervisors": []
+  },
+  {
+    "name": "Dr. Evert van Beek",
+    "level": "PhD",
+    "years": "2020–2025",
+    "topic": "Designing with Improvisations: How Everyday Practices with Technologies Shape Sustainable Transitions",
+    "project": "",
+    "outcome": "Defended",
+    "coSupervisors": []
+  },
+  {
+    "name": "Dr. Samuel Kernan Freire",
+    "level": "PhD",
+    "years": "2020–2025",
+    "topic": "LLM-Powered Cognitive Assistants for Knowledge Sharing among Factory Operators",
+    "project": "COALA Project",
+    "outcome": "Defended",
+    "coSupervisors": []
+  },
+  {
+    "name": "Dr. Roos Teeuwen",
+    "level": "PhD",
+    "years": "2020–2024",
+    "topic": "Measuring Children's Access to Urban Greenspace",
+    "project": "EQUAL-LIFE Project",
+    "outcome": "Defended",
+    "coSupervisors": []
+  },
+  {
+    "name": "Dr. Vasileios Milias",
+    "level": "PhD",
+    "years": "2020–2024",
+    "topic": "Urban Co-accessibility",
+    "project": "EQUAL-LIFE Project",
+    "outcome": "Defended",
+    "coSupervisors": []
+  },
+  {
+    "name": "Dr. Yunzhong Zhou",
+    "level": "PhD",
+    "years": "2019–2025",
+    "topic": "Perceived Appropriateness: A Novel View for Resolving Inappropriate Robot Behavior in Socially-Aware Navigation",
+    "project": "",
+    "outcome": "Defended",
+    "coSupervisors": []
+  },
+  {
+    "name": "Dr. Ziyu Li",
+    "level": "PhD",
+    "years": "2019–2024",
+    "topic": "On the Utility of Metadata to Optimize Machine Learning Workflows",
+    "project": "Cognizant Hyper-Sense Project",
+    "outcome": "Defended",
+    "coSupervisors": []
+  },
+  {
+    "name": "Dr. Agathe Balayn",
+    "level": "PhD",
+    "years": "2019–2023",
+    "topic": "On Developers' Practices for Hazard Diagnosis in Machine Learning Systems",
+    "project": "Cognizant Hyper-Sense Project",
+    "outcome": "Defended",
+    "coSupervisors": []
+  },
+  {
+    "name": "Dr. Ioannis Petros Samiotis",
+    "level": "PhD",
+    "years": "2018–2024",
+    "topic": "Crowd-Assisted Annotation of Classical Music Compositions",
+    "project": "TROMPA Project",
+    "outcome": "Defended",
+    "coSupervisors": []
+  },
+  {
+    "name": "Dr. Shahin Sharifi Noorian",
+    "level": "PhD",
+    "years": "2017–2025",
+    "topic": "From Recognition to Understanding: Enriching Visual Models through Multi-modal Semantic Integration",
+    "project": "",
+    "outcome": "Defended",
+    "coSupervisors": []
+  },
+  {
+    "name": "Dr. Sihang Qiu",
+    "level": "PhD",
+    "years": "2017–2021",
+    "topic": "Conversational Crowdsourcing",
+    "project": "",
+    "outcome": "Associate Professor at the College of Systems Engineering of NUDT and HIAT",
+    "coSupervisors": []
+  },
+  {
+    "name": "Dr. Sepideh Mesbah",
+    "level": "PhD",
+    "years": "2016–2020",
+    "topic": "Semantic-Enhanced Training Data Augmentation Methods for Long-Tail Entity Recognition Models",
+    "project": "",
+    "outcome": "Senior Data Scientist at Booking.com",
+    "coSupervisors": []
+  },
+  {
+    "name": "Dr. Vincent Gong",
+    "level": "PhD",
+    "years": "2016–2020",
+    "topic": "Using Social Media to Characterise Crowds in City Events for Crowd Management",
+    "project": "",
+    "outcome": "Cloud & Data Developer at TU Delft",
+    "coSupervisors": []
+  },
+  {
+    "name": "Dr. Jie Yang",
+    "level": "PhD",
+    "years": "2013–2017",
+    "topic": "Crowd Knowledge Acceleration",
+    "project": "",
+    "outcome": "Assistant Professor in Computer Science, EEMCS Faculty, TU Delft",
+    "coSupervisors": []
+  },
+  {
+    "name": "Jasper Oosterman",
+    "level": "PhD",
+    "years": "2013–present",
+    "topic": "Crowd Knowledge Generation",
+    "project": "",
+    "outcome": "Senior Data Scientist at Blendle (work not defended)",
+    "coSupervisors": []
+  },
+  {
+    "name": "Dr. Bojana Bislimovska",
+    "level": "PhD",
+    "years": "2011–2013",
+    "topic": "Content-Based Information Retrieval for Model Repositories",
+    "project": "",
+    "outcome": "Daily Supervisor (Politecnico di Milano)",
+    "coSupervisors": []
+  },
+  {
+    "name": "Dr. Hüseyin Uğur Genç",
+    "level": "Postdoc",
+    "years": "2023–present",
+    "topic": "",
+    "project": "FairPV",
+    "outcome": "",
+    "coSupervisors": []
+  },
+  {
+    "name": "Dr. Anelia Kurteva",
+    "level": "Postdoc",
+    "years": "2023–2024",
+    "topic": "",
+    "project": "RePlanIT",
+    "outcome": "Assistant Professor at the University of Birmingham",
+    "coSupervisors": []
+  },
+  {
+    "name": "Dr. Chaofan Wang",
+    "level": "Postdoc",
+    "years": "2022–2024",
+    "topic": "",
+    "project": "H2020 COALA",
+    "outcome": "Lecturer at Wenzhou University",
+    "coSupervisors": []
+  },
+  {
+    "name": "Dr. Sergei Zhilin",
+    "level": "Postdoc",
+    "years": "2022–2024",
+    "topic": "",
+    "project": "NWO Designing Rhythms for Social Resilience",
+    "outcome": "Project Manager at the Municipality of Amsterdam",
+    "coSupervisors": []
+  },
+  {
+    "name": "Dr. Yen-Chia Hsu",
+    "level": "Postdoc",
+    "years": "2021–2022",
+    "topic": "",
+    "project": "H2020 Periscope",
+    "outcome": "Assistant Professor at the University of Amsterdam",
+    "coSupervisors": []
+  },
+  {
+    "name": "Dr. Panagiotis Mavridis",
+    "level": "Postdoc",
+    "years": "2018–2019",
+    "topic": "",
+    "project": "NWA DATA Capturing Bias",
+    "outcome": "Senior Consultant in Data Analytics and Data Science at EUROPEAN DYNAMICS",
+    "coSupervisors": []
+  },
+  {
+    "name": "Dr. Kishor Chandra Joshi",
+    "level": "Postdoc",
+    "years": "2018",
+    "topic": "",
+    "project": "EIT Digital Welcome",
+    "outcome": "Assistant Professor at Eindhoven University of Technology",
+    "coSupervisors": []
+  },
+  {
+    "name": "Dr. Pavel Kucherbaev",
+    "level": "Postdoc",
+    "years": "2017",
+    "topic": "",
+    "project": "EIT Digital CrowdInsights",
+    "outcome": "Data Science Manager at Atlassian",
     "coSupervisors": []
   },
   {
     "name": "Dr. Andrea Mauri",
-    "level": "PhD",
-    "years": "2018–2023",
-    "topic": "Data-Driven Methods for Urban Design and Planning",
-    "outcome": "Now Researcher at AMS Institute",
-    "coSupervisors": ["Achilleas Psyllidis"]
-  },
-  {
-    "name": "Shabnam Najafian",
-    "level": "PhD",
-    "years": "2020–2025",
-    "topic": "Value-Aligned Recommendation Systems",
-    "outcome": "Ongoing",
-    "coSupervisors": ["Jie Yang"]
-  },
-  {
-    "name": "Dr. Sihang Qiu",
     "level": "Postdoc",
-    "years": "2022–2024",
-    "topic": "Conversational Agents for Crowd Computing",
-    "outcome": "",
+    "years": "2017–2022",
+    "topic": "",
+    "project": "NWA JOIN Big Data voor Jongerenbeleid",
+    "outcome": "Junior Professor at Université Claude Bernard Lyon",
     "coSupervisors": []
   },
   {
-    "name": "",
-    "level": "MSc",
-    "years": "2015–present",
-    "topic": "Supervised 50+ MSc thesis projects on topics in Human-Centered AI, Crowd Computing, and Urban Analytics",
-    "outcome": "",
+    "name": "Dr. Achilleas Psyllidis",
+    "level": "Postdoc",
+    "years": "2016–2019",
+    "topic": "",
+    "project": "TU Delft Strategic Funding",
+    "outcome": "Assistant Professor at TU Delft",
+    "coSupervisors": []
+  },
+  {
+    "name": "Dr. Stefano Bocconi",
+    "level": "Postdoc",
+    "years": "2014–2016",
+    "topic": "",
+    "project": "EIT Digital City Data Fusion",
+    "outcome": "AI Software Engineer at Zephyros Solutions",
     "coSupervisors": []
   }
 ]
