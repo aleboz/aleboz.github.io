@@ -3,7 +3,7 @@ import { useSearchParams } from 'react-router-dom';
 import { motion, AnimatePresence } from 'framer-motion';
 import {
   Search, X, ExternalLink, Copy, Check, FileText, Code2, Database,
-  Video, Presentation, ChevronDown, ChevronUp, Download, Filter, Award
+  Video, Presentation, ChevronDown, ChevronUp, Download, Award
 } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
@@ -11,6 +11,7 @@ import { Badge } from '@/components/ui/badge';
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select';
 import publicationsData from '@/data/publications.json';
 import type { Publication } from '@/types';
+import { useDocumentTitle } from '@/hooks/useDocumentTitle';
 
 const TYPE_LABELS: Record<string, string> = {
   journal: 'Journal', conference: 'Conference', workshop: 'Workshop',
@@ -26,14 +27,15 @@ function CopyBibtex({ bibtex }: { bibtex: string }) {
     });
   }, [bibtex]);
   return (
-    <Button variant="ghost" size="sm" onClick={copy} aria-label="Copy BibTeX">
-      {copied ? <Check className="h-3 w-3" /> : <Copy className="h-3 w-3" />}
-      <span className="ml-1 text-xs">BibTeX</span>
+    <Button variant="ghost" size="sm" onClick={copy} aria-label="Copy BibTeX to clipboard">
+      {copied ? <Check className="h-3 w-3" aria-hidden="true" /> : <Copy className="h-3 w-3" aria-hidden="true" />}
+      <span className="ml-1 text-xs">{copied ? 'Copied' : 'BibTeX'}</span>
     </Button>
   );
 }
 
 export default function PublicationsPage() {
+  useDocumentTitle('Publications');
   const pubs = publicationsData as Publication[];
   const [searchParams] = useSearchParams();
   const initialTheme = searchParams.get('theme') || '';
@@ -97,19 +99,20 @@ export default function PublicationsPage() {
 
   const hasFilters = query || yearFilter !== 'all' || typeFilter !== 'all' || themeFilter !== 'all' || authorFilter !== 'all' || featuredOnly;
 
+  const resultsSummary = `${filtered.length} of ${pubs.length} publications`;
 
   return (
     <div className="container mx-auto px-4 py-12">
       <div className="mb-8">
         <h1 className="mb-2 font-display text-3xl font-bold md:text-4xl">Publications</h1>
-        <p className="text-muted-foreground">{filtered.length} of {pubs.length} publications</p>
+        <p className="text-muted-foreground" aria-live="polite" aria-atomic="true">{resultsSummary}</p>
       </div>
 
       {/* Filters */}
-      <div className="mb-6 space-y-4 rounded-lg border bg-card p-4">
+      <div className="mb-6 space-y-4 rounded-lg border bg-card p-4" role="search" aria-label="Filter publications">
         <div className="flex flex-col gap-3 md:flex-row">
           <div className="relative flex-1">
-            <Search className="absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" />
+            <Search className="absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" aria-hidden="true" />
             <Input
               placeholder="Search titles, authors, venues, keywords..."
               value={query}
@@ -174,7 +177,7 @@ export default function PublicationsPage() {
 
           {hasFilters && (
             <Button variant="ghost" size="sm" onClick={clearFilters} className="text-xs">
-              <X className="mr-1 h-3 w-3" /> Clear
+              <X className="mr-1 h-3 w-3" aria-hidden="true" /> Clear all filters
             </Button>
           )}
         </div>
@@ -182,14 +185,14 @@ export default function PublicationsPage() {
         {filtered.some(p => p.bibtex) && (
           <div className="flex justify-end">
             <Button variant="outline" size="sm" onClick={downloadAllBibtex}>
-              <Download className="mr-1 h-3 w-3" /> Download BibTeX ({filtered.filter(p => p.bibtex).length})
+              <Download className="mr-1 h-3 w-3" aria-hidden="true" /> Download BibTeX ({filtered.filter(p => p.bibtex).length})
             </Button>
           </div>
         )}
       </div>
 
       {/* Publication list */}
-      <div className="space-y-3">
+      <div className="space-y-3" role="feed" aria-label="Publication results">
         <AnimatePresence mode="popLayout">
           {filtered.map(pub => (
             <motion.article
@@ -200,6 +203,7 @@ export default function PublicationsPage() {
               exit={{ opacity: 0, scale: 0.95 }}
               transition={{ duration: 0.2 }}
               className="rounded-lg border bg-card p-4 transition-shadow hover:shadow-sm"
+              aria-label={`${pub.title}, ${pub.year}`}
             >
               <div className="flex items-start justify-between gap-3">
                 <div className="flex-1 min-w-0">
@@ -208,7 +212,7 @@ export default function PublicationsPage() {
                     <span className="text-xs text-muted-foreground">{pub.year}</span>
                     {pub.awards.map(a => (
                       <Badge key={a} variant="secondary" className="text-xs border-0 font-medium">
-                        <Award className="mr-1 h-3 w-3" />{a}
+                        <Award className="mr-1 h-3 w-3" aria-hidden="true" />{a}
                       </Badge>
                     ))}
                     {pub.featured && <Badge variant="secondary" className="text-xs">★ Selected</Badge>}
@@ -220,46 +224,52 @@ export default function PublicationsPage() {
               </div>
 
               {/* Links */}
-              <div className="mt-3 flex flex-wrap items-center gap-1">
+              <div className="mt-3 flex flex-wrap items-center gap-1" role="group" aria-label="Publication links">
                 {pub.doi && (
                   <Button variant="ghost" size="sm" asChild>
                     <a href={`https://doi.org/${pub.doi}`} target="_blank" rel="noopener noreferrer">
-                      <ExternalLink className="mr-1 h-3 w-3" /><span className="text-xs">DOI</span>
+                      <ExternalLink className="mr-1 h-3 w-3" aria-hidden="true" /><span className="text-xs">DOI</span>
+                      <span className="sr-only"> for {pub.title} (opens in new tab)</span>
                     </a>
                   </Button>
                 )}
                 {pub.pdf && (
                   <Button variant="ghost" size="sm" asChild>
                     <a href={pub.pdf} target="_blank" rel="noopener noreferrer">
-                      <FileText className="mr-1 h-3 w-3" /><span className="text-xs">PDF</span>
+                      <FileText className="mr-1 h-3 w-3" aria-hidden="true" /><span className="text-xs">PDF</span>
+                      <span className="sr-only"> for {pub.title} (opens in new tab)</span>
                     </a>
                   </Button>
                 )}
                 {pub.code && (
                   <Button variant="ghost" size="sm" asChild>
                     <a href={pub.code} target="_blank" rel="noopener noreferrer">
-                      <Code2 className="mr-1 h-3 w-3" /><span className="text-xs">Code</span>
+                      <Code2 className="mr-1 h-3 w-3" aria-hidden="true" /><span className="text-xs">Code</span>
+                      <span className="sr-only"> for {pub.title} (opens in new tab)</span>
                     </a>
                   </Button>
                 )}
                 {pub.dataset && (
                   <Button variant="ghost" size="sm" asChild>
                     <a href={pub.dataset} target="_blank" rel="noopener noreferrer">
-                      <Database className="mr-1 h-3 w-3" /><span className="text-xs">Data</span>
+                      <Database className="mr-1 h-3 w-3" aria-hidden="true" /><span className="text-xs">Data</span>
+                      <span className="sr-only"> for {pub.title} (opens in new tab)</span>
                     </a>
                   </Button>
                 )}
                 {pub.video && (
                   <Button variant="ghost" size="sm" asChild>
                     <a href={pub.video} target="_blank" rel="noopener noreferrer">
-                      <Video className="mr-1 h-3 w-3" /><span className="text-xs">Video</span>
+                      <Video className="mr-1 h-3 w-3" aria-hidden="true" /><span className="text-xs">Video</span>
+                      <span className="sr-only"> for {pub.title} (opens in new tab)</span>
                     </a>
                   </Button>
                 )}
                 {pub.slides && (
                   <Button variant="ghost" size="sm" asChild>
                     <a href={pub.slides} target="_blank" rel="noopener noreferrer">
-                      <Presentation className="mr-1 h-3 w-3" /><span className="text-xs">Slides</span>
+                      <Presentation className="mr-1 h-3 w-3" aria-hidden="true" /><span className="text-xs">Slides</span>
+                      <span className="sr-only"> for {pub.title} (opens in new tab)</span>
                     </a>
                   </Button>
                 )}
@@ -268,9 +278,10 @@ export default function PublicationsPage() {
                   variant="ghost"
                   size="sm"
                   onClick={() => setExpandedId(expandedId === pub.id ? null : pub.id)}
-                  aria-label={expandedId === pub.id ? 'Hide abstract' : 'Show abstract'}
+                  aria-expanded={expandedId === pub.id}
+                  aria-controls={`abstract-${pub.id}`}
                 >
-                  {expandedId === pub.id ? <ChevronUp className="h-3 w-3" /> : <ChevronDown className="h-3 w-3" />}
+                  {expandedId === pub.id ? <ChevronUp className="h-3 w-3" aria-hidden="true" /> : <ChevronDown className="h-3 w-3" aria-hidden="true" />}
                   <span className="ml-1 text-xs">Abstract</span>
                 </Button>
               </div>
@@ -278,11 +289,14 @@ export default function PublicationsPage() {
               <AnimatePresence>
                 {expandedId === pub.id && pub.abstract && (
                   <motion.div
+                    id={`abstract-${pub.id}`}
                     initial={{ height: 0, opacity: 0 }}
                     animate={{ height: 'auto', opacity: 1 }}
                     exit={{ height: 0, opacity: 0 }}
                     transition={{ duration: 0.2 }}
                     className="overflow-hidden"
+                    role="region"
+                    aria-label={`Abstract for ${pub.title}`}
                   >
                     <p className="mt-3 rounded-md bg-muted/50 p-3 text-sm text-muted-foreground leading-relaxed">{pub.abstract}</p>
                     {pub.keywords.length > 0 && (
@@ -299,7 +313,7 @@ export default function PublicationsPage() {
       </div>
 
       {filtered.length === 0 && (
-        <div className="py-16 text-center text-muted-foreground">
+        <div className="py-16 text-center text-muted-foreground" role="status">
           <p className="text-lg">No publications match your filters.</p>
           <Button variant="link" onClick={clearFilters}>Clear all filters</Button>
         </div>

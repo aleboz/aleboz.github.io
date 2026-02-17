@@ -5,11 +5,13 @@ import { Button } from '@/components/ui/button';
 import coursesData from '@/data/teaching.json';
 import supervisionData from '@/data/supervision.json';
 import type { Course, Supervision } from '@/types';
+import { useDocumentTitle } from '@/hooks/useDocumentTitle';
 
 const fadeUp = { hidden: { opacity: 0, y: 20 }, show: { opacity: 1, y: 0, transition: { duration: 0.5 } } };
-const stagger = { show: { transition: { staggerChildren: 0.08 } } };
+const stagger = { hidden: {}, show: { transition: { staggerChildren: 0.08 } } };
 
 export default function TeachingPage() {
+  useDocumentTitle('Teaching & Supervision');
   const courses = coursesData as Course[];
   const supervision = supervisionData as Supervision[];
 
@@ -19,11 +21,11 @@ export default function TeachingPage() {
       <p className="mb-10 text-muted-foreground">Courses, seminars, and research supervision.</p>
 
       {/* Courses */}
-      <section className="mb-12" aria-label="Courses">
-        <h2 className="mb-6 flex items-center gap-2 font-display text-2xl font-semibold">
+      <section className="mb-12" aria-labelledby="courses-heading">
+        <h2 id="courses-heading" className="mb-6 flex items-center gap-2 font-display text-2xl font-semibold">
           <GraduationCap className="h-6 w-6 text-primary" aria-hidden="true" /> Courses
         </h2>
-        <motion.div initial="hidden" whileInView="show" viewport={{ once: true }} variants={stagger} className="grid gap-4 md:grid-cols-2">
+        <motion.div initial="hidden" animate="show" variants={stagger} className="grid gap-4 md:grid-cols-2">
           {courses.map(course => (
             <motion.article key={course.id} variants={fadeUp} className="rounded-lg border bg-card p-5">
               <div className="mb-2 flex items-center gap-2">
@@ -46,13 +48,13 @@ export default function TeachingPage() {
       </section>
 
       {/* Supervision */}
-      <section aria-label="Supervision">
-        <h2 className="mb-6 flex items-center gap-2 font-display text-2xl font-semibold">
+      <section aria-labelledby="supervision-heading">
+        <h2 id="supervision-heading" className="mb-6 flex items-center gap-2 font-display text-2xl font-semibold">
           <Users className="h-6 w-6 text-primary" aria-hidden="true" /> Supervision
         </h2>
-        <div className="space-y-3">
+        <motion.div initial="hidden" animate="show" variants={stagger} className="space-y-3">
           {supervision.map((s, i) => (
-            <motion.div key={i} initial="hidden" whileInView="show" viewport={{ once: true }} variants={fadeUp}
+            <motion.div key={i} variants={fadeUp}
               className="flex flex-col gap-1 rounded-lg border bg-card p-4 sm:flex-row sm:items-center sm:justify-between">
               <div>
                 <div className="flex items-center gap-2 mb-1">
@@ -70,7 +72,7 @@ export default function TeachingPage() {
               )}
             </motion.div>
           ))}
-        </div>
+        </motion.div>
       </section>
     </div>
   );

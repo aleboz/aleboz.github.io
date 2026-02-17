@@ -2,7 +2,7 @@ import { motion } from 'framer-motion';
 import bioPhoto from '@/assets/bio-photo-2024.jpeg';
 import { Link } from 'react-router-dom';
 import {
-  ArrowRight, BookOpen, Download, ExternalLink, GraduationCap,
+  ArrowRight, BookOpen, ExternalLink, GraduationCap,
   Award, Building2, Brain, Library, Trophy, Globe, Sparkles
 } from 'lucide-react';
 import { Button } from '@/components/ui/button';
@@ -10,6 +10,7 @@ import { Badge } from '@/components/ui/badge';
 import profileData from '@/data/profile.json';
 import newsData from '@/data/news.json';
 import type { Profile, NewsItem } from '@/types';
+import { useDocumentTitle } from '@/hooks/useDocumentTitle';
 
 const iconMap: Record<string, React.ReactNode> = {
   award: <Award className="h-5 w-5" aria-hidden="true" />,
@@ -31,6 +32,7 @@ const fadeUp = {
 };
 
 export default function HomePage() {
+  useDocumentTitle();
   const profile = profileData as Profile;
   const news = newsData as NewsItem[];
 
@@ -42,7 +44,7 @@ export default function HomePage() {
   return (
     <>
       {/* Hero */}
-      <section className="relative overflow-hidden border-b bg-gradient-to-br from-primary/5 via-background to-accent/5" aria-label="Introduction">
+      <section className="relative overflow-hidden border-b bg-gradient-to-br from-primary/5 via-background to-accent/5" aria-labelledby="hero-heading">
         <div className="container mx-auto px-4 py-16 md:py-24">
           <motion.div
             initial="hidden"
@@ -55,7 +57,7 @@ export default function HomePage() {
                 {profile.affiliation}
               </Badge>
             </motion.div>
-            <motion.h1 variants={fadeUp} className="mb-4 font-display text-4xl font-bold tracking-tight text-foreground md:text-5xl lg:text-6xl">
+            <motion.h1 id="hero-heading" variants={fadeUp} className="mb-4 font-display text-4xl font-bold tracking-tight text-foreground md:text-5xl lg:text-6xl">
               {profile.name}
             </motion.h1>
             <motion.p variants={fadeUp} className="mb-2 text-lg font-medium text-primary md:text-xl">
@@ -95,14 +97,14 @@ export default function HomePage() {
 
 
       {/* Highlights */}
-      <section className="container mx-auto px-4 py-16" aria-label="Highlights">
-        <motion.div initial="hidden" whileInView="show" viewport={{ once: true }} variants={stagger}>
-          <motion.h2 variants={fadeUp} className="mb-8 text-center font-display text-2xl font-semibold md:text-3xl">
+      <section className="container mx-auto px-4 py-16" aria-labelledby="highlights-heading">
+        <motion.div initial="hidden" animate="show" variants={stagger}>
+          <motion.h2 id="highlights-heading" variants={fadeUp} className="mb-8 text-center font-display text-2xl font-semibold md:text-3xl">
             Highlights
           </motion.h2>
-          <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+          <ul className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3 list-none p-0">
             {profile.highlights.map((h, i) => (
-              <motion.div
+              <motion.li
                 key={i}
                 variants={fadeUp}
                 className="group rounded-lg border bg-card p-5 transition-shadow hover:shadow-md"
@@ -122,22 +124,22 @@ export default function HomePage() {
                   ) : h.title}
                 </h3>
                 <p className="text-sm text-muted-foreground">{h.description}</p>
-              </motion.div>
+              </motion.li>
             ))}
-          </div>
+          </ul>
         </motion.div>
       </section>
 
       {/* Recent News */}
-      <section className="border-t bg-muted/30" aria-label="Recent news">
+      <section className="border-t bg-muted/30" aria-labelledby="news-heading">
         <div className="container mx-auto px-4 py-16">
-          <motion.div initial="hidden" whileInView="show" viewport={{ once: true }} variants={stagger}>
-            <motion.h2 variants={fadeUp} className="mb-8 text-center font-display text-2xl font-semibold md:text-3xl">
+          <motion.div initial="hidden" animate="show" variants={stagger}>
+            <motion.h2 id="news-heading" variants={fadeUp} className="mb-8 text-center font-display text-2xl font-semibold md:text-3xl">
               Recent News
             </motion.h2>
-            <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+            <ul className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3 list-none p-0">
               {recentNews.map((item) => (
-                <motion.div key={item.id} variants={fadeUp} className="rounded-lg border bg-card p-5">
+                <motion.li key={item.id} variants={fadeUp} className="rounded-lg border bg-card p-5">
                   <div className="mb-2 flex items-center gap-2">
                     <Badge variant="secondary" className="text-xs capitalize">{item.type}</Badge>
                     <span className="text-xs text-muted-foreground">
@@ -151,14 +153,14 @@ export default function HomePage() {
                       <> {' '}
                         <a href={item.link} target="_blank" rel="noopener noreferrer" className="inline-flex items-center text-primary hover:underline">
                           more… <ExternalLink className="ml-0.5 inline h-3 w-3" aria-hidden="true" />
-                          <span className="sr-only">(opens in new tab)</span>
+                          <span className="sr-only"> about {item.title} (opens in new tab)</span>
                         </a>
                       </>
                     )}
                   </p>
-                </motion.div>
+                </motion.li>
               ))}
-            </div>
+            </ul>
             <motion.div variants={fadeUp} className="mt-8 text-center">
               <Button variant="outline" asChild>
                 <Link to="/news">All News & Talks <ArrowRight className="ml-2 h-4 w-4" aria-hidden="true" /></Link>
@@ -169,10 +171,10 @@ export default function HomePage() {
       </section>
 
       {/* Bio */}
-      <section className="border-t bg-muted/30" aria-label="Biography">
+      <section className="border-t bg-muted/30" aria-labelledby="bio-heading">
         <div className="container mx-auto px-4 py-16">
           <div className="mx-auto max-w-4xl">
-            <h2 className="mb-6 font-display text-2xl font-semibold md:text-3xl">About</h2>
+            <h2 id="bio-heading" className="mb-6 font-display text-2xl font-semibold md:text-3xl">About</h2>
             <div className="flex flex-col gap-8 md:flex-row">
               <div className="shrink-0">
                 <img
