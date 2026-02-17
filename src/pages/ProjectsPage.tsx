@@ -5,10 +5,13 @@ import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
 import projectsData from '@/data/projects.json';
 import type { Project } from '@/types';
+import { useDocumentTitle } from '@/hooks/useDocumentTitle';
 
 const fadeUp = { hidden: { opacity: 0, y: 20 }, show: { opacity: 1, y: 0, transition: { duration: 0.5 } } };
+const stagger = { hidden: {}, show: { transition: { staggerChildren: 0.08 } } };
 
 export default function ProjectsPage() {
+  useDocumentTitle('Projects');
   const projects = projectsData as Project[];
   const [statusFilter, setStatusFilter] = useState<string>('all');
   const [themeFilter, setThemeFilter] = useState<string>('all');
@@ -21,6 +24,7 @@ export default function ProjectsPage() {
     return r;
   }, [projects, statusFilter, themeFilter]);
 
+  const resultsSummary = `Showing ${filtered.length} of ${projects.length} projects`;
 
   return (
     <div className="container mx-auto px-4 py-12">
@@ -40,9 +44,11 @@ export default function ProjectsPage() {
         ))}
       </div>
 
-      <div className="grid gap-6 md:grid-cols-2">
+      <p className="sr-only" aria-live="polite" aria-atomic="true">{resultsSummary}</p>
+
+      <motion.div initial="hidden" animate="show" variants={stagger} className="grid gap-6 md:grid-cols-2">
         {filtered.map(project => (
-          <motion.article key={project.id} initial="hidden" whileInView="show" viewport={{ once: true }} variants={fadeUp}
+          <motion.article key={project.id} variants={fadeUp}
             className="rounded-lg border bg-card p-6 transition-shadow hover:shadow-md">
             <div className="mb-3 flex items-center gap-2">
               <Badge variant={project.status === 'active' ? 'default' : 'secondary'} className="text-xs capitalize">{project.status}</Badge>
@@ -71,7 +77,13 @@ export default function ProjectsPage() {
             )}
           </motion.article>
         ))}
-      </div>
+      </motion.div>
+
+      {filtered.length === 0 && (
+        <div className="py-16 text-center text-muted-foreground" role="status">
+          <p className="text-lg">No projects match your filters.</p>
+        </div>
+      )}
     </div>
   );
 }

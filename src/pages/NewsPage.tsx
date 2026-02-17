@@ -5,6 +5,7 @@ import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
 import newsData from '@/data/news.json';
 import type { NewsItem } from '@/types';
+import { useDocumentTitle } from '@/hooks/useDocumentTitle';
 
 const typeIcons: Record<string, React.ReactNode> = {
   award: <Award className="h-4 w-4" aria-hidden="true" />,
@@ -14,8 +15,10 @@ const typeIcons: Record<string, React.ReactNode> = {
 };
 
 const fadeUp = { hidden: { opacity: 0, y: 20 }, show: { opacity: 1, y: 0, transition: { duration: 0.4 } } };
+const stagger = { hidden: {}, show: { transition: { staggerChildren: 0.05 } } };
 
 export default function NewsPage() {
+  useDocumentTitle('News & Talks');
   const news = newsData as NewsItem[];
   const [typeFilter, setTypeFilter] = useState<string>('all');
 
@@ -25,6 +28,7 @@ export default function NewsPage() {
     return [...r].sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
   }, [news, typeFilter]);
 
+  const resultsSummary = `Showing ${filtered.length} of ${news.length} items`;
 
   return (
     <div className="container mx-auto px-4 py-12">
@@ -38,9 +42,11 @@ export default function NewsPage() {
         ))}
       </div>
 
-      <div className="relative border-l-2 border-border pl-6 space-y-6" aria-label="News timeline" role="feed">
+      <p className="sr-only" aria-live="polite" aria-atomic="true">{resultsSummary}</p>
+
+      <motion.div initial="hidden" animate="show" variants={stagger} className="relative border-l-2 border-border pl-6 space-y-6" aria-label="News timeline" role="feed">
         {filtered.map(item => (
-          <motion.article key={item.id} initial="hidden" whileInView="show" viewport={{ once: true }} variants={fadeUp}
+          <motion.article key={item.id} variants={fadeUp}
             className="relative">
             <div className="absolute -left-[31px] top-1 flex h-5 w-5 items-center justify-center rounded-full border-2 border-border bg-background text-primary" aria-hidden="true">
               {typeIcons[item.type] || <Calendar className="h-3 w-3" />}
@@ -65,7 +71,7 @@ export default function NewsPage() {
             </div>
           </motion.article>
         ))}
-      </div>
+      </motion.div>
     </div>
   );
 }

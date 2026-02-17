@@ -2,6 +2,7 @@ import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
 import { ArrowRight } from 'lucide-react';
 import { Badge } from '@/components/ui/badge';
+import { useDocumentTitle } from '@/hooks/useDocumentTitle';
 
 const themes = [
   {
@@ -36,6 +37,8 @@ const fadeUp = {
 };
 
 export default function ResearchPage() {
+  useDocumentTitle('Research');
+
   return (
     <div className="container mx-auto px-4 py-12">
       <motion.div initial="hidden" animate="show" variants={{ show: { transition: { staggerChildren: 0.1 } } }}>
@@ -44,9 +47,9 @@ export default function ResearchPage() {
           My research lies at the intersection of Human-Computer Interaction, human computation, user modelling, and machine learning, focusing on Human-Centered AI and Crowd Computing.
         </motion.p>
 
-        <div className="grid gap-6 md:grid-cols-2" role="list">
+        <ul className="grid gap-6 md:grid-cols-2 list-none p-0">
           {themes.map(t => (
-            <motion.div
+            <motion.li
               key={t.id}
               variants={fadeUp}
               className="group rounded-lg border bg-card p-6 transition-all hover:shadow-md hover:border-primary/30"
@@ -62,24 +65,24 @@ export default function ResearchPage() {
                 to={`/publications?theme=${encodeURIComponent(t.title)}`}
                 className="inline-flex items-center text-sm font-medium text-primary hover:underline"
               >
-                View publications <ArrowRight className="ml-1 h-3 w-3" />
+                View publications <ArrowRight className="ml-1 h-3 w-3" aria-hidden="true" />
               </Link>
-            </motion.div>
+            </motion.li>
           ))}
-        </div>
+        </ul>
 
         <motion.div variants={fadeUp} className="mt-12">
           <h2 className="mb-4 font-display text-xl font-semibold">Methods & Keywords</h2>
-          <div className="flex flex-wrap gap-2">
+          <ul className="flex flex-wrap gap-2 list-none p-0">
             {[
               'User Modeling', 'Machine Learning', 'Natural Language Processing', 'Information Retrieval',
               'Data Integration', 'Bayesian Optimization', 'Mixed Methods', 'Experimental Design',
               'Survey Research', 'Participatory Design', 'Conversational AI', 'Knowledge Graphs',
               'Urban Computing', 'Digital Libraries', 'Web Engineering',
             ].map(k => (
-              <Badge key={k} variant="outline" className="text-xs">{k}</Badge>
+              <li key={k}><Badge variant="outline" className="text-xs">{k}</Badge></li>
             ))}
-          </div>
+          </ul>
         </motion.div>
       </motion.div>
     </div>

@@ -4,6 +4,7 @@ import { Mail, MapPin, Building2, Copy, Check, ExternalLink, GraduationCap, Book
 import { Button } from '@/components/ui/button';
 import contactData from '@/data/contact.json';
 import type { ContactData } from '@/types';
+import { useDocumentTitle } from '@/hooks/useDocumentTitle';
 
 const iconMap: Record<string, React.ReactNode> = {
   'graduation-cap': <GraduationCap className="h-4 w-4" aria-hidden="true" />,
@@ -17,6 +18,7 @@ const iconMap: Record<string, React.ReactNode> = {
 const fadeUp = { hidden: { opacity: 0, y: 20 }, show: { opacity: 1, y: 0, transition: { duration: 0.5 } } };
 
 export default function ContactPage() {
+  useDocumentTitle('Contact');
   const data = contactData as ContactData;
   const [copied, setCopied] = useState(false);
 
@@ -44,9 +46,10 @@ export default function ContactPage() {
               <div className="flex items-center gap-2">
                 <a href={`mailto:${data.email}`} className="text-primary hover:underline">{data.email}</a>
                 <Button variant="ghost" size="icon" onClick={copyEmail} aria-label={copied ? 'Email copied' : 'Copy email address'} className="h-8 w-8">
-                  {copied ? <Check className="h-3 w-3" /> : <Copy className="h-3 w-3" />}
+                  {copied ? <Check className="h-3 w-3" aria-hidden="true" /> : <Copy className="h-3 w-3" aria-hidden="true" />}
                 </Button>
               </div>
+              {copied && <p className="sr-only" role="status">Email address copied to clipboard</p>}
               <Button asChild className="mt-3">
                 <a href={`mailto:${data.email}`}><Mail className="mr-2 h-4 w-4" aria-hidden="true" />Send Email</a>
               </Button>
@@ -76,22 +79,23 @@ export default function ContactPage() {
           <motion.div variants={fadeUp}>
             <nav className="rounded-lg border bg-card p-6" aria-label="Online profiles">
               <h2 className="mb-4 font-sans text-lg font-semibold">Online Profiles</h2>
-              <div className="space-y-2">
+              <ul className="space-y-2 list-none p-0">
                 {data.socialLinks.map(link => (
-                  <a
-                    key={link.platform}
-                    href={link.url}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="flex items-center gap-3 rounded-md p-3 text-sm transition-colors hover:bg-muted"
-                  >
-                    <span className="text-primary" aria-hidden="true">{iconMap[link.icon] || <ExternalLink className="h-4 w-4" />}</span>
-                    <span className="font-medium">{link.platform}</span>
-                    <ExternalLink className="ml-auto h-3 w-3 text-muted-foreground" aria-hidden="true" />
-                    <span className="sr-only">(opens in new tab)</span>
-                  </a>
+                  <li key={link.platform}>
+                    <a
+                      href={link.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="flex items-center gap-3 rounded-md p-3 text-sm transition-colors hover:bg-muted"
+                    >
+                      <span className="text-primary" aria-hidden="true">{iconMap[link.icon] || <ExternalLink className="h-4 w-4" />}</span>
+                      <span className="font-medium">{link.platform}</span>
+                      <ExternalLink className="ml-auto h-3 w-3 text-muted-foreground" aria-hidden="true" />
+                      <span className="sr-only">(opens in new tab)</span>
+                    </a>
+                  </li>
                 ))}
-              </div>
+              </ul>
             </nav>
           </motion.div>
         </div>
