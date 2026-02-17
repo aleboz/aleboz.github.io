@@ -33,8 +33,10 @@ const fadeUp = {
 
 export default function HomePage() {
   useDocumentTitle();
-  const profile = profileData as Profile;
-  const news = newsData as NewsItem[];
+  const rawProfile = profileData as Profile | { default: Profile };
+  const profile: Profile = 'default' in rawProfile ? rawProfile.default : rawProfile;
+  const rawNews = newsData as NewsItem[] | { default: NewsItem[] };
+  const news: NewsItem[] = 'default' in rawNews ? rawNews.default : rawNews;
 
   const recentNews = news
     .slice()

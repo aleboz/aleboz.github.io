@@ -19,7 +19,8 @@ const stagger = { hidden: {}, show: { transition: { staggerChildren: 0.05 } } };
 
 export default function NewsPage() {
   useDocumentTitle('News & Talks');
-  const news = newsData as NewsItem[];
+  const rawNews = newsData as NewsItem[] | { default: NewsItem[] };
+  const news: NewsItem[] = 'default' in rawNews ? rawNews.default : rawNews;
   const [typeFilter, setTypeFilter] = useState<string>('all');
 
   const types = useMemo(() => [...new Set(news.map(n => n.type))], [news]);

@@ -12,8 +12,10 @@ const stagger = { hidden: {}, show: { transition: { staggerChildren: 0.08 } } };
 
 export default function TeachingPage() {
   useDocumentTitle('Teaching & Supervision');
-  const courses = coursesData as Course[];
-  const supervision = supervisionData as Supervision[];
+  const rawCourses = coursesData as Course[] | { default: Course[] };
+  const courses: Course[] = 'default' in rawCourses ? rawCourses.default : rawCourses;
+  const rawSupervision = supervisionData as Supervision[] | { default: Supervision[] };
+  const supervision: Supervision[] = 'default' in rawSupervision ? rawSupervision.default : rawSupervision;
 
   return (
     <div className="container mx-auto px-4 py-12">

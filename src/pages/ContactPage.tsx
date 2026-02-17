@@ -19,7 +19,8 @@ const fadeUp = { hidden: { opacity: 0, y: 20 }, show: { opacity: 1, y: 0, transi
 
 export default function ContactPage() {
   useDocumentTitle('Contact');
-  const data = contactData as ContactData;
+  const raw = contactData as ContactData | { default: ContactData };
+  const data: ContactData = 'default' in raw ? raw.default : raw;
   const [copied, setCopied] = useState(false);
 
   const copyEmail = useCallback(() => {

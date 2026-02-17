@@ -36,7 +36,8 @@ function CopyBibtex({ bibtex }: { bibtex: string }) {
 
 export default function PublicationsPage() {
   useDocumentTitle('Publications');
-  const pubs = publicationsData as Publication[];
+  const rawPubs = publicationsData as Publication[] | { default: Publication[] };
+  const pubs: Publication[] = 'default' in rawPubs ? rawPubs.default : rawPubs;
   const [searchParams] = useSearchParams();
   const initialTheme = searchParams.get('theme') || '';
 

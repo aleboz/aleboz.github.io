@@ -7,7 +7,8 @@ import { useDocumentTitle } from '@/hooks/useDocumentTitle';
 const fadeUp = { hidden: { opacity: 0, y: 20 }, show: { opacity: 1, y: 0, transition: { duration: 0.5 } } };
 const stagger = { hidden: {}, show: { transition: { staggerChildren: 0.05 } } };
 
-function ServiceSection({ id, title, items }: { id: string; title: string; items: { role: string; organization?: string; venue?: string; years?: string; year?: number }[] }) {
+function ServiceSection({ id, title, items = [] }: { id: string; title: string; items: { role: string; organization?: string; venue?: string; years?: string; year?: number }[] }) {
+  if (!items || items.length === 0) return null;
   return (
     <section className="mb-10" aria-labelledby={id}>
       <h2 id={id} className="mb-4 font-display text-xl font-semibold">{title}</h2>
@@ -28,7 +29,9 @@ function ServiceSection({ id, title, items }: { id: string; title: string; items
 
 export default function ServicePage() {
   useDocumentTitle('Service & Leadership');
-  const data = serviceData as ServiceData;
+  // Handle both ESM default export and direct import (SSR vs client may differ)
+  const raw = serviceData as ServiceData | { default: ServiceData };
+  const data: ServiceData = 'default' in raw ? raw.default : raw;
 
   return (
     <div className="container mx-auto px-4 py-12">
