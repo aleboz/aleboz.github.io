@@ -10,7 +10,7 @@
   {
     "id": "news-31",
     "date": "2026-03-01",
-    "type": "award",
+    "type": "event",
     "title": "Panel at CHI 2026",
     "description": "I co-organise the panel 'Participatory AI & Social Justice' at CHI 2026.",
     "link": ""
@@ -42,7 +42,7 @@
   {
     "id": "news-27",
     "date": "2026-02-01",
-    "type": "grant",
+    "type": "paper",
     "title": "Paper at CHI 2026",
     "description": "New paper 'Are Compliments Bad Now? Comparing LLMs and Human Interpretations of Gender Microaggressions in the Workplace' at CHI 2026.",
     "link": ""
@@ -50,7 +50,7 @@
   {
     "id": "news-26",
     "date": "2026-02-01",
-    "type": "grant",
+    "type": "paper",
     "title": "Paper at CHI 2026",
     "description": "New paper 'A Taxonomy of Design Futures Processes for Ethical Reflection on Technologies' at CHI 2026.",
     "link": ""
@@ -83,7 +83,7 @@
     "id": "news-22",
     "date": "2025-03-05",
     "type": "award",
-    "title": "Best Paper Ward at CHI 2025",
+    "title": "Best Paper Award at CHI 2025",
     "description": "The paper '(Re)discovering Sexual Pleasure after Cancer: Understanding the Design Space' received the Best Paper Award at CHI 2025.",
     "link": "https://dl.acm.org/doi/full/10.1145/3706598.3713535"
   },
