@@ -1,12 +1,29 @@
 [
   {
-    "id": "news-30",
-    "date": "2026-02-01",
+    "id": "news-32",
+    "date": "2026-03-01",
     "type": "award",
     "title": "Best Paper Award at CHI 2026",
-    "description": "The paper 'Sex after Cancer: Co-Designing Bespoke Care Technologies for Post-Cancer Bodies' received the Best Paper Awardat CHI 2026.",
+    "description": "The paper 'Sex after Cancer: Co-Designing Bespoke Care Technologies for Post-Cancer Bodies' received the Best Paper Award at CHI 2026.",
     "link": ""
-  },{
+  },
+  {
+    "id": "news-31",
+    "date": "2026-03-01",
+    "type": "award",
+    "title": "Panel at CHI 2026",
+    "description": "I co-organise the panel 'Participatory AI & Social Justice' at CHI 2026.",
+    "link": ""
+  },
+  {
+    "id": "news-30",
+    "date": "2026-03-01",
+    "type": "event",
+    "title": "Meet-up at CHI 2026",
+    "description": "I co-organised the Meet-up 'Disability, Differences, and Diversity: Revisiting Inclusive Design and Access' CHI 2026.",
+    "link": ""
+  },
+  {
     "id": "news-29",
     "date": "2026-02-01",
     "type": "paper",
@@ -32,18 +49,114 @@
   },
   {
     "id": "news-26",
-    "date": "2026-12-15",
+    "date": "2026-02-01",
+    "type": "grant",
+    "title": "Paper at CHI 2026",
+    "description": "New paper 'A Taxonomy of Design Futures Processes for Ethical Reflection on Technologies' at CHI 2026.",
+    "link": ""
+  },
+  {
+    "id": "news-25",
+    "date": "2025-12-15",
     "type": "graduation",
     "title": "Di Yan Defends PhD Dissertation",
     "description": "Di Yan successfully defended her PhD dissertation on 'Pair Sensemaking of Personal Data: An Approach for Fostering Reflection on Personal Experiences'.",
     "link": "https://research.tudelft.nl/en/publications/pair-sensemaking-of-personal-data-an-approach-for-fostering-refle-2/"
   },
   {
-    "id": "news-25",
+    "id": "news-24",
     "date": "2025-07-05",
     "type": "paper",
     "title": "Paper at DIS 2025",
-    "description": "New paper 'From Bodily Functions to Bodily Fun: Approaching Pleasure as a Process when Designing with Sexual Experiences' at DIS.",
+    "description": "New paper 'From Bodily Functions to Bodily Fun: Approaching Pleasure as a Process when Designing with Sexual Experiences' at DIS 2025.",
     "link": "https://dl.acm.org/doi/10.1145/3715336.3735747"
+  },
+  {
+    "id": "news-23",
+    "date": "2025-05-05",
+    "type": "paper",
+    "title": "Paper at CSCW 2025",
+    "description": "New paper 'Safeguarding Crowdsourcing Surveys from ChatGPT through Prompt Injection' at CSCW 2025.",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3757503"
+  },
+  {
+    "id": "news-22",
+    "date": "2025-03-05",
+    "type": "award",
+    "title": "Best Paper Ward at CHI 2025",
+    "description": "The paper '(Re)discovering Sexual Pleasure after Cancer: Understanding the Design Space' received the Best Paper Award at CHI 2025.",
+    "link": "https://dl.acm.org/doi/full/10.1145/3706598.3713535"
+  },
+  {
+    "id": "news-22.1",
+    "date": "2025-10-04",
+    "type": "graduation",
+    "title": "Evert van Beek Defended PhD Dissertation",
+    "description": "Evert van Beek successfully defended his PhD dissertation on 'Designing with improvisations'.",
+    "link": "https://repository.tudelft.nl/record/uuid:179998fd-d779-4068-8101-f76fc3261a68"
+  },
+  {
+    "id": "news-22.2",
+    "date": "2025-9-04",
+    "type": "graduation",
+    "title": "Shahin Sharifi Noorian Defended PhD Dissertation",
+    "description": "Shahin Sharifi Noorian successfully defended his PhD dissertation on 'From recognition to understanding: enriching visual models through multi-modal semantic integration'.",
+    "link": "https://repository.tudelft.nl/record/uuid:51fc7a95-fe5f-4519-989c-39646e191148"
+  },
+  {
+    "id": "news-22.3",
+    "date": "2025-7-04",
+    "type": "graduation",
+    "title": "Yunzhong Zhou Defended PhD Dissertation",
+    "description": "Yunzhong Zhou successfully defended his PhD dissertation on 'Perceived Appropriateness: A Novel View for Resolving Inappropriate Robot Behavior in Socially-Aware Navigation'.",
+    "link": "https://doi.org/10.4233/uuid:2b8953d2-e29a-4185-9dbd-b99548d10365"
+  },
+  {
+    "id": "news-22.4",
+    "date": "2025-6-04",
+    "type": "graduation",
+    "title": "Samuel Kernan Freire Defended PhD Dissertation",
+    "description": "Samuel Kernan Freire successfully defended his PhD dissertation on 'LLM-Powered Cognitive Assistants for Knowledge Sharing among Factory Operators'.",
+    "link": "https://doi.org/10.4233/uuid:733e10e7-890c-48a7-86d3-fa782ffd65c8"
+  },
+  {
+    "id": "news-22.5",
+    "date": "2025-5-04",
+    "type": "graduation",
+    "title": "Mireia Yurrita Semperena Defended PhD Dissertation",
+    "description": "Mireia Yurrita Semperena successfully defended her PhD dissertation on 'Understanding Decision Subjects' Needs and Perceptions Towards Contestable AI Systems'.",
+    "link": "https://doi.org/10.4233/uuid:5792abf8-c8ff-4301-ba06-e0de2f7fd4ce"
+  },
+  {
+    "id": "news-21",
+    "date": "2024-10-04",
+    "type": "graduation",
+    "title": "Roos Teeuwen Defended PhD Dissertation",
+    "description": "Roos Teeuwen successfully defended her PhD dissertation on 'Measuring Children's Access to Urban Greenspace'.",
+    "link": "https://repository.tudelft.nl/record/uuid:b63f6779-cc98-40d0-9775-2af0054233e9"
+  },
+  {
+    "id": "news-20",
+    "date": "2024-09-26",
+    "type": "graduation",
+    "title": "Vasileios Milias Defended PhD Dissertation",
+    "description": "Vasileios Milias successfully defended her PhD dissertation on 'Urban Co-accessibility'.",
+    "link": "https://research.tudelft.nl/en/publications/urban-co-accessibility/"
+  },
+  {
+    "id": "news-19",
+    "date": "2024-06-26",
+    "type": "graduation",
+    "title": "Ziyu Li Defended PhD Dissertation",
+    "description": "Ziyu Li successfully defended her PhD dissertation on 'On the utility of metadata to optimize machine learning workflows'.",
+    "link": "https://research.tudelft.nl/en/publications/urban-co-accessibility/"
+  },
+  {
+    "id": "news-18",
+    "date": "2024-03-26",
+    "type": "graduation",
+    "title": "Ioannis Petros Samiotis Defended PhD Dissertation",
+    "description": "Ioannis Petros Samiotis successfully defended his PhD dissertation on 'Crowd-Assisted Annotation of Classical Music Compositions'.",
+    "link": "https://doi.org/10.4233/uuid:33295c07-041b-4a62-953a-8a4fb4a12a03"
   }
 ]
