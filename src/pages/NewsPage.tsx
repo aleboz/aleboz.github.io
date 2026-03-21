@@ -1,6 +1,6 @@
 import { useState, useMemo } from 'react';
 import { motion } from 'framer-motion';
-import { Award, Mic, Newspaper, Gift, Calendar } from 'lucide-react';
+import { Award, Mic, Newspaper, Gift, Calendar, FileText, GraduationCap, CalendarDays } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
 import newsData from '@/data/news.json';
@@ -12,6 +12,9 @@ const typeIcons: Record<string, React.ReactNode> = {
   keynote: <Mic className="h-4 w-4" aria-hidden="true" />,
   media: <Newspaper className="h-4 w-4" aria-hidden="true" />,
   grant: <Gift className="h-4 w-4" aria-hidden="true" />,
+  paper: <FileText className="h-4 w-4" aria-hidden="true" />,
+  graduation: <GraduationCap className="h-4 w-4" aria-hidden="true" />,
+  event: <CalendarDays className="h-4 w-4" aria-hidden="true" />,
 };
 
 const fadeUp = { hidden: { opacity: 0, y: 20 }, show: { opacity: 1, y: 0, transition: { duration: 0.4 } } };
