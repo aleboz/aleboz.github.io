@@ -180,10 +180,10 @@ export default function HomePage() {
                       <div className="mb-1 flex items-center gap-2">
                         <Badge className="bg-warm/10 text-warm hover:bg-warm/20 border-0 text-xs capitalize">{item.type}</Badge>
                         <time className="text-xs text-muted-foreground" dateTime={item.date}>
-                          {new Date(item.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}
+                          {new Date(item.date).toLocaleDateString('en-US', { month: 'short', year: 'numeric' })}
                         </time>
                       </div>
-                      <h3 className="mb-1 font-sans text-sm font-semibold text-foreground">{item.title}</h3>
+                      <h3 className={`mb-1 font-sans text-sm font-semibold text-foreground${item.type === 'award' ? ' underline decoration-orange-500 decoration-2 underline-offset-2' : ''}`}>{item.title}</h3>
                       <p className="text-sm text-muted-foreground">
                         {item.description}
                         {item.link && (

@@ -58,9 +58,9 @@ export default function NewsPage() {
             <div className="rounded-lg border bg-card p-4">
               <div className="mb-1 flex items-center gap-2">
                 <Badge variant="secondary" className="text-xs capitalize">{item.type}</Badge>
-                <time className="text-xs text-muted-foreground" dateTime={item.date}>{new Date(item.date).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}</time>
+                <time className="text-xs text-muted-foreground" dateTime={item.date}>{new Date(item.date).toLocaleDateString('en-US', { month: 'long', year: 'numeric' })}</time>
               </div>
-              <h3 className="font-sans text-sm font-semibold">{item.title}</h3>
+              <h3 className={`font-sans text-sm font-semibold${item.type === 'award' ? ' underline decoration-orange-500 decoration-2 underline-offset-2' : ''}`}>{item.title}</h3>
               <p className="text-sm text-muted-foreground">
                 {item.description}
                 {item.link && (
