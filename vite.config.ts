@@ -24,6 +24,7 @@ export default defineConfig(({ mode }) => ({
         "/publications",
         "/projects",
         "/teaching",
+        "/supervision",
         "/service",
         "/news",
         "/contact",

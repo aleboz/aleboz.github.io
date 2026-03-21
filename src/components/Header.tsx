@@ -17,6 +17,7 @@ const navGroups = [
   {
     items: [
       { label: 'Teaching', path: '/teaching' },
+      { label: 'Supervision', path: '/supervision' },
       { label: 'Service', path: '/service' },
     ],
   },
