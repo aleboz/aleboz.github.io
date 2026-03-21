@@ -17,7 +17,7 @@
     "abstract": "",
     "keywords": [],
     "themes": [
-      "Human-Centered AI"
+  
     ],
     "featured": false,
     "citations": 0,
@@ -49,7 +49,7 @@
     "themes": [
       "Human-Centered AI"
     ],
-    "featured": false,
+    "featured": true,
     "citations": 0,
     "awards": [],
     "bibtex": "@inproceedings{Offerman_2025, series={CHI ’25}, title={(Re)discovering Sexual Pleasure after Cancer: Understanding the Design Space}, url={http://dx.doi.org/10.1145/3706598.3713535}, DOI={10.1145/3706598.3713535}, booktitle={Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems}, publisher={ACM}, author={Offerman, Céline and Bourgeois, Jacky and van Beurden, Jules and Bozzon, Alessandro}, year={2025}, month=apr, pages={1–17}, collection={CHI ’25} }"
@@ -109,7 +109,7 @@
     "themes": [
       "Human-Centered AI"
     ],
-    "featured": false,
+    "featured": true,
     "citations": 0,
     "awards": [],
     "bibtex": "@inproceedings{Offerman_2025, series={DIS ’25}, title={From Bodily Functions to Bodily Fun: Approaching Pleasure as a Process when Designing with Sexual Experiences}, url={http://dx.doi.org/10.1145/3715336.3735747}, DOI={10.1145/3715336.3735747}, booktitle={Proceedings of the 2025 ACM Designing Interactive Systems Conference}, publisher={ACM}, author={Offerman, Céline and Nieuwborg, Alexander and Bourgeois, Jacky and Bozzon, Alessandro}, year={2025}, month=jul, pages={2916–2930}, collection={DIS ’25} }"
@@ -119,7 +119,7 @@
     "title": "Identifying Algorithmic Decision Subjects' Needs for Meaningful Contestability",
     "authors": [
       "M. Yurrita",
-      "H. V. 0001",
+      "H. Verma",
       "A. Balayn",
       "K. Alfrink",
       "U. Gadiraju",
@@ -141,7 +141,7 @@
     "themes": [
       "Responsible & Value-Aligned AI"
     ],
-    "featured": false,
+    "featured": true,
     "citations": 0,
     "awards": [],
     "bibtex": "@article{Yurrita_2025, title={Identifying Algorithmic Decision Subjects’ Needs for Meaningful Contestability}, volume={9}, ISSN={2573-0142}, url={http://dx.doi.org/10.1145/3757415}, DOI={10.1145/3757415}, number={7}, journal={Proceedings of the ACM on Human-Computer Interaction}, publisher={Association for Computing Machinery (ACM)}, author={Yurrita, Mireia and Verma, Himanshu and Balayn, Agathe and Alfrink, Kars and Gadiraju, Ujwal and Bozzon, Alessandro}, year={2025}, month=oct, pages={1–29} }"
@@ -181,7 +181,7 @@
     "id": "pacm-hci-2025-safeguarding-crowdsourcing-surveys-from-chatgpt-through-prom",
     "title": "Safeguarding Crowdsourcing Surveys from ChatGPT through Prompt Injection",
     "authors": [
-      "C. W. 0001",
+      "C. Wang",
       "S. K. Freire",
       "M. Zhang",
       "J. W. 0002",
@@ -236,7 +236,7 @@
     "themes": [
       "Human-Centered AI"
     ],
-    "featured": false,
+    "featured": true,
     "citations": 0,
     "awards": [],
     "bibtex": "@article{van_Beek_2023, title={The everyday enactment of interfaces: a study of crises and conflicts in the more-than-human home}, volume={40}, ISSN={1532-7051}, url={http://dx.doi.org/10.1080/07370024.2023.2283536}, DOI={10.1080/07370024.2023.2283536}, number={1–4}, journal={Human–Computer Interaction}, publisher={Informa UK Limited}, author={van Beek, Evert and Giaccardi, Elisa and Boess, Stella and Bozzon, Alessandro}, year={2023}, month=nov, pages={221–248} }"
@@ -246,7 +246,7 @@
     "title": "Towards Effective Human Intervention in Algorithmic Decision-Making: Understanding the Effect of Decision-Makers' Configuration on Decision-Subjects' Fairness Perceptions",
     "authors": [
       "M. Yurrita",
-      "H. V. 0001",
+      "H. Verma",
       "A. Balayn",
       "U. Gadiraju",
       "S. C. Pont",
@@ -279,7 +279,7 @@
     "title": "Why does Automation Adoption in Organizations Remain a Fallacy?: Scrutinizing Practitioners' Imaginaries in an International Airport",
     "authors": [
       "G. Gomez-Beldarrain",
-      "H. V. 0001",
+      "H. Verma",
       "E. Kim",
       "A. Bozzon"
     ],
@@ -314,7 +314,7 @@
       "Y. Kang",
       "L. Y. Chen",
       "A. Bozzon",
-      "R. H. 0001"
+      "R. Hai"
     ],
     "year": 2024,
     "type": "journal",
@@ -374,7 +374,7 @@
     "authors": [
       "S. K. Freire",
       "T. He",
-      "C. W. 0001",
+      "C. Wang",
       "E. Niforatos",
       "A. Bozzon"
     ],
@@ -444,7 +444,7 @@
       "D. Zhan",
       "M. Khosla",
       "A. Bozzon",
-      "R. H. 0001"
+      "R. Hai"
     ],
     "year": 2024,
     "type": "journal",
@@ -475,7 +475,7 @@
       "S. Buijsman",
       "M. L. Lupetti",
       "A. Bozzon",
-      "J. Y. 0028"
+      "J. Yang"
     ],
     "year": 2024,
     "type": "conference",
@@ -513,11 +513,11 @@
     "id": "pacm-hci-2024-policy-sandboxing-empathy-as-an-enabler-towards-inclusive-po",
     "title": "Policy Sandboxing: Empathy As An Enabler Towards Inclusive Policy-Making",
     "authors": [
-      "A. M. 0001",
+      "A. Mauri",
       "Y. Hsu",
-      "H. V. 0001",
+      "H. Verma",
       "A. Tocchetti",
-      "M. B. 0001",
+      "M. Brambilla",
       "A. Bozzon"
     ],
     "year": 2024,
@@ -582,7 +582,7 @@
     "title": "Revealing the Challenges to Automation Adoption in Organizations: Examining Practitioner Perspectives From an International Airport",
     "authors": [
       "G. Gomez-Beldarrain",
-      "H. V. 0001",
+      "H. Verma",
       "E. Kim",
       "A. Bozzon"
     ],
@@ -722,7 +722,7 @@
       "Human-Centered AI",
       "Responsible & Value-Aligned AI"
     ],
-    "featured": false,
+    "featured": true,
     "citations": 0,
     "awards": [],
     "bibtex": "@inproceedings{Yurrita_2023, series={CHI ’23}, title={Disentangling Fairness Perceptions in Algorithmic Decision-Making: the Effects of Explanations, Human Oversight, and Contestability}, url={http://dx.doi.org/10.1145/3544548.3581161}, DOI={10.1145/3544548.3581161}, booktitle={Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems}, publisher={ACM}, author={Yurrita, Mireia and Draws, Tim and Balayn, Agathe and Murray-Rust, Dave and Tintarev, Nava and Bozzon, Alessandro}, year={2023}, month=apr, pages={1–21}, collection={CHI ’23} }"
@@ -731,7 +731,7 @@
     "id": "frontiers-artif.-int-2023-editorial-human-centered-ai-crowd-computing",
     "title": "Editorial: Human-centered AI: Crowd computing",
     "authors": [
-      "J. Y. 0028",
+      "J. Yang",
       "A. Bozzon",
       "U. Gadiraju",
       "M. Lease"
@@ -764,7 +764,7 @@
     "authors": [
       "A. Balayn",
       "N. Rikalo",
-      "J. Y. 0028",
+      "J. Yang",
       "A. Bozzon"
     ],
     "year": 2023,
@@ -795,7 +795,7 @@
     "authors": [
       "S. K. Freire",
       "J. Jung",
-      "C. W. 0001",
+      "C. Wang",
       "E. Niforatos",
       "A. Bozzon"
     ],
@@ -826,7 +826,7 @@
     "authors": [
       "S. Mesbah",
       "I. Arous",
-      "J. Y. 0028",
+      "J. Yang",
       "A. Bozzon"
     ],
     "year": 2023,
@@ -887,7 +887,7 @@
     "authors": [
       "S. K. Freire",
       "E. Niforatos",
-      "C. W. 0001",
+      "C. Wang",
       "S. Ruiz-Arenas",
       "M. Foosherian",
       "S. Wellsandt",
@@ -920,7 +920,7 @@
     "authors": [
       "Z. Li",
       "H. Kant",
-      "R. H. 0001",
+      "R. Hai",
       "A. Katsifodimos",
       "A. Bozzon"
     ],
@@ -981,9 +981,9 @@
     "authors": [
       "Z. Li",
       "H. Kant",
-      "R. H. 0001",
+      "R. Hai",
       "A. Katsifodimos",
-      "M. B. 0001",
+      "M. Brambilla",
       "A. Bozzon"
     ],
     "year": 2023,
@@ -1013,7 +1013,7 @@
     "title": "On the Popularity of Classical Music Composers on Community-Driven Platforms",
     "authors": [
       "I. P. Samiotis",
-      "A. M. 0001",
+      "A. Mauri",
       "C. Lofi",
       "A. Bozzon"
     ],
@@ -1046,7 +1046,7 @@
       "M. Schönfeld",
       "W. Sun",
       "M. Fragkoulis",
-      "R. H. 0001",
+      "R. Hai",
       "A. Bozzon",
       "A. Katsifodimos"
     ],
@@ -1077,7 +1077,7 @@
     "authors": [
       "Z. Li",
       "M. Schönfeld",
-      "R. H. 0001",
+      "R. Hai",
       "A. Bozzon",
       "A. Katsifodimos"
     ],
@@ -1112,7 +1112,7 @@
       "B. Sayin",
       "A. Balayn",
       "U. Gadiraju",
-      "J. Y. 0028",
+      "J. Yang",
       "A. Bozzon"
     ],
     "year": 2023,
@@ -1165,11 +1165,11 @@
     "id": "corr-2023-safeguarding-crowdsourcing-surveys-from-chatgpt-with-prompt-",
     "title": "Safeguarding Crowdsourcing Surveys from ChatGPT with Prompt Injection",
     "authors": [
-      "C. W. 0001",
+      "C. Wang",
       "S. K. Freire",
       "M. Zhang",
-      "J. W. 0002",
-      "J. G. 0001",
+      "J. Wei",
+      "J. Goncalves",
       "V. Kostakos",
       "Z. Sarsenbayeva",
       "C. Schneegass",
@@ -1235,7 +1235,7 @@
       "I. P. Samiotis",
       "S. Qiu",
       "C. Lofi",
-      "J. Y. 0028",
+      "J. Yang",
       "U. Gadiraju",
       "A. Bozzon"
     ],
@@ -1266,8 +1266,8 @@
     "authors": [
       "Y. Hsu",
       "T. K. Huang",
-      "H. V. 0001",
-      "A. M. 0001",
+      "H. Verma",
+      "A. Mauri",
       "I. R. Nourbakhsh",
       "A. Bozzon"
     ],
@@ -1330,7 +1330,7 @@
       "A. Balayn",
       "N. Rikalo",
       "C. Lofi",
-      "J. Y. 0028",
+      "J. Yang",
       "A. Bozzon"
     ],
     "year": 2022,
@@ -1360,7 +1360,7 @@
     "title": "Metadata Representations for Queryable ML Model Zoos",
     "authors": [
       "Z. Li",
-      "R. H. 0001",
+      "R. Hai",
       "A. Bozzon",
       "A. Katsifodimos"
     ],
@@ -1453,7 +1453,7 @@
       "S. S. Noorian",
       "S. Qiu",
       "U. Gadiraju",
-      "J. Y. 0028",
+      "J. Yang",
       "A. Bozzon"
     ],
     "year": 2022,
@@ -1511,7 +1511,7 @@
     "title": "Automatic Identification of Harmful, Aggressive, Abusive, and Offensive Language on the Web: A Survey of Technical Biases Informed by Psychology Literature",
     "authors": [
       "A. Balayn",
-      "J. Y. 0028",
+      "J. Yang",
       "Z. Szlávik",
       "A. Bozzon"
     ],
@@ -1540,7 +1540,7 @@
     "id": "chi-2021-complementing-studies-on-vulnerable-youths-with-reddit-data",
     "title": "Complementing Studies on Vulnerable Youths with Reddit Data",
     "authors": [
-      "A. M. 0001",
+      "A. Mauri",
       "A. Psyllidis",
       "A. Bozzon",
       "J. Lee",
@@ -1576,7 +1576,7 @@
       "I. P. Samiotis",
       "S. Qiu",
       "C. Lofi",
-      "J. Y. 0028",
+      "J. Yang",
       "U. Gadiraju",
       "A. Bozzon"
     ],
@@ -1638,7 +1638,7 @@
     "id": "iir-2021-towards-a-human-in-the-loop-approach-to-preserve-privacy-in-",
     "title": "Towards a Human in the Loop Approach to Preserve Privacy in Images",
     "authors": [
-      "A. M. 0001",
+      "A. Mauri",
       "A. Bozzon"
     ],
     "year": 2021,
@@ -1757,7 +1757,7 @@
       "A. Balayn",
       "P. Soilis",
       "C. Lofi",
-      "J. Y. 0028",
+      "J. Yang",
       "A. Bozzon"
     ],
     "year": 2021,
@@ -1851,7 +1851,7 @@
       "G. v. Alphen",
       "S. Qiu",
       "A. Bozzon",
-      "G. Houben"
+      "G.J. Houben"
     ],
     "year": 2020,
     "type": "conference",
@@ -1913,7 +1913,7 @@
       "S. Qiu",
       "U. Gadiraju",
       "A. Bozzon",
-      "G. Houben"
+      "G.J. Houben"
     ],
     "year": 2020,
     "type": "conference",
@@ -1975,7 +1975,7 @@
       "S. Qiu",
       "A. Psyllidis",
       "A. Bozzon",
-      "G. Houben"
+      "G.J. Houben"
     ],
     "year": 2020,
     "type": "conference",
@@ -2094,7 +2094,7 @@
     "authors": [
       "I. P. Samiotis",
       "S. Qiu",
-      "A. M. 0001",
+      "A. Mauri",
       "C. C. S. Liem",
       "C. Lofi",
       "A. Bozzon"
@@ -2218,7 +2218,7 @@
     "authors": [
       "S. Qiu",
       "A. Bozzon",
-      "G. Houben"
+      "G.J. Houben"
     ],
     "year": 2020,
     "type": "conference",
@@ -2273,7 +2273,7 @@
       "J. Harms",
       "P. Kucherbaev",
       "A. Bozzon",
-      "G. Houben"
+      "G.J. Houben"
     ],
     "year": 2019,
     "type": "journal",
@@ -2366,7 +2366,7 @@
       "S. Qiu",
       "A. Psyllidis",
       "A. Bozzon",
-      "G. Houben"
+      "G.J. Houben"
     ],
     "year": 2019,
     "type": "conference",
@@ -2510,12 +2510,12 @@
     "title": "Training Data Augmentation for Detecting Adverse Drug Reactions in User-Generated Content",
     "authors": [
       "S. Mesbah",
-      "J. Y. 0028",
+      "J. Yang",
       "R. Sips",
       "M. V. Torre",
       "C. Lofi",
       "A. Bozzon",
-      "G. Houben"
+      "G.J. Houben"
     ],
     "year": 2019,
     "type": "conference",
@@ -2611,7 +2611,7 @@
       "R. Napoli",
       "A. M. Ertugrul",
       "A. Bozzon",
-      "M. B. 0001"
+      "M. Brambilla"
     ],
     "year": 2018,
     "type": "journal",
@@ -2680,7 +2680,7 @@
       "M. V. Torre",
       "A. Bozzon",
       "C. Lofi",
-      "G. Houben"
+      "G.J. Houben"
     ],
     "year": 2018,
     "type": "conference",
@@ -2799,7 +2799,7 @@
     "id": "hcomp-2018-how-do-crowdworker-communities-and-microtask-markets-influen",
     "title": "How Do Crowdworker Communities and Microtask Markets Influence Each Other? A Data-Driven Study on Amazon Mechanical Turk",
     "authors": [
-      "J. Y. 0028",
+      "J. Yang",
       "C. v. d. Valk",
       "T. Hoßfeld",
       "J. Redi",
@@ -2833,7 +2833,7 @@
     "authors": [
       "P. Kucherbaev",
       "A. Bozzon",
-      "G. Houben"
+      "G.J. Houben"
     ],
     "year": 2018,
     "type": "journal",
@@ -2885,9 +2885,9 @@
     "id": "recsys-2018-recurrent-knowledge-graph-embedding-for-effective-recommenda",
     "title": "Recurrent knowledge graph embedding for effective recommendation",
     "authors": [
-      "Z. S. 0001",
-      "J. Y. 0028",
-      "J. Z. 0002",
+      "Z. Sun",
+      "J. Yang",
+      "J. Zhang",
       "A. Bozzon",
       "L. Huang",
       "C. Xu"
@@ -2919,7 +2919,7 @@
     "title": "Regionalization of Social Interactions and Points-of-Interest Location Prediction With Geosocial Data",
     "authors": [
       "A. Psyllidis",
-      "J. Y. 0028",
+      "J. Yang",
       "A. Bozzon"
     ],
     "year": 2018,
@@ -2982,7 +2982,7 @@
       "S. Mesbah",
       "A. Bozzon",
       "C. Lofi",
-      "G. Houben"
+      "G.J. Houben"
     ],
     "year": 2018,
     "type": "conference",
@@ -3011,7 +3011,7 @@
     "authors": [
       "G. Afentoulidis",
       "Z. Szlávik",
-      "J. Y. 0028",
+      "J. Yang",
       "A. Bozzon"
     ],
     "year": 2018,
@@ -3040,7 +3040,7 @@
     "id": "www-2018-social-smart-meter-identifying-energy-consumption-behavior-i",
     "title": "Social Smart Meter: Identifying Energy Consumption Behavior in User-Generated Content",
     "authors": [
-      "A. M. 0001",
+      "A. Mauri",
       "A. Psyllidis",
       "A. Bozzon"
     ],
@@ -3073,7 +3073,7 @@
       "C. Lofi",
       "M. V. Torre",
       "A. Bozzon",
-      "G. Houben"
+      "G.J. Houben"
     ],
     "year": 2018,
     "type": "conference",
@@ -3101,11 +3101,11 @@
     "title": "Using Social Media for Attendees Density Estimation in City-Scale Events",
     "authors": [
       "V. X. Gong",
-      "J. Y. 0028",
+      "J. Yang",
       "W. Daamen",
       "A. Bozzon",
       "S. P. Hoogendoorn",
-      "G. Houben"
+      "G.J. Houben"
     ],
     "year": 2018,
     "type": "journal",
@@ -3161,10 +3161,10 @@
     "id": "recsys-2017-citrec-2017-international-workshop-on-recommender-systems-fo",
     "title": "CitRec 2017: International Workshop on Recommender Systems for Citizens",
     "authors": [
-      "J. Y. 0028",
-      "Z. S. 0001",
+      "J. Yang",
+      "Z. Sun",
       "A. Bozzon",
-      "J. Z. 0002",
+      "J. Zhang",
       "M. A. Larson"
     ],
     "year": 2017,
@@ -3193,7 +3193,7 @@
     "title": "Clarity is a Worthwhile Quality: On the Role of Task Clarity in Microtask Crowdsourcing",
     "authors": [
       "U. Gadiraju",
-      "J. Y. 0028",
+      "J. Yang",
       "A. Bozzon"
     ],
     "year": 2017,
@@ -3224,7 +3224,7 @@
       "S. Mesbah",
       "A. Bozzon",
       "C. Lofi",
-      "G. Houben"
+      "G.J. Houben"
     ],
     "year": 2017,
     "type": "conference",
@@ -3251,9 +3251,9 @@
     "id": "aaai-2017-exploiting-both-vertical-and-horizontal-dimensions-of-featur",
     "title": "Exploiting both Vertical and Horizontal Dimensions of Feature Hierarchy for Effective Recommendation",
     "authors": [
-      "Z. S. 0001",
-      "J. Y. 0028",
-      "J. Z. 0002",
+      "Z. Sun",
+      "J. Yang",
+      "J. Zhang",
       "A. Bozzon"
     ],
     "year": 2017,
@@ -3286,7 +3286,7 @@
       "K. Fragkeskos",
       "C. Lofi",
       "A. Bozzon",
-      "G. Houben"
+      "G.J. Houben"
     ],
     "year": 2017,
     "type": "conference",
@@ -3314,9 +3314,9 @@
     "title": "Interacting Attention-gated Recurrent Networks for Recommendation",
     "authors": [
       "W. Pei",
-      "J. Y. 0028",
-      "Z. S. 0001",
-      "J. Z. 0002",
+      "J. Yang",
+      "Z. Sun",
+      "J. Zhang",
       "A. Bozzon",
       "D. M. J. Tax"
     ],
@@ -3345,9 +3345,9 @@
     "id": "ijcai-2017-mrlr-multi-level-representation-learning-for-personalized-ra",
     "title": "MRLR: Multi-level Representation Learning for Personalized Ranking in Recommendation",
     "authors": [
-      "Z. S. 0001",
-      "J. Y. 0028",
-      "J. Z. 0002",
+      "Z. Sun",
+      "J. Yang",
+      "J. Zhang",
       "A. Bozzon",
       "Y. Chen",
       "C. Xu"
@@ -3441,7 +3441,7 @@
     "id": "corr-2017-on-the-improvement-of-quality-and-reliability-of-trust-cues-",
     "title": "On the Improvement of Quality and Reliability of Trust Cues in Micro-task Crowdsourcing (Position paper)",
     "authors": [
-      "J. Y. 0028",
+      "J. Yang",
       "A. Bozzon"
     ],
     "year": 2017,
@@ -3520,7 +3520,7 @@
     "id": "recsys-2017-recommender-systems-for-citizens-the-citrec17-workshop-manif",
     "title": "Recommender systems for citizens: the CitRec'17 workshop manifesto",
     "authors": [
-      "J. Y. 0028",
+      "J. Yang",
       "I. Cantador",
       "D. Nurbakova",
       "M. E. Cortés-Cediel",
@@ -3552,7 +3552,7 @@
     "title": "SMASC 2017: First International Workshop on Social Media Analytics for Smart Cities",
     "authors": [
       "M. Sinha",
-      "X. H. 0001",
+      "X. He",
       "A. Bozzon",
       "S. Mannarswamy",
       "P. K. Murukannaiah",
@@ -3587,7 +3587,7 @@
       "K. Fragkeskos",
       "C. Lofi",
       "A. Bozzon",
-      "G. Houben"
+      "G.J. Houben"
     ],
     "year": 2017,
     "type": "conference",
@@ -3617,7 +3617,7 @@
     "authors": [
       "J. Oosterman",
       "A. Bozzon",
-      "G. Houben"
+      "G.J. Houben"
     ],
     "year": 2016,
     "type": "conference",
@@ -3674,10 +3674,10 @@
     "id": "recsys-2016-learning-hierarchical-feature-influence-for-recommendation-b",
     "title": "Learning Hierarchical Feature Influence for Recommendation by Recursive Regularization",
     "authors": [
-      "J. Y. 0028",
-      "Z. S. 0001",
+      "J. Yang",
+      "Z. Sun",
       "A. Bozzon",
-      "J. Z. 0002"
+      "J. Zhang"
     ],
     "year": 2016,
     "type": "conference",
@@ -3705,7 +3705,7 @@
     "id": "hcomp-2016-modeling-task-complexity-in-crowdsourcing",
     "title": "Modeling Task Complexity in Crowdsourcing",
     "authors": [
-      "J. Y. 0028",
+      "J. Yang",
       "J. Redi",
       "G. Demartini",
       "A. Bozzon"
@@ -3762,9 +3762,9 @@
     "title": "Social Media Data Analytics for Tourism - A Preliminary Study",
     "authors": [
       "A. Dhiratara",
-      "J. Y. 0028",
+      "J. Yang",
       "A. Bozzon",
-      "G. Houben"
+      "G.J. Houben"
     ],
     "year": 2016,
     "type": "conference",
@@ -3793,7 +3793,7 @@
     "authors": [
       "D. Iren",
       "C. C. S. Liem",
-      "J. Y. 0028",
+      "J. Yang",
       "A. Bozzon"
     ],
     "year": 2016,
@@ -3849,7 +3849,7 @@
       "L. C. Stanculescu",
       "A. Bozzon",
       "R. Sips",
-      "G. Houben"
+      "G.J. Houben"
     ],
     "year": 2016,
     "type": "conference",
@@ -3933,9 +3933,9 @@
     "title": "Designing Complex Crowdsourcing Applications Covering Multiple Platforms and Tasks",
     "authors": [
       "A. Bozzon",
-      "M. B. 0001",
+      "M. Brambilla",
       "S. Ceri",
-      "A. M. 0001",
+      "A. Mauri",
       "R. Volonterio"
     ],
     "year": 2015,
@@ -3964,9 +3964,9 @@
     "id": "icwe-2015-e-wise-an-expertise-driven-recommendation-platform-for-web-q",
     "title": "E-WISE: An Expertise-Driven Recommendation Platform for Web Question Answering Systems",
     "authors": [
-      "J. Y. 0028",
+      "J. Yang",
       "A. Bozzon",
-      "G. Houben"
+      "G.J. Houben"
     ],
     "year": 2015,
     "type": "conference",
@@ -3993,9 +3993,9 @@
     "id": "umap-2015-harnessing-engagement-for-knowledge-creation-acceleration-in",
     "title": "Harnessing Engagement for Knowledge Creation Acceleration in Collaborative Q&A Systems",
     "authors": [
-      "J. Y. 0028",
+      "J. Yang",
       "A. Bozzon",
-      "G. Houben"
+      "G.J. Houben"
     ],
     "year": 2015,
     "type": "conference",
@@ -4022,9 +4022,9 @@
     "id": "icwe-2015-knowledge-crowdsourcing-acceleration",
     "title": "Knowledge Crowdsourcing Acceleration",
     "authors": [
-      "J. Y. 0028",
+      "J. Yang",
       "A. Bozzon",
-      "G. Houben"
+      "G.J. Houben"
     ],
     "year": 2015,
     "type": "conference",
@@ -4052,7 +4052,7 @@
     "title": "Linking Accounts across Social Networks: the Case of StackOverflow, Github and Twitter",
     "authors": [
       "G. Silvestri",
-      "J. Y. 0028",
+      "J. Yang",
       "A. Bozzon",
       "A. Tagarelli"
     ],
@@ -4084,7 +4084,7 @@
       "S. Kassing",
       "J. Oosterman",
       "A. Bozzon",
-      "G. Houben"
+      "G.J. Houben"
     ],
     "year": 2015,
     "type": "conference",
@@ -4112,10 +4112,10 @@
     "title": "On the impact of knowledge extraction and aggregation on crowdsourced annotation of visual artworks",
     "authors": [
       "J. Oosterman",
-      "J. Y. 0028",
+      "J. Yang",
       "A. Bozzon",
       "L. Aroyo",
-      "G. Houben"
+      "G.J. Houben"
     ],
     "year": 2015,
     "type": "journal",
@@ -4171,7 +4171,7 @@
       "A. Bozzon",
       "A. Psyllidis",
       "C. T. Bolivar",
-      "G. Houben"
+      "G.J. Houben"
     ],
     "year": 2015,
     "type": "conference",
@@ -4201,7 +4201,7 @@
       "R. Sips",
       "A. Bozzon",
       "G. Smit",
-      "G. Houben"
+      "G.J. Houben"
     ],
     "year": 2015,
     "type": "conference",
@@ -4231,8 +4231,7 @@
       "M. Balduini",
       "S. Bocconi",
       "A. Bozzon",
-      "E. D. Valle",
-      "Y. H. 0002",
+      "E. D. Valle",      
       "J. Oosterman",
       "T. Palpanas",
       "M. Tsytsarau"
@@ -4264,7 +4263,7 @@
     "authors": [
       "A. Bozzon",
       "H. Efstathiades",
-      "G. Houben",
+      "G.J. Houben",
       "R. Sips"
     ],
     "year": 2014,
@@ -4292,10 +4291,10 @@
     "id": "ht-2014-asking-the-right-question-in-collaborative-qa-systems",
     "title": "Asking the right question in collaborative q&a systems",
     "authors": [
-      "J. Y. 0028",
+      "J. Yang",
       "C. Hauff",
       "A. Bozzon",
-      "G. Houben"
+      "G.J. Houben"
     ],
     "year": 2014,
     "type": "conference",
@@ -4324,7 +4323,7 @@
     "authors": [
       "J. Oosterman",
       "A. Bozzon",
-      "G. Houben",
+      "G.J. Houben",
       "A. Nottamkandath",
       "C. Dijkshoorn",
       "L. Aroyo",
@@ -4360,7 +4359,7 @@
       "A. Nottamkandath",
       "C. Dijkshoorn",
       "A. Bozzon",
-      "G. Houben",
+      "G.J. Houben",
       "L. Aroyo"
     ],
     "year": 2014,
@@ -4540,9 +4539,9 @@
     "title": "Pattern-Based Specification of Crowdsourcing Applications",
     "authors": [
       "A. Bozzon",
-      "M. B. 0001",
+      "M. Brambilla",
       "S. Ceri",
-      "A. M. 0001",
+      "A. Mauri",
       "R. Volonterio"
     ],
     "year": 2014,
@@ -4573,8 +4572,8 @@
       "M. Balduini",
       "A. Bozzon",
       "E. D. Valle",
-      "Y. H. 0002",
-      "G. Houben"
+      "Y. Huang",
+      "G.J. Houben"
     ],
     "year": 2014,
     "type": "journal",
@@ -4635,10 +4634,10 @@
     "id": "umap-2014-sparrows-and-owls-characterisation-of-expert-behaviour-in-st",
     "title": "Sparrows and Owls: Characterisation of Expert Behaviour in StackOverflow",
     "authors": [
-      "J. Y. 0028",
+      "J. Yang",
       "K. Tao",
       "A. Bozzon",
-      "G. Houben"
+      "G.J. Houben"
     ],
     "year": 2014,
     "type": "conference",
@@ -4667,7 +4666,7 @@
     "authors": [
       "B. Bislimovska",
       "A. Bozzon",
-      "M. B. 0001",
+      "M. Brambilla",
       "P. Fraternali"
     ],
     "year": 2014,
@@ -4727,7 +4726,7 @@
     "authors": [
       "A. Bozzon",
       "C. Hauff",
-      "G. Houben"
+      "G.J. Houben"
     ],
     "year": 2014,
     "type": "journal",
@@ -4784,7 +4783,7 @@
     "title": "Choosing the right crowd: expert finding in social networks",
     "authors": [
       "A. Bozzon",
-      "M. B. 0001",
+      "M. Brambilla",
       "S. Ceri",
       "M. Silvestri",
       "G. Vesci"
@@ -4845,7 +4844,7 @@
     "title": "Exploratory search framework for Web data sources",
     "authors": [
       "A. Bozzon",
-      "M. B. 0001",
+      "M. Brambilla",
       "S. Ceri",
       "D. Mazza"
     ],
@@ -4879,7 +4878,7 @@
       "M. Krötzsch",
       "A. Bozzon",
       "S. Ceri",
-      "I. H. 0001"
+      "I. Horrocks"
     ],
     "year": 2013,
     "type": "journal",
@@ -4914,7 +4913,7 @@
       "L. Aroyo",
       "A. Bozzon",
       "W. J. Fokkink",
-      "G. Houben",
+      "G.J. Houben",
       "H. Hovelmann",
       "L. Jongma",
       "J. v. Ossenbruggen",
@@ -4947,9 +4946,9 @@
     "title": "Reactive crowdsourcing",
     "authors": [
       "A. Bozzon",
-      "M. B. 0001",
+      "M. Brambilla",
       "S. Ceri",
-      "A. M. 0001"
+      "A. Mauri"
     ],
     "year": 2013,
     "type": "conference",
@@ -4978,7 +4977,7 @@
     "authors": [
       "S. Ceri",
       "A. Bozzon",
-      "M. B. 0001",
+      "M. Brambilla",
       "E. D. Valle",
       "P. Fraternali"
     ],
@@ -5041,8 +5040,8 @@
     "title": "A Model-Driven Approach for Crowdsourcing Search",
     "authors": [
       "A. Bozzon",
-      "M. B. 0001",
-      "A. M. 0001"
+      "M. Brambilla",
+      "A. Mauri"
     ],
     "year": 2012,
     "type": "conference",
@@ -5071,7 +5070,7 @@
     "title": "Answering search queries with CrowdSearcher",
     "authors": [
       "A. Bozzon",
-      "M. B. 0001",
+      "M. Brambilla",
       "S. Ceri"
     ],
     "year": 2012,
@@ -5101,7 +5100,7 @@
     "title": "Diversification for Multi-domain Result Sets",
     "authors": [
       "A. Bozzon",
-      "M. B. 0001",
+      "M. Brambilla",
       "P. Fraternali",
       "M. Tagliasacchi"
     ],
@@ -5189,9 +5188,9 @@
     "title": "Extending Search to Crowds: A Model-Driven Approach",
     "authors": [
       "A. Bozzon",
-      "M. B. 0001",
+      "M. Brambilla",
       "S. Ceri",
-      "A. M. 0001"
+      "A. Mauri"
     ],
     "year": 2012,
     "type": "chapter",
@@ -5296,7 +5295,6 @@
       "P. Daras",
       "O. Chrons",
       "R. Traphöner",
-      "B. D. 0001",
       "J. Lomas",
       "P. Aichroth",
       "J. Novak",
@@ -5329,7 +5327,7 @@
     "id": "asonam-2012-web-data-management-through-crowdsourcing-upon-social-networ",
     "title": "Web Data Management through Crowdsourcing Upon Social Networks",
     "authors": [
-      "M. B. 0001",
+      "M. Brambilla",
       "A. Bozzon"
     ],
     "year": 2012,
@@ -5358,7 +5356,7 @@
     "title": "A Conceptual Framework for Linked Data Exploration",
     "authors": [
       "A. Bozzon",
-      "M. B. 0001",
+      "M. Brambilla",
       "E. D. Valle",
       "P. Fraternali",
       "C. Pasini"
@@ -5389,7 +5387,7 @@
     "title": "A Constraint Programming Approach to Automatic Layout Definition for Search Results",
     "authors": [
       "A. Bozzon",
-      "M. B. 0001",
+      "M. Brambilla",
       "L. Cigardi",
       "S. Comai"
     ],
@@ -5419,7 +5417,7 @@
     "title": "A Framework for Integrating, Exploring, and Searching Location-Based Web Data",
     "authors": [
       "A. Bozzon",
-      "M. B. 0001",
+      "M. Brambilla",
       "S. Ceri",
       "S. Quarteroni"
     ],
@@ -5482,7 +5480,7 @@
     "authors": [
       "D. F. Barbieri",
       "A. Bozzon",
-      "M. B. 0001",
+      "M. Brambilla",
       "S. Ceri",
       "C. Pasini",
       "L. Tettamanti",
@@ -5516,7 +5514,7 @@
     "title": "Exploratory search in multi-domain information spaces with liquid query",
     "authors": [
       "A. Bozzon",
-      "M. B. 0001",
+      "M. Brambilla",
       "S. Ceri",
       "P. Fraternali",
       "S. Vadacca"
@@ -5548,7 +5546,7 @@
     "authors": [
       "B. Bislimovska",
       "A. Bozzon",
-      "M. B. 0001",
+      "M. Brambilla",
       "P. Fraternali"
     ],
     "year": 2011,
@@ -5577,7 +5575,7 @@
     "title": "Model-Based Dynamic and Adaptive Visualization for Multi-domain Search Results",
     "authors": [
       "A. Bozzon",
-      "M. B. 0001",
+      "M. Brambilla",
       "L. Cioria",
       "P. Fraternali",
       "M. Matera"
@@ -5609,7 +5607,7 @@
     "title": "Query splitting techniques and search service recommendation for multi-domain natural language queries",
     "authors": [
       "A. Bozzon",
-      "M. B. 0001"
+      "M. Brambilla"
     ],
     "year": 2011,
     "type": "conference",
@@ -5639,7 +5637,7 @@
     "authors": [
       "A. Bozzon",
       "T. Furche",
-      "G. O. 0001",
+      "G. Gottlob",
       "C. Pasini",
       "L. Tettamanti",
       "S. Vadacca"
@@ -5671,7 +5669,7 @@
     "authors": [
       "A. Bozzon",
       "D. Braga",
-      "M. B. 0001",
+      "M. Brambilla",
       "S. Ceri",
       "F. Corcoglioniti",
       "P. Fraternali",
@@ -5733,7 +5731,7 @@
     "authors": [
       "S. Ceri",
       "A. Bozzon",
-      "M. B. 0001"
+      "M. Brambilla"
     ],
     "year": 2011,
     "type": "conference",
@@ -5761,7 +5759,7 @@
     "title": "Understanding Web Data Sources for Search and Exploration",
     "authors": [
       "A. Bozzon",
-      "M. B. 0001",
+      "M. Brambilla",
       "S. Ceri",
       "E. D. Valle",
       "S. Quarteroni"
@@ -5792,7 +5790,7 @@
     "title": "A Characterization of the Layout Definition Problem for Web Search Results",
     "authors": [
       "A. Bozzon",
-      "M. B. 0001",
+      "M. Brambilla",
       "S. Comai"
     ],
     "year": 2010,
@@ -5821,7 +5819,7 @@
     "title": "A Service-Based Architecture for Multi-domain Search on the Web",
     "authors": [
       "A. Bozzon",
-      "M. B. 0001",
+      "M. Brambilla",
       "F. Corcoglioniti",
       "S. Vadacca"
     ],
@@ -5911,7 +5909,7 @@
     "title": "Information Exploration in Search Computing",
     "authors": [
       "A. Bozzon",
-      "M. B. 0001",
+      "M. Brambilla",
       "S. Ceri",
       "P. Fraternali"
     ],
@@ -5941,7 +5939,7 @@
     "title": "Integration of a human face annotation technology in an audio-visual search engine platform",
     "authors": [
       "A. Bozzon",
-      "M. B. 0001",
+      "M. Brambilla",
       "P. Fraternali",
       "P. Pigazzini"
     ],
@@ -5972,7 +5970,7 @@
     "title": "Liquid query: multi-domain exploratory search on the web",
     "authors": [
       "A. Bozzon",
-      "M. B. 0001",
+      "M. Brambilla",
       "S. Ceri",
       "P. Fraternali"
     ],
@@ -6002,7 +6000,7 @@
     "title": "Modeling Search Computing Applications",
     "authors": [
       "A. Bozzon",
-      "M. B. 0001",
+      "M. Brambilla",
       "A. Campi",
       "S. Ceri",
       "F. Corcoglioniti",
@@ -6035,7 +6033,7 @@
     "title": "On Development Practices for End Users",
     "authors": [
       "A. Bozzon",
-      "M. B. 0001",
+      "M. Brambilla",
       "M. I. 0002",
       "F. Daniel",
       "F. Casati"
@@ -6070,7 +6068,7 @@
       "M. A. Helou",
       "A. Bozzon",
       "D. Braga",
-      "M. B. 0001",
+      "M. Brambilla",
       "A. Campi",
       "F. Corcoglioniti",
       "E. D. Valle",
@@ -6113,7 +6111,7 @@
       "D. F. Barbieri",
       "A. Bozzon",
       "D. Braga",
-      "M. B. 0001",
+      "M. Brambilla",
       "A. Campi",
       "F. Corcoglioniti",
       "E. D. Valle",
@@ -6151,7 +6149,7 @@
     "title": "Searching Repositories of Web Application Models",
     "authors": [
       "A. Bozzon",
-      "M. B. 0001",
+      "M. Brambilla",
       "P. Fraternali"
     ],
     "year": 2010,
@@ -6214,7 +6212,7 @@
       "R. Baeza-Yates",
       "P. Boldi",
       "A. Bozzon",
-      "M. B. 0001",
+      "M. Brambilla",
       "S. Ceri",
       "G. Pasi"
     ],
@@ -6244,7 +6242,7 @@
     "title": "Visualization of Multi-domain Ranked Data",
     "authors": [
       "A. Bozzon",
-      "M. B. 0001",
+      "M. Brambilla",
       "T. Catarci",
       "S. Ceri",
       "P. Fraternali",
@@ -6276,7 +6274,7 @@
     "title": "A Conceptual Modeling Approach to Business Service Mashup Development",
     "authors": [
       "A. Bozzon",
-      "M. B. 0001",
+      "M. Brambilla",
       "F. M. Facca",
       "G. T. Carughi"
     ],
@@ -6306,10 +6304,10 @@
     "title": "Building Search Computing Applications",
     "authors": [
       "A. Bozzon",
-      "M. B. 0001",
+      "M. Brambilla",
       "S. Ceri",
       "F. Corcoglioniti",
-      "N. G. 0001"
+      "N. Gatto"
     ],
     "year": 2009,
     "type": "conference",
@@ -6337,7 +6335,7 @@
     "title": "Conceptual Modeling of Multimedia Search Applications Using Rich Process Models",
     "authors": [
       "A. Bozzon",
-      "M. B. 0001",
+      "M. Brambilla",
       "P. Fraternali"
     ],
     "year": 2009,
@@ -6366,7 +6364,7 @@
     "title": "Liquid Queries and Liquid Results in Search Computing",
     "authors": [
       "A. Bozzon",
-      "M. B. 0001",
+      "M. Brambilla",
       "S. Ceri",
       "P. Fraternali",
       "I. Manolescu"
@@ -6397,7 +6395,7 @@
     "title": "Model-Driven Design of Audiovisual Indexing Processes for Search-Based Applications",
     "authors": [
       "P. Fraternali",
-      "M. B. 0001",
+      "M. Brambilla",
       "A. Bozzon"
     ],
     "year": 2009,
@@ -6427,7 +6425,7 @@
     "title": "Model-Driven Development of Audio-Visual Web Search Applications: The PHAROS Demonstration",
     "authors": [
       "A. Bozzon",
-      "M. B. 0001",
+      "M. Brambilla",
       "P. Fraternali"
     ],
     "year": 2009,
@@ -6484,7 +6482,7 @@
     "title": "Pharos: an audiovisual search platform",
     "authors": [
       "A. Bozzon",
-      "M. B. 0001",
+      "M. Brambilla",
       "P. Fraternali",
       "F. S. Nucci",
       "S. Debald",
@@ -6556,7 +6554,7 @@
     "title": "Applying Web-based Networking Protocols and Software Architectures for providing adaptivity, personalization, and remotization features to Industrial Human Machine Interface Applications",
     "authors": [
       "A. Bozzon",
-      "M. B. 0001",
+      "M. Brambilla",
       "P. Fraternali",
       "P. Speroni",
       "G. Toffetti"
