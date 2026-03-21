@@ -11,6 +11,7 @@ import ResearchPage from "./pages/ResearchPage";
 import PublicationsPage from "./pages/PublicationsPage";
 import ProjectsPage from "./pages/ProjectsPage";
 import TeachingPage from "./pages/TeachingPage";
+import SupervisionPage from "./pages/SupervisionPage";
 import ServicePage from "./pages/ServicePage";
 import NewsPage from "./pages/NewsPage";
 import ContactPage from "./pages/ContactPage";
@@ -33,6 +34,7 @@ const App = () => (
               <Route path="/publications" element={<PublicationsPage />} />
               <Route path="/projects" element={<ProjectsPage />} />
               <Route path="/teaching" element={<TeachingPage />} />
+              <Route path="/supervision" element={<SupervisionPage />} />
               <Route path="/service" element={<ServicePage />} />
               <Route path="/news" element={<NewsPage />} />
               <Route path="/contact" element={<ContactPage />} />
