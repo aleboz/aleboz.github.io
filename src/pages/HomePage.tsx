@@ -126,10 +126,8 @@ export default function HomePage() {
         </div>
       </section>
 
-      <SectionDivider />
-
       {/* Highlights */}
-      <section className="container mx-auto px-4 py-20" aria-labelledby="highlights-heading">
+      <section className="container mx-auto px-4 py-16" aria-labelledby="highlights-heading">
         <motion.div initial="hidden" animate="show" variants={stagger}>
           <SectionHeader title="Highlights" id="highlights-heading" />
           <ul className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3 list-none p-0">
