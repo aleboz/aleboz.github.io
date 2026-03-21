@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 import {
   ArrowRight, BookOpen, ExternalLink, GraduationCap,
   Award, Building2, Brain, Library, Trophy, Globe, Sparkles,
-  Calendar, Mic, Newspaper, Gift
+  Calendar, Mic, Newspaper, Gift, FileText, GraduationCap as GradCap, CalendarDays
 } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
@@ -28,6 +28,9 @@ const newsIconMap: Record<string, React.ReactNode> = {
   keynote: <Mic className="h-3 w-3" aria-hidden="true" />,
   media: <Newspaper className="h-3 w-3" aria-hidden="true" />,
   grant: <Gift className="h-3 w-3" aria-hidden="true" />,
+  paper: <FileText className="h-3 w-3" aria-hidden="true" />,
+  graduation: <GradCap className="h-3 w-3" aria-hidden="true" />,
+  event: <CalendarDays className="h-3 w-3" aria-hidden="true" />,
 };
 
 const stagger = {
