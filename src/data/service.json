@@ -102,25 +102,25 @@
       "role": "Program co-Chair",
       "venue": "ICWE 2025",
       "year": 2025,
-      "links": {}
+      "links": {"website": "https://icwe2025.webengineering.org/"}
     },
     {
       "role": "co-Case Studies Chair",
       "venue": "CHI 2025",
       "year": 2025,
-      "links": {}
+      "links": {"website": "https://chi2026.acm.org"}
     },
     {
       "role": "Program co-Chair",
       "venue": "HCOMP 2023",
       "year": 2023,
-      "links": {}
+      "links": {"website": "https://www.humancomputation.com/2023/index.html"}
     },
     {
       "role": "Program co-Chair",
       "venue": "CI 2023",
       "year": 2023,
-      "links": {}
+      "links": {"website": "https://ci.acm.org/2023/"}
     },
     {
       "role": "COI Chair",
@@ -243,48 +243,28 @@
       "links": {}
     }
   ],
-  "editorial": [
+  "programCommittees": [    
     {
-      "role": "Editorial Board member",
-      "venue": "Frontiers in Artificial Intelligence (Human-AI Interaction section)",
-      "years": "2024–present"
-    },
-    {
-      "role": "Associate Editor",
-      "venue": "ACM Transactions on Interactive Intelligent Systems (TiiS)",
-      "years": "2020–present"
-    },
-    {
-      "role": "Editorial Board Member",
-      "venue": "Human Computation Journal",
-      "years": "2019–present"
-    }
-  ],
-  "programCommittees": [
-    {
-      "role": "Area Chair / Senior PC Member",
-      "venue": "ACM CHI",
-      "years": "2024–present"
-    },
-    {
-      "role": "Senior PC Member",
-      "venue": "TheWebConf",
-      "years": "2019–present"
-    },
-    {
-      "role": "PC Member",
-      "venue": "AAAI Conference on Human Computation and Crowdsourcing (HCOMP)",
-      "years": "2013–present"
-    },
-    {
-      "role": "PC Member",
-      "venue": "ACM CSCW, SIGIR, AAAI, IJCAI, and others",
+      "role": "Area Chair / Senior PC Member / PC Member",
+      "venue": "ACM CHI, TheWebComf, CSCW, SIGIR, AAAI, IJCAI, ISWC, and others",
       "years": "various"
     }
   ],
   "awards": [
     {
-      "title": "Fellow of the Netherlands Academy of Engineering (AcTI)",
+      "title": "Best paper award at CHI 2026",
+      "year": 2026
+    },
+    {
+      "title": "Best paper award at CHI 2025",
+      "year": 2025
+    },
+    {
+      "title": "Best paper award at CHI 2023",
+      "year": 2023
+    },
+    {
+      "title": "Fellow of the Netherlands Academy of Engineering (NAE)",
       "year": 2023
     },
     {
@@ -292,12 +272,16 @@
       "year": 2017
     },
     {
-      "title": "TU Delft Best Computer Science Teacher",
-      "year": 2018
+      "title": "Douglas Engelbart Best Paper Award at HT 2017",
+      "year": 2017
     },
     {
-      "title": "TU Delft Best Computer Science Teacher",
-      "year": 2016
+      "title": "Best Paper Award at Web Science 2015 Workshop",
+      "year": 2015
+    },
+    {
+      "title": "Best Paper Award at ICWE 2014",
+      "year": 2014
     }
   ]
 }

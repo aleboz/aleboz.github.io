@@ -1,12 +1,21 @@
 [
   {
+    "name": "Sueyoon Lee",
+    "level": "PhD",
+    "years": "2026–present",
+    "topic": "Human-Centered Design of VR Experiences",
+    "project": "",
+    "outcome": "",
+    "coSupervisors": ["Pablo Cesar", "Irene Viola"]
+  },
+  {
     "name": "Netsanet Yigzaw Mengistie",
     "level": "PhD",
     "years": "2024–present",
     "topic": "Human Centered Design of AI for Cervical Cancer in Sub-Saharan Africa",
     "project": "GROW Project",
     "outcome": "",
-    "coSupervisors": []
+    "coSupervisors": ["Himanshu Vera", "Jan-Carel Diehl"]
   },
   {
     "name": "Alice Vitali",
@@ -15,7 +24,7 @@
     "topic": "Embracing Emergent Technologies to Enhance Future Reading Experiences",
     "project": "",
     "outcome": "",
-    "coSupervisors": []
+    "coSupervisors": ["Tilman Dingler", "Christina Schneegass"]
   },
   {
     "name": "Catalina Pía Lagos Rojas",
@@ -24,7 +33,7 @@
     "topic": "Detecting and Addressing Implicit Bias in Workplace Interactions through Generative AI",
     "project": "Feminist Generative AI Lab",
     "outcome": "",
-    "coSupervisors": []
+    "coSupervisors": ["Sara Colombo"]
   },
   {
     "name": "Ariane Lucchini",
@@ -33,7 +42,7 @@
     "topic": "Co-envisioning Healthcare Generative AI Futures Focusing on Women Suffering from Chronic Health Diseases",
     "project": "Feminist Generative AI Lab",
     "outcome": "",
-    "coSupervisors": []
+    "coSupervisors": ["Sara Colombo"]
   },
   {
     "name": "Francesca Maria Mauri",
@@ -42,7 +51,7 @@
     "topic": "Adopting Design Fiction to Anticipate Social and Ethical Risks of Future Applications of AI Systems",
     "project": "",
     "outcome": "",
-    "coSupervisors": []
+    "coSupervisors": ["Sara Colombo"]
   },
   {
     "name": "Anne Arzberger",
@@ -51,16 +60,16 @@
     "topic": "Increasing Context-Awareness of LLMs for Situated Value Alignment",
     "project": "GENIUS ICAI Lab",
     "outcome": "",
-    "coSupervisors": []
+    "coSupervisors": ["Jie Yang", "Geert-Jan Houben"]
   },
   {
-    "name": "Céline Esmee Offerman",
+    "name": "Céline Offerman",
     "level": "PhD",
     "years": "2023–present",
     "topic": "Investigating the Adoption of AI-enhanced Processes",
-    "project": "",
+    "project": "PROMISE: Patient-empowered Remote Oncology",
     "outcome": "",
-    "coSupervisors": ["Schiphol Group"]
+    "coSupervisors": ["Jacky Bourgeois"]
   },
   {
     "name": "Dantong Qin",
@@ -69,7 +78,7 @@
     "topic": "Human-AI Collaborative Painting Leveraging Large Models",
     "project": "",
     "outcome": "",
-    "coSupervisors": []
+    "coSupervisors": ["Pan Wang"]
   },
   {
     "name": "Ekaterina Bogdanova",
@@ -78,7 +87,7 @@
     "topic": "Representation and Inclusiveness in Democratic AI Systems",
     "project": "",
     "outcome": "",
-    "coSupervisors": []
+    "coSupervisors": ["Nazli Cila", "Olya Kudina"]
   },
   {
     "name": "Garoa Gomez Beldarrain",
@@ -87,7 +96,7 @@
     "topic": "Investigating the Adoption of AI-enhanced Processes",
     "project": "",
     "outcome": "",
-    "coSupervisors": ["Schiphol Group"]
+    "coSupervisors": ["Himansu Verma","Euiyoung Kim","Schiphol Group"]
   },
   {
     "name": "Dr. Mireia Yurrita Semperena",
@@ -96,16 +105,16 @@
     "topic": "Understanding Decision Subjects' Needs and Perceptions Towards Contestable AI Systems",
     "project": "DCODE Project",
     "outcome": "Defended",
-    "coSupervisors": []
+    "coSupervisors": ["Sylvia Pont"]
   },
   {
-    "name": "Di Yan",
+    "name": "Dr. Di Yan",
     "level": "PhD",
-    "years": "2020–present",
+    "years": "2020–2025",
     "topic": "Collaborative Sensemaking of Personal Data",
     "project": "",
-    "outcome": "",
-    "coSupervisors": []
+    "outcome": "Defended",
+    "coSupervisors": ["Gerd Kortuem", "Jacky Bourgeois"]
   },
   {
     "name": "Dr. Evert van Beek",
@@ -114,7 +123,7 @@
     "topic": "Designing with Improvisations: How Everyday Practices with Technologies Shape Sustainable Transitions",
     "project": "",
     "outcome": "Defended",
-    "coSupervisors": []
+    "coSupervisors": ["Stella Boess", "Elisa Giaccardi"]
   },
   {
     "name": "Dr. Samuel Kernan Freire",
@@ -123,7 +132,7 @@
     "topic": "LLM-Powered Cognitive Assistants for Knowledge Sharing among Factory Operators",
     "project": "COALA Project",
     "outcome": "Defended",
-    "coSupervisors": []
+    "coSupervisors": ["Evangelos Niforatos"]
   },
   {
     "name": "Dr. Roos Teeuwen",
@@ -132,7 +141,7 @@
     "topic": "Measuring Children's Access to Urban Greenspace",
     "project": "EQUAL-LIFE Project",
     "outcome": "Defended",
-    "coSupervisors": []
+    "coSupervisors": ["Achilleas Psyllidis"]
   },
   {
     "name": "Dr. Vasileios Milias",
@@ -150,7 +159,7 @@
     "topic": "Perceived Appropriateness: A Novel View for Resolving Inappropriate Robot Behavior in Socially-Aware Navigation",
     "project": "",
     "outcome": "Defended",
-    "coSupervisors": []
+    "coSupervisors": ["Achilleas Psyllidis"]
   },
   {
     "name": "Dr. Ziyu Li",
@@ -159,7 +168,7 @@
     "topic": "On the Utility of Metadata to Optimize Machine Learning Workflows",
     "project": "Cognizant Hyper-Sense Project",
     "outcome": "Defended",
-    "coSupervisors": []
+    "coSupervisors": ["Asterios Katsifodimos", "Geert-Jan Houben"]
   },
   {
     "name": "Dr. Agathe Balayn",
@@ -168,7 +177,7 @@
     "topic": "On Developers' Practices for Hazard Diagnosis in Machine Learning Systems",
     "project": "Cognizant Hyper-Sense Project",
     "outcome": "Defended",
-    "coSupervisors": []
+    "coSupervisors": ["Geert-Jan Houben"]
   },
   {
     "name": "Dr. Ioannis Petros Samiotis",
@@ -177,7 +186,7 @@
     "topic": "Crowd-Assisted Annotation of Classical Music Compositions",
     "project": "TROMPA Project",
     "outcome": "Defended",
-    "coSupervisors": []
+    "coSupervisors": ["Christoph Lofi", "Geert-Jan Houben"]
   },
   {
     "name": "Dr. Shahin Sharifi Noorian",
@@ -186,7 +195,7 @@
     "topic": "From Recognition to Understanding: Enriching Visual Models through Multi-modal Semantic Integration",
     "project": "",
     "outcome": "Defended",
-    "coSupervisors": []
+    "coSupervisors": ["Yie Yang", "Geert-Jan Houben"]
   },
   {
     "name": "Dr. Sihang Qiu",
@@ -195,7 +204,7 @@
     "topic": "Conversational Crowdsourcing",
     "project": "",
     "outcome": "Associate Professor at the College of Systems Engineering of NUDT and HIAT",
-    "coSupervisors": []
+    "coSupervisors": ["Ujwal Gadiraju", "Geert-Jan Houben"]
   },
   {
     "name": "Dr. Sepideh Mesbah",
@@ -204,16 +213,16 @@
     "topic": "Semantic-Enhanced Training Data Augmentation Methods for Long-Tail Entity Recognition Models",
     "project": "",
     "outcome": "Senior Data Scientist at Booking.com",
-    "coSupervisors": []
+    "coSupervisors": ["Christoph Lofi", "Geert-Jan Houben"]
   },
   {
     "name": "Dr. Vincent Gong",
     "level": "PhD",
     "years": "2016–2020",
     "topic": "Using Social Media to Characterise Crowds in City Events for Crowd Management",
-    "project": "",
+    "project": "ALLEGRO ERC",
     "outcome": "Cloud & Data Developer at TU Delft",
-    "coSupervisors": []
+    "coSupervisors": ["Serge Hoogendoorn", "Winnie Daamen"]
   },
   {
     "name": "Dr. Jie Yang",
@@ -222,7 +231,7 @@
     "topic": "Crowd Knowledge Acceleration",
     "project": "",
     "outcome": "Assistant Professor in Computer Science, EEMCS Faculty, TU Delft",
-    "coSupervisors": []
+    "coSupervisors": ["Geert-Jan Houben"]
   },
   {
     "name": "Jasper Oosterman",
@@ -231,7 +240,7 @@
     "topic": "Crowd Knowledge Generation",
     "project": "",
     "outcome": "Senior Data Scientist at Blendle (work not defended)",
-    "coSupervisors": []
+    "coSupervisors": ["Geert-Jan Houben"]
   },
   {
     "name": "Dr. Bojana Bislimovska",
@@ -240,7 +249,7 @@
     "topic": "Content-Based Information Retrieval for Model Repositories",
     "project": "",
     "outcome": "Daily Supervisor (Politecnico di Milano)",
-    "coSupervisors": []
+    "coSupervisors": ["Piero Fraternali"]
   },
   {
     "name": "Dr. Hüseyin Uğur Genç",

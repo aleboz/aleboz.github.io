@@ -15,21 +15,6 @@
     "links": {"https://tacit-project.nl/": "Project website"}
   },
   {
-    "id": "nwo-ailixr",
-    "title": "Ailixr – No-code Visual AI Builder",
-    "description": "NWO-funded project developing a no-code visual AI builder.",
-    "role": "Project Leader",
-    "status": "active",
-    "timeframe": "2024–2025",
-    "category": "national",
-    "budget": { "total": 40, "tudelft": 40 },
-    "funder": "NWO",
-    "collaborators": ["Ruben Dekkers","Erik Gu"],
-    "themes": [],
-    "image": "",
-    "links": {"https://www.nwo.nl/projecten/21521": "Award News"}
-  },
-  {
     "id": "nwo-rvo-fairpv",
     "title": "Fair-PV: Digital Product Passports for Solar Panels",
     "description": "NWO/RVO-funded project on digital product passports for solar panels.",
@@ -94,7 +79,7 @@
     "title": "Edison RPM Field Lab",
     "description": "TU Delft Convergence-funded field lab on Edison RPM.",
     "role": "co-Principal Investigator",
-    "status": "active",
+    "status": "completed",
     "timeframe": "2024–2025",
     "category": "institutional",
     "budget": { "total": 250, "tudelft": 200 },
@@ -103,6 +88,21 @@
     "themes": [],
     "image": "",
     "links": {}
+  },
+  {
+    "id": "nwo-ailixr",
+    "title": "Ailixr – No-code Visual AI Builder",
+    "description": "NWO-funded project developing a no-code visual AI builder.",
+    "role": "Project Leader",
+    "status": "completed",
+    "timeframe": "2024–2025",
+    "category": "national",
+    "budget": { "total": 40, "tudelft": 40 },
+    "funder": "NWO",
+    "collaborators": ["Ruben Dekkers","Erik Gu"],
+    "themes": [],
+    "image": "",
+    "links": {"https://www.nwo.nl/projecten/21521": "Award News"}
   },
   {
     "id": "h2020-periscope",
