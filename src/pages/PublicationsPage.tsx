@@ -192,8 +192,8 @@ export default function PublicationsPage() {
         )}
       </div>
 
-      {/* Publication list */}
-      <div className="space-y-3" role="feed" aria-label="Publication results">
+      {/* Publication list — bibliography style */}
+      <div className="divide-y divide-border" role="feed" aria-label="Publication results">
         <AnimatePresence mode="popLayout">
           {filtered.map(pub => (
             <motion.article
@@ -203,111 +203,121 @@ export default function PublicationsPage() {
               animate={{ opacity: 1, y: 0 }}
               exit={{ opacity: 0, scale: 0.95 }}
               transition={{ duration: 0.2 }}
-              className="rounded-lg border bg-card p-4 transition-shadow hover:shadow-sm"
+              className="group py-5 transition-colors hover:bg-muted/30"
               aria-label={`${pub.title}, ${pub.year}`}
             >
-              <div className="flex items-start justify-between gap-3">
+              <div className="flex gap-4">
+                {/* Year column */}
+                <div className="hidden w-16 shrink-0 pt-0.5 text-right sm:block">
+                  <span className="text-sm font-semibold text-warm">{pub.year}</span>
+                </div>
+
+                {/* Content */}
                 <div className="flex-1 min-w-0">
-                  <div className="mb-1 flex flex-wrap items-center gap-2">
-                    <Badge variant="outline" className="text-xs shrink-0">{TYPE_LABELS[pub.type] || pub.type}</Badge>
-                    <span className="text-xs text-muted-foreground">{pub.year}</span>
-                    {pub.awards.map(a => (
-                      <Badge key={a} variant="secondary" className="text-xs border-0 font-medium">
-                        <Award className="mr-1 h-3 w-3" aria-hidden="true" />{a}
-                      </Badge>
-                    ))}
-                    {pub.featured && <Badge variant="secondary" className="text-xs">★ Selected</Badge>}
-                  </div>
+                  {/* Title */}
                   <h3 className="mb-1 font-sans text-base font-semibold leading-snug text-foreground">{pub.title}</h3>
+
+                  {/* Authors */}
                   <p className="mb-1 text-sm text-muted-foreground">{pub.authors.join(', ')}</p>
-                  <p className="text-sm text-muted-foreground italic">{pub.venueShort || pub.venue}</p>
+
+                  {/* Venue + metadata inline */}
+                  <p className="mb-2 text-sm">
+                    <span className="italic text-muted-foreground">{pub.venueShort || pub.venue}</span>
+                    <span className="sm:hidden text-xs text-warm font-medium ml-2">{pub.year}</span>
+                    {pub.awards.map(a => (
+                      <span key={a} className="ml-2 inline-flex items-center text-xs font-medium text-warm">
+                        <Award className="mr-0.5 h-3 w-3" aria-hidden="true" />{a}
+                      </span>
+                    ))}
+                    {pub.featured && <span className="ml-2 text-xs font-medium text-warm">★ Selected</span>}
+                  </p>
+
+                  {/* Action links */}
+                  <div className="flex flex-wrap items-center gap-1" role="group" aria-label="Publication links">
+                    {pub.doi && (
+                      <Button variant="ghost" size="sm" asChild>
+                        <a href={`https://doi.org/${pub.doi}`} target="_blank" rel="noopener noreferrer">
+                          <ExternalLink className="mr-1 h-3 w-3" aria-hidden="true" /><span className="text-xs">DOI</span>
+                          <span className="sr-only"> for {pub.title} (opens in new tab)</span>
+                        </a>
+                      </Button>
+                    )}
+                    {pub.pdf && (
+                      <Button variant="ghost" size="sm" asChild>
+                        <a href={pub.pdf} target="_blank" rel="noopener noreferrer">
+                          <FileText className="mr-1 h-3 w-3" aria-hidden="true" /><span className="text-xs">PDF</span>
+                          <span className="sr-only"> for {pub.title} (opens in new tab)</span>
+                        </a>
+                      </Button>
+                    )}
+                    {pub.code && (
+                      <Button variant="ghost" size="sm" asChild>
+                        <a href={pub.code} target="_blank" rel="noopener noreferrer">
+                          <Code2 className="mr-1 h-3 w-3" aria-hidden="true" /><span className="text-xs">Code</span>
+                          <span className="sr-only"> for {pub.title} (opens in new tab)</span>
+                        </a>
+                      </Button>
+                    )}
+                    {pub.dataset && (
+                      <Button variant="ghost" size="sm" asChild>
+                        <a href={pub.dataset} target="_blank" rel="noopener noreferrer">
+                          <Database className="mr-1 h-3 w-3" aria-hidden="true" /><span className="text-xs">Data</span>
+                          <span className="sr-only"> for {pub.title} (opens in new tab)</span>
+                        </a>
+                      </Button>
+                    )}
+                    {pub.video && (
+                      <Button variant="ghost" size="sm" asChild>
+                        <a href={pub.video} target="_blank" rel="noopener noreferrer">
+                          <Video className="mr-1 h-3 w-3" aria-hidden="true" /><span className="text-xs">Video</span>
+                          <span className="sr-only"> for {pub.title} (opens in new tab)</span>
+                        </a>
+                      </Button>
+                    )}
+                    {pub.slides && (
+                      <Button variant="ghost" size="sm" asChild>
+                        <a href={pub.slides} target="_blank" rel="noopener noreferrer">
+                          <Presentation className="mr-1 h-3 w-3" aria-hidden="true" /><span className="text-xs">Slides</span>
+                          <span className="sr-only"> for {pub.title} (opens in new tab)</span>
+                        </a>
+                      </Button>
+                    )}
+                    {pub.bibtex && <CopyBibtex bibtex={pub.bibtex} />}
+                    <Button
+                      variant="ghost"
+                      size="sm"
+                      onClick={() => setExpandedId(expandedId === pub.id ? null : pub.id)}
+                      aria-expanded={expandedId === pub.id}
+                      aria-controls={`abstract-${pub.id}`}
+                    >
+                      {expandedId === pub.id ? <ChevronUp className="h-3 w-3" aria-hidden="true" /> : <ChevronDown className="h-3 w-3" aria-hidden="true" />}
+                      <span className="ml-1 text-xs">Abstract</span>
+                    </Button>
+                  </div>
+
+                  <AnimatePresence>
+                    {expandedId === pub.id && pub.abstract && (
+                      <motion.div
+                        id={`abstract-${pub.id}`}
+                        initial={{ height: 0, opacity: 0 }}
+                        animate={{ height: 'auto', opacity: 1 }}
+                        exit={{ height: 0, opacity: 0 }}
+                        transition={{ duration: 0.2 }}
+                        className="overflow-hidden"
+                        role="region"
+                        aria-label={`Abstract for ${pub.title}`}
+                      >
+                        <p className="mt-3 border-l-2 border-warm/30 pl-4 text-sm text-muted-foreground leading-relaxed">{pub.abstract}</p>
+                        {pub.keywords.length > 0 && (
+                          <div className="mt-2 flex flex-wrap gap-1">
+                            {pub.keywords.map(k => <Badge key={k} variant="outline" className="text-xs">{k}</Badge>)}
+                          </div>
+                        )}
+                      </motion.div>
+                    )}
+                  </AnimatePresence>
                 </div>
               </div>
-
-              {/* Links */}
-              <div className="mt-3 flex flex-wrap items-center gap-1" role="group" aria-label="Publication links">
-                {pub.doi && (
-                  <Button variant="ghost" size="sm" asChild>
-                    <a href={`https://doi.org/${pub.doi}`} target="_blank" rel="noopener noreferrer">
-                      <ExternalLink className="mr-1 h-3 w-3" aria-hidden="true" /><span className="text-xs">DOI</span>
-                      <span className="sr-only"> for {pub.title} (opens in new tab)</span>
-                    </a>
-                  </Button>
-                )}
-                {pub.pdf && (
-                  <Button variant="ghost" size="sm" asChild>
-                    <a href={pub.pdf} target="_blank" rel="noopener noreferrer">
-                      <FileText className="mr-1 h-3 w-3" aria-hidden="true" /><span className="text-xs">PDF</span>
-                      <span className="sr-only"> for {pub.title} (opens in new tab)</span>
-                    </a>
-                  </Button>
-                )}
-                {pub.code && (
-                  <Button variant="ghost" size="sm" asChild>
-                    <a href={pub.code} target="_blank" rel="noopener noreferrer">
-                      <Code2 className="mr-1 h-3 w-3" aria-hidden="true" /><span className="text-xs">Code</span>
-                      <span className="sr-only"> for {pub.title} (opens in new tab)</span>
-                    </a>
-                  </Button>
-                )}
-                {pub.dataset && (
-                  <Button variant="ghost" size="sm" asChild>
-                    <a href={pub.dataset} target="_blank" rel="noopener noreferrer">
-                      <Database className="mr-1 h-3 w-3" aria-hidden="true" /><span className="text-xs">Data</span>
-                      <span className="sr-only"> for {pub.title} (opens in new tab)</span>
-                    </a>
-                  </Button>
-                )}
-                {pub.video && (
-                  <Button variant="ghost" size="sm" asChild>
-                    <a href={pub.video} target="_blank" rel="noopener noreferrer">
-                      <Video className="mr-1 h-3 w-3" aria-hidden="true" /><span className="text-xs">Video</span>
-                      <span className="sr-only"> for {pub.title} (opens in new tab)</span>
-                    </a>
-                  </Button>
-                )}
-                {pub.slides && (
-                  <Button variant="ghost" size="sm" asChild>
-                    <a href={pub.slides} target="_blank" rel="noopener noreferrer">
-                      <Presentation className="mr-1 h-3 w-3" aria-hidden="true" /><span className="text-xs">Slides</span>
-                      <span className="sr-only"> for {pub.title} (opens in new tab)</span>
-                    </a>
-                  </Button>
-                )}
-                {pub.bibtex && <CopyBibtex bibtex={pub.bibtex} />}
-                <Button
-                  variant="ghost"
-                  size="sm"
-                  onClick={() => setExpandedId(expandedId === pub.id ? null : pub.id)}
-                  aria-expanded={expandedId === pub.id}
-                  aria-controls={`abstract-${pub.id}`}
-                >
-                  {expandedId === pub.id ? <ChevronUp className="h-3 w-3" aria-hidden="true" /> : <ChevronDown className="h-3 w-3" aria-hidden="true" />}
-                  <span className="ml-1 text-xs">Abstract</span>
-                </Button>
-              </div>
-
-              <AnimatePresence>
-                {expandedId === pub.id && pub.abstract && (
-                  <motion.div
-                    id={`abstract-${pub.id}`}
-                    initial={{ height: 0, opacity: 0 }}
-                    animate={{ height: 'auto', opacity: 1 }}
-                    exit={{ height: 0, opacity: 0 }}
-                    transition={{ duration: 0.2 }}
-                    className="overflow-hidden"
-                    role="region"
-                    aria-label={`Abstract for ${pub.title}`}
-                  >
-                    <p className="mt-3 rounded-md bg-muted/50 p-3 text-sm text-muted-foreground leading-relaxed">{pub.abstract}</p>
-                    {pub.keywords.length > 0 && (
-                      <div className="mt-2 flex flex-wrap gap-1">
-                        {pub.keywords.map(k => <Badge key={k} variant="outline" className="text-xs">{k}</Badge>)}
-                      </div>
-                    )}
-                  </motion.div>
-                )}
-              </AnimatePresence>
             </motion.article>
           ))}
         </AnimatePresence>
