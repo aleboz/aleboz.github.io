@@ -1,46 +1,17 @@
 import { renderToString } from 'react-dom/server';
 import { StaticRouter } from 'react-router-dom/server';
-import { Routes, Route } from 'react-router-dom';
-import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 import { MotionConfig } from 'framer-motion';
-import { TooltipProvider } from '@/components/ui/tooltip';
-import Layout from './components/Layout';
-import HomePage from './pages/HomePage';
-import ResearchPage from './pages/ResearchPage';
-import PublicationsPage from './pages/PublicationsPage';
-import ProjectsPage from './pages/ProjectsPage';
-import TeachingPage from './pages/TeachingPage';
-import ServicePage from './pages/ServicePage';
-import NewsPage from './pages/NewsPage';
-import ContactPage from './pages/ContactPage';
-import NotFound from './pages/NotFound';
+import AppRoutes from './routes';
 
 export async function prerender(data: { url?: string } = {}) {
   const url = data.url || '/';
-  const queryClient = new QueryClient();
 
   const html = renderToString(
-    <QueryClientProvider client={queryClient}>
-      <MotionConfig reducedMotion="user">
-        <TooltipProvider>
-          <StaticRouter location={url}>
-            <Routes>
-              <Route element={<Layout />}>
-                <Route path="/" element={<HomePage />} />
-                <Route path="/research" element={<ResearchPage />} />
-                <Route path="/publications" element={<PublicationsPage />} />
-                <Route path="/projects" element={<ProjectsPage />} />
-                <Route path="/teaching" element={<TeachingPage />} />
-                <Route path="/service" element={<ServicePage />} />
-                <Route path="/news" element={<NewsPage />} />
-                <Route path="/contact" element={<ContactPage />} />
-                <Route path="*" element={<NotFound />} />
-              </Route>
-            </Routes>
-          </StaticRouter>
-        </TooltipProvider>
-      </MotionConfig>
-    </QueryClientProvider>
+    <MotionConfig reducedMotion="user">
+      <StaticRouter location={url}>
+        <AppRoutes />
+      </StaticRouter>
+    </MotionConfig>
   );
 
   // Return links for route discovery + rendered HTML
@@ -49,6 +20,7 @@ export async function prerender(data: { url?: string } = {}) {
     '/publications',
     '/projects',
     '/teaching',
+    '/supervision',
     '/service',
     '/news',
     '/contact',

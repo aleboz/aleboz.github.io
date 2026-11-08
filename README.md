@@ -1,73 +1,51 @@
-# Welcome to your Lovable project
+# alessandrobozzon.com
 
-## Project info
+Personal academic website of Alessandro Bozzon, served at
+[www.alessandrobozzon.com](https://www.alessandrobozzon.com) via GitHub Pages.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+Built with React, TypeScript, Vite and Tailwind CSS. Every page is
+pre-rendered to static HTML at build time, so content is visible to search
+engines and readers without JavaScript.
 
-## How can I edit this code?
+## Editing content
 
-There are several ways of editing your application.
+All site content lives in JSON files under `src/data/`. The pages only display it.
 
-**Use Lovable**
+| File | Page |
+|---|---|
+| `profile.json`, `metrics.json` | Home |
+| `publications.json` | Publications |
+| `projects.json` | Projects |
+| `teaching.json` | Teaching |
+| `supervision.json` | Supervision |
+| `service.json` | Service |
+| `news.json` | News (and recent news on Home) |
+| `contact.json` | Contact |
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+The shape of each file is described in `src/types/index.ts`.
 
-Changes made via Lovable will be committed automatically to this repo.
+## Development
 
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
+Requires Node.js 20 or later.
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+npm install        # install dependencies
+npm run dev        # local dev server at http://localhost:8080
+npm run build      # production build into dist/
+npm run preview    # serve the production build locally
+npm test           # run tests
+npm run lint       # lint
+npm run typecheck  # TypeScript type check
 ```
 
-**Edit a file directly in GitHub**
+## Adding a page
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+1. Create the page component in `src/pages/`.
+2. Add its route to `src/routes.tsx` (shared by the browser app and the pre-renderer).
+3. Add the path to `additionalPrerenderRoutes` in `vite.config.ts` and to the `links` list in `src/prerender.tsx`.
+4. Add it to the navigation in `src/components/Header.tsx` and to `public/sitemap.xml`.
 
-**Use GitHub Codespaces**
+## Deployment
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Pushing to `master` runs `.github/workflows/deploy.yml`, which builds the
+site and publishes `dist/` to GitHub Pages. The custom domain is set in `CNAME`.

@@ -94,7 +94,7 @@ export interface Supervision {
 
 export interface ServiceData {
   leadership: ServiceEntry[];
-  editorial: ServiceEntry[];
+  editorial?: ServiceEntry[];
   programCommittees: ServiceEntry[];
   initiatives: ServiceEntry[];
 }
