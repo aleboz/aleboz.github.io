@@ -42,7 +42,7 @@ export interface Publication {
   title: string;
   authors: string[];
   year: number;
-  type: 'journal' | 'conference' | 'workshop' | 'book_chapter' | 'preprint';
+  type: 'journal' | 'conference' | 'workshop' | 'book_chapter' | 'chapter' | 'book' | 'edited' | 'dataset' | 'preprint' | 'other';
   venue: string;
   venueShort?: string;
   doi: string;
