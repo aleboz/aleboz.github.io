@@ -100,8 +100,11 @@ SelectLabel.displayName = SelectPrimitive.Label.displayName;
 
 const SelectItem = React.forwardRef<
   React.ElementRef<typeof SelectPrimitive.Item>,
-  React.ComponentPropsWithoutRef<typeof SelectPrimitive.Item>
->(({ className, children, ...props }, ref) => (
+  React.ComponentPropsWithoutRef<typeof SelectPrimitive.Item> & {
+    /** Shown right-aligned in the open list only (not in the trigger). */
+    count?: number;
+  }
+>(({ className, children, count, ...props }, ref) => (
   <SelectPrimitive.Item
     ref={ref}
     className={cn(
@@ -117,6 +120,12 @@ const SelectItem = React.forwardRef<
     </span>
 
     <SelectPrimitive.ItemText>{children}</SelectPrimitive.ItemText>
+    {count !== undefined && (
+      <span className="ml-auto pl-4 text-xs tabular-nums text-muted-foreground">
+        <span aria-hidden="true">{count}</span>
+        <span className="sr-only">, {count} {count === 1 ? 'result' : 'results'}</span>
+      </span>
+    )}
   </SelectPrimitive.Item>
 ));
 SelectItem.displayName = SelectPrimitive.Item.displayName;
