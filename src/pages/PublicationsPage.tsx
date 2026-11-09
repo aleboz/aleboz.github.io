@@ -16,8 +16,14 @@ import { useDocumentTitle } from '@/hooks/useDocumentTitle';
 const TYPE_LABELS: Record<string, string> = {
   journal: 'Journal', conference: 'Conference', workshop: 'Workshop',
   book_chapter: 'Book Chapter', chapter: 'Book Chapter', book: 'Book',
-  edited: 'Edited Volume', dataset: 'Dataset', preprint: 'Preprint', other: 'Other',
+  edited: 'Edited Volume', dataset: 'Dataset', patent: 'Patent', preprint: 'Preprint', other: 'Other',
 };
+
+/** e.g. "CHI 2025 (ACM CHI Conference on Human Factors in Computing Systems)". */
+function formatVenue(pub: Publication): string {
+  const short = [pub.venueShort || pub.venue, pub.year].filter(Boolean).join(' ');
+  return pub.venueLong && pub.venueLong !== pub.venueShort ? `${short} (${pub.venueLong})` : short;
+}
 
 function CopyBibtex({ bibtex }: { bibtex: string }) {
   const [copied, setCopied] = useState(false);
@@ -73,6 +79,8 @@ export default function PublicationsPage() {
         p.title.toLowerCase().includes(q) ||
         p.abstract.toLowerCase().includes(q) ||
         p.venue.toLowerCase().includes(q) ||
+        (p.venueShort ?? '').toLowerCase().includes(q) ||
+        (p.venueLong ?? '').toLowerCase().includes(q) ||
         p.authors.some(a => a.toLowerCase().includes(q)) ||
         p.keywords.some(k => k.toLowerCase().includes(q))
       );
@@ -223,8 +231,7 @@ export default function PublicationsPage() {
 
                   {/* Venue + metadata inline */}
                   <p className="mb-2 text-sm">
-                    <span className="italic text-muted-foreground">{pub.venueShort || pub.venue}</span>
-                    <span className="sm:hidden text-xs text-warm font-medium ml-2">{pub.year}</span>
+                    <span className="italic text-muted-foreground">{formatVenue(pub)}</span>
                     {pub.awards.map(a => (
                       <span key={a} className="ml-2 inline-flex items-center text-xs font-medium text-warm">
                         <Award className="mr-0.5 h-3 w-3" aria-hidden="true" />{a}
@@ -284,7 +291,7 @@ export default function PublicationsPage() {
                       </Button>
                     )}
                     {pub.bibtex && <CopyBibtex bibtex={pub.bibtex} />}
-                    <Button
+                    {pub.abstract && <Button
                       variant="ghost"
                       size="sm"
                       onClick={() => setExpandedId(expandedId === pub.id ? null : pub.id)}
@@ -293,7 +300,7 @@ export default function PublicationsPage() {
                     >
                       {expandedId === pub.id ? <ChevronUp className="h-3 w-3" aria-hidden="true" /> : <ChevronDown className="h-3 w-3" aria-hidden="true" />}
                       <span className="ml-1 text-xs">Abstract</span>
-                    </Button>
+                    </Button>}
                   </div>
 
                   <AnimatePresence>
