@@ -15,7 +15,8 @@ import { useDocumentTitle } from '@/hooks/useDocumentTitle';
 
 const TYPE_LABELS: Record<string, string> = {
   journal: 'Journal', conference: 'Conference', workshop: 'Workshop',
-  book_chapter: 'Book Chapter', preprint: 'Preprint',
+  book_chapter: 'Book Chapter', chapter: 'Book Chapter', book: 'Book',
+  edited: 'Edited Volume', dataset: 'Dataset', preprint: 'Preprint', other: 'Other',
 };
 
 function CopyBibtex({ bibtex }: { bibtex: string }) {
