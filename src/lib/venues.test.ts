@@ -49,6 +49,11 @@ describe('venueKey', () => {
     expect(venueKey({ type: 'conference', venueShort: 'CSCW Companion' })).toBe('conference::CSCW');
   });
 
+  it('puts Transactions in their own category', () => {
+    expect(venueKey({ type: 'transactions', venueShort: 'TKDE' })).toBe('transactions::TKDE');
+    expect(venueKey({ type: 'journal', venueShort: 'IEEE Access' })).toBe('journal::IEEE Access');
+  });
+
   it('leaves out hidden venues and types that are not venues', () => {
     expect(venueKey({ type: 'preprint', venueShort: 'arXiv' })).toBe('');
     expect(venueKey({ type: 'conference', venueShort: 'SeCO Workshop' })).toBe('');
@@ -62,6 +67,17 @@ describe('venueKey', () => {
     for (const p of pubs) {
       const g = venueGroup(p.venueShort);
       if (g && !HIDDEN_VENUES.has(g)) expect(venueCategory(p.type), p.title).not.toBeNull();
+    }
+  });
+});
+
+describe('publication data', () => {
+  it('types every Transactions venue as transactions, and nothing else', () => {
+    for (const p of publications as { type: string; venueLong?: string; title: string }[]) {
+      const isTransactions = /\bTransactions\b/.test(p.venueLong ?? '');
+      if (p.type === 'journal' || p.type === 'transactions') {
+        expect(p.type === 'transactions', p.title).toBe(isTransactions);
+      }
     }
   });
 });

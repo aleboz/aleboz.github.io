@@ -46,10 +46,11 @@ export const HIDDEN_VENUES = new Set([
 /** Conferences that publish their papers as journal articles; listed under Conferences. */
 const CONFERENCES_IN_JOURNALS = new Set(['CSCW']);
 
-export type VenueCategory = 'journal' | 'conference' | 'edited';
+export type VenueCategory = 'transactions' | 'journal' | 'conference' | 'edited';
 
 /** Categories in the order they appear in the dropdown. */
 export const VENUE_CATEGORIES: { id: VenueCategory; label: string }[] = [
+  { id: 'transactions', label: 'Transactions' },
   { id: 'journal', label: 'Journals' },
   { id: 'conference', label: 'Conferences' },
   { id: 'edited', label: 'Edited volumes' },
@@ -57,6 +58,7 @@ export const VENUE_CATEGORIES: { id: VenueCategory; label: string }[] = [
 
 /** Dropdown category for a publication type; null for types not filtered by venue. */
 export function venueCategory(type: string): VenueCategory | null {
+  if (type === 'transactions') return 'transactions';
   if (type === 'journal') return 'journal';
   if (type === 'conference' || type === 'workshop' || type === 'other') return 'conference';
   if (type === 'edited') return 'edited';

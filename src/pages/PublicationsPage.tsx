@@ -17,11 +17,13 @@ import VenueFilter, { type VenueOption } from '@/components/VenueFilter';
 
 type Facet = 'year' | 'type' | 'venue' | 'theme' | 'author';
 
+/** Type labels, in the order they appear in the Type filter. */
 const TYPE_LABELS: Record<string, string> = {
-  journal: 'Journal', conference: 'Conference', workshop: 'Workshop',
-  book_chapter: 'Book Chapter', chapter: 'Book Chapter', book: 'Book',
-  edited: 'Edited Volume', dataset: 'Dataset', patent: 'Patent', preprint: 'Preprint', other: 'Other',
+  transactions: 'Transactions', journal: 'Journal', conference: 'Conference', workshop: 'Workshop',
+  edited: 'Edited Volume', book: 'Book', chapter: 'Book Chapter', book_chapter: 'Book Chapter',
+  preprint: 'Preprint', dataset: 'Dataset', patent: 'Patent', other: 'Other',
 };
+const TYPE_ORDER = Object.keys(TYPE_LABELS);
 
 /** e.g. "CHI 2025 (ACM CHI Conference on Human Factors in Computing Systems)". */
 function formatVenue(pub: Publication): string {
@@ -70,7 +72,10 @@ export default function PublicationsPage() {
   const [expandedId, setExpandedId] = useState<string | null>(null);
 
   const years = useMemo(() => [...new Set(pubs.map(p => p.year))].sort((a, b) => b - a), [pubs]);
-  const types = useMemo(() => [...new Set(pubs.map(p => p.type))], [pubs]);
+  const types = useMemo(
+    () => [...new Set(pubs.map(p => p.type))].sort((a, b) => TYPE_ORDER.indexOf(a) - TYPE_ORDER.indexOf(b)),
+    [pubs],
+  );
   const themes = useMemo(() => [...new Set(pubs.flatMap(p => p.themes))].sort(), [pubs]);
   const coAuthors = useMemo(() => {
     const set = new Set<string>();

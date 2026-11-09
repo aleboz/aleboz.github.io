@@ -42,7 +42,7 @@ export interface Publication {
   title: string;
   authors: string[];
   year: number;
-  type: 'journal' | 'conference' | 'workshop' | 'book_chapter' | 'chapter' | 'book' | 'edited' | 'dataset' | 'patent' | 'preprint' | 'other';
+  type: 'journal' | 'transactions' | 'conference' | 'workshop' | 'book_chapter' | 'chapter' | 'book' | 'edited' | 'dataset' | 'patent' | 'preprint' | 'other';
   venue: string;
   venueShort?: string;
   /** Full venue name, shown after the short name: "CHI 2025 (ACM CHI Conference on …)". */

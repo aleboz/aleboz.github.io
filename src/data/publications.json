@@ -631,7 +631,7 @@
       "P. Wang"
     ],
     "year": 2026,
-    "type": "journal",
+    "type": "transactions",
     "venue": "ACM Trans. Multim. Comput. Commun. Appl.",
     "venueShort": "TOMM",
     "venueLong": "ACM Transactions on Multimedia Computing, Communications, and Applications",
@@ -1300,7 +1300,7 @@
       "R. Hai"
     ],
     "year": 2024,
-    "type": "journal",
+    "type": "transactions",
     "venue": "IEEE Trans. Knowl. Data Eng.",
     "venueShort": "TKDE",
     "venueLong": "IEEE Transactions on Knowledge and Data Engineering",
@@ -2782,7 +2782,7 @@
       "A. Bozzon"
     ],
     "year": 2021,
-    "type": "journal",
+    "type": "transactions",
     "venue": "ACM Trans. Soc. Comput.",
     "venueShort": "TSC",
     "venueLong": "ACM Transactions on Social Computing",
@@ -6282,7 +6282,7 @@
       "P. Fraternali"
     ],
     "year": 2014,
-    "type": "journal",
+    "type": "transactions",
     "venue": "ACM Trans. Web",
     "venueShort": "TWEB",
     "venueLong": "ACM Transactions on the Web",
@@ -7680,7 +7680,7 @@
       "G. T. Carughi"
     ],
     "year": 2010,
-    "type": "journal",
+    "type": "transactions",
     "venue": "ACM Trans. Web",
     "venueShort": "TWEB",
     "venueLong": "ACM Transactions on the Web",
