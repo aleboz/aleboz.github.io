@@ -2299,43 +2299,6 @@
     "bibtex": "@inproceedings{2023, series={CI ’23}, ISBN={9798400701139}, url={http://dx.doi.org/10.1145/3582269}, DOI={10.1145/3582269}, publisher={ACM}, year={2023}, month=nov, collection={CI ’23} }"
   },
   {
-    "id": "corr-2023-safeguarding-crowdsourcing-surveys-from-chatgpt-with-prompt-",
-    "title": "Safeguarding Crowdsourcing Surveys from ChatGPT with Prompt Injection",
-    "authors": [
-      "C. Wang",
-      "S. K. Freire",
-      "M. Zhang",
-      "J. Wei",
-      "J. Goncalves",
-      "V. Kostakos",
-      "Z. Sarsenbayeva",
-      "C. Schneegass",
-      "A. Bozzon",
-      "E. Niforatos"
-    ],
-    "year": 2023,
-    "type": "journal",
-    "venue": "CoRR",
-    "venueShort": "arXiv",
-    "venueLong": "Computing Research Repository",
-    "doi": "10.48550/arXiv.2306.08833",
-    "url": "https://doi.org/10.48550/arXiv.2306.08833",
-    "pdf": "",
-    "code": "",
-    "dataset": "",
-    "slides": "",
-    "video": "",
-    "abstract": "ChatGPT and other large language models (LLMs) have proven useful in crowdsourcing tasks, where they can effectively annotate machine learning training data. However, this means that they also have the potential for misuse, specifically to automatically answer surveys. LLMs can potentially circumvent quality assurance measures, thereby threatening the integrity of methodologies that rely on crowdsourcing surveys. In this paper, we propose a mechanism to detect LLM-generated responses to surveys. The mechanism uses\"prompt injection\", such as directions that can mislead LLMs into giving predictable responses. We evaluate our technique against a range of question scenarios, types, and positions, and find that it can reliably detect LLM-generated responses with more than 93% effectiveness. We also provide an open-source software to help survey designers use our technique to detect LLM responses. Our work is a step in ensuring that survey methodologies remain rigorous vis-a-vis LLMs.",
-    "keywords": [],
-    "themes": [
-      "Crowd Computing"
-    ],
-    "featured": false,
-    "citations": 0,
-    "awards": [],
-    "bibtex": "@article{0001_2023_Safeguarding,\n  author = {Chaofan Wang 0001 and Samuel Kernan Freire and Mo Zhang and Jing Wei 0002 and Jorge Gonçalves 0001 and Vassilis Kostakos and Zhanna Sarsenbayeva and Christina Schneegass and Alessandro Bozzon and Evangelos Niforatos},\n  title = {Safeguarding Crowdsourcing Surveys from ChatGPT with Prompt Injection},\n  year = {2023},\n  journal = {CoRR},\n  doi = {10.48550/arXiv.2306.08833},\n  url = {https://doi.org/10.48550/arXiv.2306.08833}\n}"
-  },
-  {
     "id": "environ.-res.-2023-adopting-a-child-perspective-for-exposome-research-on-mental",
     "title": "Adopting a child perspective for exposome research on mental health and cognitive development - Conceptualisation and opportunities.",
     "authors": [
@@ -2685,37 +2648,6 @@
     "bibtex": "@inproceedings{Balayn_2022, series={CHI ’22}, title={How can Explainability Methods be Used to Support Bug Identification in Computer Vision Models?}, url={http://dx.doi.org/10.1145/3491102.3517474}, DOI={10.1145/3491102.3517474}, booktitle={CHI Conference on Human Factors in Computing Systems}, publisher={ACM}, author={Balayn, Agathe and Rikalo, Natasa and Lofi, Christoph and Yang, Jie and Bozzon, Alessandro}, year={2022}, month=apr, pages={1–16}, collection={CHI ’22} }"
   },
   {
-    "id": "corr-2022-metadata-representations-for-queryable-ml-model-zoos",
-    "title": "Metadata Representations for Queryable ML Model Zoos",
-    "authors": [
-      "Z. Li",
-      "R. Hai",
-      "A. Bozzon",
-      "A. Katsifodimos"
-    ],
-    "year": 2022,
-    "type": "journal",
-    "venue": "CoRR",
-    "venueShort": "arXiv",
-    "venueLong": "Computing Research Repository",
-    "doi": "10.48550/arXiv.2207.09315",
-    "url": "https://doi.org/10.48550/arXiv.2207.09315",
-    "pdf": "",
-    "code": "",
-    "dataset": "",
-    "slides": "",
-    "video": "",
-    "abstract": "Machine learning (ML) practitioners and organizations are building model zoos of pre-trained models, containing metadata describing properties of the ML models and datasets that are useful for reporting, auditing, reproducibility, and interpretability purposes. The metatada is currently not standardised; its expressivity is limited; and there is no interoperable way to store and query it. Consequently, model search, reuse, comparison, and composition are hindered. In this paper, we advocate for standardized ML model meta-data representation and management, proposing a toolkit supported to help practitioners manage and query that metadata.",
-    "keywords": [],
-    "themes": [
-      "Human-in-the-Loop ML"
-    ],
-    "featured": false,
-    "citations": 0,
-    "awards": [],
-    "bibtex": "@article{Li_2022_Metadata,\n  author = {Ziyu Li and Rihan Hai 0001 and Alessandro Bozzon and Asterios Katsifodimos},\n  title = {Metadata Representations for Queryable ML Model Zoos},\n  year = {2022},\n  journal = {CoRR},\n  doi = {10.48550/arXiv.2207.09315},\n  url = {https://doi.org/10.48550/arXiv.2207.09315}\n}"
-  },
-  {
     "id": "www-2022-scriptoria-a-crowd-powered-music-transcription-system",
     "title": "Scriptoria: A Crowd-powered Music Transcription System",
     "authors": [
@@ -2757,10 +2689,10 @@
       "A. Bozzon"
     ],
     "year": 2022,
-    "type": "journal",
+    "type": "preprint",
     "venue": "CoRR",
     "venueShort": "arXiv",
-    "venueLong": "Computing Research Repository",
+    "venueLong": "arXiv preprint",
     "doi": "10.48550/arXiv.2205.04525",
     "url": "https://doi.org/10.48550/arXiv.2205.04525",
     "pdf": "",
@@ -2819,10 +2751,10 @@
       "A. Bozzon"
     ],
     "year": 2021,
-    "type": "journal",
+    "type": "preprint",
     "venue": "CoRR",
     "venueShort": "arXiv",
-    "venueLong": "Computing Research Repository",
+    "venueLong": "arXiv preprint",
     "doi": "",
     "url": "https://arxiv.org/abs/2101.08854",
     "pdf": "",
@@ -3285,10 +3217,10 @@
       "Z. Szlávik"
     ],
     "year": 2020,
-    "type": "journal",
+    "type": "preprint",
     "venue": "CoRR",
     "venueShort": "arXiv",
-    "venueLong": "Computing Research Repository",
+    "venueLong": "arXiv preprint",
     "doi": "",
     "url": "https://arxiv.org/abs/2012.02297",
     "pdf": "",
@@ -3349,10 +3281,10 @@
       "B. Timmermans"
     ],
     "year": 2020,
-    "type": "journal",
+    "type": "preprint",
     "venue": "CoRR",
     "venueShort": "arXiv",
-    "venueLong": "Computing Research Repository",
+    "venueLong": "arXiv preprint",
     "doi": "",
     "url": "https://arxiv.org/abs/2010.14531",
     "pdf": "",
@@ -3944,10 +3876,10 @@
       "A. Bozzon"
     ],
     "year": 2019,
-    "type": "journal",
+    "type": "preprint",
     "venue": "CoRR",
     "venueShort": "arXiv",
-    "venueLong": "Computing Research Repository",
+    "venueLong": "arXiv preprint",
     "doi": "",
     "url": "http://arxiv.org/abs/1911.02471",
     "pdf": "",
@@ -4098,10 +4030,10 @@
       "Z. Szlávik"
     ],
     "year": 2019,
-    "type": "journal",
+    "type": "preprint",
     "venue": "CoRR",
     "venueShort": "arXiv",
-    "venueLong": "Computing Research Repository",
+    "venueLong": "arXiv preprint",
     "doi": "",
     "url": "http://arxiv.org/abs/1911.02455",
     "pdf": "",
@@ -4217,7 +4149,7 @@
     "bibtex": "@inproceedings{Mavridis_2018_A,\n  author = {Panagiotis Mavridis and Markus de Jong and Lora Aroyo and Alessandro Bozzon and Jesse de Vos and Johan Oomen and Antoaneta Dimitrova and Alec Badenoch},\n  title = {A Human in the Loop Approach to Capture Bias and Support Media Scientists in News Video Analysis (short paper)},\n  year = {2018},\n  booktitle = {SAD/CrowdBias@HCOMP}\n}"
   },
   {
-    "id": "corr-2018-a-user-modeling-pipeline-for-studying-polarized-political-ev",
+    "id": "icwe-workshops-2018-a-user-modeling-pipeline-for-studying-polarized-political-ev",
     "title": "A User Modeling Pipeline for Studying Polarized Political Events in Social Media",
     "authors": [
       "R. Napoli",
@@ -4226,10 +4158,10 @@
       "M. Brambilla"
     ],
     "year": 2018,
-    "type": "journal",
-    "venue": "CoRR",
-    "venueShort": "arXiv",
-    "venueLong": "Computing Research Repository",
+    "type": "conference",
+    "venue": "ICWE Workshops",
+    "venueShort": "ICWE Workshops",
+    "venueLong": "Workshops of the International Conference on Web Engineering",
     "doi": "10.1007/978-3-030-03056-8_9",
     "url": "https://doi.org/10.1007/978-3-030-03056-8_9",
     "pdf": "",
@@ -4247,7 +4179,7 @@
     "featured": false,
     "citations": 0,
     "awards": [],
-    "bibtex": "@inbook{Napoli_2018, title={A User Modeling Pipeline for Studying Polarized Political Events in Social Media}, ISBN={9783030030568}, ISSN={1611-3349}, url={http://dx.doi.org/10.1007/978-3-030-03056-8_9}, DOI={10.1007/978-3-030-03056-8_9}, booktitle={Current Trends in Web Engineering}, publisher={Springer International Publishing}, author={Napoli, Roberto and Ertugrul, Ali Mert and Bozzon, Alessandro and Brambilla, Marco}, year={2018}, pages={101â€“114} }"
+    "bibtex": "@inbook{Napoli_2018, title={A User Modeling Pipeline for Studying Polarized Political Events in Social Media}, ISBN={9783030030568}, ISSN={1611-3349}, url={http://dx.doi.org/10.1007/978-3-030-03056-8_9}, DOI={10.1007/978-3-030-03056-8_9}, booktitle={Current Trends in Web Engineering}, publisher={Springer International Publishing}, author={Napoli, Roberto and Ertugrul, Ali Mert and Bozzon, Alessandro and Brambilla, Marco}, year={2018}, pages={101–114} }"
   },
   {
     "id": "hcomp-2018-capturebias-supporting-media-scholars-with-ambiguity-aware-b",
@@ -4754,7 +4686,7 @@
     "bibtex": "@article{De_Kok_2018, title={Automatic Processing of User-Generated Content for the Description of Energy-Consuming Activities at Individual and Group Level}, volume={12}, ISSN={1996-1073}, url={http://dx.doi.org/10.3390/en12010015}, DOI={10.3390/en12010015}, number={1}, journal={Energies}, publisher={MDPI AG}, author={De Kok, Roos and Mauri, Andrea and Bozzon, Alessandro}, year={2018}, month=Dec, pages={15} }"
   },
   {
-    "id": "corr-2017-chatbots-as-conversational-recommender-systems-in-urban-cont",
+    "id": "citrec@recsys-2017-chatbots-as-conversational-recommender-systems-in-urban-cont",
     "title": "Chatbots as Conversational Recommender Systems in Urban Contexts",
     "authors": [
       "P. Kucherbaev",
@@ -4762,10 +4694,10 @@
       "A. Bozzon"
     ],
     "year": 2017,
-    "type": "journal",
-    "venue": "CoRR",
-    "venueShort": "arXiv",
-    "venueLong": "Computing Research Repository",
+    "type": "conference",
+    "venue": "CitRec@RecSys",
+    "venueShort": "CitRec@RecSys",
+    "venueLong": "Workshop on Recommender Systems for Citizens at the ACM Conference on Recommender Systems",
     "doi": "10.1145/3127325.3127331",
     "url": "https://doi.org/10.1145/3127325.3127331",
     "pdf": "",
@@ -4781,7 +4713,7 @@
     "featured": false,
     "citations": 0,
     "awards": [],
-    "bibtex": "@inproceedings{Kucherbaev_2017, series={CitRec}, title={Chatbots as conversational recommender systems in urban contexts}, url={http://dx.doi.org/10.1145/3127325.3127331}, DOI={10.1145/3127325.3127331}, booktitle={Proceedings of the International Workshop on Recommender Systems for Citizens}, publisher={ACM}, author={Kucherbaev, Pavel and Psyllidis, Achilleas and Bozzon, Alessandro}, year={2017}, month=aug, pages={1â€“2}, collection={CitRec} }"
+    "bibtex": "@inproceedings{Kucherbaev_2017, series={CitRec}, title={Chatbots as conversational recommender systems in urban contexts}, url={http://dx.doi.org/10.1145/3127325.3127331}, DOI={10.1145/3127325.3127331}, booktitle={Proceedings of the International Workshop on Recommender Systems for Citizens}, publisher={ACM}, author={Kucherbaev, Pavel and Psyllidis, Achilleas and Bozzon, Alessandro}, year={2017}, month=Aug, pages={1–2}, collection={CitRec} }"
   },
   {
     "id": "recsys-2017-citrec-2017-international-workshop-on-recommender-systems-fo",
@@ -4943,7 +4875,7 @@
     "bibtex": "@inbook{Mesbah_2017, title={Facet Embeddings for Explorative Analytics in Digital Libraries}, ISBN={9783319670089}, ISSN={1611-3349}, url={http://dx.doi.org/10.1007/978-3-319-67008-9_8}, DOI={10.1007/978-3-319-67008-9_8}, booktitle={Research and Advanced Technology for Digital Libraries}, publisher={Springer International Publishing}, author={Mesbah, Sepideh and Fragkeskos, Kyriakos and Lofi, Christoph and Bozzon, Alessandro and Houben, Geert-Jan}, year={2017}, pages={86â€“99} }"
   },
   {
-    "id": "corr-2017-interacting-attention-gated-recurrent-networks-for-recommend",
+    "id": "cikm-2017-interacting-attention-gated-recurrent-networks-for-recommend",
     "title": "Interacting Attention-gated Recurrent Networks for Recommendation",
     "authors": [
       "W. Pei",
@@ -4954,10 +4886,10 @@
       "D. M. J. Tax"
     ],
     "year": 2017,
-    "type": "journal",
-    "venue": "CoRR",
-    "venueShort": "arXiv",
-    "venueLong": "Computing Research Repository",
+    "type": "conference",
+    "venue": "CIKM",
+    "venueShort": "CIKM",
+    "venueLong": "ACM International Conference on Information and Knowledge Management",
     "doi": "10.1145/3132847.3133005",
     "url": "https://doi.org/10.1145/3132847.3133005",
     "pdf": "",
@@ -4973,7 +4905,7 @@
     "featured": false,
     "citations": 0,
     "awards": [],
-    "bibtex": "@inproceedings{Pei_2017, series={CIKM ’17}, title={Interacting Attention-gated Recurrent Networks for Recommendation}, url={http://dx.doi.org/10.1145/3132847.3133005}, DOI={10.1145/3132847.3133005}, booktitle={Proceedings of the 2017 ACM on Conference on Information and Knowledge Management}, publisher={ACM}, author={Pei, Wenjie and Yang, Jie and Sun, Zhu and Zhang, Jie and Bozzon, Alessandro and Tax, David M.J.}, year={2017}, month=nov, pages={1459–1468}, collection={CIKM ’17} }"
+    "bibtex": "@inproceedings{Pei_2017, series={CIKM ’17}, title={Interacting Attention-gated Recurrent Networks for Recommendation}, url={http://dx.doi.org/10.1145/3132847.3133005}, DOI={10.1145/3132847.3133005}, booktitle={Proceedings of the 2017 ACM on Conference on Information and Knowledge Management}, publisher={ACM}, author={Pei, Wenjie and Yang, Jie and Sun, Zhu and Zhang, Jie and Bozzon, Alessandro and Tax, David M.J.}, year={2017}, month=Nov, pages={1459–1468}, collection={CIKM ’17} }"
   },
   {
     "id": "ijcai-2017-mrlr-multi-level-representation-learning-for-personalized-ra",
@@ -5082,10 +5014,10 @@
       "A. Bozzon"
     ],
     "year": 2017,
-    "type": "journal",
+    "type": "preprint",
     "venue": "CoRR",
     "venueShort": "arXiv",
-    "venueLong": "Computing Research Repository",
+    "venueLong": "arXiv preprint",
     "doi": "",
     "url": "http://arxiv.org/abs/1702.03385",
     "pdf": "",
