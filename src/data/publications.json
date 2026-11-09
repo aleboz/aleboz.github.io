@@ -715,7 +715,7 @@
     "featured": false,
     "citations": 0,
     "awards": [],
-    "bibtex": ""
+    "bibtex": "@inproceedings{Bozzon_2026_PapersChairs,\n  author = {A. Bozzon and T. Kosch and V. Liao and X. Ma and A. R. Luther and C. Offerman and X. Shi and Q. Song},\n  title = {Papers Chairs' Welcome},\n  booktitle = {Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems},\n  series = {CHI '26},\n  publisher = {ACM},\n  year = {2026}\n}"
   },
   {
     "id": "lncs-2025-web-engineering-25th-international-conference-icwe-2025-delf",
@@ -1285,7 +1285,7 @@
     "featured": false,
     "citations": 0,
     "awards": [],
-    "bibtex": ""
+    "bibtex": "@inproceedings{GomezBeldarrain_2025_Key,\n  author = {G. Gomez-Beldarrain and H. Verma and E. Kim and A. Bozzon},\n  title = {Key Considerations for the Automation of Physical Work in Organizations: the Effect of Stakeholders},\n  booktitle = {AutomationXP25: Workshop on Automation Experience at the ACM CHI Conference on Human Factors in Computing Systems},\n  year = {2025}\n}"
   },
   {
     "id": "ieee-trans.-knowl.-d-2024-amalur-the-convergence-of-data-integration-and-machine-learn",
@@ -3241,7 +3241,7 @@
     "featured": false,
     "citations": 0,
     "awards": [],
-    "bibtex": ""
+    "bibtex": "@inproceedings{Rudinac_2021_UrbanMMWelcome,\n  author = {S. Rudinac and A. Bozzon and T. Chua and S. Little and D. Gatica-Perez and K. Aizawa},\n  title = {UrbanMM'21 Workshop Chairs' Welcome},\n  booktitle = {Proceedings of the 1st International Workshop on Multimedia Computing for Urban Data},\n  series = {UrbanMM '21},\n  publisher = {ACM},\n  year = {2021}\n}"
   },
   {
     "id": "icwe-2020-a-credit-scoring-model-for-smes-based-on-social-media-data",
@@ -6461,7 +6461,7 @@
     "featured": false,
     "citations": 0,
     "awards": [],
-    "bibtex": ""
+    "bibtex": "@patent{Ceri_2014_Method,\n  author = {S. Ceri and M. Brambilla and A. Bozzon},\n  title = {Method and system of management of queries for crowd searching},\n  number = {US 8,825,701},\n  type = {US Patent},\n  year = {2014},\n  url = {https://patents.google.com/patent/US8825701B2}\n}"
   },
   {
     "id": "icwe-2013-an-introduction-to-human-computation-and-games-with-a-purpos",
@@ -7615,7 +7615,7 @@
     "featured": false,
     "citations": 0,
     "awards": [],
-    "bibtex": ""
+    "bibtex": "@proceedings{LHD_2011,\n  title = {Workshop on Discovering Meaning On the Go in Large Heterogeneous Data 2011 (LHD-11)},\n  note = {Held at the International Joint Conference on Artificial Intelligence (IJCAI 2011)},\n  year = {2011}\n}"
   },
   {
     "id": "other-2011-build-your-complex-search-social-behavioral-and-micro-econom",
@@ -7644,7 +7644,7 @@
     "featured": false,
     "citations": 0,
     "awards": [],
-    "bibtex": ""
+    "bibtex": "@misc{Brambilla_2011_Build,\n  author = {M. Brambilla and S. Ceri and A. Bozzon},\n  title = {Build your complex search: social, behavioral, and micro-economic perspective on modern Web search},\n  year = {2011}\n}"
   },
   {
     "id": "otm-workshops-2010-a-characterization-of-the-layout-definition-problem-for-web-",
