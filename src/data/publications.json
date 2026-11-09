@@ -4380,40 +4380,6 @@
     "bibtex": "@inproceedings{Bozzon_2018, series={ICSE ’18}, title={Enterprise crowd computing for human aided chatbots}, url={http://dx.doi.org/10.1145/3195555.3195566}, DOI={10.1145/3195555.3195566}, booktitle={Proceedings of the 1st International Workshop on Software Engineering for Cognitive Services}, publisher={ACM}, author={Bozzon, Alessandro}, year={2018}, month=may, pages={29–30}, collection={ICSE ’18} }"
   },
   {
-    "id": "hcomp-2018-expert-disagreement-in-sequential-labeling-a-case-study-on-a",
-    "title": "Expert Disagreement in Sequential Labeling: A Case Study on Adjudication in Medical Time Series Analysis (short paper)",
-    "authors": [
-      "A. Balayn",
-      "P. Mavridis",
-      "A. Bozzon",
-      "B. Timmermans",
-      "Z. Szlávik"
-    ],
-    "year": 2018,
-    "type": "conference",
-    "venue": "SAD/CrowdBias@HCOMP",
-    "venueShort": "SAD/CrowdBias@HCOMP",
-    "venueLong": "Workshops on Subjectivity, Ambiguity and Disagreement and on Disentangling the Relation Between Crowdsourcing and Bias Management at HCOMP",
-    "doi": "",
-    "url": "https://ceur-ws.org/Vol-2276/paper7.pdf",
-    "pdf": "",
-    "code": "",
-    "dataset": "",
-    "slides": "",
-    "video": "",
-    "abstract": "",
-    "keywords": [],
-    "themes": [
-      "Human-Centered AI",
-      "Crowd Computing",
-      "Responsible & Value-Aligned AI"
-    ],
-    "featured": false,
-    "citations": 0,
-    "awards": [],
-    "bibtex": "@inproceedings{Balayn_2018_Expert,\n  author = {Agathe Balayn and Panagiotis Mavridis and Alessandro Bozzon and Benjamin Timmermans and Zoltán Szlávik},\n  title = {Expert Disagreement in Sequential Labeling: A Case Study on Adjudication in Medical Time Series Analysis (short paper)},\n  year = {2018},\n  booktitle = {SAD/CrowdBias@HCOMP}\n}"
-  },
-  {
     "id": "hcomp-2018-how-do-crowdworker-communities-and-microtask-markets-influen",
     "title": "How Do Crowdworker Communities and Microtask Markets Influence Each Other? A Data-Driven Study on Amazon Mechanical Turk",
     "authors": [
