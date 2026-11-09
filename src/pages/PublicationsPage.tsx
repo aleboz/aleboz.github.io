@@ -12,7 +12,7 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@
 import publicationsData from '@/data/publications.json';
 import type { Publication } from '@/types';
 import { useDocumentTitle } from '@/hooks/useDocumentTitle';
-import { venueGroup } from '@/lib/venues';
+import { venueGroup, venueKey, venueCategory } from '@/lib/venues';
 import VenueFilter, { type VenueOption } from '@/components/VenueFilter';
 
 type Facet = 'year' | 'type' | 'venue' | 'theme' | 'author';
@@ -80,20 +80,27 @@ export default function PublicationsPage() {
   const [authorFilter, setAuthorFilter] = useState<string>('all');
   const [venueFilter, setVenueFilter] = useState<string>('all');
 
-  /** Venue groups (e.g. CHI incl. CHI EA and CHI workshops), largest first. */
+  /**
+   * Venue options (e.g. CHI incl. CHI EA and CHI workshops), one per category
+   * a venue has entries in, largest first within each category.
+   */
   const venues = useMemo<VenueOption[]>(() => {
     const total = new Map<string, number>();
     const longName = new Map<string, string>();
     for (const p of pubs) {
-      const g = venueGroup(p.venueShort);
-      if (!g) continue;
-      total.set(g, (total.get(g) ?? 0) + 1);
+      const key = venueKey(p);
+      if (!key) continue;
+      total.set(key, (total.get(key) ?? 0) + 1);
       // Prefer the full name of the main venue itself (venueShort === group).
+      const g = venueGroup(p.venueShort);
       if (p.venueLong && (p.venueShort === g || !longName.has(g))) longName.set(g, p.venueLong);
     }
     return [...total.keys()]
-      .sort((a, b) => (total.get(b)! - total.get(a)!) || a.localeCompare(b))
-      .map(name => ({ name, longName: longName.get(name) ?? name }));
+      .map(key => {
+        const name = key.slice(key.indexOf('::') + 2);
+        return { key, name, category: venueCategory(key.slice(0, key.indexOf('::')))!, longName: longName.get(name) ?? name };
+      })
+      .sort((a, b) => (total.get(b.key)! - total.get(a.key)!) || a.name.localeCompare(b.name));
   }, [pubs]);
 
   /**
@@ -105,7 +112,7 @@ export default function PublicationsPage() {
     if (featuredOnly && !p.featured) return false;
     if (ignore !== 'year' && yearFilter !== 'all' && p.year !== Number(yearFilter)) return false;
     if (ignore !== 'type' && typeFilter !== 'all' && p.type !== typeFilter) return false;
-    if (ignore !== 'venue' && venueFilter !== 'all' && venueGroup(p.venueShort) !== venueFilter) return false;
+    if (ignore !== 'venue' && venueFilter !== 'all' && venueKey(p) !== venueFilter) return false;
     if (ignore !== 'theme' && themeFilter !== 'all' && !p.themes.includes(themeFilter)) return false;
     if (ignore !== 'author' && authorFilter !== 'all' && !p.authors.includes(authorFilter)) return false;
     if (query) {
@@ -135,7 +142,7 @@ export default function PublicationsPage() {
     return {
       year: tally('year', p => [p.year]),
       type: tally('type', p => [p.type]),
-      venue: tally('venue', p => [venueGroup(p.venueShort)]),
+      venue: tally('venue', p => [venueKey(p)]),
       theme: tally('theme', p => p.themes),
       author: tally('author', p => p.authors),
     };
