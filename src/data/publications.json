@@ -2336,6 +2336,192 @@
     "bibtex": "@article{0001_2023_Safeguarding,\n  author = {Chaofan Wang 0001 and Samuel Kernan Freire and Mo Zhang and Jing Wei 0002 and Jorge Gonçalves 0001 and Vassilis Kostakos and Zhanna Sarsenbayeva and Christina Schneegass and Alessandro Bozzon and Evangelos Niforatos},\n  title = {Safeguarding Crowdsourcing Surveys from ChatGPT with Prompt Injection},\n  year = {2023},\n  journal = {CoRR},\n  doi = {10.48550/arXiv.2306.08833},\n  url = {https://doi.org/10.48550/arXiv.2306.08833}\n}"
   },
   {
+    "id": "environ.-res.-2023-adopting-a-child-perspective-for-exposome-research-on-mental",
+    "title": "Adopting a child perspective for exposome research on mental health and cognitive development - Conceptualisation and opportunities.",
+    "authors": [
+      "K. Persson Waye",
+      "J. Löve",
+      "P. Lercher",
+      "A. M. Dzhambov",
+      "M. Klatte",
+      "D. Schreckenberg",
+      "C. Belke",
+      "L. Leist",
+      "G. Ristovska",
+      "S. Jeram",
+      "K. M. Kanninen",
+      "J. Selander",
+      "A. Arat",
+      "T. Lachmann",
+      "C. Clark",
+      "D. Botteldooren",
+      "K. White",
+      "J. Julvez",
+      "M. Foraster",
+      "J. Kaprio",
+      "G. Bolte",
+      "A. Psyllidis",
+      "J. Gulliver",
+      "H. Boshuizen",
+      "A. Bozzon",
+      "J. Fels",
+      "M. Hornikx",
+      "P. van den Hazel",
+      "M. Weber",
+      "M. Brambilla",
+      "E. Braat-Eggen",
+      "I. Van Kamp",
+      "N. Vincens"
+    ],
+    "year": 2023,
+    "type": "journal",
+    "venue": "Environmental Research",
+    "venueShort": "Environ. Res.",
+    "venueLong": "Environmental Research",
+    "doi": "10.1016/j.envres.2023.117279",
+    "url": "https://doi.org/10.1016/j.envres.2023.117279",
+    "pdf": "",
+    "code": "",
+    "dataset": "",
+    "slides": "",
+    "video": "",
+    "abstract": "Mental disorders among children and adolescents pose a significant global challenge. The exposome framework covering the totality of internal, social and physical exposures over a lifetime provides opportunities to better understand the causes of and processes related to mental health, and cognitive functioning. The paper presents a conceptual framework on exposome, mental health, and cognitive development in children and adolescents, with potential mediating pathways, providing a possibility for interventions along the life course. The paper underscores the significance of adopting a child perspective to the exposome, acknowledging children's specific vulnerability, including differential exposures, susceptibility of effects and capacity to respond; their susceptibility during development and growth, highlighting neurodevelopmental processes from conception to young adulthood that are highly sensitive to external exposures. Further, critical periods when exposures may have significant effects on a child's development and future health are addressed. The paper stresses that children's behaviour, physiology, activity pattern and place for activities make them differently vulnerable to environmental pollutants, and calls for child-specific assessment methods, currently lacking within today's health frameworks. The importance of understanding the interplay between structure and agency is emphasized, where agency is guided by social structures and practices and vice-versa. An intersectional approach that acknowledges the interplay of social and physical exposures as well as a global and rural perspective on exposome is further pointed out. To advance the exposome field, interdisciplinary efforts that involve multiple scientific disciplines are crucial. By adopting a child perspective and incorporating an exposome approach, we can gain a comprehensive understanding of how exposures impact children's mental health and cognitive development leading to better outcomes.",
+    "keywords": [],
+    "themes": [
+      "Human-Centered AI"
+    ],
+    "featured": false,
+    "citations": 0,
+    "awards": [],
+    "bibtex": "@article{Persson_Waye_2023, title={Adopting a child perspective for exposome research on mental health and cognitive development - Conceptualisation and opportunities.}, volume={239}, ISSN={0013-9351}, url={http://dx.doi.org/10.1016/j.envres.2023.117279}, DOI={10.1016/j.envres.2023.117279}, journal={Environmental Research}, publisher={Elsevier BV}, author={Persson Waye, Kerstin and Löve, Jesper and Lercher, Peter and Dzhambov, Angel M. and Klatte, Maria and Schreckenberg, Dirk and Belke, Christin and Leist, Larisa and Ristovska, Gordana and Jeram, Sonja and Kanninen, Katja M. and Selander, Jenny and Arat, Arzu and Lachmann, Thomas and Clark, Charlotte and Botteldooren, Dick and White, Kim and Julvez, Jordi and Foraster, Maria and Kaprio, Jaakko and Bolte, Gabriele and Psyllidis, Achilleas and Gulliver, John and Boshuizen, Hendriek and Bozzon, Alessandro and Fels, Janina and Hornikx, Maarten and van den Hazel, Peter and Weber, Miriam and Brambilla, Marco and Braat-Eggen, Ella and Van Kamp, Irene and Vincens, Natalia}, year={2023}, month=Dec, pages={117279} }"
+  },
+  {
+    "id": "urban-stud.-2023-cities-and-infectious-diseases-assessing-the-exposure-of-ped",
+    "title": "Cities and infectious diseases: Assessing the exposure of pedestrians to virus transmission along city streets",
+    "authors": [
+      "A. Psyllidis",
+      "F. Duarte",
+      "R. Teeuwen",
+      "A. Salazar Miranda",
+      "T. Benson",
+      "A. Bozzon"
+    ],
+    "year": 2023,
+    "type": "journal",
+    "venue": "Urban Studies",
+    "venueShort": "Urban Stud.",
+    "venueLong": "Urban Studies",
+    "doi": "10.1177/00420980211042824",
+    "url": "https://doi.org/10.1177/00420980211042824",
+    "pdf": "",
+    "code": "",
+    "dataset": "",
+    "slides": "",
+    "video": "",
+    "abstract": "As cities resume life in public space, they face the difficult task of retaining outdoor activity while decreasing exposure to airborne viruses, such as the novel coronavirus. Even though the transmission risk is higher in indoor spaces, recent evidence suggests that physical contact outdoors also contributes to an increased virus exposure. Given that streets constitute the largest percentage of public space in cities, there is an increasing need to prioritise their use to minimise transmission risk. However, city officials currently lack the assessment tools to achieve this. This article evaluates the extent to which street segments are associated with spatiotemporal variations of potential exposures of pedestrians to virus transmission. We develop a multi-component risk score that considers both urban form and human activity along streets over time, including (a) an assessment of pedestrian infrastructure according to the average width of pavements, (b) a measure of accessibility for each street based on its position in the street network, (c) an activity exposure score that identifies places along streets where exposure could be higher and (d) an estimate of the number of pedestrians that will pass through each street during weekdays and weekends. We use Amsterdam in the Netherlands as a case study to illustrate how our score could be used to assess the exposure of pedestrians to virus transmission along streets. Our approach can be replicated in other cities facing a similar challenge of bringing life back to the streets while minimising transmission risks.",
+    "keywords": [],
+    "themes": [
+      "Human-Centered AI"
+    ],
+    "featured": false,
+    "citations": 0,
+    "awards": [],
+    "bibtex": "@article{Psyllidis_2021, title={Cities and infectious diseases: Assessing the exposure of pedestrians to virus transmission along city streets}, volume={60}, ISSN={1360-063X}, url={http://dx.doi.org/10.1177/00420980211042824}, DOI={10.1177/00420980211042824}, number={9}, journal={Urban Studies}, publisher={SAGE Publications}, author={Psyllidis, Achilleas and Duarte, Fábio and Teeuwen, Roos and Salazar Miranda, Arianna and Benson, Tom and Bozzon, Alessandro}, year={2021}, month=Sept, pages={1610–1628} }"
+  },
+  {
+    "id": "cupum-2023-eyes-on-the-street-estimating-natural-surveillance-along-ams",
+    "title": "“Eyes on the Street”: Estimating Natural Surveillance Along Amsterdam’s City Streets Using Street-Level Imagery",
+    "authors": [
+      "T. Van Asten",
+      "V. Milias",
+      "A. Bozzon",
+      "A. Psyllidis"
+    ],
+    "year": 2023,
+    "type": "conference",
+    "venue": "CUPUM",
+    "venueShort": "CUPUM",
+    "venueLong": "International Conference on Computational Urban Planning and Urban Management",
+    "doi": "10.1007/978-3-031-31746-0_12",
+    "url": "https://doi.org/10.1007/978-3-031-31746-0_12",
+    "pdf": "",
+    "code": "",
+    "dataset": "",
+    "slides": "",
+    "video": "",
+    "abstract": "",
+    "keywords": [],
+    "themes": [
+      "Human-Centered AI"
+    ],
+    "featured": false,
+    "citations": 0,
+    "awards": [],
+    "bibtex": "@inbook{Van_Asten_2023, title={“Eyes on the Street”: Estimating Natural Surveillance Along Amsterdam’s City Streets Using Street-Level Imagery}, ISBN={9783031317460}, ISSN={2365-7588}, url={http://dx.doi.org/10.1007/978-3-031-31746-0_12}, DOI={10.1007/978-3-031-31746-0_12}, booktitle={Intelligence for Future Cities}, publisher={Springer Nature Switzerland}, author={Van Asten, Timo and Milias, Vasileios and Bozzon, Alessandro and Psyllidis, Achilleas}, year={2023}, pages={215–229} }"
+  },
+  {
+    "id": "iasdr-2023-making-a-scene-representing-and-annotating-enacted-interface",
+    "title": "Making a scene: Representing and annotating enacted interfaces in co-performances using the screenplay",
+    "authors": [
+      "E. v. Beek",
+      "E. Giaccardi",
+      "S. Boess",
+      "A. Bozzon"
+    ],
+    "year": 2023,
+    "type": "conference",
+    "venue": "IASDR",
+    "venueShort": "IASDR",
+    "venueLong": "International Association of Societies of Design Research Congress",
+    "doi": "10.21606/iasdr.2023.788",
+    "url": "https://doi.org/10.21606/iasdr.2023.788",
+    "pdf": "",
+    "code": "",
+    "dataset": "",
+    "slides": "",
+    "video": "",
+    "abstract": "",
+    "keywords": [],
+    "themes": [
+      "Human-Centered AI"
+    ],
+    "featured": false,
+    "citations": 0,
+    "awards": [],
+    "bibtex": "@inproceedings{van_Beek_2023, series={IASDR2023}, title={Making a scene: Representing and annotating enacted interfaces in co-performances using the screenplay}, url={http://dx.doi.org/10.21606/iasdr.2023.788}, DOI={10.21606/iasdr.2023.788}, booktitle={IASDR 2023: Life-Changing Design}, publisher={Design Research Society}, author={van Beek, Evert and Giaccardi, Elisa and Boess, Stella and Bozzon, Alessandro}, year={2023}, month=Oct, collection={IASDR2023} }"
+  },
+  {
+    "id": "iasdr-2023-investigating-the-adoption-of-autonomous-processes-in-the-co",
+    "title": "Investigating the adoption of autonomous processes in the context of organizations",
+    "authors": [
+      "G. Gomez-Beldarrain",
+      "E. Kim",
+      "H. Verma",
+      "A. Bozzon"
+    ],
+    "year": 2023,
+    "type": "conference",
+    "venue": "IASDR",
+    "venueShort": "IASDR",
+    "venueLong": "International Association of Societies of Design Research Congress",
+    "doi": "10.21606/iasdr.2023.812",
+    "url": "https://doi.org/10.21606/iasdr.2023.812",
+    "pdf": "",
+    "code": "",
+    "dataset": "",
+    "slides": "",
+    "video": "",
+    "abstract": "",
+    "keywords": [],
+    "themes": [
+      "Human-Centered AI"
+    ],
+    "featured": false,
+    "citations": 0,
+    "awards": [],
+    "bibtex": "@inproceedings{Gomez_Beldarrain_2023, series={IASDR2023}, title={Investigating the adoption of autonomous processes in the context of organizations}, url={http://dx.doi.org/10.21606/iasdr.2023.812}, DOI={10.21606/iasdr.2023.812}, booktitle={IASDR 2023: Life-Changing Design}, publisher={Design Research Society}, author={Gomez Beldarrain, Garoa and Kim, Euiyoung and Verma, Himanshu and Bozzon, Alessandro}, year={2023}, month=Oct, collection={IASDR2023} }"
+  },
+  {
     "id": "cui-2022-a-conversational-user-interface-for-instructional-maintenanc",
     "title": "A Conversational User Interface for Instructional Maintenance Reports",
     "authors": [
@@ -2940,6 +3126,124 @@
     "bibtex": "@inproceedings{Balayn_2021, series={WWW ’21}, title={What do You Mean? Interpreting Image Classification with Crowdsourced Concept Extraction and Analysis}, url={http://dx.doi.org/10.1145/3442381.3450069}, DOI={10.1145/3442381.3450069}, booktitle={Proceedings of the Web Conference 2021}, publisher={ACM}, author={Balayn, Agathe and Soilis, Panagiotis and Lofi, Christoph and Yang, Jie and Bozzon, Alessandro}, year={2021}, month=apr, pages={1937–1948}, collection={WWW ’21} }"
   },
   {
+    "id": "environ.-epidemiol.-2021-early-environmental-quality-and-life-course-mental-health-ef",
+    "title": "Early environmental quality and life-course mental health effects: The Equal-Life project",
+    "authors": [
+      "I. v. Kamp",
+      "K. Persson Waye",
+      "K. Kanninen",
+      "J. Gulliver",
+      "A. Bozzon",
+      "A. Psyllidis",
+      "H. Boshuizen",
+      "J. Selander",
+      "P. van den Hazel",
+      "M. Brambilla",
+      "M. Foraster",
+      "J. Julvez",
+      "M. Klatte",
+      "S. Jeram",
+      "P. Lercher",
+      "D. Botteldooren",
+      "G. Ristovska",
+      "J. Kaprio",
+      "D. Schreckenberg",
+      "M. Hornikx",
+      "J. Fels",
+      "M. Weber",
+      "E. Braat-Eggen",
+      "J. Hartmann",
+      "C. Clark",
+      "T. Vrijkotte",
+      "L. Brown",
+      "G. Bolte",
+      "Equal-Life Scientific Team"
+    ],
+    "year": 2021,
+    "type": "journal",
+    "venue": "Environmental Epidemiology",
+    "venueShort": "Environ. Epidemiol.",
+    "venueLong": "Environmental Epidemiology",
+    "doi": "10.1097/ee9.0000000000000183",
+    "url": "https://doi.org/10.1097/ee9.0000000000000183",
+    "pdf": "",
+    "code": "",
+    "dataset": "",
+    "slides": "",
+    "video": "",
+    "abstract": "Background: There is increasing evidence that a complex interplay of factors within environments in which children grows up, contributes to children’s suboptimal mental health and cognitive development. The concept of the life-course exposome helps to study the impact of the physical and social environment, including social inequities, on cognitive development and mental health over time. Methods: Equal-Life develops and tests combined exposures and their effects on children’s mental health and cognitive development. Data from eight birth-cohorts and three school studies (N = 240.000) linked to exposure data, will provide insights and policy guidance into aspects of physical and social exposures hitherto untapped, at different scale levels and timeframes, while accounting for social inequities. Reasoning from the outcome point of view, relevant stakeholders participate in the formulation and validation of research questions, and in the formulation of environmental hazards. Exposure assessment combines GIS-based environmental indicators with omics approaches and new data sources, forming the early-life exposome. Statistical tools integrate data at different spatial and temporal granularity and combine exploratory machine learning models with hypothesis-driven causal modeling. Conclusions: Equal-Life contributes to the development and utilization of the exposome concept by (1) integrating the internal, physical and social exposomes, (2) studying a distinct set of life-course effects on a child’s development and mental health (3) characterizing the child’s environment at different developmental stages and in different activity spaces, (4) looking at supportive environments for child development, rather than merely pollutants, and (5) combining physical, social indicators with novel effect markers and using new data sources describing child activity patterns and environments.",
+    "keywords": [],
+    "themes": [
+      "Human-Centered AI"
+    ],
+    "featured": false,
+    "citations": 0,
+    "awards": [],
+    "bibtex": "@article{Kamp_2021, title={Early environmental quality and life-course mental health effects: The Equal-Life project}, volume={6}, ISSN={2474-7882}, url={http://dx.doi.org/10.1097/ee9.0000000000000183}, DOI={10.1097/ee9.0000000000000183}, number={1}, journal={Environmental Epidemiology}, publisher={Ovid Technologies (Wolters Kluwer Health)}, author={Kamp, Irene van and Persson Waye, Kerstin and Kanninen, Katja and Gulliver, John and Bozzon, Alessandro and Psyllidis, Achilleas and Boshuizen, Hendriek and Selander, Jenny and van den Hazel, Peter and Brambilla, Marco and Foraster, Maria and Julvez, Jordi and Klatte, Maria and Jeram, Sonja and Lercher, Peter and Botteldooren, Dick and Ristovska, Gordana and Kaprio, Jaakko and Schreckenberg, Dirk and Hornikx, Maarten and Fels, Janina and Weber, Miriam and Braat-Eggen, Ella and Hartmann, Julia and Clark, Charlotte and Vrijkotte, Tanja and Brown, Lex and Bolte, Gabriele and }, year={2021}, month=Dec, pages={e183} }"
+  },
+  {
+    "id": "transportation-2021-counting-people-in-the-crowd-using-social-media-images-for-c",
+    "title": "Counting people in the crowd using social media images for crowd management in city events",
+    "authors": [
+      "V. X. Gong",
+      "W. Daamen",
+      "A. Bozzon",
+      "S. P. Hoogendoorn"
+    ],
+    "year": 2021,
+    "type": "journal",
+    "venue": "Transportation",
+    "venueShort": "Transportation",
+    "venueLong": "Transportation",
+    "doi": "10.1007/s11116-020-10159-z",
+    "url": "https://doi.org/10.1007/s11116-020-10159-z",
+    "pdf": "",
+    "code": "",
+    "dataset": "",
+    "slides": "",
+    "video": "",
+    "abstract": "City events are getting popular and are attracting a large number of people. This increase needs for methods and tools to provide stakeholders with crowd size information for crowd management purposes. Previous works proposed a large number of methods to count the crowd using different data in various contexts, but no methods proposed using social media images in city events and no datasets exist to evaluate the effectiveness of these methods. In this study we investigate how social media images can be used to estimate the crowd size in city events. We construct a social media dataset, compare the effectiveness of face recognition, object recognition, and cascaded methods for crowd size estimation, and investigate the impact of image characteristics on the performance of selected methods. Results show that object recognition based methods, reach the highest accuracy in estimating the crowd size using social media images in city events. We also found that face recognition and object recognition methods are more suitable to estimate the crowd size for social media images which are taken in parallel view, with selfies covering people in full face and in which the persons in the background have the same distance to the camera. However, cascaded methods are more suitable for images taken from top view with gatherings distributed in gradient. The created social media dataset is essential for selecting image characteristics and evaluating the accuracy of people counting methods in an urban event context.",
+    "keywords": [],
+    "themes": [
+      "Human-Centered AI"
+    ],
+    "featured": false,
+    "citations": 0,
+    "awards": [],
+    "bibtex": "@article{Gong_2021, title={Counting people in the crowd using social media images for crowd management in city events}, volume={48}, ISSN={1572-9435}, url={http://dx.doi.org/10.1007/s11116-020-10159-z}, DOI={10.1007/s11116-020-10159-z}, number={6}, journal={Transportation}, publisher={Springer Science and Business Media LLC}, author={Gong, V. X. and Daamen, W. and Bozzon, A. and Hoogendoorn, S. P.}, year={2021}, month=Jan, pages={3085–3119} }"
+  },
+  {
+    "id": "urbanmm@mm-2021-urbanmm-21-workshop-chairs-welcome",
+    "title": "UrbanMM'21 Workshop Chairs' Welcome",
+    "authors": [
+      "S. Rudinac",
+      "A. Bozzon",
+      "T. Chua",
+      "S. Little",
+      "D. Gatica-Perez",
+      "K. Aizawa"
+    ],
+    "year": 2021,
+    "type": "other",
+    "venue": "ACM",
+    "venueShort": "UrbanMM@MM",
+    "venueLong": "International Workshop on Multimedia Computing for Urban Data at ACM Multimedia",
+    "doi": "",
+    "url": "",
+    "pdf": "",
+    "code": "",
+    "dataset": "",
+    "slides": "",
+    "video": "",
+    "abstract": "",
+    "keywords": [],
+    "themes": [],
+    "featured": false,
+    "citations": 0,
+    "awards": [],
+    "bibtex": ""
+  },
+  {
     "id": "icwe-2020-a-credit-scoring-model-for-smes-based-on-social-media-data",
     "title": "A Credit Scoring Model for SMEs Based on Social Media Data",
     "authors": [
@@ -3440,6 +3744,71 @@
     "bibtex": "@book{2020, title={Web Information Systems and Technologies: 15th International Conference, WEBIST 2019, Vienna, Austria, September 18â€“20, 2019, Revised Selected Papers}, ISBN={9783030617509}, ISSN={1865-1356}, url={http://dx.doi.org/10.1007/978-3-030-61750-9}, DOI={10.1007/978-3-030-61750-9}, journal={Lecture Notes in Business Information Processing}, publisher={Springer International Publishing}, year={2020} }"
   },
   {
+    "id": "travel-behav.-soc.-2020-crowd-characterization-for-crowd-management-using-social-med",
+    "title": "Crowd characterization for crowd management using social media data in city events",
+    "authors": [
+      "V. X. Gong",
+      "W. Daamen",
+      "A. Bozzon",
+      "S. P. Hoogendoorn"
+    ],
+    "year": 2020,
+    "type": "journal",
+    "venue": "Travel Behaviour and Society",
+    "venueShort": "Travel Behav. Soc.",
+    "venueLong": "Travel Behaviour and Society",
+    "doi": "10.1016/j.tbs.2020.03.011",
+    "url": "https://doi.org/10.1016/j.tbs.2020.03.011",
+    "pdf": "",
+    "code": "",
+    "dataset": "",
+    "slides": "",
+    "video": "",
+    "abstract": "Large-scale events are becoming more frequent in contemporary cities, increasing the need for novel methods and tools that can provide relevant stakeholders with quantitative and qualitative insights about attendees’ characteristics. In this work, we investigate how social media can be used to provide such insights. First, we screen a set of factors that characterize crowd behavior and introduce a set of proxies derived from social media data. We characterize the crowd in two city-scale events, Sail 2015 and King’s Day 2016, analyzing several properties of their attendees, including demographics, city-role, crowd temporal distribution, social media post locations, Point of Interest (PoI.) preferences, and word use. We show that it is possible to characterize crowds in city-scale events using social media data, thus paving the way for new real-time applications on crowd monitoring and management for city-scale events.",
+    "keywords": [],
+    "themes": [
+      "Human-Centered AI"
+    ],
+    "featured": false,
+    "citations": 0,
+    "awards": [],
+    "bibtex": "@article{Gong_2020, title={Crowd characterization for crowd management using social media data in city events}, volume={20}, ISSN={2214-367X}, url={http://dx.doi.org/10.1016/j.tbs.2020.03.011}, DOI={10.1016/j.tbs.2020.03.011}, journal={Travel Behaviour and Society}, publisher={Elsevier BV}, author={Gong, Vincent X. and Daamen, Winnie and Bozzon, Alessandro and Hoogendoorn, Serge P.}, year={2020}, month=July, pages={192–212} }"
+  },
+  {
+    "id": "4tu-2020-reddit-dataset-for-adverse-drug-reaction",
+    "title": "Reddit dataset for Adverse Drug Reaction",
+    "authors": [
+      "S. Mesbah",
+      "J. Yang",
+      "R. Sips",
+      "M. V. Torre",
+      "C. Lofi",
+      "A. Bozzon",
+      "G.J. Houben"
+    ],
+    "year": 2020,
+    "type": "dataset",
+    "venue": "4TU.ResearchData",
+    "venueShort": "4TU",
+    "venueLong": "4TU.ResearchData",
+    "doi": "10.4121/uuid:f87cb471-99df-430d-9b40-080afa36ee7f",
+    "url": "https://doi.org/10.4121/uuid:f87cb471-99df-430d-9b40-080afa36ee7f",
+    "pdf": "",
+    "code": "",
+    "dataset": "",
+    "slides": "",
+    "video": "",
+    "abstract": "Reddit dataset for Adverse Drug Reaction (ADR) detection which was created with the help of expert annotators.",
+    "keywords": [],
+    "themes": [
+      "Human-in-the-Loop ML"
+    ],
+    "featured": false,
+    "citations": 0,
+    "awards": [],
+    "bibtex": "@misc{https://doi.org/10.4121/uuid:f87cb471-99df-430d-9b40-080afa36ee7f,\n  doi = {10.4121/UUID:F87CB471-99DF-430D-9B40-080AFA36EE7F},\n  url = {https://data.4tu.nl/articles/_/12719120/1},\n  author = {Mesbah, Sepideh and Yang, J. (Jie) and Sips, R.J. (Robert-Jan) and Valle Torre, M. (Manuel) and Lofi, C. (Christoph) and Bozzon, A. (Alessandro) and Houben, G.J. (Geert-Jan)},\n  keywords = {Information Systems, FOS: Computer and information sciences, Artificial Intelligence and Image Processing, Adverse drug reaction, Natural language processing, Social media, dissertation},\n  language = {en},\n  title = {Reddit dataset for Adverse Drug Reaction},\n  publisher = {4TU.Centre for Research Data},\n  year = {2020},\n  copyright = {Creative Commons Zero v1.0 Universal}\n}"
+  },
+  {
     "id": "ieee-internet-comput-2019-approaches-for-dialog-management-in-conversational-agents",
     "title": "Approaches for Dialog Management in Conversational Agents",
     "authors": [
@@ -3751,6 +4120,65 @@
     "citations": 0,
     "awards": [],
     "bibtex": "@article{Balayn_2019_Unfairness,\n  author = {Agathe Balayn and Alessandro Bozzon and Zoltán Szlávik},\n  title = {Unfairness towards subjective opinions in Machine Learning},\n  year = {2019},\n  journal = {CoRR}\n}"
+  },
+  {
+    "id": "trr-2019-estimate-sentiment-of-crowds-from-social-media-during-city-e",
+    "title": "Estimate Sentiment of Crowds from Social Media during City Events",
+    "authors": [
+      "V. X. Gong",
+      "W. Daamen",
+      "A. Bozzon",
+      "S. P. Hoogendoorn"
+    ],
+    "year": 2019,
+    "type": "journal",
+    "venue": "Transportation Research Record",
+    "venueShort": "TRR",
+    "venueLong": "Transportation Research Record: Journal of the Transportation Research Board",
+    "doi": "10.1177/0361198119846461",
+    "url": "https://doi.org/10.1177/0361198119846461",
+    "pdf": "",
+    "code": "",
+    "dataset": "",
+    "slides": "",
+    "video": "",
+    "abstract": "City events are being organized more frequently, and with larger crowds, in urban areas. There is an increased need for novel methods and tools that can provide information on the sentiments of crowds as an input for crowd management. Previous work has explored sentiment analysis and a large number of methods have been proposed relating to various contexts. None of them, however, aimed at deriving the sentiments of crowds using social media in city events, and no existing event-based dataset is available for such studies. This paper investigates how social media can be used to estimate the sentiments of crowds in city events. First, some lexicon-based and machine learning-based methods were selected to perform sentiment analyses, then an event-based sentiment annotated dataset was constructed. The performance of the selected methods was trained and tested in an experiment using common and event-based datasets. Results show that the machine learning method LinearSVC achieves the lowest estimation error for sentiment analysis on social media in city events. The proposed event-based dataset is essential for training methods to reduce estimation error in such contexts.",
+    "keywords": [],
+    "themes": [
+      "Human-Centered AI"
+    ],
+    "featured": false,
+    "citations": 0,
+    "awards": [],
+    "bibtex": "@article{Gong_2019, title={Estimate Sentiment of Crowds from Social Media during City Events}, volume={2673}, ISSN={2169-4052}, url={http://dx.doi.org/10.1177/0361198119846461}, DOI={10.1177/0361198119846461}, number={11}, journal={Transportation Research Record: Journal of the Transportation Research Board}, publisher={SAGE Publications}, author={Gong, Vincent X. and Daamen, Winnie and Bozzon, Alessandro and Hoogendoorn, Serge P.}, year={2019}, month=June, pages={836–850} }"
+  },
+  {
+    "id": "webist-2019-correction-to-web-information-systems-and-technologies",
+    "title": "Correction to: Web Information Systems and Technologies",
+    "authors": [
+      "A. Bozzon",
+      "F. J. Domínguez Mayo",
+      "J. Filipe"
+    ],
+    "year": 2019,
+    "type": "other",
+    "venue": "Springer",
+    "venueShort": "WEBIST",
+    "venueLong": "International Conference on Web Information Systems and Technologies, Springer LNBIP",
+    "doi": "10.1007/978-3-030-61750-9_11",
+    "url": "https://doi.org/10.1007/978-3-030-61750-9_11",
+    "pdf": "",
+    "code": "",
+    "dataset": "",
+    "slides": "",
+    "video": "",
+    "abstract": "",
+    "keywords": [],
+    "themes": [],
+    "featured": false,
+    "citations": 0,
+    "awards": [],
+    "bibtex": "@inbook{Bozzon_2020, title={Correction to: Web Information Systems and Technologies}, ISBN={9783030617509}, ISSN={1865-1356}, url={http://dx.doi.org/10.1007/978-3-030-61750-9_11}, DOI={10.1007/978-3-030-61750-9_11}, booktitle={Web Information Systems and Technologies}, publisher={Springer International Publishing}, author={Bozzon, Alessandro and Domínguez Mayo, Francisco José and Filipe, Joaquim}, year={2020}, pages={C1–C1} }"
   },
   {
     "id": "hcomp-2018-a-human-in-the-loop-approach-to-capture-bias-and-support-med",
@@ -4328,6 +4756,36 @@
     "citations": 0,
     "awards": [],
     "bibtex": "@article{Gong_2018, title={Using Social Media for Attendees Density Estimation in City-Scale Events}, volume={6}, ISSN={2169-3536}, url={http://dx.doi.org/10.1109/ACCESS.2018.2845339}, DOI={10.1109/access.2018.2845339}, journal={IEEE Access}, publisher={Institute of Electrical and Electronics Engineers (IEEE)}, author={Gong, V. X. and Yang, J. and Daamen, W. and Bozzon, A. and Hoogendoorn, S. and Houben, G. J.}, year={2018}, pages={36325â€“36340} }"
+  },
+  {
+    "id": "energies-2018-automatic-processing-of-user-generated-content-for-the-descr",
+    "title": "Automatic Processing of User-Generated Content for the Description of Energy-Consuming Activities at Individual and Group Level",
+    "authors": [
+      "R. De Kok",
+      "A. Mauri",
+      "A. Bozzon"
+    ],
+    "year": 2018,
+    "type": "journal",
+    "venue": "Energies",
+    "venueShort": "Energies",
+    "venueLong": "Energies",
+    "doi": "10.3390/en12010015",
+    "url": "https://doi.org/10.3390/en12010015",
+    "pdf": "",
+    "code": "",
+    "dataset": "",
+    "slides": "",
+    "video": "",
+    "abstract": "Understanding and improving the energy consumption behavior of individuals is considered a powerful approach to improve energy conservation and stimulate energy efficiency. To motivate people to change their energy consumption behavior, we need to have a thorough understanding of which energy-consuming activities they perform and how these are performed. Traditional sources of information about energy consumption, such as smart sensor devices and surveys, can be costly to set up, may lack contextual information, have infrequent updates, or are not publicly accessible. In this paper, we propose to use social media as a complementary source of information for understanding energy-consuming activities. A huge amount of social media posts are generated by hundreds of millions of people every day, they are publicly available, and provide real-time data often tagged to space and time. We design an ontology to get a better understanding of the energy-consuming activities domain and develop a text and image processing pipeline to extract from social media the description of energy-consuming activities. We run a case study on Istanbul and Amsterdam. We highlight the strength and weakness of our approach, showing that social media data has the potential to be a complementary source of information for describing energy-consuming activities.",
+    "keywords": [],
+    "themes": [
+      "Human-Centered AI"
+    ],
+    "featured": false,
+    "citations": 0,
+    "awards": [],
+    "bibtex": "@article{De_Kok_2018, title={Automatic Processing of User-Generated Content for the Description of Energy-Consuming Activities at Individual and Group Level}, volume={12}, ISSN={1996-1073}, url={http://dx.doi.org/10.3390/en12010015}, DOI={10.3390/en12010015}, number={1}, journal={Energies}, publisher={MDPI AG}, author={De Kok, Roos and Mauri, Andrea and Bozzon, Alessandro}, year={2018}, month=Dec, pages={15} }"
   },
   {
     "id": "corr-2017-chatbots-as-conversational-recommender-systems-in-urban-cont",
@@ -6010,6 +6468,36 @@
     "bibtex": "@article{Bozzon_2014_cItyAM,\n  author = {Alessandro Bozzon and Claudia Hauff and Geert-Jan Houben},\n  title = {cItyAM: Managing Big Urban Data for Analyzing and Modelling Cities},\n  year = {2014},\n  journal = {ERCIM News}\n}"
   },
   {
+    "id": "us-patent-2014-method-and-system-of-management-of-queries-for-crowd-searchi",
+    "title": "Method and system of management of queries for crowd searching",
+    "authors": [
+      "S. Ceri",
+      "M. Brambilla",
+      "A. Bozzon"
+    ],
+    "year": 2014,
+    "type": "patent",
+    "venue": "US Patent",
+    "venueShort": "US Patent",
+    "venueLong": "US 8,825,701",
+    "doi": "",
+    "url": "https://patents.google.com/patent/US8825701B2",
+    "pdf": "",
+    "code": "",
+    "dataset": "",
+    "slides": "",
+    "video": "",
+    "abstract": "",
+    "keywords": [],
+    "themes": [
+      "Crowd Computing"
+    ],
+    "featured": false,
+    "citations": 0,
+    "awards": [],
+    "bibtex": ""
+  },
+  {
     "id": "icwe-2013-an-introduction-to-human-computation-and-games-with-a-purpos",
     "title": "An Introduction to Human Computation and Games with a Purpose",
     "authors": [
@@ -6630,6 +7118,37 @@
     "bibtex": "@inproceedings{Brambilla_2012, title={Web Data Management through Crowdsourcing Upon Social Networks}, url={http://dx.doi.org/10.1109/ASONAM.2012.193}, DOI={10.1109/asonam.2012.193}, booktitle={2012 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining}, publisher={IEEE}, author={Brambilla, M. and Bozzon, A.}, year={2012}, month=aug, pages={1123â€“1127} }"
   },
   {
+    "id": "suite@icse-2012-search-upon-uml-repositories-with-text-matching-techniques",
+    "title": "Search upon UML repositories with text matching techniques",
+    "authors": [
+      "B. Bislimovska",
+      "A. Bozzon",
+      "M. Brambilla",
+      "P. Fraternali"
+    ],
+    "year": 2012,
+    "type": "conference",
+    "venue": "SUITE",
+    "venueShort": "SUITE@ICSE",
+    "venueLong": "International Workshop on Search-Driven Development: Users, Infrastructure, Tools and Evaluation at ICSE",
+    "doi": "10.1109/suite.2012.6225479",
+    "url": "https://doi.org/10.1109/suite.2012.6225479",
+    "pdf": "",
+    "code": "",
+    "dataset": "",
+    "slides": "",
+    "video": "",
+    "abstract": "",
+    "keywords": [],
+    "themes": [
+      "Human-in-the-Loop ML"
+    ],
+    "featured": false,
+    "citations": 0,
+    "awards": [],
+    "bibtex": "@inproceedings{Bislimovska_2012, title={Search upon UML repositories with text matching techniques}, url={http://dx.doi.org/10.1109/suite.2012.6225479}, DOI={10.1109/suite.2012.6225479}, booktitle={2012 4th International Workshop on Search-Driven Development: Users, Infrastructure, Tools, and Evaluation (SUITE)}, publisher={IEEE}, author={Bislimovska, Bojana and Bozzon, Alessandro and Brambilla, Marco and Fraternali, Piero}, year={2012}, month=June, pages={9–12} }"
+  },
+  {
     "id": "icwe-2011-a-conceptual-framework-for-linked-data-exploration",
     "title": "A Conceptual Framework for Linked Data Exploration",
     "authors": [
@@ -7076,6 +7595,90 @@
     "citations": 0,
     "awards": [],
     "bibtex": "@inproceedings{Bozzon_2011_Understanding,\n  author = {Alessandro Bozzon and Marco Brambilla 0001 and Stefano Ceri and Emanuele Della Valle and Silvia Quarteroni},\n  title = {Understanding Web Data Sources for Search and Exploration},\n  year = {2011},\n  booktitle = {LDH}\n}"
+  },
+  {
+    "id": "suite@icse-2011-content-based-search-of-model-repositories-with-graph-matchi",
+    "title": "Content-based search of model repositories with graph matching techniques",
+    "authors": [
+      "B. Bislimovska",
+      "A. Bozzon",
+      "M. Brambilla",
+      "P. Fraternali"
+    ],
+    "year": 2011,
+    "type": "conference",
+    "venue": "SUITE",
+    "venueShort": "SUITE@ICSE",
+    "venueLong": "International Workshop on Search-Driven Development: Users, Infrastructure, Tools and Evaluation at ICSE",
+    "doi": "10.1145/1985429.1985431",
+    "url": "https://doi.org/10.1145/1985429.1985431",
+    "pdf": "",
+    "code": "",
+    "dataset": "",
+    "slides": "",
+    "video": "",
+    "abstract": "",
+    "keywords": [],
+    "themes": [
+      "Human-in-the-Loop ML"
+    ],
+    "featured": false,
+    "citations": 0,
+    "awards": [],
+    "bibtex": "@inproceedings{Bislimovska_2011, series={ICSE11}, title={Content-based search of model repositories with graph matching techniques}, url={http://dx.doi.org/10.1145/1985429.1985431}, DOI={10.1145/1985429.1985431}, booktitle={Proceedings of the 3rd International Workshop on Search-Driven Development: Users, Infrastructure, Tools, and Evaluation}, publisher={ACM}, author={Bislimovska, Bojana and Bozzon, Alessandro and Brambilla, Marco and Fraternali, Piero}, year={2011}, month=May, pages={5–8}, collection={ICSE11} }"
+  },
+  {
+    "id": "lhd@ijcai-2011-workshop-on-discovering-meaning-on-the-go-in-large-heterogen",
+    "title": "Workshop on Discovering Meaning On the Go in Large Heterogeneous Data 2011 (LHD-11)",
+    "authors": [],
+    "year": 2011,
+    "type": "edited",
+    "venue": "IJCAI",
+    "venueShort": "LHD@IJCAI",
+    "venueLong": "Workshop on Discovering Meaning On the Go in Large Heterogeneous Data at IJCAI",
+    "doi": "",
+    "url": "",
+    "pdf": "",
+    "code": "",
+    "dataset": "",
+    "slides": "",
+    "video": "",
+    "abstract": "",
+    "keywords": [],
+    "themes": [],
+    "featured": false,
+    "citations": 0,
+    "awards": [],
+    "bibtex": ""
+  },
+  {
+    "id": "other-2011-build-your-complex-search-social-behavioral-and-micro-econom",
+    "title": "Build your complex search: social, behavioral, and micro-economic perspective on modern Web search",
+    "authors": [
+      "M. Brambilla",
+      "S. Ceri",
+      "A. Bozzon"
+    ],
+    "year": 2011,
+    "type": "other",
+    "venue": "",
+    "venueShort": "",
+    "doi": "",
+    "url": "",
+    "pdf": "",
+    "code": "",
+    "dataset": "",
+    "slides": "",
+    "video": "",
+    "abstract": "",
+    "keywords": [],
+    "themes": [
+      "Human-in-the-Loop ML"
+    ],
+    "featured": false,
+    "citations": 0,
+    "awards": [],
+    "bibtex": ""
   },
   {
     "id": "otm-workshops-2010-a-characterization-of-the-layout-definition-problem-for-web-",
@@ -7577,6 +8180,38 @@
     "bibtex": "@inbook{Bozzon_2011, title={Visualization of Multi-domain Ranked Data}, ISBN={9783642196683}, ISSN={1611-3349}, url={http://dx.doi.org/10.1007/978-3-642-19668-3_6}, DOI={10.1007/978-3-642-19668-3_6}, booktitle={Search Computing}, publisher={Springer Berlin Heidelberg}, author={Bozzon, Alessandro and Brambilla, Marco and Catarci, Tiziana and Ceri, Stefano and Fraternali, Piero and Matera, Maristella}, year={2011}, pages={53â€“69} }"
   },
   {
+    "id": "handbook-2010-towards-web-2-0-applications",
+    "title": "Towards Web 2.0 Applications: A Conceptual Model for Rich Internet Applications",
+    "authors": [
+      "A. Bozzon",
+      "S. Comai",
+      "P. Fraternali",
+      "G. T. Carughi"
+    ],
+    "year": 2010,
+    "type": "chapter",
+    "venue": "IGI Global",
+    "venueShort": "Handbook",
+    "venueLong": "Handbook of Research on Web 2.0, 3.0, and X.0, IGI Global",
+    "doi": "10.4018/978-1-60566-384-5.ch005",
+    "url": "https://doi.org/10.4018/978-1-60566-384-5.ch005",
+    "pdf": "",
+    "code": "",
+    "dataset": "",
+    "slides": "",
+    "video": "",
+    "abstract": "This chapter introduces a conceptual model for the design of Web 2.0 applications relying on rich Internet application (RIA) technologies. RIAs extend Web application features by allowing computation to be partitioned between the client and the server and support core Web 2.0 requirements, like real-time collaboration among users, sophisticated presentation and manipulation of multimedia content, and flexible human-machine interaction (synchronous and asynchronous, connected and disconnected). The proposed approach for the design of Web 2.0 applications extends a conceptual platform-independent model conceived for Web 1.0 applications with novel primitives capturing RIA features; the conceptual model can be automatically converted into implementations in all the most popular RIA technologies and frameworks like AJAX, OpenLaszlo, FLEX, AIR, Google Gears, Google Web toolkit, and Silverlight.",
+    "keywords": [],
+    "themes": [
+      "Human-Centered AI",
+      "Human-in-the-Loop ML"
+    ],
+    "featured": false,
+    "citations": 0,
+    "awards": [],
+    "bibtex": "@inbook{Bozzon_2010, title={Towards Web 2.0 Applications: A Conceptual Model for Rich Internet Applications}, ISBN={9781605663852}, url={http://dx.doi.org/10.4018/978-1-60566-384-5.ch005}, DOI={10.4018/978-1-60566-384-5.ch005}, booktitle={Handbook of Research on Web 2.0, 3.0, and X.0}, publisher={IGI Global}, author={Bozzon, Alessandro and Comai, Sara and Fraternali, Piero and Carughi, Giovanni Toffetti}, year={2010}, pages={75–95} }"
+  },
+  {
     "id": "icws-2009-a-conceptual-modeling-approach-to-business-service-mashup-de",
     "title": "A Conceptual Modeling Approach to Business Service Mashup Development",
     "authors": [
@@ -8023,6 +8658,38 @@
     "citations": 0,
     "awards": [],
     "bibtex": "@inproceedings{Bozzon_2007_Role,\n  author = {Alessandro Bozzon and Tereza Iofciu and Wolfgang Nejdl and Antonio Vincenzo Taddeo and Sascha Tönnies},\n  title = {Role Based Access Control for the Interaction with Search Engines},\n  year = {2007},\n  booktitle = {COOPER}\n}"
+  },
+  {
+    "id": "ecc-2007-bringing-internet-architectures-into-the-plant-the-case-of-h",
+    "title": "Bringing internet architectures into the plant: The case of HMI",
+    "authors": [
+      "A. Bozzon",
+      "M. Brambilla",
+      "P. Fraternali",
+      "P. Speroni"
+    ],
+    "year": 2007,
+    "type": "conference",
+    "venue": "ECC",
+    "venueShort": "ECC",
+    "venueLong": "European Control Conference",
+    "doi": "10.23919/ecc.2007.7068862",
+    "url": "https://doi.org/10.23919/ecc.2007.7068862",
+    "pdf": "",
+    "code": "",
+    "dataset": "",
+    "slides": "",
+    "video": "",
+    "abstract": "",
+    "keywords": [],
+    "themes": [
+      "Human-Centered AI",
+      "Human-in-the-Loop ML"
+    ],
+    "featured": false,
+    "citations": 0,
+    "awards": [],
+    "bibtex": "@inproceedings{Bozzon_2007, title={Bringing internet architectures into the plant: The case of HMI}, url={http://dx.doi.org/10.23919/ecc.2007.7068862}, DOI={10.23919/ecc.2007.7068862}, booktitle={2007 European Control Conference (ECC)}, publisher={IEEE}, author={Bozzon, Alessandro and Brambilla, Marco and Fraternali, Piero and Speroni, Paolo}, year={2007}, month=July, pages={5530–5537} }"
   },
   {
     "id": "www-2006-capturing-ria-concepts-in-a-web-modeling-language",

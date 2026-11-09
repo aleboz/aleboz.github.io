@@ -16,12 +16,12 @@ import { useDocumentTitle } from '@/hooks/useDocumentTitle';
 const TYPE_LABELS: Record<string, string> = {
   journal: 'Journal', conference: 'Conference', workshop: 'Workshop',
   book_chapter: 'Book Chapter', chapter: 'Book Chapter', book: 'Book',
-  edited: 'Edited Volume', dataset: 'Dataset', preprint: 'Preprint', other: 'Other',
+  edited: 'Edited Volume', dataset: 'Dataset', patent: 'Patent', preprint: 'Preprint', other: 'Other',
 };
 
 /** e.g. "CHI 2025 (ACM CHI Conference on Human Factors in Computing Systems)". */
 function formatVenue(pub: Publication): string {
-  const short = `${pub.venueShort || pub.venue} ${pub.year}`;
+  const short = [pub.venueShort || pub.venue, pub.year].filter(Boolean).join(' ');
   return pub.venueLong && pub.venueLong !== pub.venueShort ? `${short} (${pub.venueLong})` : short;
 }
 
