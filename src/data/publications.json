@@ -21,7 +21,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "In the shift towards human-centred manufacturing, our two-year longitudinal study investigates the real-world impact of deploying Cognitive Assistants (CAs) in factories. The CAs were designed to facilitate knowledge sharing among factory operators. Our investigation focussed on smartphone-based voice assistants and LLM-powered chatbots, examining their usability and utility in a real-world factory setting. Based on the qualitative feedback we collected during the deployments of CAs at the factories, we conducted a thematic analysis to investigate the perceptions, challenges, and overall impact on workflow and knowledge sharing. Our results indicate that while CAs have the potential to significantly improve efficiency through knowledge sharing and quicker resolution of production issues, they also introduce concerns around workplace surveillance, the types of knowledge that can be shared, and shortcomings compared to human-to-human knowledge sharing. Additionally, our findings stress the importance of addressing privacy, knowledge contribution burdens, and tensions between factory operators and their managers.",
     "keywords": [],
     "themes": [
       "Human-Centered AI"
@@ -61,7 +61,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Designing accessible technologies and services plays a vital role in facilitating social and civic inclusion for people with diverse abilities; yet inclusion is equally vital to creating them. The methods through which research and design are conducted should themselves be inclusive, so that people with diverse abilities can participate as co-designers and co-owners of the work. Nevertheless, researchers working across ability-diverse populations often find themselves without a clear starting point. Existing guidelines are scarce and often difficult to adapt to specific contexts and communities. Translating resources into practice requires tailored vocabularies and procedures that are rarely documented or shared. Our workshop brings together researchers and practitioners working with people with diverse abilities to begin mapping the landscape of inclusive methodological approaches. Our goal is to surface what people are already doing including adaptations, workarounds, and community-specific practices that rarely make it into publications. The outcome will be a shared resource that includes case studies and approaches that can be used as inspirational starting points that researchers can adapt to their own contexts and communities.",
     "keywords": [],
     "themes": [
       "Human-Centered AI"
@@ -92,7 +92,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Digital phenotyping promises objective, continuous symptom monitoring and early intervention for mental health conditions. However, how these technologies fit within the practices of people who already manage their mental health remains underexplored. People living with bipolar disorder, who proactively engage in self-management practices, appear to be a compelling case for these tools. Yet despite these people’s rich situated knowledge about tracking practices, they are largely treated as objects of quantitative clinical studies rather than equal epistemic partners. For this study, we developed a three-phase design-led qualitative inquiry including seafaring metaphor-based exploration, experiential tracking, and guided design exercises to investigate the needs, preferences, and self-expertise of three people diagnosed with bipolar disorder in the Netherlands and Belgium. Our conversations revealed how participants adapt existing \"record-keeping\" systems, navigate choice and autonomy across changing mental states, and involve care networks in ongoing practices of evidencing. This research contributes to emerging HCI scholarship on digital psychiatry tools grounded in lived experience.",
     "keywords": [],
     "themes": [
       "Human-Centered AI"
@@ -125,7 +125,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "As organizations increasingly adopt automation, innovation practitioners are responsible for selecting, adapting, testing, and implementing externally sourced innovations. However, little is known about how these upstream practices shape worker-automation arrangements, limiting our ability to intervene in innovation practice to address automation adoption challenges. To disentangle this relationship, we interviewed nine innovation practitioners at a major European airport pursuing long-term autonomous operations and analyzed their practices through a co-performance lens. We synthesize five co-performance design principles and examine where current practices align or conflict. Our findings reveal tensions: innovation practitioners prioritize full-automation arrangements while postponing human considerations; contextual constraints shape solutions, but openness to reconfiguration remains limited; and co-learning rarely extends beyond pilot phases. These insights provide HCI research and practice with guidance for reframing the conceptualization of automation, particularly by encouraging earlier consideration of human roles, promoting iterative visions, and recognizing workers as co-designers throughout innovation pipelines.",
     "keywords": [],
     "themes": [
       "Human-Centered AI"
@@ -159,7 +159,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Background This narrative review examines the barriers and opportunities that shape access and delivery of cervical cancer care services in sub-Saharan Africa. Unlike prior studies that only focused on single phases of care, this review adopts a comprehensive perspective by assessing access across the full cervical cancer care continuum. Methods A narrative review was conducted using six databases (Embase, Medline, Web of Science, Scopus, African Index Medicus, and CINAHL Plus). The included studies were thematically analyzed, and emerging themes were interpreted through the lens of the five dimensions of healthcare access: accessibility, availability, affordability, acceptability, and accommodation. Results Across 38 included studies, findings identified three overarching categories of barriers. (1) Individual-level barriers, including knowledge and awareness, socio-demographic and economic factors, and attitudes and beliefs; (2) Community-level barriers, including cultural acceptance and social norms, and community and social support networks, which further constrained engagement with services; and (3) Health-system-level barriers, including resource limitations, service delivery and quality, and weak policy implementation, which compounded delays and limited care effectiveness. Moreover, opportunities, such as methodological opportunities (community-driven health education, culturally informed healthcare interventions, and multi-stakeholder engagement) and technological opportunities (technology-enhanced health education, digital systems for patient navigation, and task decentralization using mobile health platforms, telehealth, electronic health records, and digital reminder systems), could be effectively integrated into the healthcare system to improve access and service delivery. Conclusion Access to cervical cancer care in sub-Saharan Africa is shaped by interconnected structural, sociocultural, and individual barriers that extend beyond supply and service availability alone. Literature often focuses on screening, diagnosis, and treatment of cervical cancer, while research gaps identified in this review persist in primary prevention, follow-up, and palliative care services. Findings from the review suggest that integrated, context-specific, and human-centered healthcare interventions are needed to strengthen care coordination, improve access, and enhance care outcomes.",
     "keywords": [],
     "themes": [
       "Human-Centered AI"
@@ -190,7 +190,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Living with a chronic condition involves ongoing work: tracking symptoms, managing medication, coordinating care, and maintaining routines to prevent recurrence of acute episodes. In psychiatric care, this workload is equally complex yet rarely examined in HCI and design research. Digital phenotyping, a nascent AI/ML-based approach to monitoring behaviour, passively collects sensor and device data and is promoted as an unobtrusive and scalable tool. Yet, this promise of passivity obscures the skilled labour that takes place–from data sense-making to fitting new tools into existing care practices. In this position paper, situated in the context of outpatient bipolar disorder treatment in the Netherlands, we seek to problematise the current approach and apply Burden of Treatment Theory to unpack this hidden workload. We argue that digital phenotyping design lacks sensitivity to the care ecologies of self-management it intervenes into and call for HCI researchers to further engage with this problem space.",
     "keywords": [],
     "themes": [
       "Human-Centered AI"
@@ -225,7 +225,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "AI-driven services continuously infer “models-of-users” to personalize content, automate decisions, and optimize interaction. Yet, most user models remain opaque, fragmented across platforms, and hard to correct, transfer, or revoke. As a result, personalisation in AI-driven services is commonly experienced as a trade-off between privacy and platform lock-in. Users must stay loyal to platforms if a model of adequate utility is to be built around them. This tension is sharpened by emerging regulatory obligations around transparency and user oversight (e.g., GDPR and the EU AI Act). We propose a full-day EICS 2026 workshop that focuses on engineering cross-compatible personalization: a vision for future interactive systems in which users can make their digital self-representations inspectable, editable, and selectively shareable. The workshop brings together researchers and practitioners from interactive systems engineering, HCI, AI/ML, and security/privacy to (1) map the design and engineering space of user-sovereign personalization; (2) derive reusable artifacts for the EICS community, such as a reference architecture, protocol sketches, and a pattern language of interaction techniques; and (3) seed a community around building interoperable toolchains for AI personalization that is not only accurate, but also controllable, auditable, and context-adaptive.",
     "keywords": [],
     "themes": [
       "Human-Centered AI"
@@ -257,7 +257,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "AI alignment relies on annotator judgments, yet annotation pipelines often treat annotators as interchangeable, obscuring how their social position shapes annotation. We introduce reflexive annotating as a probe that invites crowd workers to reflect on how their positionality informs subjective annotation judgments in a language model alignment context. Through a qualitative study with crowd workers (N = 30), including follow-up interviews (N = 5), we examine how our probe shapes annotators' behaviour, experience, and the situated metadata it elicits. We find that reflexive annotating captures epistemic metadata beyond static demographics by eliciting intersectional reasoning, surfacing positional humility, and nudging viewpoint change. Crucially, we also denote tensions between reflexive engagement and affective demands such as emotional exposure. We discuss the implications of our work for richer value elicitation and alignment practices that treat annotator judgments as situated and selectively integrate positional metadata.",
     "keywords": [],
     "themes": [
       "Responsible & Value-Aligned AI",
@@ -289,7 +289,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Women with endometriosis and Polycystic Ovary Syndrome (PCOS) require individualized, long-term, holistic care, yet systemic healthcare barriers leave many managing independently. Increasingly, women are turning to Large Language Models (LLMs), such as ChatGPT, for support in self-management. However, little is understood about how people use and experience LLMs in this context. We employed a feminist participatory approach to collective knowledge production and situated expertise to explore participants’ motivations and expectations in using LLMs for self-management. We engaged in co-annotation of personal ChatGPT conversations and collage-making sessions with 8 women living with endometriosis and/or PCOS, centering their lived experiences. We surfaced the layered experiences of self-managing endometriosis and/or PCOS with LLMs and how these compare and contrast with their ideal visions of care. We contribute empirical insights and design considerations for LLM systems providing support in this context.",
     "keywords": [],
     "themes": [
       "Human-Centered AI"
@@ -344,7 +344,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Gender microaggressions are subtle yet persistent forms of discrimination in workplace interactions. While LLMs can detect them in written texts, it remains poorly understood how their interpretations align or diverge from human perspectives and experiences. We present a mixed-method study comparing how LLMs and humans differing in gender identity and lived experience, interpret gender microaggressions in the workplace. Using short dialogues adapted from real-world accounts, we asked 141 participants to rate the likelihood that a scenario contains a microaggression and provide a rationale for their answers. The same tasks were completed by 7 different LLM models. Our analysis reveals significant differences in how humans and LLMs interpret microaggressions, captured in both ratings and rationales, and more interestingly, the effect of gender and lived experience on human interpretations. These findings highlight the need for systems detecting microaggressions to embrace interpretive plurality, and support reflection and awareness while accounting for ambiguity.",
     "keywords": [],
     "themes": [
       "Human-Centered AI",
@@ -375,7 +375,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Anticipating the ethical and societal risks of emerging technologies has become an urgent challenge as their rapid integration into everyday life can produce far-reaching social consequences. In response, Design Futures practices are gaining traction within HCI and design as approaches to critically examine and anticipate the implications of technology. Yet, systematic knowledge on how these practices are structured to foster ethical reflection remains limited. To address this gap, we conducted a scoping review of 32 case studies employing Design Futures to engage with ethical concerns. Drawing from this review, we present a Taxonomy of Design Futures Processes for Ethical Reflection, which illustrates how different activities, actors’ involvement, and types of futures generated shape the scope of ethical discussion. This taxonomy provides researchers and practitioners with practical guidance for creating Design Futures activities that foster ethical reflection on technology.",
     "keywords": [],
     "themes": [
       "Responsible & Value-Aligned AI"
@@ -406,7 +406,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Cancer treatment leaves survivors with sexual difficulties that extend beyond physical symptoms and permeate many aspects of life, yet these concerns remain neglected in current cancer care. This paper responds to this gap by exploring how bespoke co-designed care technologies can support survivors when grounded in their lived sexual experiences. We conducted trauma-informed, generative workshops with two cancer survivors. The workshops surfaced four themes: gaps in anticipatory care, shifts from lovers to carers, unsettled bodies and selfhood, and navigating fragmented support. Through co-designing, we created Lived Experiences Archive (a ‘zine series of anonymous survivor stories) and BodyTalk (a sensory couple game for rebuilding emotional and physical intimacy). Beyond the artefacts, we contribute a methodological account of co-designing as care and empirical insights into post-cancer sexuality. We demonstrate the epistemic potential of bespoke intimate health technologies to generate situated forms of care and knowledge often overlooked in conventional health technology design.",
     "keywords": [],
     "themes": [
       "Human-Centered AI"
@@ -450,7 +450,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Over 1.3 billion people worldwide live with long-term disabilities, yet many still face systemic exclusion despite advances in accessibility policy and technology. New regulations such as the EU Accessibility Act demand comprehensive transitions, but compliance risks becoming a superficial “checklist” exercise rather than fostering meaningful inclusion. For the HCI community, this moment calls for rethinking our approaches to participation, technology, ethics, and policy. In this meetup, we bring together researchers, practitioners, and advocates to revisit inclusive design through four themes: rethinking inclusive methodologies, disentangling technological challenges, unpacking ethical implications, and navigating policy opportunities. Through interactive mapping activities, participants will share practices, identify collaboration opportunities, and co-develop future directions. Our goal is to build cross-disciplinary connections and create actionable approaches that move beyond compliance toward holistic inclusion, ensuring that accessibility remains central to HCI research and practice.",
     "keywords": [],
     "themes": [
       "Human-Centered AI"
@@ -481,7 +481,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Access to cervical cancer care remains limited in sub-Saharan Africa, where women face compounded socio-cultural, gendered, and structural barriers. This qualitative study explores the lived experiences of nine women diagnosed with cervical cancer in Ethiopia and develops an empirically grounded patient journey map as a design and process artifact based on semi-structured interviews. The journey map reveals fragmented, non-linear care pathways, showing how barriers accumulate from symptom recognition through diagnosis, treatment, and post-treatment support. By visualizing breakdowns and transitions across the care path, the artifact supports problem framing, reflection, and identification of design opportunities. These disruptions intensify emotional and practical burdens, highlighting critical gaps in health literacy, information access, and continuity of care in the healthcare structure. The journey map defines a design-relevant problem space for context-sensitive digital health interventions. This work provides evidence for HCI researchers and practitioners to address accessibility barriers in cervical cancer care in low-resource settings.",
     "keywords": [],
     "themes": [
       "Human-Centered AI"
@@ -515,7 +515,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Artificial Intelligence (AI) and Machine Learning (ML) technologies are increasingly integrated into a variety of products and services. However, AI promises often fall short and unintended consequences multiply, causing a negative impact, especially on marginalised communities. In response, Participatory AI has emerged as a promising method to account for the consequences on people subject to AI and to help develop systems that are better aligned with societal values. Yet meaningful participation remains difficult to achieve. Participation tends to be short-term and consultative, or even a mask for hidden labour. Moreover, the aim of building knowledge that is situated and subjective often conflicts with the global scale and generalizability of AI, especially when it comes to foundational models. This panel unites experts to explore how to account for these issues, and more specifically, to collectively draw a picture of the limits of Participatory AI in terms of social justice.",
     "keywords": [],
     "themes": [
       "Responsible & Value-Aligned AI"
@@ -545,7 +545,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Chronic illnesses (CI) are increasing worldwide, positioning virtual assistants (VAs) as valuable tools for supporting patients in self-management. As effective self-management relies on holistic, patient-centered practices, AI is increasingly integrated into VAs to provide more personalized support. Yet, it is essential that VA design processes remain grounded in participatory approaches prioritizing patients’ values, needs, and lived experiences. To assess the current state of VA design processes, we conducted a scoping review of 55 papers examining how care is framed and patients are involved. Our findings reveal AI-driven VAs prioritize reductionist approaches over holistic care with minimal patient involvement. This highlights a gap between the potential of patient-centered care technology and current implementation practices. Our contributions include (1) a mapping of care dimensions currently implemented in VAs, (2) a categorization of patient roles in the design process, and (3) design implications to expand care dimensions and patient involvement in AI-driven VAs.",
     "keywords": [],
     "themes": [
       "Human-Centered AI"
@@ -576,7 +576,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Bio-digital systems that merge microbial life with technology promise new modes of computation, combining biological adaptability with digital precision. Yet realizing this potential symbiotically – where biological and digital agents co-adapt and co-process – remains elusive, largely due to the absence of a shared vocabulary bridging biology and computing. Consequently, microbes are often constrained to uni-directional roles, functioning as sensors or actuators rather than as active, computational partners in bio-digital systems. In response, we propose a taxonomy and pathways that articulate and expand the roles of biological and digital entities for synergetic bio-digital computation. Using this taxonomy, we analysed 70 systems across HCI, design, and engineering, identifying how biological mechanisms can be mapped onto computational abstractions. We argue that such mappings enable computationally actionable directions that foster richer and reciprocal relationships in bio-digital systems, supporting regenerative ecologies across time and scale while inspiring new paradigms for computation in HCI.",
     "keywords": [],
     "themes": [
       "Human-Centered AI"
@@ -609,7 +609,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Understanding the neural basis of three-dimensional (3D) perception is a fundamental objective in cognitive neuroscience. Despite advances in decoding 2D visual stimuli from neural data, reconstructing high-fidelity 3D objects with detailed texture and geometry remains largely unexplored. In this work, we introduce NeuroSculptor3D, the first single-stage, end-to-end framework for reconstructing textured 3D shapes directly from brain activity. NeuroSculptor3D integrates a viewpoint-aware brain embedding module that captures fine-grained spatial variations across visual perspectives, and a hierarchical guidance mechanism that aligns brain-derived features with perceptual, semantic, and structural priors. Together, these components facilitate the generation of consistent multi-view embeddings, which are then decoded via TRELLIS to produce high-quality textured 3D reconstructions. Experiments on the fMRI-Shape dataset demonstrate that NeuroSculptor3D outperforms existing baselines across multiple settings, achieving significant improvements in both structural accuracy and semantic consistency. Code will be released to facilitate further research.",
     "keywords": [],
     "themes": [
       "Human-in-the-Loop ML"
@@ -642,7 +642,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Many creative multimedia systems are built upon visual primitives such as strokes or textures, which are difficult to collect at scale and fundamentally different from natural image data. This data scarcity makes it challenging for modern generative models to learn expressive and controllable primitives, limiting their use in process-aware content creation. In this work, we study the problem of learning human-like brushstroke generation from a small set of hand-drawn samples ( \\(n=470\\) ) and propose StrokeDiff, a diffusion-based framework with Smooth Regularization (SmR). SmR injects stochastic visual priors during training, providing a simple mechanism to stabilize diffusion models under sparse supervision without altering the inference process. We further show how the learned primitives can be made controllable through a Bézier-based conditioning module and integrated into a complete stroke-based painting pipeline, including prediction, generation, ordering, and compositing. This demonstrates how data-efficient primitive modeling can support expressive and structured multimedia content creation. Experiments indicate that the proposed approach produces diverse and structurally coherent brushstrokes and enables paintings with richer texture and layering, validated by both automatic metrics and human evaluation.",
     "keywords": [],
     "themes": [
       "Human-in-the-Loop ML"
@@ -767,7 +767,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Cancer treatments often lead to sexual health challenges that greatly impact cancer survivors’ quality of life. Current interventions primarily address physiological aspects, like medication or vaginal care, overlooking psychological, social, and cultural dimensions. This paper explores how HCI can address this gap by supporting post-cancer sexual health with interventions for survivors and their partners, considering their lived experiences. Through reflexive thematic analysis of interviews with (N=6) medical sexologists, we identified five themes: perceiving the body as a medical object, the hot potato problem in oncology, sociotechnical sexploration, reuniting what treatment has divided, and designing interventions with openness in a highly situated context. These themes highlight cancer survivors’ experiences, the (in)effectiveness of current interventions, and provision of care. This research outlines the design space for post-cancer sexual health by providing specific design directions (“what”) and ways for designing them (“how”), while advancing the broader discourse on intimacy and design within HCI.",
     "keywords": [],
     "themes": [
       "Human-Centered AI"
@@ -800,7 +800,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "With psychiatry lagging behind other medical fields in terms of innovation in instruments and methods, AI provides it an opportunity to catch up. Advocates of digital phenotyping promise to provide an objective tool that detects symptoms by analysing data from personal devices. We argue that digital phenotyping requires a more reflexive and critical approach to its design and an alignment of the clinicians’ interests in generating relevant evidence with the needs of service users who seek tools to manage their condition. We propose a felt informatics approach, situating digital phenotyping design within the problem space of pragmatist aesthetics. Within this perspective, felt life becomes a central object and a site for digital phenotyping design. This paper reveals the ways diagnostic data mediates mental ill health experience, emphasises the cultivation of aesthetic sensibility as a fundamental element of digital phenotyping and includes design considerations for practitioners and researchers.",
     "keywords": [],
     "themes": [
       "Human-Centered AI"
@@ -831,7 +831,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "This paper presents a conceptual exploration of designing sexual pleasure as an evolving whole-body experience. It addresses the historically narrow focus of research and technology on functional outcomes such as reproduction and orgasm. This limited perspective overlooks diverse desires, emotional connection, and sensory engagement, reinforcing restrictive norms that shape how individuals conceptualise and experience sexuality. To inform our design inquiry, we conducted a qualitative survey (N=143) to generate how individuals understand and experience sexual pleasure. Reflexive thematic analysis of the responses reveals the influence of culture and technology on sexuality, alongside several experiential dimensions: emotional and embodied connection, play and sensory immersion, and vulnerability. These insights, together with a theoretical foundation, guide a design exploration communicated through two provocations. These provocations serve as reflections of an alternative design orientation; one that challenges normative assumptions, views pleasure as an ongoing process, supports bodily exploration, and facilitates richer, more inclusive sexual experiences.",
     "keywords": [],
     "themes": [
       "Human-Centered AI"
@@ -864,7 +864,7 @@
     "dataset": "https://doi.org/10.4121/be171486-fe03-45fe-8d8b-22b4c81cd3a2.v1",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Contestability has been proposed as a key element in designing algorithmic decision-making processes that safeguard decision subjects' rights to dignity and autonomy. However, little is known about how contestability can be operationalized based on decision subjects' needs and preferences. We address this research gap by identifying decision subjects' information and procedural needs for enacting meaningful contestability. To this end, we chose an illegal holiday rental detection scenario as our case; a high-risk decision-making process in the public sector. We conducted 21 semi-structured interviews with citizens with experience renting their homes out and different levels of AI literacy. We found that decision subjects request interventions that facilitate (1) cooperation in sense-making, (2) support in contestation acts, and (3) appropriate responsibility attribution. Our results highlight the cooperative work behind contestability, and motivate future efforts to structure individual and collective action, to personalize explanations for contestability, and to open up sites of contestation in AI pipelines.",
     "keywords": [],
     "themes": [
       "Responsible & Value-Aligned AI"
@@ -896,7 +896,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "The increasing digitisation that we have witnessed in the past few years has resulted in increased information and communications technology (ICT) hardware manufacturing, which is not sustainable due to the growing demand for critical materials and the greenhouse emissions associated with it. A solution is transitioning to a circular economy (CE). To facilitate this, boost the data economy and digital innovation, the European Union has introduced digital product passports (DPPs), which should provide information about a product’s lifetime to bring more transparency into supply chains. However, several challenges, namely the lack of findable, accessible, interoperable, reusable ICT and materials data and tools to support its interpretation for decision-making, are present. Utilising ontologies and knowledge graphs is a possible solution. Although the ontology work in the ICT and materials domains has been on the rise, there is a lack of a unified semantic model that can capture the complex, heterogeneous cross-domain data needed for building DPPs of ICT devices such as laptops and data servers. Motivated by this, we present the RePlanIT ontology for ICT DPPs, which captures knowledge on several levels – ICT device, hardware components, materials and the CE itself. RePlanIT’s specification is based on a literature survey, interviews and inputs from domain experts from both industry and academia. The ontology, its utilisation for building a knowledge graph of DPPs of laptops and data servers and its application have been successfully validated in a real-world case focusing on supporting more sustainable ICT procurement in government.",
     "keywords": [],
     "themes": [
       "Human-in-the-Loop ML"
@@ -931,7 +931,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "ChatGPT and other large language models (LLMs) have proven useful in crowdsourcing tasks, where they can effectively annotate machine learning training data. However, this means that they also have the potential for misuse, specifically to automatically answer surveys. LLMs can potentially circumvent quality assurance measures, thereby threatening the integrity of methodologies that rely on crowdsourcing surveys. In this paper, we propose a mechanism to detect LLM-generated responses to surveys. The mechanism uses ''prompt injection,'' such as directions that can mislead LLMs into giving predictable responses. We evaluate our technique against a range of question scenarios, types, and positions, and find that it can reliably detect LLM-generated responses with more than 98% effectiveness. We also provide an open-source software to help survey designers use our technique to detect LLM responses. Our work is a step in ensuring that survey methodologies remain rigorous vis-a-vis LLMs.",
     "keywords": [],
     "themes": [
       "Crowd Computing"
@@ -962,7 +962,7 @@
     "dataset": "https://doi.org/10.4121/32096b27-a9eb-4bc7-aaf2-73664241035a.v1",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "By 2027 more than 530 M homes will likely adopt at least one type of automated system. This means that a growing number of residents will be living with automated technology in the home, everyday. But living with smart homes is full of conflicts between what residents find appropriate and what technology does instead. Previous research, centering end-user needs, has often focused on smooth living experiences through graphical user interfaces and improved predictions. In this research, we take the more-than-human lens of co-performance to put crises in everyday practices in view, and to conceptualize a new notion of interface. Based on ethnographic data from 11 households, our findings illustrate how crises reveal conflicting ideas of appropriateness, how residents reconfigure their co-performances with technology in response to everyday crises, and how new interfaces are enacted as a result. We conclude by illuminating how researchers and designers should not look at the conflicts and crises emerging in the more-than-human home as something of which to get rid. Instead, they are opportunities for residents and buildings to respond to one another in the context of everyday life and to enact interfaces that were not pre-designed into the building.",
     "keywords": [],
     "themes": [
       "Human-Centered AI"
@@ -995,7 +995,7 @@
     "dataset": "https://doi.org/10.4121/8c19bb03-14de-4c85-b781-33eed0cac44a.v1",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Human intervention is claimed to safeguard decision-subjects’ rights in algorithmic decision-making and contribute to their fairness perceptions. However, how decision-subjects perceive hybrid decision-maker configurations (i.e., combining humans and algorithms) is unclear. We address this gap through a mixed-methods study in an algorithmic policy enforcement context. Through qualitative interviews (Study 1; N1 = 21), we identify three characteristics (i.e., decision-maker’s profile, model type, input data provenance) that affect how decision-subjects perceive decision-makers’ ability, benevolence, and integrity (ABI). Through a quantitative study (Study 2; N2 = 223), we then systematically evaluate the individual and combined effects of these characteristics on decision-subjects’ perceptions towards decision-makers, and fairness perceptions. We found that only decision-maker’s profile contributes to perceived ability, benevolence, and integrity. Interestingly, the effect of decision-maker’s profile on fairness perceptions was mediated by perceived ability and integrity. Our findings have design implications for ensuring effective human intervention as a protection against harmful algorithmic decisions.",
     "keywords": [],
     "themes": [
       "Human-Centered AI",
@@ -1027,7 +1027,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "In organizations, the interest in automation is long-standing. However, adopting automated processes remains challenging, even in environments that appear highly standardized and technically suitable for it. Through a case study in Amsterdam Airport Schiphol, this paper investigates automation as a broader sociotechnical system influenced by a complex network of actors and contextual factors. We study practitioners’ collective understandings of automation and subsequent efforts taken to implement it. Using imaginaries as a lens, we report findings from a qualitative interview study with 16 practitioners involved in airside automation projects. Our findings illustrate the organizational dynamics and complexities surrounding automation adoption, as reflected in the captured problem formulations, conceptions of the technology, envisioned human roles in autonomous operations, and perspectives on automation fit in the airside ecosystem. Ultimately, we advocate for contextual automation design, which carefully considers human roles, accounts for existing organizational politics, and avoids techno-solutionist approaches.",
     "keywords": [],
     "themes": [
       "Human-Centered AI"
@@ -1088,7 +1088,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Access to greenspace impacts children’s physical, social, and mental health. Numerous factors affect children’s access to urban greenspaces, often distinct from those affecting the general population, including parental restrictions, limited routine activity-space, and particular preferences. Most accessibility measures, however, employ the same principles for children and the general population, and a comprehensive exploration of factors and corresponding measures remains lacking. We conduct a scoping review and workshops with researchers and practitioners to identify factors affecting children’s access to greenspace, synthesize them into a conceptual model, and assess how existing accessibility measures address these factors. We focus on children aged 6–11 years old. Our analysis indicates children’s access involves a trade-off between reachability, determined by the route connecting the child’s starting setting to greenspace, and attractiveness, determined by how the greenspaces adhere to the child’s, and their companions’, preferences and motivations for visiting. Safety perceptions are important throughout. Existing accessibility measures predominantly emphasize reachability, neglecting personal characteristics and motivations. Based on our findings, we propose future directions for developing child-centered accessibility metrics. Our overview of metrics can facilitate decision-making in the selection of suitable measures, while our conceptual model can foster shared understanding of factors affecting children’s access to urban greenspace.",
     "keywords": [],
     "themes": [
       "Human-Centered AI"
@@ -1148,7 +1148,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Data and materials underlying the pending publication designated by improv_video_interview This study introduces a design perspective on unintended use, framing it as a form of improvisation to which supply-side actors might respond. The study employs a sensitizing video. This is used in semi-structured interviews with nine professionals in the Dutch heat pump value network to examine their responses to this video and the framework. The data consists of:1. An interview guide in Dutch and English translation (PDF)2. An information sheet and consent form for the participants (in Dutch) (PDF)3. The sensitizing video used in the interview (MP4)4. Brief summaries of each interview, anonymized (TXT)",
     "keywords": [],
     "themes": [
       "Human-Centered AI"
@@ -1181,7 +1181,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "This project captures perceptions of ability, benevolence, integrity and fairness towards different decision-maker configurations in algorithmic decision-making for policy enforcement. It consists of two studies. In the first study, we interview 21 participants with experience renting out their properties out as short-term rentals. Through these interviews we identify the main characteristics that interviewees considered when evaluating the appropriateness of decision-maker configurations (i.e., decision-maker profile, model type, data provenance). In the second study, we run a crowdsourced user study in Prolific with 223 participants. They were shown an illegal holiday identification scenario. Each participant was assigned to a scenario with a decision-maker configuration with varying decision-maker profile, different model types, and data provenance. The dataset includes: The prompts used for running the interviewsThe interview protocolPre-registration of the crowdsourced studyThe materials used for designing the crowdsourced user studyThe (anonymized) data from the crowdsourced studyThe script used to analyze the crowdsourced dataA document with all the rationales behind the statistical analysis of the crowdsourced dataAnalysis of open-ended questions of the crowdsourced study",
     "keywords": [],
     "themes": [
       "Human-Centered AI",
@@ -1213,7 +1213,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Data and materials underlying the publications: Practice reconfigurations around heat pumps in and beyond Dutch households and The everyday enactment of interfaces: a study of crises and conflicts in the more-than-human home These two publications result from ethnographic site visits to eleven homes in the Netherlands, equipped with heat pumps. This study was approved by TU Delft Human Research Ethics Committee. The data consists of:1. An interview guide for the ethnographic walkthrough in Dutch and an English translation (PDF)2. An information sheet and consent form for the participants (in Dutch) (PDF)3. Summaries of each ethnographic walkthrough including relevant details (TXT)",
     "keywords": [],
     "themes": [
       "Human-Centered AI"
@@ -1246,7 +1246,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "This project characterizes decision subjects' information and procedural needs for meaningful contestability in an algorithmic decision-making process for policy enforcement. We interviewed 21 participants with experience renting their properties out as short-term rentals. We introduced a hypothetical algorithmic system for identifying illegal holiday rentals and informed participants that their property had been identified as an illegal holiday rental. Throughout the interviews we captured their needs to meaningfully contest the algorithmic decision and the decision-making process as a whole. The dataset includes: The pre-registration of the studyThe screening surveyThe interview protocolThe prompts used as part of the interviews",
     "keywords": [],
     "themes": [
       "Responsible & Value-Aligned AI"
@@ -1311,7 +1311,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Machine learning (ML) training data is often scattered across disparate collections of datasets, called data silos. This fragmentation poses a major challenge for data-intensive ML applications: integrating and transforming data residing in different sources demand a lot of manual work and computational resources. With data privacy constraints, data often cannot leave the premises of data silos; hence model training should proceed in a decentralized manner. In this work, we present a vision of bridging traditional data integration (DI) techniques with the requirements of modern machine learning systems. We explore the possibilities of utilizing metadata obtained from data integration processes for improving the effectiveness, efficiency, and privacy of ML models. Towards this direction, we analyze ML training and inference over data silos. Bringing data integration and machine learning together, we highlight new research opportunities from the aspects of systems, representations, factorized learning, and federated learning.",
     "keywords": [],
     "themes": [
       "Human-Centered AI",
@@ -1342,7 +1342,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Remote Patient Management systems (RPM) are crucial for addressing healthcare workforce shortages. These systems are often designed with a specified focus on clinical functionalities, without proper consideration for human-centric concerns. A care perspective is essential not only to acknowledge patients as people, but also to foster better quality of care and, ultimately, adoption. This highlights the gap of how RPM can embed caring. This work offers a systematic literature review aimed at developing \"Caring RPM\", a normative framework that integrates the philosophy of caring from nursing theory into RPMs. This framework underwrites the practical, moral, and relational aspects of patient care, including actionable recommendations to recalibrate RPM systems for more effective human-centric design. The framework can inspire new ways of embedding the caring dimension into HCI design practices.",
     "keywords": [],
     "themes": [
       "Human-Centered AI",
@@ -1380,7 +1380,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Many people today watch news videos to get informed. However, news videos can frame information differently and be prone to bias that might lead to miscommunication. Bias is ubiquitous andinherent in interactions between news consumers’ groups, but framing can introduce additional bias in news communications. Citizens that interpret the news have different political orientations and, thus, understand them differently. Experts can be more capable of detecting biased or differently framed information. However, the ever-increasing amount of news videos also make it difficult for experts alone to analyze. While automated methods exist for identifying different types of bias, frame detection approaches, namely episodic and thematic framing, are scarce and focused on texts. In this work, we address the issue of scalable thematic and episodic frame detection in news videos through crowdsourcing and machine learning techniques. We design a crowdsourcing task for annotating thematic and episodic framing in videos with the help of domain experts in political and social sciences. We then use the annotations gathered from experts and crowds to investigate whether machine learning methods can scale up the annotation process by automatically labelling videos on episodic and thematic framing. Our results indicate that framing analysis is a challenging task, both for humans and machines, with high disagreement amongst experts and crowd annotators. Nevertheless, our results suggest that machine learning has potential by combining crowd and expert annotations and building upon them a classifier.",
     "keywords": [],
     "themes": [
       "Responsible & Value-Aligned AI"
@@ -1413,7 +1413,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Pre-trained deep learning (DL) models are increasingly accessible in public repositories, i.e., model zoos. Given a new prediction task, finding the best model to fine-tune can be computationally intensive and costly, especially when the number of pre-trained models is large. Selecting the right pre-trained models is crucial, yet complicated by the diversity of models from various model families (like ResNet, Vit, Swin) and the hidden relationships between models and datasets. Existing methods, which utilize basic information from models and datasets to compute scores indicating model performance on target datasets, overlook the intrinsic relationships, limiting their effectiveness in model selection. In this study, we introduce TransferGraph, a novel framework that reformulates model selection as a graph learning problem. TransferGraph constructs a graph using extensive metadata extracted from models and datasets, while capturing their inherent relationships. Through comprehensive experiments across 16 real datasets, both images and texts, we demonstrate TransferGraph's effectiveness in capturing essential model-dataset relationships, yielding up to a 32% improvement in correlation between predicted performance and the actual fine-tuning results compared to the state-of-the-art methods.",
     "keywords": [],
     "themes": [
       "Human-in-the-Loop ML"
@@ -1489,7 +1489,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Digitally-supported participatory methods are often used in policy-making to develop inclusive policies by collecting and integrating citizen's opinions. However, these methods fail to capture the complexity and nuances in citizen's needs, i.e., citizens are generally unaware of other's needs, perspectives, and experiences. Consequently, policies developed with this underlying gap tend to overlook the alignment of multistakeholder perspectives, and design policies based on the optimization of high-level demographic features. In our contribution, we propose a method to enable citizens understand other's perspectives and calibrate their positions. First, we collected requirements and design principles to develop our approach by involving stakeholders and experts in policymaking in a series of workshops. Then, we conducted a crowdsourcing study with 420 participants to compare the effect of different text and images, on people's initial and final motivations and their willingness to change opinions. We observed that both influence participant's opinion change, however, the effect is more pronounced for textual modality. Finally, we discuss overarching implications of designing with empathy to mediate alignment of citizen's perspectives.",
     "keywords": [],
     "themes": [
       "Human-Centered AI"
@@ -1557,7 +1557,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Sustained adoption of automation is a problem for organizations, despite the promised benefits of automation and the propensity for organizations to expect it to transform their workplaces. To address this problem, previous work in HCI has mostly considered the perspectives and experiences of users interacting with automation technologies and has not considered the broader organizational context consisting of different stakeholders with varying needs and expectations around automation. Taking Amsterdam Airport Schiphol as a case study, we examine the challenges faced by practitioners responsible for integrating automation projects in its airside ecosystem, in an interview study conducted with 8 participants. Our findings reveal three challenges to the adoption of automation within the organization - the lack of consensus among different stakeholders, the need to adapt the technology to the specific context, and the undefined procedures required to maintain automation after implementation, that should be further addressed by the HCI community.",
     "keywords": [],
     "themes": [
       "Human-Centered AI"
@@ -1588,7 +1588,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "The environmental pressure, CO2 emissions (including embodied energy) and delivery risks of our digital infrastructures are increasing. The exponentially growing digitisation of services that drive the transition from industry 4.0 to industry 5.0 has resulted in a rising materials demand for ICT hardware manufacturing. ICT devices such as laptops and data servers are being used on average for 3 and 4–5 years respectively (van Driel (2020)), while research shows that they should last 7 years before replacement (Journal of Cleaner Production 69 (2014), 10–16). A solution is to transition from a linear to a circular economy (CE), through which materials that were previously disposed of as waste are re-entered back into product life-cycles through processes such as reuse, recycling, remanufacturing, repurposing. However, the adoption of the CE in the ICT sector is currently limited due to the lack of tools that support knowledge exchange between sustainability, ICT and technology experts in a standardised manner and the limited data availability, accessibility and interoperability needed to build such tools. Further, the already existing knowledge of the domain is fragmented into silos and the lack of a common terminology restricts its interoperability and usability. These also lead to transparency and responsibility issues along the supply chain. For many years now, the Semantic Web has been known to provide solutions to such issues in the form of ontologies. Several ontologies for the ICT, materials and CE domains have been build and successfully utilised to support processes such as predictive maintenance. However, there is a lack of a systematic analysis of the existing ontologies in these domains. Motivated by this, we present a literature survey and analysis of, but not limited to, existing ontologies for ICT devices such as laptops, materials and the CE. In addition, we discuss the need for findable, accessible, interoperable, reusable (FAIR) data in the CE, different factors such as data privacy and security that affect this and the role of ontologies.",
     "keywords": [],
     "themes": [
       "Human-in-the-Loop ML"
@@ -1680,7 +1680,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "The configuration of public open spaces plays a crucial role in shaping how different people use them. Nevertheless, our understanding of how the physical features of public open spaces influence the activities conducted within them, and the extent to which this impact differs across various individuals and population groups, is currently limited. In this study, we explore how the physical characteristics of public open spaces influence the likelihood of use among individuals, spanning different age and gender groups. By employing crowdsourcing, street-level imagery, statistical comparisons, and reflexive thematic analysis we uncover significant variations in the suitability of public open spaces for distinct activities, such as socializing or exercising. Greenspaces emerge as the preferred choice for almost all activities, whereas streets are consistently rated as the least suitable. Additionally, we identified various characteristics that influence the activities people are likely to engage in. These include the size of the space, the presence of seating, natural elements such as vegetation or water bodies, and the proximity to transport infrastructure. Surprisingly, we do not observe statistically significant differences in preferences among most age and gender groups. Overall, our study underscores the need for providing a diverse range of public open spaces tailored to accommodate different individuals, population groups, and activities.",
     "keywords": [],
     "themes": [
       "Crowd Computing"
@@ -1744,7 +1744,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "This projects captures fairness perceptions towards algorithmic decision-making processes with varying levels of explanations, human oversight, and contestability. 267 people participated in a crowdsourced study via Prolific. They were shown a loan approval scenario where an individual would get their loan request rejected. Each participant was assigned to a scenario with or without explanation, with or without human oversight, and with or without the right to contest the decision. The dataset includes: The materials used for designing the studyThe preregistration of the studyThe (anonymized) dataThe script used to analyze the data",
     "keywords": [],
     "themes": [
       "Human-Centered AI",
@@ -1774,7 +1774,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Studies have shown that feminine chatbots are perceived as warmer (e.g., likable, friendly) and imbue more humanness to a machine than masculine or gender-androgynous chatbots. As chatbots are being widely deployed in various empathic contexts (e.g., revealing sensitive personal information or facilitating charity donations), how to design the gender of chatbots remains a critical question in the empathic design community. Should designers assign feminine identities to chatbots to improve empathic reactions? In this position paper, we explore the tension between designing empathic agents and the gender assignment of chatbots and how they can relate to the design of the metaphor of the chatbots. After analyzing the problem, we discuss the possible design strategy and their trade-offs. We conclude with possible future work directions that could inform CA gender design that elicits user empathy.",
     "keywords": [],
     "themes": [
       "Human-Centered AI"
@@ -1837,7 +1837,7 @@
     "dataset": "https://doi.org/10.4121/62a7ad5f-1225-4618-bd4b-1d66a3941db3.v1",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Recent research claims that information cues and system attributes of algorithmic decision-making processes affect decision subjects’ fairness perceptions. However, little is still known about how these factors interact. This paper presents a user study (N = 267) investigating the individual and combined effects of explanations, human oversight, and contestability on informational and procedural fairness perceptions for high- and low-stakes decisions in a loan approval scenario. We find that explanations and contestability contribute to informational and procedural fairness perceptions, respectively, but we find no evidence for an effect of human oversight. Our results further show that both informational and procedural fairness perceptions contribute positively to overall fairness perceptions but we do not find an interaction effect between them. A qualitative analysis exposes tensions between information overload and understanding, human involvement and timely decision-making, and accounting for personal circumstances while maintaining procedural consistency. Our results have important design implications for algorithmic decision-making processes that meet decision subjects’ standards of justice.",
     "keywords": [],
     "themes": [
       "Human-Centered AI",
@@ -1903,7 +1903,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Handling failures in computer vision systems that rely on deep learning models remains a challenge. While an increasing number of methods for bug identification and correction are proposed, little is known about how practitioners actually search for failures in these models. We perform an empirical study to understand the goals and needs of practitioners, the workflows and artifacts they use, and the challenges and limitations in their process. We interview 18 practitioners by probing them with a carefully crafted failure handling scenario. We observe that there is a great diversity of failure handling workflows in which cooperations are often necessary, that practitioners overlook certain types of failures and bugs, and that they generally do not rely on potentially relevant approaches and tools originally stemming from research. These insights allow to draw a list of research opportunities, such as creating a library of best practices and more representative formalisations of practitioners’ goals, developing interfaces to exploit failure handling artifacts, as well as providing specialized training.",
     "keywords": [],
     "themes": [
       "Human-Centered AI",
@@ -1936,7 +1936,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Emoji have become an essential part of modern communication, helping to convey emotions and tone quickly and concisely. Emoji used by humans and Intelligent Agents (IA) have been shown to affect people's decision making intentions, suggesting they could be used to manipulate users to follow their advice. We present a mixed-methods crowdsourcing study (N = 194) that shows that adherence to an IA's recommendation and user experience are not affected by emoji when used in a positive, collaborative way. However, we demonstrate that explanations provided by an IA do increase adherence to its recommendation.",
     "keywords": [],
     "themes": [
       "Human-Centered AI"
@@ -1967,7 +1967,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Evaluating design ideas is necessary to predict their success and assess their impact early on in the process. Existing methods rely either on metrics computed by systems that are effective but subject to errors and bias, or experts’ ratings, which are accurate but expensive and long to collect. Crowdsourcing offers a compelling way to evaluate a large number of design ideas in a short amount of time while being cost-effective. Workers’ evaluation is, however, less reliable and might substantially differ from experts’ evaluation. In this work, we investigate workers’ rating behavior and compare it with experts. First, we instrument a crowdsourcing study where we asked workers to evaluate design ideas from three innovation challenges. We show that workers share similar insights with experts but tend to rate more generously and weigh certain criteria more importantly. Next, we develop a hybrid human-AI approach that combines a machine learning model with crowdsourcing to evaluate ideas. Our approach models workers’ reliability and bias while leveraging ideas’ textual content to train a machine learning model. It is able to incorporate experts’ ratings whenever available, to supervise the model training and infer worker performance. Results show that our framework outperforms baseline methods and requires significantly less training data from experts, thus providing a viable solution for evaluating ideas at scale.",
     "keywords": [],
     "themes": [
       "Human-Centered AI"
@@ -1998,7 +1998,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "City streets that feel safe and attractive motivate active travel behaviour and promote people’s well-being. However, determining what makes a street safe and attractive is a challenging task because subjective qualities of the streetscape are difficult to quantify. Existing evidence typically focuses on how different street features influence perceived safety or attractiveness, but little is known about what influences both. To fill this knowledge gap, we developed a crowdsourcing tool and conducted a study with 403 participants, who were asked to virtually navigate city streets in Frankfurt, Germany, through a sequence of street-level images, rate locations based on perceived safety and attractiveness, and explain their ratings. Our results contribute new insights regarding the key similarities and differences between the factors influencing perceived safety and attractiveness. We show that the presence of human activity is strongly related to perceived safety, whereas attractiveness is influenced primarily by aesthetic qualities, as well as the number and type of amenities along a street. Moreover, we demonstrate that the presence of construction sites and underpasses has a disproportionately negative impact on perceived safety and attractiveness, outweighing the influence of any other features. We use the results to make evidence-informed recommendations for designing safer and more attractive streets that encourage active travel modes and promote well-being.",
     "keywords": [],
     "themes": [
       "Human-Centered AI",
@@ -2033,7 +2033,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Learning to operate a complex system, such as an agile production line, can be a daunting task. The high variability in products and frequent reconfigurations make it difficult to keep documentation up-to-date and share new knowledge amongst factory workers. We introduce CLAICA, a Continuously Learning AI Cognitive Assistant that supports workers in the aforementioned scenario. CLAICA learns from (experienced) workers, formalizes new knowledge, stores it in a knowledge base, along with contextual information, and shares it when relevant. We conducted a user study with 83 participants who performed eight knowledge exchange tasks with CLAICA, completed a survey, and provided qualitative feedback. Our results provide a deeper understanding of how prior training, context expertise, and interaction modality affect the user experience of cognitive assistants. We draw on our results to elicit design and evaluation guidelines for cognitive assistants that support knowledge exchange in fast-paced and demanding environments, such as an agile production line.",
     "keywords": [],
     "themes": [
       "Human-Centered AI"
@@ -2129,7 +2129,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Machine learning (ML) practitioners and organizations are building model repositories of pre-trained models, referred to as model zoos. These model zoos contain metadata describing the properties of the ML models and datasets. The metadata serves crucial roles for reporting, auditing, ensuring reproducibility, and enhancing interpretability. Despite the growing adoption of descriptive formats like datasheets and model cards, the metadata available in existing model zoos remains notably limited. Moreover, existing formats have limited expressiveness, thus constraining the potential use of model repositories, extending their purpose beyond mere storage for pre-trained models. This paper proposes a unified metadata representation format for model zoos. We illustrate that comprehensive metadata enables a diverse range of applications, encompassing model search, reuse, comparison, and composition of ML models. We also detail the design and highlight the implementation of an advanced model zoo system built on top of our proposed metadata representation.",
     "keywords": [],
     "themes": [
       "Human-Centered AI",
@@ -2227,7 +2227,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Given a set of pre-trained Machine Learning (ML) models, can we solve complex analytic tasks that make use of those models by formulating ML inference queries? Can we mitigate different tradeoffs, e.g., high accuracy, low execution costs and memory footprint, when optimizing the queries? In this work we present different multi-objective ML inference query optimization strategies, and compare them on their usability, applicability, and complexity. We formulate Mixed-Integer-Programming-based (MIP) optimizers for ML inference queries that makes use of different objectives to find Pareto-optimal inference query plans.",
     "keywords": [],
     "themes": [
       "Human-Centered AI",
@@ -2262,7 +2262,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "High-quality data plays a vital role in developing reliable image classification models. Despite that, what makes an image difficult to classify remains an unstudied topic. This paper provides a first-of-its-kind, model-agnostic characterization of image atypicality based on human understanding. We consider the setting of image classification “in the wild”, where a large number of unlabeled images are accessible, and introduce a scalable and effective human computation approach for proactive identification and characterization of atypical images. Our approach consists of i) an image atypicality identification and characterization task that presents to the human worker both a local view of visually similar images and a global view of images from the class of interest and ii) an automatic image sampling method that selects a diverse set of atypical images based on both visual and semantic features. We demonstrate the effectiveness and cost-efficiency of our approach through controlled crowdsourcing experiments and provide a characterization of image atypicality based on human annotations of 10K images. We showcase the utility of the identified atypical images by testing state-of-the-art image classification services against such images and provide an in-depth comparative analysis of the alignment between human- and machine-perceived image atypicality. Our findings have important implications for developing and deploying reliable image classification systems.",
     "keywords": [],
     "themes": [
       "Human-Centered AI"
@@ -2325,7 +2325,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "ChatGPT and other large language models (LLMs) have proven useful in crowdsourcing tasks, where they can effectively annotate machine learning training data. However, this means that they also have the potential for misuse, specifically to automatically answer surveys. LLMs can potentially circumvent quality assurance measures, thereby threatening the integrity of methodologies that rely on crowdsourcing surveys. In this paper, we propose a mechanism to detect LLM-generated responses to surveys. The mechanism uses\"prompt injection\", such as directions that can mislead LLMs into giving predictable responses. We evaluate our technique against a range of question scenarios, types, and positions, and find that it can reliably detect LLM-generated responses with more than 93% effectiveness. We also provide an open-source software to help survey designers use our technique to detect LLM responses. Our work is a step in ensuring that survey methodologies remain rigorous vis-a-vis LLMs.",
     "keywords": [],
     "themes": [
       "Crowd Computing"
@@ -2357,7 +2357,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Maintaining a complex system, such as a modern production line, is a knowledge-intensive task. Many firms use maintenance reports as a decision support tool. However, reports are often poor quality and tedious to compile. A Conversational User Interface (CUI) could streamline the reporting process by validating the user’s input, eliciting more valuable information, and reducing the time needed. In this paper, we use a Technology Probe to explore the potential of a CUI to create instructional maintenance reports. We conducted a between-groups study (N = 24) in which participants had to replace the inner tube of a bicycle tire. One group documented the procedure using a CUI while replacing the inner tube, whereas the other group compiled a paper report afterward. The CUI was enacted by a researcher according to a set of rules. Our results indicate that using a CUI for maintenance reports saves a significant amount of time, is no more cognitively demanding than writing a report, and results in maintenance reports of higher quality.",
     "keywords": [],
     "themes": [
       "Human-Centered AI"
@@ -2390,7 +2390,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Music content annotation campaigns are common on paid crowdsourcing platforms. Crowd workers are expected to annotate complex music artifacts, a task often demanding specialized skills and expertise, thus selecting the right participants is crucial for campaign success. However, there is a general lack of deeper understanding of the distribution of musical skills, and especially auditory perception skills, in the worker population. To address this knowledge gap, we conducted a user study (N = 200) on Prolific and Amazon Mechanical Turk. We asked crowd workers to indicate their musical sophistication through a questionnaire and assessed their music perception skills through an audio-based skill test. The goal of this work is to better understand the extent to which crowd workers possess higher perceptions skills, beyond their own musical education level and self reported abilities. Our study shows that untrained crowd workers can possess high perception skills on the music elements of melody, tuning, accent, and tempo; skills that can be useful in a plethora of annotation tasks in the music domain.",
     "keywords": [],
     "themes": [
       "Crowd Computing"
@@ -2423,7 +2423,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Summary Artificial intelligence (AI) applications can profoundly affect society. Recently, there has been extensive interest in studying how scientists design AI systems for general tasks. However, it remains an open question as to whether the AI systems developed in this way can work as expected in different regional contexts while simultaneously empowering local people. How can scientists co-create AI systems with local communities to address regional concerns? This article contributes new perspectives in this underexplored direction at the intersection of data science, AI, citizen science, and human-computer interaction. Through case studies, we discuss challenges in co-designing AI systems with local people, collecting and explaining community data using AI, and adapting AI systems to long-term social change. We also consolidate insights into bridging AI research and citizen needs, including evaluating the social impact of AI, curating community datasets for AI development, and building AI pipelines to explain data patterns to laypeople.",
     "keywords": [],
     "themes": [
       "Human-Centered AI"
@@ -2454,7 +2454,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Conversational agents are being widely adopted across several domains to serve a variety of purposes ranging from providing intelligent assistance to companionship. Recent literature has shown that users develop intuitive folk theories and a metaphorical understanding of conversational agents (CAs) due to the lack of a mental model of the agents. However, investigation of metaphorical agent representation in the HCI community has mainly focused on the human level, despite non-human metaphors for agents being prevalent in the real world. We adopted Lakoff and Turner’s ‘Great Chain of Being’ framework to systematically investigate the impact of using non-human metaphors to represent conversational agents on worker engagement in crowdsourcing marketplaces. We designed a text-based conversational agent that assists crowd workers in task execution. Through a between-subjects experimental study (N = 341), we explored how different human and non-human metaphors affect worker engagement, the perceived cognitive load of workers, intrinsic motivation, and their trust in the agents. Our findings bridge the gap of how users experience CAs with non-human metaphors in the context of conversational crowdsourcing.",
     "keywords": [],
     "themes": [
       "Human-Centered AI",
@@ -2487,7 +2487,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Deep learning models for image classification suffer from dangerous issues often discovered after deployment. The process of identifying bugs that cause these issues remains limited and understudied. Especially, explainability methods are often presented as obvious tools for bug identification. Yet, the current practice lacks an understanding of what kind of explanations can best support the different steps of the bug identification process, and how practitioners could interact with those explanations. Through a formative study and an iterative co-creation process, we build an interactive design probe providing various potentially relevant explainability functionalities, integrated into interfaces that allow for flexible workflows. Using the probe, we perform 18 user-studies with a diverse set of machine learning practitioners. Two-thirds of the practitioners engage in successful bug identification. They use multiple types of explanations, e.g. visual and textual ones, through non-standardized sequences of interactions including queries and exploration. Our results highlight the need for interactive, guiding, interfaces with diverse explanations, shedding light on future research directions.",
     "keywords": [],
     "themes": [
       "Human-Centered AI",
@@ -2519,7 +2519,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Machine learning (ML) practitioners and organizations are building model zoos of pre-trained models, containing metadata describing properties of the ML models and datasets that are useful for reporting, auditing, reproducibility, and interpretability purposes. The metatada is currently not standardised; its expressivity is limited; and there is no interoperable way to store and query it. Consequently, model search, reuse, comparison, and composition are hindered. In this paper, we advocate for standardized ML model meta-data representation and management, proposing a toolkit supported to help practitioners manage and query that metadata.",
     "keywords": [],
     "themes": [
       "Human-in-the-Loop ML"
@@ -2551,7 +2551,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "In this demo we present Scriptoria, an online crowdsourcing system to tackle the complex transcription process of classical orchestral scores. The system’s requirements are based on experts’ feedback from classical orchestra members. The architecture enables an end-to-end transcription process (from PDF to MEI) using a scalable microtask design. Reliability, stability, task and UI design were also evaluated and improved through Focus Group Discussions. Finally, we gathered valuable comments on the transcription process itself alongside future additions that could greatly enhance current practices in their field.",
     "keywords": [],
     "themes": [
       "Crowd Computing"
@@ -2614,7 +2614,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Unknown unknowns represent a major challenge in reliable image recognition. Existing methods mainly focus on unknown unknowns identification, leveraging human intelligence to gather images that are potentially difficult for the machine. To drive a deeper understanding of unknown unknowns and more effective identification and treatment, this paper focuses on unknown unknowns characterization. We introduce a human-in-the-loop, semantic analysis framework for characterizing unknown unknowns at scale. We engage humans in two tasks that specify what a machine should know and describe what it really knows, respectively, both at the conceptual level, supported by information extraction and machine learning interpretability methods. Data partitioning and sampling techniques are employed to scale out human contributions in handling large data. Through extensive experimentation on scene recognition tasks, we show that our approach provides a rich, descriptive characterization of unknown unknowns and allows for more effective and cost-efficient detection than the state of the art.",
     "keywords": [],
     "themes": [
       "Human-in-the-Loop ML"
@@ -2644,7 +2644,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Hybrid crowd-machine classifiers can achieve superior performance by combining the cost-effectiveness of automatic classification with the accuracy of human judgment. This paper shows how crowd and machines can support each other in tackling classification problems. Specifically, we propose an architecture that orchestrates active learning and crowd classification and combines them in a virtuous cycle. We show that when the pool of items to classify is finite we face learning vs. exploitation trade-off in hybrid classification, as we need to balance crowd tasks optimized for creating a training dataset with tasks optimized for classifying items in the pool. We define the problem, propose a set of heuristics and evaluate the approach on three real-world datasets with different characteristics in terms of machine and crowd classification performance, showing that our active hybrid approach significantly outperforms baselines.",
     "keywords": [],
     "themes": [
       "Human-in-the-Loop ML"
@@ -2675,7 +2675,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "The automatic detection of conflictual languages (harmful, aggressive, abusive, and offensive languages) is essential to provide a healthy conversation environment on the Web. To design and develop detection systems that are capable of achieving satisfactory performance, a thorough understanding of the nature and properties of the targeted type of conflictual language is of great importance. The scientific communities investigating human psychology and social behavior have studied these languages in details, but their insights have only partially reached the computer science community. In this survey, we aim both at systematically characterizing the conceptual properties of online conflictual languages, and at investigating the extent to which they are reflected in state-of-the-art automatic detection systems. Through an analysis of psychology literature, we provide a reconciled taxonomy that denotes the ensemble of conflictual languages typically studied in computer science. We then characterize the conceptual mismatches that can be observed in the main semantic and contextual properties of these languages and their treatment in computer science works; and systematically uncover resulting technical biases in the design of machine learning classification models and the dataset created for their training. Finally, we discuss diverse research opportunities for the computer science community and reflect on broader technical and structural issues.",
     "keywords": [],
     "themes": [
       "Responsible & Value-Aligned AI"
@@ -2709,7 +2709,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Social web data increasingly complement studies of various social phenomena, especially when the availability of traditional data is limited. One such case is that of vulnerable young populations that are disengaged from employment, education, or training; usually referred to as NEETs. This paper explores the extent to which social media data and discussion websites could complement conventional sources in the study of NEETs. We focus on user-generated content posted to the dedicated r/NEET subreddit, which gathers subscribers who self-identify as NEETs. We develop and implement a data processing pipeline for the analysis of the behavioral patterns and main concerns of this social group. Our analysis of Reddit data reaches similar conclusions to official reports from governmental institutions in Europe. The paper also provides insights into health-related issues and latent interests of NEETs, not recorded in official reports and related literature.",
     "keywords": [],
     "themes": [
       "Human-Centered AI"
@@ -2742,7 +2742,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Music content annotation campaigns are common on paid crowdsourcing platforms. Crowd workers are expected to annotate complicated music artefacts, which can demand certain skills and expertise. Traditional methods of participant selection are not designed to capture these kind of domain-specific skills and expertise, and often domain-specific questions fall under the general demographics category. Despite the popularity of such tasks, there is a general lack of deeper understanding of the distribution of musical properties - especially auditory perception skills - among workers. To address this knowledge gap, we conducted a user study (N=100) on Prolific. We asked workers to indicate their musical sophistication through a questionnaire and assessed their music perception skills through an audio-based skill test. The goal of this work is to better understand the extent to which crowd workers possess higher perceptions skills, beyond their own musical education level and self reported abilities. Our study shows that untrained crowd workers can possess high perception skills on the music elements of melody, tuning, accent and tempo; skills that can be useful in a plethora of annotation tasks in the music domain.",
     "keywords": [],
     "themes": [
       "Human-Centered AI",
@@ -2775,7 +2775,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "In web search on debated topics, algorithmic and cognitive biases strongly influence how users consume and process information. Recent research has shown that this can lead to a search engine manipulation effect (SEME): when search result rankings are biased towards a particular viewpoint, users tend to adopt this favored viewpoint. To better understand the mechanisms underlying SEME, we present a pre-registered, 5 x 3 factorial user study investigating whether order effects (i.e., users adopting the viewpoint pertaining to higher-ranked documents) can cause SEME. For five different debated topics, we evaluated attitude change after exposing participants with mild pre-existing attitudes to search results that were overall viewpoint-balanced but reflected one of three levels of algorithmic ranking bias. We found that attitude change did not differ across levels of ranking bias and did not vary based on individual user differences. Our results thus suggest that order effects may not be an underlying mechanism of SEME. Exploratory analyses lend support to the presence of exposure effects (i.e., users adopting the majority viewpoint among the results they examine) as a contributing factor to users' attitude change. We discuss how our findings can inform the design of user bias mitigation strategies.",
     "keywords": [],
     "themes": [
       "Human-in-the-Loop ML",
@@ -2838,7 +2838,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Understanding complex processes that give cities their form traditionally relied primarily on the analysis of various open data statistics in relation to e.g. neighbourhood demographics, economy and mobility. However, recent years have seen an unprecedented increase in the availability and use of city-related sensors, participatory data and social multimedia. As the valuable information about urban challenges is usually encoded across multiple modalities, such as visual (e.g. panoramic, satellite and user-contributed images), text (e.g. social media and participatory data) and open data statistics, extracting this information requires effective multimedia analysis tools. This Workshop will showcase the power of multimedia computing in addressing various urban challenges, ranging from event detection and analysis, location recommendation and crowdedness estimation to more efficient handling of citizen reports and modelling and improving city liveability. In addition, it will serve as an impulse for the multimedia community to intensify research on these interesting, challenging and truly multimodal problems.",
     "keywords": [],
     "themes": [
       "Human-Centered AI"
@@ -2895,7 +2895,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "The future of crowd work has been identified to depend on worker satisfaction, but we lack a thorough understanding of how worker satisfaction can be increased in microtask crowdsourcing. Prior work has shown that one solution is to build tasks that are engaging. To facilitate engagement, two methods that have received attention in recent HCI literature are the use of video games and conversational interfaces. While these are largely different techniques, they aim for the same goal of reducing worker burden and increasing engagement in a task. On one hand, video games have huge motivation potential and translating game design elements for motivational purposes has shown positive effects. Recent work in games research has shown that the use of player avatars is effective in fostering interest, enjoyment, and other aspects pertaining to intrinsic motivation. On the other hand, conversational interfaces have been argued to have advantages over traditional GUIs due to facilitating a more human-like interaction. Conversational microtasking has recently been proposed to improve worker engagement in microtask marketplaces. The contexts of games and crowd work are underlined by the need to motivate and engage participants, yet the potential of using worker avatars to promote self-identification and improve worker satisfaction in microtask crowdsourcing has remained unexplored. Addressing this knowledge gap, we carried out a between-subject study involving 360 crowd workers. We investigated how worker avatars influence quality related outcomes of workers and their perceived experience, in conventional web and novel conversational interfaces. We equipped workers with the functionality of customizing their avatars, and selecting characterizations for their avatars, to understand whether identifying with an avatar can increase the motivation of workers. We found that using worker avatars with conversational interfaces can effectively reduce cognitive workload and increase worker retention. Our results indicate the occurrence of similarity and wishful avatar identification in crowdsourcing. Our findings have important implications in alleviating workers' perceived workload and on the design of crowdsourcing microtasks.",
     "keywords": [],
     "themes": [
       "Human-Centered AI",
@@ -2928,7 +2928,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Global interpretability is a vital requirement for image classification applications. Existing interpretability methods mainly explain a model behavior by identifying salient image patches, which require manual efforts from users to make sense of, and also do not typically support model validation with questions that investigate multiple visual concepts. In this paper, we introduce a scalable human-in-the-loop approach for global interpretability. Salient image areas identified by local interpretability methods are annotated with semantic concepts, which are then aggregated into a tabular representation of images to facilitate automatic statistical analysis of model behavior. We show that this approach answers interpretability needs for both model validation and exploration, and provides semantically more diverse, informative, and relevant explanations while still allowing for scalable and cost-efficient execution.",
     "keywords": [],
     "themes": [
       "Crowd Computing",
@@ -2992,7 +2992,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "In this paper, we explore how to efficiently combine crowdsourcing and machine intelligence for the problem of document screening, where we need to screen documents with a set of machine-learning filters. Specifically, we focus on building a set of machine learning classifiers that evaluate documents, and then screen them efficiently. It is a challenging task since the budget is limited and there are countless number of ways to spend the given budget on the problem. We propose a multi-label active learning screening specific sampling technique -- objective-aware sampling -- for querying unlabelled documents for annotating. Our algorithm takes a decision on which machine filter need more training data and how to choose unlabeled items to annotate in order to minimize the risk of overall classification errors rather than minimizing a single filter error. We demonstrate that objective-aware sampling significantly outperforms the state of the art active learning sampling strategies.",
     "keywords": [],
     "themes": [
       "Crowd Computing",
@@ -3024,7 +3024,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "In online crowd mapping, crowd workers recruited through crowdsourcing marketplaces collect geographic data. Compared to traditional mapping methods, where workers physically explore the area, the benefit of using online crowd mapping is the potential to be cost-effective and time-efficient. Previous studies have focused on mapping urban objects using street-level imagery. However, they are specifically aimed at a single type of object, and only through web platforms. To the best of our knowledge, there is still a lack of understanding on how workers perform the mapping tasks through different platforms. Aiming to fill this knowledge gap, we investigate the worker performance across web, mobile, and virtual reality platforms by designing a multi-platform system for mapping urban objects using street-level imagery with novel methods for geo-location estimation. We design a preliminary study to show the feasibility of executing online mapping tasks on three platforms. The result demonstrates that the type of task and execution platform can affect the worker performance in terms of worker accuracy, execution time, user engagement, and cognitive load.",
     "keywords": [],
     "themes": [
       "Human-Centered AI"
@@ -3056,7 +3056,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "The way pages are ranked in search results influences whether the users of search engines are exposed to more homogeneous, or rather to more diverse viewpoints. However, this viewpoint diversity is not trivial to assess. In this paper, we use existing and novel ranking fairness metrics to evaluate viewpoint diversity in search result rankings. We conduct a controlled simulation study that shows how ranking fairness metrics can be used for viewpoint diversity, how their outcome should be interpreted, and which metric is most suitable depending on the situation. This paper lays out important groundwork for future research to measure and assess viewpoint diversity in real search result rankings.",
     "keywords": [],
     "themes": [
       "Human-in-the-Loop ML",
@@ -3152,7 +3152,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Up-to-date listings of retail stores and related building functions are challenging and costly to maintain. We introduce a novel method for automatically detecting, geo-locating, and classifying retail stores and related commercial functions, on the basis of storefronts extracted from street-level imagery. Specifically, we present a deep learning approach that takes storefronts from street-level imagery as input, and directly provides the geo-location and type of commercial function as output. Our method showed a recall of 89.05% and a precision of 88.22% on a real-world dataset of street-level images, which experimentally demonstrated that our approach achieves human-level accuracy while having a remarkable run-time efficiency compared to methods such as Faster Region-Convolutional Neural Networks (Faster R-CNN) and Single Shot Detector (SSD).",
     "keywords": [],
     "themes": [
       "Human-Centered AI"
@@ -3182,7 +3182,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Crowdsourcing marketplaces have provided a large number of opportunities for online workers to earn a living. To improve satisfaction and engagement of such workers, who are vital for the sustainability of the marketplaces, recent works have used conversational interfaces to support the execution of a variety of crowdsourcing tasks. The rationale behind using conversational interfaces stems from the potential engagement that conversation can stimulate. Prior works in psychology have also shown that conversational styles can play an important role in communication. There are unexplored opportunities to estimate a worker's conversational style with an end goal of improving worker satisfaction, engagement and quality. Addressing this knowledge gap, we investigate the role of conversational styles in conversational microtask crowdsourcing. To this end, we design a conversational interface which supports task execution, and we propose methods to estimate the conversational style of a worker. Our experimental setup was designed to empirically observe how conversational styles of workers relate with quality-related outcomes. Results show that even a naive supervised classifier can predict the conversation style with high accuracy (80%), and crowd workers with an Involvement conversational style provided a significantly higher output quality, exhibited a higher user engagement and perceived less cognitive task load in comparison to their counterparts. Our findings have important implications on task design with respect to improving worker performance and their engagement in microtask crowdsourcing.",
     "keywords": [],
     "themes": [
       "Human-Centered AI",
@@ -3213,7 +3213,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "The rise in popularity of conversational agents has enabled humans to interact with machines more naturally. Recent work has shown that crowd workers in microtask marketplaces can complete a variety of human intelligence tasks (HITs) using conversational interfaces with similar output quality compared to the traditional Web interfaces. In this paper, we investigate the effectiveness of using conversational interfaces to improve worker engagement in microtask crowdsourcing. We designed a text-based conversational agent that assists workers in task execution, and tested the performance of workers when interacting with agents having different conversational styles. We conducted a rigorous experimental study on Amazon Mechanical Turk with 800 unique workers, to explore whether the output quality, worker engagement and the perceived cognitive load of workers can be affected by the conversational agent and its conversational styles. Our results show that conversational interfaces can be effective in engaging workers, and a suitable conversational style has potential to improve worker engagement.",
     "keywords": [],
     "themes": [
       "Human-Centered AI",
@@ -3311,7 +3311,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "The automatic mapping of Adverse Drug Reaction (ADR) reports from user-generated content to concepts in a controlled medical vocabulary provides valuable insights for monitoring public health. While state-of-the-art deep learning-based sequence classification techniques achieve impressive performance for medical concepts with large amounts of training data, they show their limit with long-tail concepts that have a low number of training samples. The above hinders their adaptability to the changes of layman’s terminology and the constant emergence of new informal medical terms. Our objective in this paper is to tackle the problem of normalizing long-tail ADR mentions in user-generated content. In this paper, we exploit the implicit semantics of rare ADRs for which we have few training samples, in order to detect the most similar class for the given ADR. The evaluation results demonstrate that our proposed approach addresses the limitations of the existing techniques when the amount of training data is limited.",
     "keywords": [],
     "themes": [
       "Human-Centered AI",
@@ -3342,7 +3342,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "This demo presents TickTalkTurk, a tool that can assist task requesters in quickly deploying crowdsourcing tasks in a customizable conversational worker interface. The conversational worker interface can convey task instructions, deploy microtasks, and gather worker input in a dialogue-based workflow. The interface is implemented as a Web-based application, which makes it compatible with popular crowdsourcing platforms. The tool we developed is demonstrated through two microtask crowdsourcing examples with different task types. Results reveal that our conversational worker interface is capable of better engaging workers and analyzing workers performance.",
     "keywords": [],
     "themes": [
       "Human-Centered AI",
@@ -3373,7 +3373,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Information overload is a problem many of us can relate to nowadays. The deluge of user generated content on the Internet, and the easy accessibility to a vast amount of data compounds the problem of remembering and retaining information that is consumed. To make information consumed more memorable, strategies such as note-taking have been found to be effective by augmenting human memory under specific conditions. This is based on the rationale that humans tend to recall information better if they have produced the information themselves. Previous works in online education have shown that conversational systems can improve learning effects. Although memorization is an important part of learning, the effect of conversation on human memorability remains unexplored. We aim to address this knowledge gap through an experimental study, by investigating human memorability in a classical information retrieval setup. We explore the impact of note-taking affordances and conversational interfaces on the memorability of information consumed by users. Our results show that traditional web search and note-taking have positive effects on knowledge gain, while the search engine with a conversational interface has the potential to augment long-term memorability. This work highlights the benefits of using note-taking and conversational interfaces to aid human memorability. Our findings have important implications on building information retrieval systems that cater to optimizing memorability of information consumed.",
     "keywords": [],
     "themes": [
       "Human-in-the-Loop ML"
@@ -3403,7 +3403,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "This demo presents VirtualCrowd, a simulation platform for crowdsourcing campaigns. The platform allows the design, configuration, step-by-step execution, and analysis of customized tasks, worker profiles, and crowdsourcing strategies. The platform will be demonstrated through a crowd-mapping example in two cities, which will highlight the utility of VirtualCrowd for complex crowdsourcing tasks in real world settings.",
     "keywords": [],
     "themes": [
       "Crowd Computing"
@@ -3460,7 +3460,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Dialog agents, like digital assistants and automated chat interfaces (e.g., chatbots), are becoming more and more popular as users adapt to conversing with their devices as they do with humans. In this paper, we present approaches and available tools for dialog management (DM), a component of dialog agents that handles dialog context and decides the next action for the agent to take. In this paper, we establish an overview of the field of DM, compare approaches and state-of-the-art tools in industry and research work on a set of dimensions, and identify directions for further research work.",
     "keywords": [],
     "themes": [
       "Human-Centered AI"
@@ -3492,7 +3492,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Conversational interfaces can facilitate human-computer interactions. Whether or not conversational interfaces can improve worker experience and work quality in crowdsourcing marketplaces has remained unanswered. We investigate the suitability of text-based conversational interfaces for microtask crowdsourcing. We designed a rigorous experimental campaign aimed at gauging the interest and acceptance by crowdworkers for this type of work interface. We compared Web and conversational interfaces for five common microtask types and measured the execution time, quality of work, and the perceived satisfaction of 316 workers recruited from the FigureEight platform. We show that conversational interfaces can be used effectively for crowdsourcing microtasks, resulting in a high satisfaction from workers, and without having a negative impact on task execution time or work quality.",
     "keywords": [],
     "themes": [
       "Human-Centered AI",
@@ -3556,7 +3556,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Knowledge about the organization of the main physical elements (e.g. streets) and objects (e.g. trees) that structure cities is important in the maintenance of city infrastructure and the planning of future urban interventions. In this paper, a novel approach to crowd-mapping urban objects is proposed. Our method capitalizes on strategies for generating crowdsourced object annotations from street-level imagery, in combination with object density and geo-location estimation techniques to enable the enumeration and geo-tagging of urban objects. To address both the coverage and precision of the mapped objects within budget constraints, we design a scheduling strategy for micro-task prioritization, aggregation, and assignment to crowd workers. We experimentally demonstrate the feasibility of our approach through a use case pertaining to the mapping of street trees in New York City and Amsterdam. We show that anonymous crowds can achieve high recall (up to 80%) and precision (up to 68%), with geo-location precision of approximately 3m. We also show that similar performance could be achieved at city scale, possibly with stringent budget constraints.",
     "keywords": [],
     "themes": [
       "Human-Centered AI",
@@ -3586,7 +3586,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Machine Learning (ML) is increasingly applied in real-life scenarios, raising concerns about bias in automatic decision making. We focus on bias as a notion of opinion exclusion, that stems from the direct application of traditional ML pipelines to infer subjective properties. We argue that such ML systems should be evaluated with subjectivity and bias in mind. Considering the lack of evaluation standards yet to create evaluation benchmarks, we propose an initial list of specifications to define prior to creating evaluation datasets, in order to later accurately evaluate the biases. With the example of a sentence toxicity inference system, we illustrate how the specifications support the analysis of biases related to subjectivity. We highlight difficulties in instantiating these specifications and list future work for the crowdsourcing community to help the creation of appropriate evaluation datasets.",
     "keywords": [],
     "themes": [
       "Human-Centered AI",
@@ -3620,7 +3620,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "This paper describes the system that team MYTOMORROWS-TU DELFT developed for the 2019 Social Media Mining for Health Applications (SMM4H) Shared Task 3, for the end-to-end normalization of ADR tweet mentions to their corresponding MEDDRA codes. For the first two steps, we reuse a state-of-the art approach, focusing our contribution on the final entity-linking step. For that we propose a simple Few-Shot learning approach, based on pre-trained word embeddings and data from the UMLS, combined with the provided training data. Our system (relaxed F1: 0.337-0.345) outperforms the average (relaxed F1 0.2972) of the participants in this task, demonstrating the potential feasibility of few-shot learning in the context of medical text normalization.",
     "keywords": [],
     "themes": [
       "Human-Centered AI"
@@ -3710,7 +3710,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Social media provides a timely yet challenging data source for adverse drug reaction (ADR) detection. Existing dictionary-based, semi-supervised learning approaches are intrinsically limited by the coverage and maintainability of laymen health vocabularies. In this paper, we introduce a data augmentation approach that leverages variational autoencoders to learn high-quality data distributions from a large unlabeled dataset, and subsequently, to automatically generate a large labeled training set from a small set of labeled samples. This allows for efficient social-media ADR detection with low training and re-training costs to adapt to the changes and emergence of informal medical laymen terms. An extensive evaluation performed on Twitter and Reddit data shows that our approach matches the performance of fully-supervised approaches while requiring only 25% of training data.",
     "keywords": [],
     "themes": [
       "Human-in-the-Loop ML"
@@ -3740,7 +3740,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Despite the high interest for Machine Learning (ML) in academia and industry, many issues related to the application of ML to real-life problems are yet to be addressed. Here we put forward one limitation which arises from a lack of adaptation of ML models and datasets to specific applications. We formalise a new notion of unfairness as exclusion of opinions. We propose ways to quantify this unfairness, and aid understanding its causes through visualisation. These insights into the functioning of ML-based systems hint at methods to mitigate unfairness.",
     "keywords": [],
     "themes": [
       "Human-Centered AI",
@@ -3940,7 +3940,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "A chatbot is an example of cognitive computing system that emulates human conversations to provide informational, transactional, and conversational services. Despite their widespread adoption, chatbots still su er from a number of performance issue due to limitations with their programming and training. In this paper we discuss Human Aided Chatbots, i.e. chatbots that rely on humans in the loop to operate. Human Aided Chatbots exploit human intelligence, brought for instance by crowd workers or full-time employees, to fill the gaps caused by limitations of fully automated solutions. A recent example of Human Aided Chatbots is Facebook M. To achieve broader adoption, Human Aided Chatbots must overcome a number of issues, including scalability, low-latency, and privacy. In this short paper, we discuss how Crowd Computing performed in the enterprise could help overcoming such issues. We present some recent findings in the field of Enterprise Crowd Computing, and introduce ECrowd, a platform for enterprise crowd computing designed for gathering training data for cognitive systems.",
     "keywords": [],
     "themes": [
       "Human-Centered AI",
@@ -4007,7 +4007,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Crowdworker online communities — operating in fora like mTurkForum and TurkerNation — are an important actor in microwork markets. Albeit central to market dynamics, how the behavior of crowdworker communities and the dynamics of online marketplaces influence each other is yet to be understood. To provide quantitative evidence of such influence, we performed an analysis on 6-years worth of mTurk market activities and community discussions in six fora. We investigated the nature of the relationships that exist between activities in fora, tasks published in mTurk, requesters for such tasks, and task completion speed. We validate -- and expand upon — results from previous work by showing that (i) there are differences between market demand and community activities that are specific to fora and task types; (ii) the temporal progression of HIT availability in the market is predictive of the upcoming amount of crowdworker discussions, with significant differences across fora and discussion categories; (iii) activities in fora can have a significant positive impact on the completion speed of tasks available in the market.",
     "keywords": [],
     "themes": [
       "Human-Centered AI",
@@ -4038,7 +4038,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "A chatbot is an example of a text-based conversational agent. While natural language understanding and machine learning techniques have advanced rapidly, current fully automated chatbots still struggle to serve their users well. Human intelligence, brought by crowd workers, freelancers, or even full-time employees can be embodied in the chatbot logic to fill the gaps caused by limitations of fully automated solutions. In this paper, we investigate human-aided bots, i.e., bots (including chatbots) using humans in the loop to operate. We survey industrial and academic examples of human-aided bots, discuss their differences and common patterns, and identify open research questions.",
     "keywords": [],
     "themes": [
       "Human-Centered AI"
@@ -4097,7 +4097,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Knowledge graphs (KGs) have proven to be effective to improve recommendation. Existing methods mainly rely on hand-engineered features from KGs (e.g., meta paths), which requires domain knowledge. This paper presents RKGE, a KG embedding approach that automatically learns semantic representations of both entities and paths between entities for characterizing user preferences towards items. Specifically, RKGE employs a novel recurrent network architecture that contains a batch of recurrent networks to model the semantics of paths linking a same entity pair, which are seamlessly fused into recommendation. It further employs a pooling operator to discriminate the saliency of different paths in characterizing user preferences towards items. Extensive validation on real-world datasets shows the superiority of RKGE against state-of-the-art methods. Furthermore, we show that RKGE provides meaningful explanations for recommendation results.",
     "keywords": [],
     "themes": [
       "Human-Centered AI",
@@ -4128,7 +4128,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Traditional methods for studying the activity dynamics of people and their social interactions in cities require time-consuming and resource-intensive observations and surveys. Dynamic online trails from geosocial networks (e.g. Twitter, Instagram, Flickr etc.) have been increasingly used as proxies for human activity, focusing on mobility behavior, spatial interaction, and social connectivity, among others. Social media records incorporate geo-tags, timestamps, textual components, user-profile attributes and points-of-interest (POI) features, which respectively address spatial, temporal, topical, demographic, and contextual dimensions of human activity. While the information contained in social media data is complex and high-dimensional, there is a lack of studies exploiting the combined potential of their information layers. This article introduces a framework that considers multiple dimensions (i.e. spatial, temporal, topical, and demographic) of information from social media data, and combines Geo-Self-Organizing Maps (GeoSOMs) in conjunction with contiguity-constrained hierarchical clustering, to identify homogeneous regions of social interaction in cities and, subsequently, estimate appropriate locations for new POIs. Drawing on the discovered regions, we build a Factorization Machine-based model to estimate appropriate locations for new POIs in different urban contexts. Using geo-referenced Twitter records and Foursquare data from Amsterdam, Boston, and Jakarta, we evaluate the potential of machine learning techniques in discovering knowledge about the geography of social dynamics from unstructured and high-dimensional social web data. Moreover, we demonstrate that the discovered homogeneous regions are significant predictors of new POI locations.",
     "keywords": [],
     "themes": [
       "Human-in-the-Loop ML"
@@ -4254,7 +4254,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Having a thorough understanding of energy consumption behavior is an important element of sustainability studies. Traditional sources of information about energy consumption, such as smart meter devices and surveys, can be costly to deploy, may lack contextual information or have infrequent updates. In this paper, we examine the possibility of extracting energy consumption-related information from user-generated content. More specifically, we develop a pipeline that helps identify energy-related content in Twitter posts and classify it into four categories (dwelling, food, leisure, and mobility), according to the type of activity performed. We further demonstrate a web-based application--called Social Smart Meter--that implements the proposed pipeline and enables different stakeholders to gain an insight into daily energy consumption behavior, as well as showcase it in case studies involving several world cities.",
     "keywords": [],
     "themes": [
       "Human-Centered AI"
@@ -4319,7 +4319,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "City-scale events attract large amounts of attendees in temporarily re-purposed urban environments. In this setting, the real-time measurement of the density of attendees stationing in—or moving through—the event terrain is central to applications, such as crowd management, emergency support, and quality of service evaluation. Sensing or communication infrastructures (e.g., sensor networks and mobile phones) can be deployed to estimate the number of attendees currently occupying an area. However, the adoption of these technologies is hindered by their cost or sensing resolution. There is evidence that social media data can provide a real-time and semantically rich insight into attendees’ behavior during city-scale events. Their suitability as a data source for attendees density estimation is yet to be investigated. With this paper, we aim at filling this knowledge gap by studying how micro-posts harvested from social media can be used during city-scale events to estimate the density of attendees in a given terrain. To cope with issues of temporal and spatial resolution, we propose three classes of density estimation strategies (i.e. geo-based, speed-based, and flow-based) inspired by elements of pedestrian traffic flow theory that were successfully assessed during city-scale events. We study the performance of these strategies in the context of SAIL Amsterdam 2015 (Sail) and Kingsday Amsterdam 2016 (Kingsday), two city-scale events that attracted 2 and 1.5 million of attendees in the span of five days and one day, respectively. We defined four experimental terrains for the Sail event and one for the Kingsday event, and compare density estimates from social media data with measures obtained from counting systems and Wi-Fi sensors. Results show the potential of solutions embedding elements from pedestrian traffic flow theory, which yielded estimates with strong temporal correlations with the sensor observation, and limited mean errors.",
     "keywords": [],
     "themes": [
       "Human-Centered AI"
@@ -4349,7 +4349,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "In this paper, we outline the vision of chatbots that facilitate the interaction between citizens and policy-makers at the city scale. We report the results of a co-design session attended by more than 60 participants. We give an outlook of how some challenges associated with such chatbot systems could be addressed in the future.",
     "keywords": [],
     "themes": [
       "Human-Centered AI"
@@ -4381,7 +4381,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "The \"International Workshop on Recommender Systems for Citizens\" (CitRec) is focused on a novel type of recommender systems both in terms of ownership and purpose: recommender systems run by citizens and serving society as a whole.",
     "keywords": [],
     "themes": [
       "Human-Centered AI"
@@ -4475,7 +4475,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Feature hierarchy (FH) has proven to be effective to improve recommendation accuracy. Prior work mainly focuses on the influence of vertically affiliated features (i.e. child-parent) on user-item interactions. The relationships of horizontally organized features (i.e. siblings and cousins) in the hierarchy, however, has only been little investigated. We show in real-world datasets that feature relationships in horizontal dimension can help explain and further model user-item interactions. To fully exploit FH, we propose a unified recommendation framework that seamlessly incorporates both vertical and horizontal dimensions for effective recommendation. Our model further considers two types of semantically rich feature relationships in horizontal dimension, i.e. complementary and alternative relationships. Extensive validation on four real-world datasets demonstrates the superiority of our approach against the state of the art. An additional benefit of our model is to provide better interpretations of the generated recommendations.",
     "keywords": [],
     "themes": [
       "Human-Centered AI",
@@ -4541,7 +4541,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Capturing the temporal dynamics of user preferences over items is important for recommendation. Existing methods mainly assume that all time steps in user-item interaction history are equally relevant to recommendation, which however does not apply in real-world scenarios where user-item interactions can often happen accidentally. More importantly, they learn user and item dynamics separately, thus failing to capture their joint effects on user-item interactions. To better model user and item dynamics, we present the Interacting Attention-gated Recurrent Network (IARN) which adopts the attention model to measure the relevance of each time step. In particular, we propose a novel attention scheme to learn the attention scores of user and item history in an interacting way, thus to account for the dependencies between user and item dynamics in shaping user-item interactions. By doing so, IARN can selectively memorize different time steps of a user's history when predicting her preferences over different items. Our model can therefore provide meaningful interpretations for recommendation results, which could be further enhanced by auxiliary features. Extensive validation on real-world datasets shows that IARN consistently outperforms state-of-the-art methods.",
     "keywords": [],
     "themes": [
       "Human-Centered AI"
@@ -4574,7 +4574,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Representation learning (RL) has recently proven to be effective in capturing local item relationships by modeling item co-occurrence in individual user's interaction record. However, the value of RL for recommendation has not reached the full potential due to two major drawbacks: 1) recommendation is modeled as a rating prediction problem but should essentially be a personalized ranking one; 2) multi-level organizations of items are neglected for fine-grained item relationships. We design a unified Bayesian framework MRLR to learn user and item embeddings from a multi-level item organization, thus benefiting from RL as well as achieving the goal of personalized ranking. Extensive validation on real-world datasets shows that MRLR consistently outperforms state-of-the-art algorithms.",
     "keywords": [],
     "themes": [
       "Human-Centered AI",
@@ -4669,7 +4669,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Micro-task crowdsourcing has become a successful mean to obtain high-quality data from a large crowd of diverse people. In this context, trust between all the involved actors (i.e. requesters, workers, and platform owners) is a critical factor for acceptance and long-term success. As actors have no expectation for \"real life\" meetings, thus trust can only be attributed through computer-mediated trust cues like workers qualifications and requester ratings. Such cues are often the result of technical or social assessments that are performed in isolation, considering only a subset of relevant properties, and with asynchronous and asymmetrical interactions. In this paper, we advocate for a new generation of micro-task crowdsourcing systems that pursue an holistic understanding of trust, by offering an open, transparent, privacy-friendly, and socially-aware view on the all the actors of a micro-task crowdsourcing environment.",
     "keywords": [],
     "themes": [
       "Crowd Computing",
@@ -4944,7 +4944,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Complexity is crucial to characterize tasks performed by humans through computer systems. Yet, the theory and practice of crowdsourcing currently lacks a clear understanding of task complexity, hindering the design of effective and efficient execution interfaces or fair monetary rewards. To understand how complexity is perceived and distributed over crowdsourcing tasks, we instrumented an experiment where we asked workers to evaluate the complexity of 61 real-world re-instantiated crowdsourcing tasks. We show that task complexity, while being subjective, is coherently perceived across workers; on the other hand, it is significantly influenced by task type. Next, we develop a high-dimensional regression model, to assess the influence of three classes of structural features (metadata, content, and visual) on task complexity, and ultimately use them to measure task complexity. Results show that both the appearance and the language used in task description can accurately predict task complexity. Finally, we apply the same feature set to predict task performance, based on a set of 5 years-worth tasks in Amazon MTurk. Results show that features related to task complexity can improve the quality of task performance prediction, thus demonstrating the utility of complexity as a task modeling property.",
     "keywords": [],
     "themes": [
       "Crowd Computing",
@@ -5681,7 +5681,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Recent years witnessed an explosion in the number and variety of data crowdsourcing initiatives. From OpenStreetMap to Amazon Mechanical Turk, developers and practitioners have been striving to create user interfaces able to effectively and efficiently support the creation, exploration, and analysis of crowdsourced information. The extensive usage of crowdsourcing techniques brings a major change of paradigm with respect to traditional user interface for data collection and exploration, as effectiveness, speed, and interaction quality concerns play a central role in supporting very demanding incentives, including monetary ones. The First International Workshop on User Interfaces for Crowdsourcing and Human Computation (CrowdUI 2014), co-located with the AVI 2014 conference, brought together researchers and practitioners from a wide range of areas interested in discussing the user interaction challenges posed by crowdsourcing systems.",
     "keywords": [],
     "themes": [
       "Human-Centered AI",
@@ -5937,7 +5937,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Model-driven engineering relies on collections of models, which are the primary artifacts for software development. To enable knowledge sharing and reuse, models need to be managed within repositories, where they can be retrieved upon users’ queries. This article examines two different techniques for indexing and searching model repositories, with a focus on Web development projects encoded in a domain-specific language. Keyword-based and content-based search (also known as query-by-example) are contrasted with respect to the architecture of the system, the processing of models and queries, and the way in which metamodel knowledge can be exploited to improve search. A thorough experimental evaluation is conducted to examine what parameter configurations lead to better accuracy and to offer an insight in what queries are addressed best by each system.",
     "keywords": [],
     "themes": [
       "Human-in-the-Loop ML"
@@ -6590,7 +6590,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "The Cubrik Project is an Integrated Project of the 7th Framework Programme that aims at contributing to the multimedia search domain by opening the architecture of multimedia search engines to the integration of open source and third party content annotation and query processing components, and by exploiting the contribution of humans and communities in all the phases of multimedia search, from content processing to query processing and relevance feedback processing. The CUBRIK presentation will showcase the architectural concept and scientific background of the project and demonstrate an initial scenario of human-enhanced content and query processing pipeline.",
     "keywords": [],
     "themes": [
       "Human-in-the-Loop ML"
@@ -7190,7 +7190,7 @@
     "dataset": "",
     "slides": "",
     "video": "",
-    "abstract": "",
+    "abstract": "Rich Internet Applications (RIAs) have introduced powerful novel functionalities into the Web architecture, borrowed from client-server and desktop applications. The resulting platforms allow designers to improve the user's experience, by exploiting client-side data and computation, bidirectional client-server communication, synchronous and asynchronous events, and rich interface widgets. However, the rapid evolution of RIA technologies challenges the Model-Driven Development methodologies that have been successfully applied in the past decade to traditional Web solutions. This paper illustrates an evolutionary approach for incorporating a wealth of RIA features into an existing Web engineering methodology and notation. The experience demonstrates that it is possible to model RIA application requirements at a high-level using a platform-independent notation, and generate the client-side and server-side code automatically. The resulting approach is evaluated in terms of expressive power, ease of use, and implementability.",
     "keywords": [],
     "themes": [
       "Human-in-the-Loop ML"
