@@ -1,4 +1,4 @@
-import { useState, useMemo, useCallback } from 'react';
+import { useState, useMemo, useCallback, type ReactNode } from 'react';
 import { useSearchParams } from 'react-router-dom';
 import { motion, AnimatePresence } from 'framer-motion';
 import {
@@ -13,6 +13,8 @@ import publicationsData from '@/data/publications.json';
 import type { Publication } from '@/types';
 import { useDocumentTitle } from '@/hooks/useDocumentTitle';
 
+type Facet = 'year' | 'type' | 'theme' | 'author';
+
 const TYPE_LABELS: Record<string, string> = {
   journal: 'Journal', conference: 'Conference', workshop: 'Workshop',
   book_chapter: 'Book Chapter', chapter: 'Book Chapter', book: 'Book',
@@ -23,6 +25,15 @@ const TYPE_LABELS: Record<string, string> = {
 function formatVenue(pub: Publication): string {
   const short = [pub.venueShort || pub.venue, pub.year].filter(Boolean).join(' ');
   return pub.venueLong && pub.venueLong !== pub.venueShort ? `${short} (${pub.venueLong})` : short;
+}
+
+/** A dropdown option with its result count; empty options are disabled unless currently selected. */
+function FacetItem({ value, count, selected, children }: { value: string; count: number; selected: string; children: ReactNode }) {
+  return (
+    <SelectItem value={value} count={count} disabled={count === 0 && value !== selected}>
+      {children}
+    </SelectItem>
+  );
 }
 
 function CopyBibtex({ bibtex }: { bibtex: string }) {
@@ -66,16 +77,20 @@ export default function PublicationsPage() {
   }, [pubs]);
   const [authorFilter, setAuthorFilter] = useState<string>('all');
 
-  const filtered = useMemo(() => {
-    let result = [...pubs];
-    if (featuredOnly) result = result.filter(p => p.featured);
-    if (yearFilter !== 'all') result = result.filter(p => p.year === Number(yearFilter));
-    if (typeFilter !== 'all') result = result.filter(p => p.type === typeFilter);
-    if (themeFilter !== 'all') result = result.filter(p => p.themes.includes(themeFilter));
-    if (authorFilter !== 'all') result = result.filter(p => p.authors.includes(authorFilter));
+  /**
+   * Whether a publication passes every active filter, optionally ignoring one
+   * dropdown. Ignoring a dropdown gives the counts shown next to its options:
+   * "how many results would I get if I picked this", given the other filters.
+   */
+  const matches = useCallback((p: Publication, ignore?: Facet) => {
+    if (featuredOnly && !p.featured) return false;
+    if (ignore !== 'year' && yearFilter !== 'all' && p.year !== Number(yearFilter)) return false;
+    if (ignore !== 'type' && typeFilter !== 'all' && p.type !== typeFilter) return false;
+    if (ignore !== 'theme' && themeFilter !== 'all' && !p.themes.includes(themeFilter)) return false;
+    if (ignore !== 'author' && authorFilter !== 'all' && !p.authors.includes(authorFilter)) return false;
     if (query) {
       const q = query.toLowerCase();
-      result = result.filter(p =>
+      return (
         p.title.toLowerCase().includes(q) ||
         p.abstract.toLowerCase().includes(q) ||
         p.venue.toLowerCase().includes(q) ||
@@ -85,13 +100,35 @@ export default function PublicationsPage() {
         p.keywords.some(k => k.toLowerCase().includes(q))
       );
     }
+    return true;
+  }, [query, yearFilter, typeFilter, themeFilter, authorFilter, featuredOnly]);
+
+  const counts = useMemo(() => {
+    const tally = (facet: Facet, keysOf: (p: Publication) => Array<string | number>) => {
+      const c = new Map<string, number>();
+      for (const p of pubs) {
+        if (!matches(p, facet)) continue;
+        for (const k of keysOf(p)) c.set(String(k), (c.get(String(k)) ?? 0) + 1);
+      }
+      return (key: string | number) => c.get(String(key)) ?? 0;
+    };
+    return {
+      year: tally('year', p => [p.year]),
+      type: tally('type', p => [p.type]),
+      theme: tally('theme', p => p.themes),
+      author: tally('author', p => p.authors),
+    };
+  }, [pubs, matches]);
+
+  const filtered = useMemo(() => {
+    const result = pubs.filter(p => matches(p));
     result.sort((a, b) => {
       if (sortBy === 'year-desc') return b.year - a.year;
       if (sortBy === 'title') return a.title.localeCompare(b.title);
       return 0;
     });
     return result;
-  }, [pubs, query, yearFilter, typeFilter, themeFilter, authorFilter, sortBy, featuredOnly]);
+  }, [pubs, matches, sortBy]);
 
   const downloadAllBibtex = useCallback(() => {
     const bibtex = filtered.filter(p => p.bibtex).map(p => p.bibtex).join('\n\n');
@@ -147,7 +184,7 @@ export default function PublicationsPage() {
             <SelectTrigger className="w-28" aria-label="Filter by year"><SelectValue placeholder="Year" /></SelectTrigger>
             <SelectContent>
               <SelectItem value="all">All years</SelectItem>
-              {years.map(y => <SelectItem key={y} value={String(y)}>{y}</SelectItem>)}
+              {years.map(y => <FacetItem key={y} value={String(y)} count={counts.year(y)} selected={yearFilter}>{y}</FacetItem>)}
             </SelectContent>
           </Select>
 
@@ -155,7 +192,7 @@ export default function PublicationsPage() {
             <SelectTrigger className="w-36" aria-label="Filter by type"><SelectValue placeholder="Type" /></SelectTrigger>
             <SelectContent>
               <SelectItem value="all">All types</SelectItem>
-              {types.map(t => <SelectItem key={t} value={t}>{TYPE_LABELS[t] || t}</SelectItem>)}
+              {types.map(t => <FacetItem key={t} value={t} count={counts.type(t)} selected={typeFilter}>{TYPE_LABELS[t] || t}</FacetItem>)}
             </SelectContent>
           </Select>
 
@@ -163,7 +200,7 @@ export default function PublicationsPage() {
             <SelectTrigger className="w-44" aria-label="Filter by theme"><SelectValue placeholder="Theme" /></SelectTrigger>
             <SelectContent>
               <SelectItem value="all">All themes</SelectItem>
-              {themes.map(t => <SelectItem key={t} value={t}>{t}</SelectItem>)}
+              {themes.map(t => <FacetItem key={t} value={t} count={counts.theme(t)} selected={themeFilter}>{t}</FacetItem>)}
             </SelectContent>
           </Select>
 
@@ -171,7 +208,7 @@ export default function PublicationsPage() {
             <SelectTrigger className="w-48" aria-label="Filter by co-author"><SelectValue placeholder="Co-author" /></SelectTrigger>
             <SelectContent>
               <SelectItem value="all">All authors</SelectItem>
-              {coAuthors.map(a => <SelectItem key={a} value={a}>{a}</SelectItem>)}
+              {coAuthors.map(a => <FacetItem key={a} value={a} count={counts.author(a)} selected={authorFilter}>{a}</FacetItem>)}
             </SelectContent>
           </Select>
 
